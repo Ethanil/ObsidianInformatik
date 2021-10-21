@@ -46,6 +46,9 @@ $$\{x\in M:x\notin N\}$$
 $$M\times N$$
 Bedeutet kartesisches Produkt von M und N, also [[Tupel]] von Elementen, wobei der erste Teil des Tupels ein Element von M und der zweite Teil des Tupels ein Element von N ist.
 $$\{(x,y):x\in M,y\in N\}$$
+### Potenzmenge
+Die Potenzmenge von $M$ besteht aus den Mengen, die mit den Elementen von $M$ gebildet werden können.
+$$M:=\{1,0\}\text{ }P(M)=\{\emptyset,\{1\},\{0\},\{1,0\}\}$$
 ## Mengengesetze
 ### Kommutativgesetz
 $$A\cup B=B\cup A\text{ und }A\cap B=B\cap A$$

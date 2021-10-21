@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relationen.md",
+            "file": "Ordnungsrelation.md",
             "mode": "preview"
           }
         }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationen.md",
+                "file": "Ordnungsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,8 @@
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
+    "Ordnungsrelation.md",
+    "Mengen.md",
     "Relationen.md",
     "GIt-Token.md",
     "test.md",
@@ -127,8 +130,6 @@
     "FopBot.md",
     "FOP.md",
     "Day Planners/Day Planner-20211021.md",
-    "Day Planners/Day Planner-20211020.md",
-    "Templates/Day Planner Template.md",
-    "Aussagen und ihre Verknüpfungen.md"
+    "Day Planners/Day Planner-20211020.md"
   ]
 }
