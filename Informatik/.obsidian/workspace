@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Relationen.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b3c44f768bb659c9",
@@ -116,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
