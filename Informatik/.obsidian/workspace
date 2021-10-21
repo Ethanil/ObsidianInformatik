@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "short.md",
+            "file": "test.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "short.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,8 @@
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
-    "short.md",
     "test.md",
+    "short.md",
     "Relationen.md",
     "FopBot.md",
     "FOP.md",
