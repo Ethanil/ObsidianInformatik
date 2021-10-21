@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,8 +121,8 @@
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
     "Ordnungsrelation.md",
-    "Mengen.md",
     "Relationen.md",
+    "Mengen.md",
     "GIt-Token.md",
     "test.md",
     "short.md",

@@ -45,7 +45,3 @@ Wenn eine Relation eine Äquivalenzrelation ist benutzt man
 $$x\sim y\text{ statt }xRy$$
 
 ## [[Ordnungsrelation]]
-Eine Relation ist eine Ordnungsrelation, wenn sie [[Relationen#Reflexiv|reflexiv]], [[Relationen#Antisymmetrisch|antisymmetrisch]] und [[Relationen#Transitiv|transitiv]] ist.
-Wenn eine Relation eine Ordnungsrelation ist benutzt man
-$$x\le y\text{ statt }xRy$$
-Gibt es auf $X$ eine Ordnungsrelation, so heißt $X$ *partiell gerodnet*
