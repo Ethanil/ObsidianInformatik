@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
+            "file": "GIt-Token.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "GIt-Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
+    "GIt-Token.md",
     "test.md",
     "short.md",
     "Relationen.md",
@@ -128,7 +129,6 @@
     "Day Planners/Day Planner-20211021.md",
     "Day Planners/Day Planner-20211020.md",
     "Templates/Day Planner Template.md",
-    "Aussagen und ihre Verknüpfungen.md",
-    "Mengen.md"
+    "Aussagen und ihre Verknüpfungen.md"
   ]
 }
