@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordnungsrelation.md",
-            "mode": "preview"
+            "file": "Relationen.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungsrelation.md",
+                "file": "Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,8 @@
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
-    "Ordnungsrelation.md",
     "Relationen.md",
+    "Ordnungsrelation.md",
     "Mengen.md",
     "GIt-Token.md",
     "test.md",

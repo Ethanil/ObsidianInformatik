@@ -36,4 +36,5 @@ Wenn wir ein Wörterbuch $X$ haben, welches total geordnet ist und wir daraus ei
 c) Sei $(X\le)$ partiell geordnet. 
 Schreibweise:
 $$x\ge y\text{, falls }y\le x$$
+$$x\textless y\text{, falls }x\le y\text{ und }x\neq y$$
 $$x\textgreater y\text{, falls }y\textless x$$
