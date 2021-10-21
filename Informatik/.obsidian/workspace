@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
+            "file": "short.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "10105b8650b6e136",
   "lastOpenFiles": [
+    "short.md",
     "test.md",
     "Relationen.md",
     "FopBot.md",
@@ -128,7 +129,6 @@
     "Day Planners/Day Planner-20211020.md",
     "Templates/Day Planner Template.md",
     "Aussagen und ihre Verknüpfungen.md",
-    "Mengen.md",
-    "For-Schleife.md"
+    "Mengen.md"
   ]
 }
