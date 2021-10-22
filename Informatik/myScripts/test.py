@@ -1,11 +1,19 @@
 from mdutils.mdutils import MdUtils
 import os
 import datetime
-#mdFile = MdUtils(file_name='Example_Markdown',title='Markdown File Example')
-#mdFile.create_md_file()
 stream=os.popen('gcalcli --calendar uni --nocolor  agenda')
 output=stream.read()
-today = datetime.datetime.now().strftime("%a %b %d")
+todaysDate=datetime.datetime.now()
+today = todaysDate.strftime("%a %b %d")
 nextDay = output[1:].split('\n\n')[0]
 if today in nextDay:
-    print(nextDay[len(today):])
+    markdown = nextDay[len(today):].split('\n')
+    for line in markdown:
+        print("[ ] "+line.strip().replace("          "," "))
+
+table="""| Gestern                                           | Morgen                                           |
+| ------------------------------------------------- | ------------------------------------------------ |
+| [[Day Planner-{}]] | [[Day Planner-{}]] |
+""".format(todaysDate+datetime.timedelta(days=-1).strftime("%Y%m%d"),todaysDate+datetime.timedelta(days=1).strftime("%Y%m%d"))
+mdFile = MdUtils(file_name='Day Planner-'+todaysDate.strftime("%Y%m%d"),title=todaysDate.strftime("%d.%m.%Y"))
+#mdFile.create_md_file()
