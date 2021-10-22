@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211022.md",
-            "mode": "preview"
+            "file": "Ikea Stores.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211022.md",
+                "file": "Ikea Stores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "5a81d97b4bdb2b47",
   "lastOpenFiles": [
+    "Ikea Stores.md",
     "Day Planners/Day Planner-20211022.md",
     "Day Planners/Day Planner-20211021.md",
     "Day Planners/Day Planner-20211020.md",
@@ -127,7 +128,6 @@
     "myScripts/Example_Markdown.md",
     "test.md",
     "Variable.md",
-    "Relationen.md",
-    "Ordnungsrelation.md"
+    "Relationen.md"
   ]
 }
