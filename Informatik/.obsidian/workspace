@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211022.md",
+            "file": "Mengen.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211022.md",
+                "file": "Mengen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "c4db9e7384a160d1",
   "lastOpenFiles": [
+    "Mengen.md",
     "Day Planners/Day Planner-20211022.md",
     "Äquivalenzrelation.md",
     "Relationen.md",
@@ -139,7 +140,6 @@
     "Supremum.md",
     "Infimum.md",
     "Ikea Stores.md",
-    "Datenspeicher.md",
-    "Templates/Day Planner Template.md"
+    "Datenspeicher.md"
   ]
 }
