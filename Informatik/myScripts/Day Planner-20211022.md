@@ -4,5 +4,4 @@
   
 | Gestern | Morgen |  
 | ------- | ------ |  
-| [[Day Planner-20211021]] | [[Day Planner-20211023]] |  
-[ ] 8:00  AFE Vorlesung
+| [[Day Planner-20211021]] | [[Day Planner-20211023]] |
