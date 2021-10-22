@@ -38,3 +38,19 @@ Schreibweise:
 $$x\ge y\text{, falls }y\le x$$
 $$x\textless y\text{, falls }x\le y\text{ und }x\neq y$$
 $$x\textgreater y\text{, falls }y\textless x$$
+
+## größtes/kleinstes Element
+Sei $(X\le)$ partiell geordnet $Y\subseteq X$
+- $g\in X$ heißt größtes Element von $X$, falls $\forall x\in X:x\le g$
+- $k\in X$ heißt kleinstes Element von $X$, falls $\forall x\in X: k\le x$
+- $s\in X$ heißt obere Schranke von $Y$, falls $\forall y\in Y:y\le s$
+- $t \in X$ heißt untere Schranke von $Y$, falls $\forall y\in Y:y\ge t$
+```ad-example
+title:Beispiel
+collapse:true
+bei einer Menge $X:= \mathbb{N}$ ist $Y$ bspw. $\{1,2,3\}$
+$g$ ist damit $\infty$
+$k$ ist 0 (oder 1, je nachdem wie $\mathbb{N}$ definiert wird)
+$s$ ist $\forall x\in X:x\ge 3$
+$t$ ist 0
+```
