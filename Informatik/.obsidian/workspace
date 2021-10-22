@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ce817979663d8298",
+        "id": "aa92f65c6541ccf2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "myScripts/Day Planner-20211022.md",
+            "file": "myScripts/Day Planner-20211024.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myScripts/Day Planner-20211022.md",
+                "file": "myScripts/Day Planner-20211024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ce817979663d8298",
+  "active": "aa92f65c6541ccf2",
   "lastOpenFiles": [
+    "myScripts/Day Planner-20211024.md",
+    "myScripts/Day Planner-20211023.md",
     "myScripts/Day Planner-20211022.md",
+    "myScripts/Day Planner-20211026.md",
     "myScripts/Day Planner-20211025.md",
     "Day Planners/Day Planner-20211022.md",
-    "Ikea Stores.md",
     "Day Planners/Day Planner-20211021.md",
     "Day Planners/Day Planner-20211020.md",
-    "Templates/Day Planner Template.md",
-    "myScripts/Example_Markdown.md",
-    "test.md",
-    "Variable.md"
+    "Ikea Stores.md",
+    "Templates/Day Planner Template.md"
   ]
 }
