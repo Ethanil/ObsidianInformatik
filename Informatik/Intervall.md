@@ -8,4 +8,9 @@ Wenn ein Intervall exklusiv einer Zahl ist, dann heißt dies, dass diese NICHT d
 Notieren kann man dies entweder mit einer zu der Zahl hin geschlossenen, eckigen Klammer oder einer zu der Zahl hin offenen, runden Klammer
 ```ad-example
 title:Beispiel
-$
+$x\in\mathbb{N}$
+$$A=[1,4]=[1,2,3,4]$$
+$$B=]1,4]=(1,4]=[2,3,4]$$
+$$C=[1,4[=[1,4)=[1,2,3]$$
+$$D=]1,4[=(1,4)=[2,3]$$
+```

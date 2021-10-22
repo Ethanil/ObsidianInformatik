@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ordnungsrelation.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Intervall.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intervall.md",
+                "file": "Ordnungsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7bddc8206feca374",
+  "active": "c4db9e7384a160d1",
   "lastOpenFiles": [
-    "Intervall.md",
     "Ordnungsrelation.md",
+    "Intervall.md",
     "Supremum.md",
     "Infimum.md",
     "Ikea Stores.md",
