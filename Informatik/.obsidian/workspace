@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4968d2be91cbdb7c",
+        "id": "5a81d97b4bdb2b47",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211020.md",
-            "mode": "source"
+            "file": "Day Planners/Day Planner-20211022.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211020.md",
+                "file": "Day Planners/Day Planner-20211022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,16 +115,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4968d2be91cbdb7c",
+  "active": "5a81d97b4bdb2b47",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20211020.md",
-    "Templates/Day Planner Template.md",
-    "Day Planners/Day Planner-20211021.md",
     "Day Planners/Day Planner-20211022.md",
+    "Day Planners/Day Planner-20211021.md",
+    "Day Planners/Day Planner-20211020.md",
     "myScripts/Day Planner-20211022.md",
+    "Templates/Day Planner Template.md",
     "myScripts/Example_Markdown.md",
     "test.md",
     "Variable.md",
