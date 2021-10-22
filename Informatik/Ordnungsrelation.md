@@ -61,7 +61,24 @@ Sei $g_1, g_2\in X$ größte Elemente von $X$
 - $g_2$ ist ein größtes Element von $X$, also ist  $\forall x\in X:x\le g_2$
 - Antisymetrie: $g_1\le g_2\wedge g_2\le g_1\Rightarrow g_1=g_2$
 Bei dem kleinsten Element ist dies Analog
-## Supremum und [[Infinitum]]
+## [[Supremum]] und [[Infimum]]
 Sei $(X,\le)$ partiell gerodnet, $Y\subseteq X$
 - Hat $S:=\{s\in X:s\text{ obere Schranken von Y}\}$
 	- kleinstes Element $s_0$, so heißt dieses [[Supremum]] von $Y$
+- Hat $T:=\{t\in X:t\text{ untere Schranken von Y}\}$
+	- größtes Element $t_0$, so heißt dieses [[Infimum]] von $Y$
+- Gilt $s_0=sup\text{ }Y\in Y$, so heißt $s_0$ Maximum von $Y$
+	$$s_0=max\text{ }Y$$
+- Gilt $t_0=inf\text{ }Y\in Y$, so heißt $t_0$ Minimum von $Y$
+	$$s_0=min\text{ }Y$$
+```ad-example
+title:Beispiel:
+$X=\mathbb{R}, Y=(-2,5]$
+$S=\{x\in\mathbb{R}:x\le y\text{ für alle }y\in Y\}$
+$=[5,\infty]$
+$sup\text{ }Y=5=max\text{ }Y$
+$T=\{x\in\mathbb{R}:x\le y\text{ für alle }y\in Y\}$
+$=[-\infty,-2]$
+$inf\text{ }Y=-2=min\text{ }Y$
+Bei der Menge Y, die aus den Zahlen exklusiv -2 bis inklusiv 5 ([[Intervall]]) besteht, die Teil von der Reellen Zahlen ist, ist die untere Schranke 5 bis unendlich und das maximum 5(die kleinste obere Schranke). die unteren Schranken sind -Unendlich bis -2, wobei es kein minimum gibt, da $-2\notin Y$
+```

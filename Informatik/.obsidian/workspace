@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Infinitum.md",
+            "file": "Ordnungsrelation.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7bddc8206feca374",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intervall.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinitum.md",
+                "file": "Intervall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +129,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c4db9e7384a160d1",
+  "active": "7bddc8206feca374",
   "lastOpenFiles": [
-    "Infinitum.md",
+    "Intervall.md",
     "Ordnungsrelation.md",
     "Supremum.md",
+    "Infimum.md",
     "Ikea Stores.md",
     "Datenspeicher.md",
     "Templates/Day Planner Template.md",
     "GIt-Token.md",
     "Day Planners/Day Planner-20211022.md",
-    "Day Planners/Day Planner-20211025.md",
-    "Day Planners/Day Planner-20211026.md"
+    "Day Planners/Day Planner-20211025.md"
   ]
 }
