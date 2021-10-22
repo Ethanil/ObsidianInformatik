@@ -4,8 +4,9 @@ import datetime
 stream=os.popen('gcalcli --calendar uni --nocolor  agenda')
 output=stream.read()
 todaysDate=datetime.datetime.now()
+todaysDate = datetime.datetime(2021,10,25)
 today = todaysDate.strftime("%a %b %d")
-nextDay = output[1:].split('\n\n')[0]
+nextDay = output[1:].split('\n\n')[1]
 mdFile = MdUtils(file_name='Day Planner-'+todaysDate.strftime("%Y%m%d"),title=todaysDate.strftime("%d.%m.%Y"))
 mdFile.new_line("| Gestern | Morgen |")
 mdFile.new_line("| ------- | ------ |")
@@ -16,3 +17,4 @@ if today in nextDay:
         line = "[ ] "+line.strip().replace("          "," ")
         mdFile.new_line(line)
 mdFile.create_md_file()
+
