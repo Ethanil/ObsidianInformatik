@@ -49,8 +49,15 @@ Sei $(X\le)$ partiell geordnet $Y\subseteq X$
 title:Beispiel
 collapse:true
 bei einer Menge $X:= \mathbb{N}$ ist $Y$ bspw. $\{1,2,3\}$
-$g$ ist damit $\infty$
+$g$ hat damit kein größtes Element
 $k$ ist 0 (oder 1, je nachdem wie $\mathbb{N}$ definiert wird)
 $s$ ist $\forall x\in X:x\ge 3$
 $t$ ist 0
 ```
+## Es gibt nur maximal ein größtes/kleinstes Element
+Sei $(X,\le)$ partiell geordnet, dann hat $X$ höchstens ein größtes/kleinstes Element. Niemals mehr als 1.
+Sei $g_1, g_2\in X$ größte Elemente von $X$
+- $g_1$ ist ein größtes Element von $X$, also ist $\forall x\in X:x\le g_1$
+- $g_2$ ist ein größtes Element von $X$, also ist  $\forall x\in X:x\le g_2$
+- Antisymetrie: $g_1\le g_2\wedge g_2\le g_1\Rightarrow g_1=g_2$
+Bei dem kleinsten Element ist dies Analog
