@@ -73,6 +73,7 @@ Sei $(X,\le)$ partiell gerodnet, $Y\subseteq X$
 	$$s_0=min\text{ }Y$$
 ```ad-example
 title:Beispiel:
+collapse:true
 $X=\mathbb{R}, Y=(-2,5]$
 $S=\{x\in\mathbb{R}:x\le y\text{ für alle }y\in Y\}$
 $=[5,\infty]$
@@ -81,8 +82,10 @@ $T=\{x\in\mathbb{R}:x\le y\text{ für alle }y\in Y\}$
 $=[-\infty,-2]$
 $inf\text{ }Y=-2=min\text{ }Y$
 Bei der Menge Y, die aus den Zahlen exklusiv -2 bis inklusiv 5 ([[Intervall]]) besteht, die Teil von der Reellen Zahlen ist, ist die untere Schranke 5 bis unendlich und das maximum 5(die kleinste obere Schranke). die unteren Schranken sind -Unendlich bis -2, wobei es kein minimum gibt, da $-2\notin Y$
-
----
+```
+```ad-example
+title:Beispiel:
+collapse:true
 - $X=\mathbb{Q}, Y=\mathbb[Q_+]:=\{q\in\mathbb{Q}:q\textgreater 0\}$ mit üblichem $\le$
 	- hat kein größtes Element(da es unendlich viele Zahlen gibt)
 	- hat kein kleinstes Element(da wir die Zahlen größer 0 genommen haben, können wir uns unendlich klein an 0 annähern)
@@ -90,15 +93,29 @@ Bei der Menge Y, die aus den Zahlen exklusiv -2 bis inklusiv 5 ([[Intervall]]) b
 	- hat untere Schranken, da es in $\mathbb{Q}$ Zahlen $\le 0$ gibt.
 		- $inf(\mathbb{Q_+})=0$
 			- kein Minimum, da $0\notin\mathbb{Q_+}$
-
----
+```
+```ad-example
+title:Beispiel:
+collapse:true
 - $X=\mathbb{Q}, Y:=\{x\in\mathbb{Q}:x^2\textless 2\}$
 	- $Y$ beinhalten also alle Zahlen zwischen $-\sqrt{2}$ und $\sqrt{2}$
 	- $Y$ hat viele obere Schranken
 	- $Y$ hat aber *KEIN* Supremum, da es keine kleinste obere Schranke gibt, da  $\sqrt{2}$ irrational ist und dadurch ist $\sqrt{2}\notin\mathbb{Q}$.
 	- $Y$ hat auch viele untere Schranken
 	- $Y$ hat auch kein Infimum aus dem selben Grund
-	
----
-- In $x\in\mathbb{N}$ mit üblichem $\le$ hat jede Teilmeng
+```
+```ad-example
+title:Beispiel:
+collapse:true
+- In $x\in\mathbb{N}$ mit üblichem $\le$ 
+	- hat jede Teilmenge $\neq\emptyset$ ein Minimum
+	- hat jede endliche Teilmenge $\neq\emptyset$ ein Maximum
+```
+```ad-example
+title:Beispiel:
+collapse:true
+- Sei $X=(P(\{0,1,2\}),\subseteq),Y=\{\emptyset,\{0\}\}$
+	- obere Schranken: $\{0\},\{0,1\},\{0,2\},\{0,1,2\}$
+	- $sup(Y)=max(Y)=\{0\}$
+	- nur $\{\empt\}
 ```
