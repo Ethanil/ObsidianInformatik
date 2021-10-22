@@ -39,25 +39,6 @@ collapse: true
 Kann die Relation mit und ohne "Zwischenschritt" gelten, beispielsweise bei Zahlen die kleiner sind 1<2 ; 2<3 ; 1<3
 ```
 
-## Äquivalenzrelation
-Eine Relation ist eine Äquivalentrelation, wenn sie [[Relationen#Reflexiv|reflexiv]], [[Relationen#Symmetrisch|symmetrisch]] und [[Relationen#Transitiv|transitiv]] ist.
-Wenn eine Relation eine Äquivalenzrelation ist benutzt man
-$$x\sim y\text{ statt }xRy$$
+## [[Äquivalenzrelation]]
 
 ## [[Ordnungsrelation]]
-
-## 
-Sei $(X\le)$ partiell georndet $y\subseteq X$
-a) $g\in X$ heißt gröstes Element von $X$, falls $\forall x\in X:x\le g$
-$k\in X$ heißt kleinstes Element von $X$, falls $\forall x\in X: k\le x$
-b) $s\in X$ heißt obere Schranke von $Y$, falls $\forall y\in Y: y\le s$
-$t\in X$ heißt untere Schranke von $Y$, falls $\forall y\in Y: t\le y$
-```ad-example
-title:Beispiel
-collapse:true
-$X$ sind bspw. alle $\mathbb{R}$ und $Y:=\{0,1,2,3,4\}$
-$g$ ist nicht bestimmbar
-$k$ ist 0
-$s$ sind alle Zahlen $\ge$ 4
-$t$ ist 0
-```

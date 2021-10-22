@@ -117,5 +117,6 @@ collapse:true
 - Sei $X=(P(\{0,1,2\}),\subseteq),Y=\{\emptyset,\{0\}\}$
 	- obere Schranken: $\{0\},\{0,1\},\{0,2\},\{0,1,2\}$
 	- $sup(Y)=max(Y)=\{0\}$
-	- nur $\{\empt\}
+	- nur $\emptyset$ ist die untere Schranke
+	- $inf(Y)=min(Y)=\emptyset$
 ```

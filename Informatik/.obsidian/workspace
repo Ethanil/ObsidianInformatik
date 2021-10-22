@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordnungsrelation.md",
-            "mode": "source"
+            "file": "Äquivalenzrelation.md",
+            "mode": "preview"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungsrelation.md",
+                "file": "Äquivalenzrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,8 @@
   },
   "active": "c4db9e7384a160d1",
   "lastOpenFiles": [
+    "Äquivalenzrelation.md",
+    "Relationen.md",
     "Ordnungsrelation.md",
     "Intervall.md",
     "Supremum.md",
@@ -138,8 +140,6 @@
     "Ikea Stores.md",
     "Datenspeicher.md",
     "Templates/Day Planner Template.md",
-    "GIt-Token.md",
-    "Day Planners/Day Planner-20211022.md",
-    "Day Planners/Day Planner-20211025.md"
+    "GIt-Token.md"
   ]
 }
