@@ -12,13 +12,13 @@
     ],
     [
       "echo",
-      "echo \"das ist ein template\""
+      "node /home/ethanil/Documents/Unikram/Informatik/myScripts/test.mjs"
     ]
   ],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
-  "shell_path": "/bin/bash",
+  "shell_path": "",
   "user_scripts_folder": "myScripts",
   "enable_folder_templates": true,
   "folder_templates": [

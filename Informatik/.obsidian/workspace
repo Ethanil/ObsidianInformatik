@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10105b8650b6e136",
+        "id": "0a4900f5b66190b3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Relationen.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10105b8650b6e136",
+  "active": "0a4900f5b66190b3",
   "lastOpenFiles": [
+    "myScripts/Example_Markdown.md",
+    "test.md",
+    "Variable.md",
+    "Templates/Day Planner Template.md",
     "Relationen.md",
     "Ordnungsrelation.md",
     "Mengen.md",
     "GIt-Token.md",
-    "test.md",
     "short.md",
-    "FopBot.md",
-    "FOP.md",
-    "Day Planners/Day Planner-20211021.md",
-    "Day Planners/Day Planner-20211020.md"
+    "FopBot.md"
   ]
 }
