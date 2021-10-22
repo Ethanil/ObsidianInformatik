@@ -61,3 +61,7 @@ Sei $g_1, g_2\in X$ größte Elemente von $X$
 - $g_2$ ist ein größtes Element von $X$, also ist  $\forall x\in X:x\le g_2$
 - Antisymetrie: $g_1\le g_2\wedge g_2\le g_1\Rightarrow g_1=g_2$
 Bei dem kleinsten Element ist dies Analog
+## Supremum und [[Infinitum]]
+Sei $(X,\le)$ partiell gerodnet, $Y\subseteq X$
+- Hat $S:=\{s\in X:s\text{ obere Schranken von Y}\}$
+	- kleinstes Element $s_0$, so heißt dieses [[Supremum]] von $Y$
