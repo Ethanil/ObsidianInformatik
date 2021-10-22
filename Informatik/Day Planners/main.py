@@ -7,7 +7,7 @@ def createTitle(date,timestring="%Y%m%d"):
 
 
 todaysDate = datetime.datetime.now()
-stream = os.popen('gcalcli --calendar uni --nocolor  agenda '+todaysDate.strftime("%m/%d/%Y")+" "+(todaysDate+datetime.timedelta(days=5)).strftime("%m/%d/%Y")+"T00:00")
+stream = os.popen('gcalcli --calendar uni --nocolor  agenda '+todaysDate.strftime("%m/%d/%Y")+" "+(todaysDate+datetime.timedelta(days=5)).strftime("%m/%d/%Y")+"T00:00 --military")
 output = stream.read()
 today = todaysDate.strftime("%a %b %d")
 calendarAgenda = output[1:].split('\n\n')
@@ -15,7 +15,6 @@ nextCalendarEntry = calendarAgenda.pop(0)
 # print(nextCalendarEntry)
 nextAgendaDate = datetime.datetime.strptime(nextCalendarEntry[:10]+datetime.datetime.now().strftime("%Y"), '%a %b %d%Y')
 # print(os.path.dirname(os.path.realpath(__file__)))
-print("test")
 for x in range(5):
     currentDay = todaysDate+datetime.timedelta(days=x)
     if not os.path.isfile(os.path.dirname(os.path.realpath(__file__))+"/"+createTitle(currentDay)+".md"):

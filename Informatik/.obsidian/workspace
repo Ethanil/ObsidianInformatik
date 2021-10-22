@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "35ecaafde8c75a1c",
+    "id": "9e1bc3ea53fbca01",
     "type": "split",
     "children": [
       {
-        "id": "21275f65bce2df56",
+        "id": "37cc477c0065b19b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20211026.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20211026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b3c44f768bb659c9",
@@ -113,17 +118,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "21275f65bce2df56",
+  "active": "37cc477c0065b19b",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20211026.md",
     "Day Planners/Day Planner-20211025.md",
+    "Day Planners/Day Planner-20211022.md",
+    "Day Planners/Day Planner-20211021.md",
+    "Day Planners/Day Planner-20211023.md",
     "Day Planners/Day Planner-20211024.md",
+    "Day Planners/Day Planner-20211020.md",
     "Day Planner-20211026.md",
     "Day Planner-20211025.md",
-    "myScripts/Day Planner-20211024.md",
-    "myScripts/Day Planner-20211023.md",
-    "myScripts/Day Planner-20211022.md",
-    "myScripts/Day Planner-20211026.md",
-    "myScripts/Day Planner-20211025.md"
+    "myScripts/Day Planner-20211024.md"
   ]
 }
