@@ -7,11 +7,8 @@
         "id": "c4db9e7384a160d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mengen.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -80,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mengen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +127,15 @@
   },
   "active": "c4db9e7384a160d1",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211023.md",
+    "Day Planners/Day Planner-20211026.md",
+    "Day Planners/Day Planner-20211027.md",
+    "Day Planner-20211028.md",
+    "Day Planners/Day Planner-20211025.md",
+    "Day Planners/Day Planner-20211024.md",
     "Mengen.md",
     "Day Planners/Day Planner-20211022.md",
     "Äquivalenzrelation.md",
-    "Relationen.md",
-    "Ordnungsrelation.md",
-    "Intervall.md",
-    "Supremum.md",
-    "Infimum.md",
-    "Ikea Stores.md",
-    "Datenspeicher.md"
+    "Relationen.md"
   ]
 }
