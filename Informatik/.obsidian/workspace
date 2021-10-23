@@ -7,10 +7,18 @@
         "id": "7bddc8206feca374",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "438e2068f16d7c45",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "ganzen Zahlen.md",
-            "mode": "source"
+            "file": "Abbildungen.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ganzen Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +127,15 @@
   },
   "active": "7bddc8206feca374",
   "lastOpenFiles": [
-    "ganzen Zahlen.md",
-    "natürlichen Zahlen.md",
-    "Day Planners/Day Planner-20211023.md",
-    "Day Planners/Day Planner-20211024.md",
-    "Day Planners/Day Planner-20211025.md",
-    "Intervall.md",
-    "Day Planner-20211028.md",
+    "Kontrollstruktur.md",
+    "Natürlichen Zahlen.md",
     "Mengen.md",
-    "Templates/default Template.md",
-    "Ordnungsrelation.md"
+    "Abbildungen.md",
+    "Reellen Zahlen.md",
+    "Mathe I Grundlagen.md",
+    "FOP Übungsblatt 01.md",
+    "FOP Übungsblatt 00.md",
+    "Ganzen Zahlen.md",
+    "Irrationalen Zahlen.md"
   ]
 }

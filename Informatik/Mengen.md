@@ -1,9 +1,9 @@
 # Mengen
 ## Beispiele
-- $\mathbb{N:}$Die Menge der [[natürlichen Zahlen]]
-- $\mathbb{Z:}$Die Menge der [[ganzen Zahlen]]
-- $\mathbb{Q:}$Die Menge der [[rationalen Zahlen]]
-- $\mathbb{R:}$Die Menge der [[reellen Zahlen]]
+- $\mathbb{N:}$Die Menge der [[Natürlichen Zahlen]]
+- $\mathbb{Z:}$Die Menge der [[Ganzen Zahlen]]
+- $\mathbb{Q:}$Die Menge der [[Rationalen Zahlen]]
+- $\mathbb{R:}$Die Menge der [[Reellen Zahlen]]
 
 ## Mengen definieren
 Bei kleinen Mengen können wir Mengen definieren, indem wir ihre Elemente einfach aufzählen:

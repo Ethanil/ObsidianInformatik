@@ -15,7 +15,7 @@
 ## kurzes Intermezzo 
 ### Programme und Prozesse
 - Ein [[Programm]] ist ein [[Quellcode]] und der übersetzte [[Code]]
-- Quelltext ist beispielsweise das unter [[FOP Übungsblatt 00 Java und FopBot#Mögliche Befehle für den Roboter]] geschriebene
+- Quelltext ist beispielsweise das unter [[FOP Übungsblatt 00#Mögliche Befehle für den Roboter]] geschriebene
 - [[Java]] Quelltext wird ind Java Bytecode übersetzt
 - Die Ausführung des übersetzten Programms nennt man Prozess
 	- Mehrere Prozesse können zeitgleich vom selben Programm ausgeführt werden
@@ -43,7 +43,7 @@ Diese dürfen nur aus folgendem bestehen:
 - 0-9
 - "\_" und "$"
 - **BEACHTE**: Das erste Zeichen darf keine Ziffer sein!
-- **BEACHTE**: nicht verwendbar sind, wie in [[FOP Übungsblatt 00 Java und FopBot#Schlüsselwörter]] schon gesagt, diese Begriffe und
+- **BEACHTE**: nicht verwendbar sind, wie in [[FOP Übungsblatt 00#Schlüsselwörter]] schon gesagt, diese Begriffe und
 	- false
 	- true
 	- null
