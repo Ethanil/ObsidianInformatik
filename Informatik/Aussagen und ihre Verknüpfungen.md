@@ -17,10 +17,8 @@ $n \ge 2$
 $n*k=m$
 ```
 ## Quantoren
-### Allquantor
-$\forall x \in M:E(x)$ -> für ALLE ($\forall$) $x$ in $M$ gilt: $x$ hat die Eigenschaft $E$
-### Existenzquantor
-$\exists x \in M:E(x)$ -> es exisistieren ($\exists$) $x$ in $M$ für die gilt: $x$ hat die Eigenschaft $E$
+### [[Allquantor]]
+### [[Existenzquantor]]
 
 ---
 Es gibt unendlich viele Primzahlen würde man folgender Art und Weise aufschreiben:
@@ -37,27 +35,12 @@ Mithilfe dieser Junktoren kann man aus 2 Aussagen eine neue Aussage treffen
 | f   | w   | f           | w         | w                | w        |                      |
 | f   | f   | f           | f         | w                | w        |                      |
 
-### Konjunktion(und)
-$$A\wedge B$$
-Die beiden Aussagen, welche mit dem Junktor `und` verbunden wurden ergeben genau dann wahr, wenn beide Aussagen wahr sind. Wenn eine, oder beide der Aussagen falsch ist ist das ergbnis falsch.
-### Disjunktion(oder)
-$$A\vee B$$
-Die beiden Aussagen, welche mit dem Junktor `oder` verbunden wurden ergeben genau dann wahr, wenn mindestens eine der beiden Aussagen wahr ist. Wenn beide Aussagen falsch sind, ist das Ergebnis auch falsch.
-### Negation(nicht)
-$$\neg A$$
-Mithilfe von `nicht` kann man den Wahrheitswert von einer Aussage ändern. Eine Wahre Aussage wird falsch, eine falsche Aussage wird wahr.
-### Implikation
-$$A\Rightarrow B$$
-Dieser Junktor kann auch dargestellt werden mit
-$$A\Rightarrow B\equiv\neg A \vee B$$
-Die Aussage $A$ impliziert $B$ ist also nur dann falsch, wenn $A$ wahr ist und $B$ falsch.
-### Äquivalenz
-$$A\Leftrightarrow B$$
-Diese Aussage kann man auch ausdrücken durch:
-$$A\Leftrightarrow B\equiv A\Rightarrow B \wedge B\Rightarrow A$$
-### LOGISCHE ÄQUIVALENZ
-$$\equiv$$
-Logische Äquivalenz beschreibt eine Gleichheit beider Seiten, sie sind also äquivalent zueinander.
+### [[Konjunktion(und)]]
+### [[Disjunktion(oder)]]
+### [[Negation(nicht)]]
+### [[Implikation]]
+### [[Äquivalenzrelation]]
+## #[[Logische Äquivalenz]]
 #### de Morgan'sche Regel:
 $$\neg(A\vee B)\Leftrightarrow(\neg A)\wedge (\neg B)\equiv\neg A\wedge\neg B$$
 $$\neg(A\wedge B)\Leftrightarrow(\neg A)\vee (\neg B)\equiv\neg A\vee\neg B$$

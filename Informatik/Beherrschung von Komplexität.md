@@ -69,3 +69,8 @@ Hierarchie heißt wir zerlegen das komplexe Modell in Module
 Jedes Modul hat eine *unabhängige* Funktion, die durch eine *Schnittstelle* miteinander kommunizieren
 ### Regularität (Regularity)
 Regularität heißt, wir können die einzelnen Module prinzipiell *austauschen*
+
+# Schnitt
+$$M\cap N$$
+Bedeutet der Schnitt von M und N, also alle Elemente die in M und in N vorkommen
+$$\{x\in G:x\in M\wedge x\in N\}$$

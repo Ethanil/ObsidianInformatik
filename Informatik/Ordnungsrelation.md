@@ -81,7 +81,7 @@ $sup\text{ }Y=5=max\text{ }Y$
 $T=\{x\in\mathbb{R}:x\le y\text{ für alle }y\in Y\}$
 $=[-\infty,-2]$
 $inf\text{ }Y=-2=min\text{ }Y$
-Bei der Menge Y, die aus den Zahlen exklusiv -2 bis inklusiv 5 ([[Intervall]]) besteht, die Teil von der Reellen Zahlen ist, ist die untere Schranke 5 bis unendlich und das maximum 5(die kleinste obere Schranke). die unteren Schranken sind -Unendlich bis -2, wobei es kein minimum gibt, da $-2\notin Y$
+Bei der Menge Y, die aus den Zahlen exklusiv -2 bis inklusiv 5 ( [[Intervall]] ) besteht, die Teil von der Reellen Zahlen ist, ist die untere Schranke 5 bis unendlich und das maximum 5(die kleinste obere Schranke). die unteren Schranken sind -Unendlich bis -2, wobei es kein minimum gibt, da $-2\notin Y$
 ```
 ```ad-example
 title:Beispiel:

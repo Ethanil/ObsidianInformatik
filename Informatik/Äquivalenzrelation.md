@@ -17,3 +17,8 @@ $$\Leftrightarrow\exists k\in\mathbb{Z}:b-a=k*n$$
 Alternative Schreibweise:
 $$a\sim_n b:a\equiv b(mod\text{ }n)$$
 Sprich: "a kongruent b modulo n"
+
+# Äquivalenz
+$$A\Leftrightarrow B$$
+Diese Aussage kann man auch ausdrücken durch:
+$$A\Leftrightarrow B\equiv A\Rightarrow B \wedge B\Rightarrow A$$
