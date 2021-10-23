@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intervall.md",
-            "mode": "preview"
+            "file": "ganzen Zahlen.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "natür",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intervall.md",
+                "file": "ganzen Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "7bddc8206feca374",
   "lastOpenFiles": [
+    "ganzen Zahlen.md",
+    "natürlichen Zahlen.md",
+    "Day Planners/Day Planner-20211023.md",
+    "Day Planners/Day Planner-20211024.md",
+    "Day Planners/Day Planner-20211025.md",
     "Intervall.md",
     "Day Planner-20211028.md",
-    "natürlichen Zahlen.md",
     "Mengen.md",
     "Templates/default Template.md",
-    "Ordnungsrelation.md",
-    "Relationen.md",
-    "Äquivalenzrelation.md",
-    "Logische Äquivalenz.md",
-    "Aussagen und ihre Verknüpfungen.md"
+    "Ordnungsrelation.md"
   ]
 }
