@@ -7,8 +7,11 @@
         "id": "c4db9e7384a160d1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Äquivalenzrelation.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -77,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Äquivalenzrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +131,15 @@
   },
   "active": "c4db9e7384a160d1",
   "lastOpenFiles": [
+    "Äquivalenzrelation.md",
+    "Day Planners/Day Planner-20211024.md",
     "Day Planners/Day Planner-20211023.md",
-    "Day Planners/Day Planner-20211026.md",
     "Day Planners/Day Planner-20211027.md",
+    "Relationen.md",
+    "Mathe I Grundlagen.md",
+    "Day Planners/Day Planner-20211026.md",
     "Day Planner-20211028.md",
     "Day Planners/Day Planner-20211025.md",
-    "Day Planners/Day Planner-20211024.md",
-    "Mengen.md",
-    "Day Planners/Day Planner-20211022.md",
-    "Äquivalenzrelation.md",
-    "Relationen.md"
+    "Mengen.md"
   ]
 }

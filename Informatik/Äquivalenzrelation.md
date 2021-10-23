@@ -15,5 +15,5 @@ $$a\sim_n b\Leftrightarrow b-a\text{ ist Vielfaches von }n\text{ ist}$$
 $$\Leftrightarrow\exists k\in\mathbb{Z}:b-a=k*n$$
 
 Alternative Schreibweise:
-$$a\sim_n b:a\equiv b(mod n)$$
+$$a\sim_n b:a\equiv b(mod\text{ }n)$$
 Sprich: "a kongruent b modulo n"
