@@ -56,3 +56,14 @@ Bei geschachtelten For-Schleifen müssen die Zähl-Indizes **UNTERSCHIEDLICH** s
 Die hier dargestellte geschachtelte For-Schleife kann bspw. verwendet werden um ein Rechteck mit den Seitenlängen von 4x6 auszufüllen 
 - mithilfe von [[break]] kann die Schleife unterbrochen werden
 - mithilfe von [[continue]] können wir den "Rest" der Schleife überspringen, fangen dann wieder von vorne an
+
+## for-each-Schleife
+Wenn wir alle Elemente eines [[Arrays]] durchlaufen möchten, müssen wir das nicht unbedingt mit einer "normalen" For-Schleife machen. Wir können eine sogenannte For-Each Schleife benutzen:
+```java
+int[] liste = new int[] {0,1,2,3,4,5};
+int sum = 0;
+for(int element : liste){
+	sum += element;
+}
+System.out.println(sum);
+```

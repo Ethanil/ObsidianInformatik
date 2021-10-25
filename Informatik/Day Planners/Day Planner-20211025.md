@@ -11,15 +11,15 @@ Day Planner-25.10.2021
 - [x] 11:15 BREAK
 - [x] 11:30 FOP Lernzeit
 - [x] 12:00 BREAK
-- [ ] 12:15 FOP Lernzeit
+- [x] 12:15 FOP Lernzeit
 - [ ] 12:45 BREAK
-- [ ] 13:45 FOP Lernzeit
-- [ ] 14:15 BREAK
-- [ ] 14:30 FOP Lernzeit
-- [ ] 15:00 BREAK
-- [ ] 15:15 FOP Lernzeit
-- [ ] 15:45 BREAK
-- [ ] 16:00 FOP Lernzeit
-- [ ] 16:30 BREAK
-- [ ] 16:45 FOP Lernzeit
-- [ ] 17:15 END
+- [ ] 13:15 FOP Lernzeit
+- [ ] 13:45 BREAK
+- [ ] 14:00 FOP Lernzeit
+- [ ] 14:30 BREAK
+- [ ] 14:45 FOP Lernzeit
+- [ ] 15:15 BREAK
+- [ ] 15:30 FOP Lernzeit
+- [ ] 16:00 BREAK
+- [ ] 16:15 FOP Lernzeit
+- [ ] 16:45 END

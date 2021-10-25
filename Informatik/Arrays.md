@@ -27,3 +27,8 @@ for(int i 0; i<robots.length;i++){
 }
 ```
 Die beiden Code-snippets führen die selben Anweisungen aus.
+Wenn wir allerdings bspw. die Länge des Arrays ändern, funktioniert der untere Code immer noch für alle Robots, der obere müsste allerdings jedes mal um 2 weitere Zeilen angepasst werden.
+### [[For-Schleife#for-each-Schleife|For-each-Schleife]]
+### Fallstricke
+#### Unmögliche Indizes
+Wir müssen bei der Verwendung von Arrays darauf achten, dass wir weder negative, noch zu große Arrays ansprechen.
