@@ -1,4 +1,4 @@
-# Grundlagen
+# [[Mathe I]] Grundlagen
 ## [[Aussagen und ihre Verknüpfungen]]
 ## [[Mengen]]
 ## [[Relationen]]
