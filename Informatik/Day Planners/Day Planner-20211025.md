@@ -17,7 +17,7 @@ Day Planner-25.10.2021
 - [x] 13:45 BREAK
 - [x] 14:00 FOP Lernzeit
 - [x] 14:30 BREAK
-- [ ] 14:45 FOP Lernzeit
+- [x] 14:45 FOP Lernzeit
 - [ ] 15:15 BREAK
 - [ ] 15:30 FOP Lernzeit
 - [ ] 16:00 BREAK

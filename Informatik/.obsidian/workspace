@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I Hausübung 01.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schnitt",
+                "query": "schranke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,14 +124,14 @@
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
     "Mathe I Hausübung 01.md",
-    "Mengen.md",
-    "Teilmengenbeziehungen.md",
+    "Ordnungsrelation.md",
     "Schnittmenge.md",
+    "Mengen.md",
+    "Vereinigung.md",
+    "Teilmengenbeziehungen.md",
     "Potenzmenge.md",
     "FOP Übungsblatt 02.md",
     "FOP Übungsblatt 00.md",
-    "FOP Übungsblatt 01.md",
-    "Mathe I.md",
-    "Mathe I Grundlagen.md"
+    "FOP Übungsblatt 01.md"
   ]
 }

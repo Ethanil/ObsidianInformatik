@@ -17,4 +17,13 @@
 2. Sei $A=\{\{1\},2\}$ und $P(A)$ ihre Potenzmenge. Welche der folgenden Aussagen sind wahr?
 	- $P(A)=\{\emptyset,\{\{1\}\},\{2\},\{\{1\},2\}\}$, siehe [[Potenzmenge]]
 		- $\{\{1\}\}\in P(A)$ : $\{\{1\}\}$ ist Teil von der Potenzmenge von A
-		- $\{\{2\}\}\subseteq P(A)$, da $\{\{2\}\}$ eine [[Teilmengenbeziehungen|Teilmenge]] von P(A) ist.
+		- $\{\{2\}\}\subseteq P(A)$, da $\{\{2\}\}$ eine [[Teilmengenbeziehungen|Teilmenge]] von $P(A)$ ist (Jedes (also das eine) Element kommt in $P(A)$ vor)).
+		- $\{\{1\},2\}\in P(A)$, siehe oben
+		- $A\cup\{2\}=A$, da die [[Vereinigung]] von $A$ und $\{2\}$ $A$ ist, da $\{2\}$ schon in $A$ vorkommt
+		- $A\cap\{\{2\}\}=\emptyset$, da es keine [[Schnittmenge]] von $A$ und $\{\{2\}\}$ gibt.
+		- $A\backslash\{\{1\}\}=\{2\}$, da die [[Mengendifferenz]] von $A$ und $\{\{1\}\}$ nur noch aus $\{2\}$ besteht.
+	3. Wir betrachten im Folgenden Teilmengen der partiell geordneten Mengen $(\mathbb{R},\le)$ und $(P(\{0,1,2\}),\subseteq)$
+	- $A=\{x\in\mathbb{R}:x\textless 0\}$
+		- $A$ hat *kein* Supremum, da es keine [[Ordnungsrelation#größtes kleinstes Element|Obere Schranke]] hat
+		- $A$ hat *kein* Maximum, da es kein Supremum hat
+		- $A$ hat ein Infimum (0)
