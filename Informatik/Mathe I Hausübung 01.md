@@ -47,3 +47,10 @@
 		- $inf(F)=\emptyset$ ist falsch
 		- $inf(F)=\{\emptyset\}$ ist falsch
 		- $F$ hat ein Maximum, es ist $\{2\}$
+
+## H1.2
+1. Bestimmen Sie, ob die folgenden Relationen [[Reflexiv]], [[Symmetrisch]], [[antisymmetrisch]] bzw. [[transitiv]] sind. Welche der Relationen sind [[Äquivalenzrelation]]? Welche sind [[Ordnungsrelation]]
+	- $R_1=\{(x,y)\in\mathbb{N}\times\mathbb{N}|x+y\text{ ist gerade}\}$
+	- $R_2=\{(x,y)\in\mathbb{N}\times\mathbb{N}|x+2\le y\}$
+	- $R_3=\{(A,B)\in P(\mathbb{N})\times P(\mathbb{N})|A\subseteq B\}$
+2. 
