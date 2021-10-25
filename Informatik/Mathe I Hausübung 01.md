@@ -27,3 +27,12 @@
 		- $A$ hat *kein* Supremum, da es keine [[Ordnungsrelation#größtes kleinstes Element|Obere Schranke]] hat
 		- $A$ hat *kein* Maximum, da es kein Supremum hat
 		- $A$ hat ein Infimum (0)
+	- $B=\{ \frac{1}{n} :n\in\mathbb{N}\}$
+		- $B$ hat ein Maximum (1)
+		- $B$ hat *kein* Minimum (keine untere Schranke)
+		- $B$ 100 ist ene obere Schranke ($100\textgreater1$)
+	- $C=\{1,3,5,7,10\}$
+		- $max(C)=10$ ist wahr, da 10 das Maximum von C ist
+		- $C$ ist beschränkt (es gibt sowohl untere (0), als auch obere (100) Schranken)
+		- $inf(C)=0$ ist falsch, da die größte untere Schranke 1 ist und somit $inf(C)=1$.
+	- $D=\{\{2\},\{1,2\}\}$
