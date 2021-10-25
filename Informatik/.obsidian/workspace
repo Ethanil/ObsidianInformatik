@@ -7,8 +7,11 @@
         "id": "7bddc8206feca374",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Arrays.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -60,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -78,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +131,15 @@
   },
   "active": "7bddc8206feca374",
   "lastOpenFiles": [
+    "Arrays.md",
+    "FOP Übungsblatt 02.md",
+    "FOP Übungsblatt 00.md",
     "Day Planners/Day Planner-20211025.md",
     "Day Planners/Day Planner-20211026.md",
     "Day Planners/Day Planner-20211027.md",
     "Day Planners/Day Planner-20211028.md",
     "Day Planners/Day Planner-20211029.md",
     "Kontrollstruktur.md",
-    "Natürlichen Zahlen.md",
-    "Mengen.md",
-    "Abbildungen.md",
-    "Reellen Zahlen.md"
+    "Natürlichen Zahlen.md"
   ]
 }
