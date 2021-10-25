@@ -6,7 +6,7 @@ Day Planner-25.10.2021
 | ------- | ------ |  
 | [[Day Planner-20211024]] | [[Day Planner-20211026]] |  
 - [x] 10:00 FOP Lernzeit
-- [ ] 10:30 BREAK
+- [x] 10:30 BREAK
 - [ ] 10:45 FOP Lernzeit
 - [ ] 11:15 BREAK
 - [ ] 11:30 FOP Lernzeit
