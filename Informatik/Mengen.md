@@ -17,7 +17,7 @@ $G$ ist die Grundmenge aus der die Elemente der Menge $M$ ausgesondert werden so
 ## [[Teilmengenbeziehungen]]
 ## Verhältnis von Mengen untereinander
 ### [[Vereinigung]]
-### [[Schnitt]]
+### [[Schnittmenge]]
 ### [[Komplement]]
 ### [[Mengendifferenz]]
 ### [[kartesisches Produkt]]

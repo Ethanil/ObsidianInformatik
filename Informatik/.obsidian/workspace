@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I.md",
-            "mode": "source"
+            "file": "Mathe I Hausübung 01.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natür",
+                "query": "schnitt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I.md",
+                "file": "Mathe I Hausübung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
-    "Mathe I.md",
-    "Mathe I Grundlagen.md",
     "Mathe I Hausübung 01.md",
-    "Arrays.md",
-    "For-Schleife.md",
-    "Day Planners/Day Planner-20211025.md",
+    "Mengen.md",
+    "Teilmengenbeziehungen.md",
+    "Schnittmenge.md",
+    "Potenzmenge.md",
     "FOP Übungsblatt 02.md",
     "FOP Übungsblatt 00.md",
-    "Day Planners/Day Planner-20211026.md",
-    "Day Planners/Day Planner-20211027.md"
+    "FOP Übungsblatt 01.md",
+    "Mathe I.md",
+    "Mathe I Grundlagen.md"
   ]
 }
