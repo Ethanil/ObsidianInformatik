@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Transitiv.md",
-            "mode": "preview"
+            "file": "Mathe I Treffpunkt 01.md",
+            "mode": "source"
           }
         }
       }
@@ -39,17 +39,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reflex",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transitiv.md",
+                "file": "Mathe I Treffpunkt 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Mathe I Treffpunkt 01.md",
+    "Mathe I.md",
+    "Mathe I Hausübung 01.md",
     "Transitiv.md",
     "Relationen.md",
     "Symmetrisch.md",
     "Äquivalenzrelation.md",
     "Ordnungsrelation.md",
-    "Mathe I Hausübung 01.md",
     "Aussagen und ihre Verknüpfungen.md",
-    "Allquantor.md",
-    "Existenzquantor.md",
-    "Implikation.md"
+    "Allquantor.md"
   ]
 }
