@@ -1,5 +1,8 @@
 # [[Mathe I]] Hausübung 01
 ![[Uebung01-Aufgaben.pdf]]
+## Gruppenübung
+1. Überzeugen Sie sich mit Hilfe von Wahrheitstafeln von den folgenden Zusammenhängen:
+	- Es gilt $\neg(A\wedge B)\Leftrightarrow(\neg A)\vee(\neg B)$ und $\neg(A\vee B)
 ## H1.1
 1.  
 	- Es gibt eine kleinste natürliche Zahl 

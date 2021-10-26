@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I Hausübung 01.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
