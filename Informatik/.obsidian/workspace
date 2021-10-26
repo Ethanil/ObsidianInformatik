@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aussagen und ihre Verknüpfungen.md",
+            "file": "Transitiv.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schranke",
+                "query": "reflex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aussagen und ihre Verknüpfungen.md",
+                "file": "Transitiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +121,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Transitiv.md",
+    "Relationen.md",
+    "Symmetrisch.md",
+    "Äquivalenzrelation.md",
+    "Ordnungsrelation.md",
+    "Mathe I Hausübung 01.md",
     "Aussagen und ihre Verknüpfungen.md",
     "Allquantor.md",
     "Existenzquantor.md",
-    "Implikation.md",
-    "Mathe I Hausübung 01.md",
-    "Reflexiv.md",
-    "Ordnungsrelation.md",
-    "Infimum.md",
-    "Schnittmenge.md",
-    "Mengen.md"
+    "Implikation.md"
   ]
 }
