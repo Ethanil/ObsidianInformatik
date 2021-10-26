@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I Treffpunkt 01.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -116,12 +116,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
     "Mathe I Treffpunkt 01.md",
+    "Templates/Wahrheitstabelle.md",
     "Existenzquantor.md",
     "Allquantor.md",
     "Mathe I.md",
@@ -129,7 +129,6 @@
     "Transitiv.md",
     "Relationen.md",
     "Symmetrisch.md",
-    "Äquivalenzrelation.md",
-    "Ordnungsrelation.md"
+    "Äquivalenzrelation.md"
   ]
 }
