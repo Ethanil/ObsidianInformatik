@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I Hausübung 01.md",
+            "file": "Aussagen und ihre Verknüpfungen.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I Hausübung 01.md",
+                "file": "Aussagen und ihre Verknüpfungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Aussagen und ihre Verknüpfungen.md",
+    "Existenzquantor.md",
+    "Implikation.md",
+    "Allquantor.md",
     "Mathe I Hausübung 01.md",
     "Reflexiv.md",
     "Ordnungsrelation.md",
     "Infimum.md",
     "Schnittmenge.md",
-    "Mengen.md",
-    "Vereinigung.md",
-    "Teilmengenbeziehungen.md",
-    "Potenzmenge.md",
-    "FOP Übungsblatt 02.md"
+    "Mengen.md"
   ]
 }

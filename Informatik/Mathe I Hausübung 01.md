@@ -5,22 +5,37 @@
 	- Es gilt $\neg(A\wedge B)\Leftrightarrow(\neg A)\vee(\neg B)$ und $\neg(A\vee B)\Leftrightarrow(\neg A)\wedge(\neg B)$
 
 
-	| A   | B   | $\neg A$ | $\neg B$ | $A\wedge B$ | $\neg (A\wedge B)$ | $\neg A\vee\neg B$ |
+	| $A$   | $B$   | $\neg A$ | $\neg B$ | $A\wedge B$ | $\neg (A\wedge B)$ | $(\neg A)\vee(\neg B)$ |
 	| --- | --- | -------- | -------- | ----------- | ------------------ | ------------------ |
 	| w   | w   | f        | f        | w           | f                  |             f       |
 	| w   | f   | f        | w        | f           | w                  |              w      |
 	| f   | w   | w        | f        | f           | w                  |                 w   |
 	| f   | f   | w        | w        | f           | w                  |                    w|
 
-	| A   | B   | $\neg A$ | $\neg B$ | $A\vee B$ | $\neg (A\vee B)$ |
-	| --- | --- | -------- | -------- | ----------- | ------------------ |
-	| w   | w   | f        | f        | w           | f                  |
-	| w   | f   | f        | w        | f           | w                  |
-	| f   | w   | w        | f        | f           | w                  |
-	| f   | f   | w        | w        | f           | w                  |
+	| $A$   | $B$   | $\neg A$ | $\neg B$ | $A\vee B$ | $\neg (A\vee B)$ | $(\neg A)\wedge(\neg B)$ |
+	| --- | --- | -------- | -------- | --------- | ---------------- | ------------------------ |
+	| w   | w   | f        | f        | w         | f                |            f              |
+	| w   | f   | f        | w        | w        | f                |              f            |
+	| f   | w   | w        | f        | w         | f                |          f               |
+	| f   | f   | w        | w        | f         | w                |           w               |
 	- Die Implikation $A\Rightarrow B$ ist äquivalent zu Implikation $\neg B\Rightarrow\neg A$
+
+	| $A$ | $B$ | $\neg A$ | $\neg B$ | $\neg (A\vee B)$ | $\neg B\Rightarrow\neg A$ |
+	| --- | --- | -------- | -------- | ---------------- | ----------------------- |
+	| w   | w   | f        | f        | w                | w                      |
+	| w   | f   | f        | w        | f                | f                       |
+	| f   | w   | w        | f        | w                | w                       |
+	| f   | f   | w        | w        | w                | w                       |
 	- Aus der Implikation $A\Rightarrow B$ folgt im Allgemeinen *nicht* die Implikation $B\Rightarrow A$
-2. Es sei $W$ die MEnge aller Wände in einem Haus. Wir betrachten die Aussageformen
+
+
+	| $A$ | $B$ | $\neg (A\vee B)$ | $B\Rightarrow A$ |
+	| --- | --- | ---------------- | ---------------- |
+	| w   | w   | w                | w                |
+	| w   | f   | f                | w                |
+	| f   | w   | w                | f                |
+	| f   | f   | w                | w                |
+2. Es sei $W$ die Menge aller Wände in einem Haus. Wir betrachten die Aussageformen
 $$F(x): x\text{ hat ein Fenster,}$$
 $$T(x):x\text{ hat eine Tür}$$
 Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie die Aussagen und drücken Sie die negierten Aussagen ebenfalls in natürlicher Sprache aus.
