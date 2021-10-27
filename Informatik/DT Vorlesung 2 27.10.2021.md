@@ -2,14 +2,13 @@
 ![[DT_VL_02_V1.pdf]]
 ## Buch: Kapitel 1.4-1.5
 ## Zahlensysteme: Bitfolgen <-> (ganze) Zahlen
-### Basen
-#### Dual/Binär
+### Dual/Binär
 $$0b11010011$$
-#### oktal
+### oktal
 $$0o323$$
-#### dezimal
+### dezimal
 $$0d211$$
-#### hexadezimal
+### hexadezimal
 $$0x49AF$$
 ### [[Zweierkomplement]]
 ## Logikgatter: Einfache Boole'sche Funktionen
