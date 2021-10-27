@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DT Vorlesung 2 27.10.2021.md",
+            "file": "Disjunktion(oder).md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT Vorlesung 2 27.10.2021.md",
+                "file": "Disjunktion(oder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Disjunktion(oder).md",
     "DT Vorlesung 2 27.10.2021.md",
+    "Konjunktion(und).md",
+    "Negation(nicht).md",
+    "Zweierkomplement.md",
     "Day Planners/Day Planner-20211031.md",
     "Day Planners/Day Planner-20211030.md",
     "Day Planners/Day Planner-20211029.md",
     "Day Planners/Day Planner-20211028.md",
-    "DT Vorlesung 1 20.10.2021.md",
-    "Digitaltechnik - Organisatorisches.md",
-    "Digitaltechnik.md",
-    "Mathe I Grundlagen.md",
-    "Mathe I Hausübung 01.md"
+    "DT Vorlesung 1 20.10.2021.md"
   ]
 }
