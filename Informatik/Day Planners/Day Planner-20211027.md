@@ -5,7 +5,7 @@ Day Planner-27.10.2021
 | Gestern | Morgen |  
 | ------- | ------ |  
 | [[Day Planner-20211026]] | [[Day Planner-20211028]] |  
-- [ ] 09:50 DT Vorlesung
+- [x] 09:50 DT Vorlesung
 - [ ] 11:30 BREAK
 - [ ] 12:00 DT Lernzeit
 - [ ] 12:45 BREAK
