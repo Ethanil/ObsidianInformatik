@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DT Vorlesung 2 27.10.2021.md",
-            "mode": "source"
+            "file": "DT Übung 02.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT Vorlesung 2 27.10.2021.md",
+                "file": "DT Übung 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "DT Übung 02.md",
+    "DT Übung 01.md",
+    "byte.md",
     "DT Vorlesung 2 27.10.2021.md",
     "Zweierkomplement.md",
     "XOR.md",
     "Buffer.md",
     "NOR.md",
     "Negation(nicht).md",
-    "XNOR.md",
-    "Konjunktion(und).md",
-    "Disjunktion(oder).md",
-    "NAND.md"
+    "XNOR.md"
   ]
 }
