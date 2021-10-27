@@ -1,4 +1,5 @@
 # [[Digitaltechnik]] Vorlesung 2 27.10.2021
+![[DT_VL_02_V1.pdf]]
 ## Buch: Kapitel 1.4-1.5
 ## Zahlensysteme: Bitfolgen <-> (ganze) Zahlen
 ### Basen
@@ -13,6 +14,7 @@ $$0x49AF$$
 ### [[Zweierkomplement]]
 ## Logikgatter: Einfache Boole'sche Funktionen
 Logikgatter sind Basisrechenoperationen auf Bits.
+### [[Buffer]]
 ### [[Negation(nicht)]]
 ### [[Konjunktion(und)]]
 ### [[Disjunktion(oder)]]

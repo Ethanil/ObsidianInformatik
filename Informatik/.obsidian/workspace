@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beherrschung von Komplexität.md",
-            "mode": "preview"
+            "file": "XOR.md",
+            "mode": "source"
           }
         }
       }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beherrschung von Komplexität.md",
+                "file": "XOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +121,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
-    "Beherrschung von Komplexität.md",
-    "DT Übung 01.md",
-    "FOP Übungsblatt 00.md",
-    "DT Vorlesung 2 27.10.2021.md",
-    "XNOR.md",
-    "NOR.md",
     "XOR.md",
+    "DT Vorlesung 2 27.10.2021.md",
+    "Buffer.md",
+    "NOR.md",
     "Negation(nicht).md",
+    "XNOR.md",
+    "Konjunktion(und).md",
     "Disjunktion(oder).md",
-    "NAND.md"
+    "NAND.md",
+    "DT Vorlesung 1 20.10.2021.md"
   ]
 }

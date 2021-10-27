@@ -4,3 +4,4 @@ Die beiden Aussagen, welche mit dem Junktor `und` verbunden wurden ergeben genau
 $$A\wedge B$$
 ## Digitaltechnik
 $$AB$$
+![[Pasted image 20211027171548.png]]

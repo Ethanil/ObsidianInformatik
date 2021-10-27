@@ -4,3 +4,4 @@ Mithilfe von `nicht` kann man den Wahrheitswert von einer Aussage ändern. Eine 
 $$\neg A$$
 ## Digitaltechnik
 $$\overline{A}$$
+![[Pasted image 20211027171751.png]]

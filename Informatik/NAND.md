@@ -3,3 +3,4 @@ Die beiden Aussagen, welche mit dem Junktor `nand` verbunden wurden ergeben gena
 ## Mathe
 ## Digitaltechnik
 $$\overline{AB}$$
+![[Pasted image 20211027171611.png]]

@@ -1,4 +1,5 @@
 # Einordnung der [[Digitaltechnik]]
+![[DT_VL_01_V2.pdf]]
 Computersysteme wie
 - Handys, Internet, Medizintechnik, Unterhaltung
 Anforderungen steigen ständig

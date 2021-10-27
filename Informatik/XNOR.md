@@ -3,3 +3,4 @@ Die beiden Aussagen, welche mit dem Junktor `xnor` verbunden wurden ergeben gena
 ## Mathe
 ## Digitaltechnik
 $$\overline{A\oplus B}$$
+![[Pasted image 20211027171735.png]]

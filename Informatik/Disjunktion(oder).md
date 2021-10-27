@@ -4,3 +4,4 @@ Die beiden Aussagen, welche mit dem Junktor `oder` verbunden wurden ergeben gena
 $$A\vee B$$
 ## Digitaltechnik
 $$A+B$$
+![[Pasted image 20211027171629.png]]
