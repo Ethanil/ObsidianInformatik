@@ -7,8 +7,11 @@
         "id": "84f9c5702e315abf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DT Übung 01.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DT Übung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +116,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "DT Übung 01.md",
+    "FOP Übungsblatt 00.md",
     "DT Vorlesung 2 27.10.2021.md",
     "XNOR.md",
     "NOR.md",
@@ -124,8 +129,6 @@
     "Negation(nicht).md",
     "Disjunktion(oder).md",
     "NAND.md",
-    "Konjunktion(und).md",
-    "Zweierkomplement.md",
-    "Day Planners/Day Planner-20211031.md"
+    "Konjunktion(und).md"
   ]
 }
