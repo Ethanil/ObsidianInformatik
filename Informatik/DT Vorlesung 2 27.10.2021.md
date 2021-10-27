@@ -17,3 +17,6 @@ Logikgatter sind Basisrechenoperationen auf Bits.
 ### [[Konjunktion(und)]]
 ### [[Disjunktion(oder)]]
 ### [[XOR]]
+### [[NAND]]
+### [[NOR]]
+### [[XNOR]]

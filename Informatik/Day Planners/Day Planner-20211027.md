@@ -6,7 +6,7 @@ Day Planner-27.10.2021
 | ------- | ------ |  
 | [[Day Planner-20211026]] | [[Day Planner-20211028]] |  
 - [x] 09:50 DT Vorlesung
-- [ ] 11:30 BREAK
+- [x] 11:30 BREAK
 - [ ] 12:00 DT Lernzeit
 - [ ] 12:45 BREAK
 - [ ] 13:00 Mentorengespräch

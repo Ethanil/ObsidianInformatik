@@ -3,4 +3,4 @@ Die beiden Aussagen, welche mit dem Junktor `oder` verbunden wurden ergeben gena
 ## Mathe
 $$A\vee B$$
 ## Digitaltechnik
-
+$$A+B$$
