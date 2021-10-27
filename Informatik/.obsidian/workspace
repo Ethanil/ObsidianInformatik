@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I Grundlagen.md",
-            "mode": "preview"
+            "file": "DT Vorlesung 2 27.10.2021.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I Grundlagen.md",
+                "file": "DT Vorlesung 2 27.10.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "DT Vorlesung 2 27.10.2021.md",
+    "DT Vorlesung 1 20.10.2021.md",
+    "Digitaltechnik - Organisatorisches.md",
+    "Digitaltechnik.md",
     "Mathe I Grundlagen.md",
     "Mathe I Hausübung 01.md",
     "Mathe I Treffpunkt 01.md",
     "Templates/Wahrheitstabelle.md",
     "Existenzquantor.md",
-    "Allquantor.md",
-    "Mathe I.md",
-    "Transitiv.md",
-    "Relationen.md",
-    "Symmetrisch.md"
+    "Allquantor.md"
   ]
 }
