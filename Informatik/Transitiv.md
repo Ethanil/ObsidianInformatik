@@ -1,6 +1,7 @@
 # Transitiv
 Eine Relation ist transitiv, wenn 
 $$\forall x,y,z\in X:xRy\wedge yRz\Rightarrow xRz$$
+$$\forall x,y,z\in X:(x,y),(y,z)\in R\Rightarrow (x,z)\in R$$
 ```ad-note
 title:Anders gesagt
 collapse: true

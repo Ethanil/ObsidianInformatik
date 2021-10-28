@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asymmetrisch.md",
-            "mode": "preview"
+            "file": "Äquivalenzrelation.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asymmetrisch.md",
+                "file": "Äquivalenzrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
-    "Asymmetrisch.md",
+    "Äquivalenzrelation.md",
     "Relationen.md",
-    "Symmetrisch.md",
-    "Irreflexiv.md",
+    "Antisymmetrisch.md",
+    "Asymmetrisch.md",
+    "Transitiv.md",
     "Reflexiv.md",
     "Mathe I Grundlagen.md",
-    "Mathe I Hausübung 01.md",
-    "Aussagen und ihre Verknüpfungen.md",
-    "Implikation.md",
-    "Abbildungen.md"
+    "Irreflexiv.md",
+    "Symmetrisch.md",
+    "Mathe I Hausübung 01.md"
   ]
 }
