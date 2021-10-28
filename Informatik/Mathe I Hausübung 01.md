@@ -114,4 +114,4 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 		- Keine Ordnungsrelation, da nicht nicht Reflexiv
 	- $R_3=\{(A,B)\in P(\mathbb{N})\times P(\mathbb{N})|A\subseteq B\}$
 		- [[Mathe I Hausübung 01 H1.2 (a)(iii)]]
-2. 
+2. 		- [[Mathe I Hausübung 01 H1.2 (b)]]
