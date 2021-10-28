@@ -108,6 +108,7 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 		- Reflexiv: Diese Relation ist nicht reflexiv, da (x,x) nicht immer gilt; bspw $x=1: 1+2\le 1$ ist NICHT wahr
 		- Symmetrisch: Diese Relation ist nicht symmetrisch, da wenn (x,y) enthalten ist (y,x) niemals enthalten ist: $(1,3): 1+2\le 3$ ist enthalten, aber $(3,1): 3+2\le 1$ ist NICHT enthalten
 		- Antisymmetrisch: Diese Relation ist antisymmetrisch, da wie bei symmetrisch beschrieben, wenn (x,y) enthalten ist, ist (y,x niemals enthalten): Das zweite Element des Tupels muss immer mindestens 2 größer sein, als das erste, wenn dies gilt, kann das 1. nicht auch 2 größer sein als das 2., da $\textless$ und $\textgreater$ beides Antisymmetrische Relationen sind, muss diese auch Antisymmetrisch sein.
+			- Anders gesagt: es gibt keine (y,x), wenn es (x,y) gibt, also ist die Aussage falsch, dadurch ist die Implikation x=y wahr.
 		- Transitiv: Die Relation ist Transitiv, da wenn $x+2\le y$ und $y+2\le z$ dann gilt auch $x+2\le z$, da wenn y mindestens 2 größer ist als x und z mindestens 2 größer ist als y, dann ist z mindestens 4 größer als x und damit gilt die Relation.
 		- Keine Äquivalenzrelation, da nicht Reflexiv und Symmetrisch
 		- Keine Ordnungsrelation, da nicht nicht Reflexiv

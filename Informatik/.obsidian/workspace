@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I Hausübung 01 H1.2 (a)(iii).md",
-            "mode": "source"
+            "file": "Mathe I Hausübung 01.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I Hausübung 01 H1.2 (a)(iii).md",
+                "file": "Mathe I Hausübung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,14 +123,14 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Mathe I Hausübung 01.md",
     "Mathe I Hausübung 01 H1.2 (a)(iii).md",
+    "Antisymmetrisch.md",
     "Mengen.md",
     "Teilmengenbeziehungen.md",
-    "Mathe I Hausübung 01.md",
     "Ordnungsrelation.md",
     "Reflexiv.md",
     "Relationen.md",
-    "Antisymmetrisch.md",
     "Symmetrisch.md",
     "Äquivalenzrelation.md"
   ]
