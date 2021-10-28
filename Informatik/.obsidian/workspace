@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I Hausübung 01.md",
+            "file": "Relationen.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I Hausübung 01.md",
+                "file": "Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
-    "Mathe I Hausübung 01.md",
     "Relationen.md",
     "Mathe I Grundlagen.md",
+    "Mengen.md",
+    "Potenzmenge.md",
+    "kartesisches Produkt.md",
+    "Mathe I Hausübung 01.md",
     "Mathe I.md",
     "DT Übung 02.md",
     "DT Vorlesung 1 20.10.2021.md",
-    "Day Planners/Day Planner-20211028.md",
-    "DT Vorlesung 2 27.10.2021.md",
-    "Zweierkomplement.md",
-    "FOP Übungsblatt 02.md"
+    "Day Planners/Day Planner-20211028.md"
   ]
 }

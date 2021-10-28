@@ -13,7 +13,7 @@ Day Planner-28.10.2021
 - [x] 12:30 BREAK
 - [x] 12:45 AFE Lernzeit
 - [x] 13:20 BREAK
-- [ ] 14:00 AFE Lernzeit
+- [x] 14:00 AFE Lernzeit
 - [ ] 14:30 BREAK
 - [ ] 14:45 AFE Lernzeit
 - [ ] 15:15 BREAK
