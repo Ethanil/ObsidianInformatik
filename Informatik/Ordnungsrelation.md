@@ -17,7 +17,7 @@ denn:
 ```
 ## Bemerkung:
 a) Es kann unvergleichbare Elemente geben
--> d.g. $x,y\in X$mit weder $x\le y$ noch $y\le x$
+-> d.g. $x,y\in X$ mit weder $x\le y$ noch $y\le x$
 z.B.: $M=\{0,1,2\}$ dann $\{0,1\}\nsubseteq\{0,2\}$ und $\{0,2\}\nsubseteq\{0,1\}$
 
 ---
