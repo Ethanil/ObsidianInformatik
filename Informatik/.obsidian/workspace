@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I Hausübung 01.md",
+            "file": "Mathe I Hausübung 01 H1.2 (a)(iii).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teilmenge",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I Hausübung 01.md",
+                "file": "Mathe I Hausübung 01 H1.2 (a)(iii).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Mathe I Hausübung 01 H1.2 (a)(iii).md",
+    "Mengen.md",
+    "Teilmengenbeziehungen.md",
     "Mathe I Hausübung 01.md",
+    "Ordnungsrelation.md",
     "Reflexiv.md",
     "Relationen.md",
     "Antisymmetrisch.md",
     "Symmetrisch.md",
-    "Äquivalenzrelation.md",
-    "Asymmetrisch.md",
-    "Transitiv.md",
-    "Mathe I Grundlagen.md",
-    "Irreflexiv.md"
+    "Äquivalenzrelation.md"
   ]
 }
