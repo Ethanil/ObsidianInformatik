@@ -40,7 +40,7 @@ Mithilfe dieser Junktoren kann man aus 2 Aussagen eine neue Aussage treffen
 ### [[Negation(nicht)]]
 ### [[Implikation]]
 ### [[Äquivalenzrelation]]
-## #[[Logische Äquivalenz]]
+### [[Logische Äquivalenz]]
 #### de Morgan'sche Regel:
 $$\neg(A\vee B)\Leftrightarrow(\neg A)\wedge (\neg B)\equiv\neg A\wedge\neg B$$
 $$\neg(A\wedge B)\Leftrightarrow(\neg A)\vee (\neg B)\equiv\neg A\vee\neg B$$
