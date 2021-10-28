@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relationen.md",
+            "file": "Asymmetrisch.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationen.md",
+                "file": "Asymmetrisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
+    "Asymmetrisch.md",
     "Relationen.md",
+    "Symmetrisch.md",
     "Irreflexiv.md",
     "Reflexiv.md",
     "Mathe I Grundlagen.md",
     "Mathe I Hausübung 01.md",
     "Aussagen und ihre Verknüpfungen.md",
     "Implikation.md",
-    "Abbildungen.md",
-    "Mengen.md",
-    "Potenzmenge.md"
+    "Abbildungen.md"
   ]
 }

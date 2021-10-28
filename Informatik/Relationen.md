@@ -6,6 +6,7 @@ Man schreibt $xRy$ falls das Tupel $(x,y)\in R$ liegt und sagt "x steht in Relat
 ## [[Reflexiv]]
 ## [[Irreflexiv]]
 ## [[Symmetrisch]]
+## [[Asymmetrisch]]
 ## [[Antisymmetrisch]]
 ## [[Transitiv]]
 ## [[Äquivalenzrelation]]
