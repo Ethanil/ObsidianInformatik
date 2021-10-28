@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Äquivalenzrelation.md",
+            "file": "Mathe I Hausübung 01.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Äquivalenzrelation.md",
+                "file": "Mathe I Hausübung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
-    "Äquivalenzrelation.md",
+    "Mathe I Hausübung 01.md",
+    "Reflexiv.md",
     "Relationen.md",
     "Antisymmetrisch.md",
+    "Symmetrisch.md",
+    "Äquivalenzrelation.md",
     "Asymmetrisch.md",
     "Transitiv.md",
-    "Reflexiv.md",
     "Mathe I Grundlagen.md",
-    "Irreflexiv.md",
-    "Symmetrisch.md",
-    "Mathe I Hausübung 01.md"
+    "Irreflexiv.md"
   ]
 }

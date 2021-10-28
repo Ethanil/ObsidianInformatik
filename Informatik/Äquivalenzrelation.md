@@ -22,3 +22,7 @@ Sprich: "a kongruent b modulo n"
 $$A\Leftrightarrow B$$
 Diese Aussage kann man auch ausdrücken durch:
 $$A\Leftrightarrow B\equiv A\Rightarrow B \wedge B\Rightarrow A$$
+
+# Äquivalenzklassen
+Bei einer Äquivalenzrelation werden die Elemente der Relation in disjunkte Teilmengen aufgeteilt, in denen alle Elemente untereinander in Relation stehen.
+Zwischen den disjunkten Teilmengen bestehen KEINE Relationen.
