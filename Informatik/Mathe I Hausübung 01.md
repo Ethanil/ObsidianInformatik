@@ -129,4 +129,26 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 		- $\neg(\forall n,m\in\mathbb{N}:m=0\vee m=n+1)$
 		- $\exists n,m\in\mathbb{N}:\neg(m=0)\wedge \neg(m=n+1)$
 		- Es gibt eine natürliche Zahl $m$, die nicht gleich Null und nicht von der Form $n+1$ ist.
-	2. Der NOR-Operator $\downarrow$ ist durch die nachstehende Wahrheitstafel erklärt. Zeigen Sie, dass sich d
+	2. Der [[NOR]]-Operator $\downarrow$ ist durch die nachstehende Wahrheitstafel erklärt. Zeigen Sie, dass sich die folgenden logischen Verknüpfungen $\neg A,A\vee B$ und $A\Rightarrow B$ einzig mit Hilfe des NOR-Operators ausdrücken lassen! Verwenden Sie dazu Wahrheitstafeln	
+
+| $A$ | $A$ | $\neg A$ | $A\downarrow A$ |
+| --- | --- | -------- | --------------- |
+| w   | w   | f        | f               |
+| f   | f   | w        | w               |
+
+
+
+| $A$ | $B$ | $A\vee B$ | $A\downarrow B$ | $(A\downarrow B)\downarrow(A\downarrow B)$ |
+| --- | --- | --------- | --------------- | ------------------------------------------ |
+| w   | w   | w         | f               | w                                          |
+| w   | f   | w         | f               | w                                          |
+| f   | w   | w         | f               | w                                          |
+| f   | f   | f         | w               | f                                          |
+
+
+| $A$ | $B$ | $A\Rightarrow B$ | $\neg A$ | $(A\downarrow A)\downarrow B$ | $((A\downarrow A)\downarrow B)\downarrow((A\downarrow A)\downarrow B)$ |
+| --- | --- | ---------------- | -------- | ----------------------------- | ---------------------------------------------------------------------- |
+| w   | w   | w                | f        | f                             | w                                                                      |
+| w   | f   | f                | f        | w                             | f                                                                      |
+| f   | w   | w                | w        | f                             | w                                                                      |
+| f   | f   | w                | w        | f                             | w                                                                      |
