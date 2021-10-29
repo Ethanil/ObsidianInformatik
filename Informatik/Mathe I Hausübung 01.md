@@ -115,3 +115,11 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 	- $R_3=\{(A,B)\in P(\mathbb{N})\times P(\mathbb{N})|A\subseteq B\}$
 		- [[Mathe I Hausübung 01 H1.2 (a)(iii)]]
 2. 		- [[Mathe I Hausübung 01 H1.2 (b)]]
+## H1.3
+1. Formulieren Sie die folgenden Aussagen mit Hilfe von Quantoren. Geben Sie außerdem die NEgation der Aussagen an, und zwar sowohl mit Quantoren als auch in natürlicher Sprache (d.h. im Stil der Aufgabenstellung).
+	- Die Menge der ganzen Zahlen besitzt ein größtes Element.
+		- $\exists n\in\mathbb{N}:\forall m\in\mathbb{N}|n\ge m$
+		- $\neg(\exists n\in\mathbb{N}:\forall m\in\mathbb{N}|n\ge m)$
+		- $\forall n\in\mathbb{N}:\exists m\in\mathbb{N}|\neg(n\ge m)$
+		- Die Menge der ganzen Zahlen besitzt kein größtes Element.
+	- Jede natürliche Zahl ist gleich Null oder von der Form $n+1$ mit $n\in \mathbb{N}$
