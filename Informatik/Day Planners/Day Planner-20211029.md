@@ -13,7 +13,7 @@ Day Planner-29.10.2021
 - [x] 11:30 BREAK
 - [x] 11:45 Wiederholung
 - [x] 12:15 BREAK
-- [ ] 12:30 Wiederholung
+- [x] 12:30 Wiederholung
 - [ ] 13:00 BREAK
 - [ ] 14:00 Wiederholung
 - [ ] 14:30 BREAK
