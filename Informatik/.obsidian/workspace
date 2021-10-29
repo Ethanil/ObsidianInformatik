@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I Hausübung 01 H1.2 (b).md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teilmenge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -125,13 +123,13 @@
   "lastOpenFiles": [
     "Mathe I Hausübung 01 H1.2 (b).md",
     "Mathe I Hausübung 01.md",
-    "Ordnungsrelation.md",
+    "Mathe I Treffpunkt 01.md",
     "Relationen.md",
+    "Reflexiv.md",
+    "Ordnungsrelation.md",
+    "Totalität.md",
     "Mathe I Hausübung 01 H1.2 (a)(iii).md",
     "Antisymmetrisch.md",
-    "Mengen.md",
-    "Teilmengenbeziehungen.md",
-    "Reflexiv.md",
-    "Symmetrisch.md"
+    "Mengen.md"
   ]
 }

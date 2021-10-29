@@ -1,5 +1,5 @@
 # Ordnungsrelationen
-Eine Relation ist eine Ordnungsrelation, wenn sie [[Relationen#Reflexiv|reflexiv]], [[Relationen#Antisymmetrisch|antisymmetrisch]] und [[Relationen#Transitiv|transitiv]] ist.
+Eine Relation ist eine Ordnungsrelation, wenn sie [[Reflexiv]], [[Antisymmetrisch]] und [[Transitiv]]ist.
 Wenn eine Relation eine Ordnungsrelation ist benutzt man
 $$x\le y\text{ statt }xRy$$
 Gibt es auf $X$ eine Ordnungsrelation, so heißt $X$ *partiell gerodnet*
@@ -39,6 +39,12 @@ $$x\ge y\text{, falls }y\le x$$
 $$x\textless y\text{, falls }x\le y\text{ und }x\neq y$$
 $$x\textgreater y\text{, falls }y\textless x$$
 
+## Totalordnung
+Damit eine Menge als total geordnet zählt muss zusätzlich zu den 3 Axiomen [[Reflexiv]], [[Antisymmetrisch]] und [[Transitiv]] zusätzlich eine dritte Bedingung gelten:
+$$\forall a,b\in A:(a,b)\in R\vee(b,a)\in R$$
+$$\forall a,b\in A:a\sim b\vee b\sim a$$
+Also, für jedes [[Tupel]] $(a,b)$ gilt, dass entweder $a$ in Relation zu $b$ oder $b$ in Relation zu $a$ steht.
+Dies bezeichnet man als [[Totalität]]
 ## größtes/kleinstes Element
 Sei $(X\le)$ partiell geordnet $Y\subseteq X$
 - $g\in X$ heißt größtes Element von $X$, falls $\forall x\in X:x\le g$
