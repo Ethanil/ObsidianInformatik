@@ -118,8 +118,15 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 ## H1.3
 1. Formulieren Sie die folgenden Aussagen mit Hilfe von Quantoren. Geben Sie außerdem die NEgation der Aussagen an, und zwar sowohl mit Quantoren als auch in natürlicher Sprache (d.h. im Stil der Aufgabenstellung).
 	- Die Menge der ganzen Zahlen besitzt ein größtes Element.
-		- $\exists n\in\mathbb{N}:\forall m\in\mathbb{N}|n\ge m$
-		- $\neg(\exists n\in\mathbb{N}:\forall m\in\mathbb{N}|n\ge m)$
-		- $\forall n\in\mathbb{N}:\exists m\in\mathbb{N}|\neg(n\ge m)$
-		- Die Menge der ganzen Zahlen besitzt kein größtes Element.
+		- $\forall m\in\mathbb{Z}:\exists n\in\mathbb{Z}:n\ge m$
+		- $\neg(\forall m\in\mathbb{Z}:\exists n\in\mathbb{Z}:n\ge m)$
+		- $\exists m\in\mathbb{Z}:\neg(\exists n\in\mathbb{Z}:n\ge m)$
+		- $\exists m\in\mathbb{Z}:\forall n\in\mathbb{Z}:\neg(n\ge m)$
+		- $\exists m\in\mathbb{Z}:\forall n\in\mathbb{Z}|n\textless m$
+		- Es gibt ein $m$, so dass alle $n$ kleiner sind als $m$.
 	- Jede natürliche Zahl ist gleich Null oder von der Form $n+1$ mit $n\in \mathbb{N}$
+		- $\forall n,m\in\mathbb{N}:m=0\vee m=n+1$
+		- $\neg(\forall n,m\in\mathbb{N}:m=0\vee m=n+1)$
+		- $\exists n,m\in\mathbb{N}:\neg(m=0)\wedge \neg(m=n+1)$
+		- Es gibt eine natürliche Zahl $m$, die nicht gleich Null und nicht von der Form $n+1$ ist.
+	2. Der NOR-Operator $\downarrow$ ist durch die nachstehende Wahrheitstafel erklärt. Zeigen Sie, dass sich d

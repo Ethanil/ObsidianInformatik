@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I Hausübung 01.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -122,6 +122,7 @@
   "active": "84f9c5702e315abf",
   "lastOpenFiles": [
     "Mathe I Hausübung 01.md",
+    "Ganzen Zahlen.md",
     "Mathe I Hausübung 01 H1.2 (a)(iii).md",
     "Mathe I Hausübung 01 H1.2 (b).md",
     "Mathe I Treffpunkt 01.md",
@@ -129,7 +130,6 @@
     "Reflexiv.md",
     "Ordnungsrelation.md",
     "Totalität.md",
-    "Antisymmetrisch.md",
-    "Mengen.md"
+    "Antisymmetrisch.md"
   ]
 }
