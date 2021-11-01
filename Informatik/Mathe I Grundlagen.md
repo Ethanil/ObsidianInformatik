@@ -2,5 +2,5 @@
 ## [[Aussagen und ihre Verknüpfungen]]
 ## [[Mengen]]
 ## [[Relationen]]
-## [[Abbildungen]]
+## [[Abbildung]]
 ## [[Beweisprinzipien]]

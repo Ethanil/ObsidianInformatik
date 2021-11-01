@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Definitionsbereich.md",
-            "mode": "preview"
+            "file": "Bijektiv.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitionsbereich.md",
+                "file": "Bijektiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b3c44f768bb659c9",
@@ -116,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
-    "Definitionsbereich.md",
+    "Bijektiv.md",
+    "Abbildung.md",
+    "Injektiv.md",
     "Surjektiv.md",
+    "Definitionsbereich.md",
     "Zielbereich.md",
-    "Abbildungen.md",
     "Mathe I Grundlagen.md",
     "Day Planners/Day Planner-20211101.md",
     "Day Planners/Day Planner-20211102.md",
-    "Mathe I Hausübung 01.md",
-    "Symmetrisch.md",
-    "DT Vorlesung 2 27.10.2021.md"
+    "Mathe I Hausübung 01.md"
   ]
 }
