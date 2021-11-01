@@ -1,4 +1,6 @@
 # Zielbereich
-Der Zielbereich einer [[Abbildung]] ist das "Ergebnis" der Funktion, also bspw bei
-$$f:x\mapsto x^2$$
-Wären die Menge alle quadrierten Zahlen der Zielbereich.
+Der Zielbereich einer [[Abbildung]] ist die Menge der möglichen Elemente, also bspw bei
+$$A\rightarrow B$$
+Wäre B der Zielbereich.
+Die "konkrete Elemente", also $f(A)$ wirklich abbildet heißt das Bild und ist definiert als
+$$f(A):=\{f(a):a\in A\}\subseteq B$$

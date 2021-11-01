@@ -11,3 +11,4 @@ Abbildungen können folgende Eigenschaften haben:
 ## [[Surjektiv]]
 ## [[Injektiv]]
 ## [[Bijektiv]]
+## Bild einer Abbildung
