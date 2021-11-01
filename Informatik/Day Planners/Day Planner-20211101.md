@@ -15,7 +15,7 @@ Day Planner-01.11.2021
 - [x] 12:45 BREAK
 - [x] 13:15 FOP Lernzeit
 - [x] 13:45 BREAK
-- [ ] 14:00 FOP Lernzeit
+- [x] 14:00 FOP Lernzeit
 - [ ] 14:30 BREAK
 - [ ] 14:45 FOP Lernzeit
 - [ ] 15:15 BREAK
