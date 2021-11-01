@@ -7,8 +7,8 @@ Day Planner-01.11.2021
 | [[Day Planner-20211031]] | [[Day Planner-20211102]] |  
 - [x] 10:00 FOP Lernzeit
 - [x] 10:30 BREAK
-- [ ] 10:45 FOP Lernzeit
-- [ ] 11:15 BREAK
+- [x] 10:45 FOP Lernzeit
+- [x] 11:15 BREAK
 - [ ] 11:30 FOP Lernzeit
 - [ ] 12:00 BREAK
 - [ ] 12:15 FOP Lernzeit

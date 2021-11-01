@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abbildungen.md",
+            "file": "Definitionsbereich.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abbildungen.md",
+                "file": "Definitionsbereich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Definitionsbereich.md",
+    "Surjektiv.md",
+    "Zielbereich.md",
     "Abbildungen.md",
     "Mathe I Grundlagen.md",
     "Day Planners/Day Planner-20211101.md",
     "Day Planners/Day Planner-20211102.md",
     "Mathe I Hausübung 01.md",
     "Symmetrisch.md",
-    "DT Vorlesung 2 27.10.2021.md",
-    "XOR.md",
-    "Supremum.md",
-    "test.md"
+    "DT Vorlesung 2 27.10.2021.md"
   ]
 }
