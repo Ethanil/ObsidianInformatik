@@ -9,7 +9,7 @@ Day Planner-02.11.2021
 - [x] 10:30 BREAK
 - [x] 10:45 Mathe I Lernzeit
 - [x] 11:15 BREAK
-- [ ] 11:40 Mathe I Übung
+- [x] 11:40 Mathe I Übung
 - [ ] 13:30 Mathe I Treffpunkt
 - [ ] 15:10 BREAK
 - [ ] 16:00 Mathe I Lernzeit
