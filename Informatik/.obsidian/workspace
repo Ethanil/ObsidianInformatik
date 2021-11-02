@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordnungsrelation.md",
-            "mode": "source"
+            "file": "Abbildung.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9c1742b65d21bf6d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Surjektiv.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungsrelation.md",
+                "file": "Surjektiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b3c44f768bb659c9",
@@ -117,13 +129,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0499d78153111a90",
+  "active": "9c1742b65d21bf6d",
   "lastOpenFiles": [
+    "Surjektiv.md",
+    "Abbildung.md",
     "Ordnungsrelation.md",
     "PascalCase.md",
     "test.md",
-    "Abbildung.md",
-    "Surjektiv.md",
     "Day Planners/Day Planner-20211102.md",
     "Definitionsbereich.md",
     "Zielbereich.md",
