@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Injektiv.md",
+            "file": "Totalität.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Injektiv.md",
+                "file": "Totalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Totalität.md",
+    "Symmetrisch.md",
+    "Asymmetrisch.md",
+    "Antisymmetrisch.md",
     "Injektiv.md",
     "Abbildung.md",
     "Surjektiv.md",
     "Ordnungsrelation.md",
     "PascalCase.md",
-    "test.md",
-    "Day Planners/Day Planner-20211102.md",
-    "Definitionsbereich.md",
-    "Zielbereich.md",
-    "Bijektiv.md"
+    "test.md"
   ]
 }
