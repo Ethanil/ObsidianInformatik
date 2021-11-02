@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Totalität.md",
-            "mode": "preview"
+            "file": "Beweisprinzipien.md",
+            "mode": "source"
           }
         }
       },
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Totalität.md",
+                "file": "Beweisprinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Beweisprinzipien.md",
+    "Mathe I Grundlagen.md",
+    "Mathe I Hausübung 01.md",
     "Totalität.md",
     "Symmetrisch.md",
     "Asymmetrisch.md",
     "Antisymmetrisch.md",
     "Injektiv.md",
     "Abbildung.md",
-    "Surjektiv.md",
-    "Ordnungsrelation.md",
-    "PascalCase.md",
-    "test.md"
+    "Surjektiv.md"
   ]
 }
