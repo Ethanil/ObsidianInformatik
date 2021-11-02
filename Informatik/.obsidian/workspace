@@ -7,8 +7,11 @@
         "id": "0499d78153111a90",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Symmetrisch.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symmetrisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +120,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Symmetrisch.md",
+    "Surjektiv.md",
     "Mathe I Grundlagen.md",
     "Mengen.md",
     "Aussagen und ihre Verknüpfungen.md",
     "Beweisprinzipien.md",
     "Mathe I Hausübung 01.md",
     "Totalität.md",
-    "Symmetrisch.md",
     "Asymmetrisch.md",
-    "Antisymmetrisch.md",
-    "Injektiv.md"
+    "Antisymmetrisch.md"
   ]
 }
