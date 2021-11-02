@@ -7,11 +7,8 @@
         "id": "0499d78153111a90",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Beweisprinzipien.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beweisprinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +116,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
-    "Beweisprinzipien.md",
     "Mathe I Grundlagen.md",
+    "Mengen.md",
+    "Aussagen und ihre Verknüpfungen.md",
+    "Beweisprinzipien.md",
     "Mathe I Hausübung 01.md",
     "Totalität.md",
     "Symmetrisch.md",
     "Asymmetrisch.md",
     "Antisymmetrisch.md",
-    "Injektiv.md",
-    "Abbildung.md",
-    "Surjektiv.md"
+    "Injektiv.md"
   ]
 }
