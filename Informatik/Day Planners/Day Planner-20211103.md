@@ -13,7 +13,7 @@ Day Planner-03.11.2021
 - [x] 13:15 BREAK
 - [x] 13:30 DT Übung
 - [x] 15:10 BREAK
-- [ ] 16:15 DT Lernzeit
+- [x] 16:15 DT Lernzeit
 - [ ] 16:45 BREAK
 - [ ] 17:00 DT Lernzeit
 - [ ] 17:30 END
