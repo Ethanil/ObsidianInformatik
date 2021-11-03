@@ -5,7 +5,7 @@ Day Planner-03.11.2021
 | Gestern | Morgen |  
 | ------- | ------ |  
 | [[Day Planner-20211102]] | [[Day Planner-20211104]] |  
-- [ ] 09:50 DT Vorlesung
+- [x] 09:50 DT Vorlesung
 - [ ] 11:30 BREAK
 - [ ] 12:00 DT Lernzeit
 - [ ] 12:45 BREAK
