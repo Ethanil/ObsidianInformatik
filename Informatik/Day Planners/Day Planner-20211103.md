@@ -6,11 +6,11 @@ Day Planner-03.11.2021
 | ------- | ------ |  
 | [[Day Planner-20211102]] | [[Day Planner-20211104]] |  
 - [x] 09:50 DT Vorlesung
-- [ ] 11:30 BREAK
-- [ ] 12:00 DT Lernzeit
-- [ ] 12:45 BREAK
-- [ ] 13:00 Mentorengespräch
-- [ ] 13:15 BREAK
+- [x] 11:30 BREAK
+- [x] 12:00 DT Lernzeit
+- [x] 12:45 BREAK
+- [x] 13:00 Mentorengespräch
+- [x] 13:15 BREAK
 - [ ] 13:30 DT Übung
 - [ ] 15:10 BREAK
 - [ ] 16:15 DT Lernzeit
