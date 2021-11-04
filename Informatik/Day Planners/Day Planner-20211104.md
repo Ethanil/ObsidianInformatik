@@ -11,7 +11,7 @@ Day Planner-04.11.2021
 - [x] 11:20 BREAK
 - [x] 11:40 AFE Übung
 - [x] 13:20 BREAK
-- [ ] 14:00 AFE Lernzeit
+- [x] 14:00 AFE Lernzeit
 - [ ] 14:30 BREAK
 - [ ] 14:45 AFE Lernzeit
 - [ ] 15:15 BREAK
