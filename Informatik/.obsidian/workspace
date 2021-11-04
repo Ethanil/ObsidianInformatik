@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Äquivalenzrelation.md",
+            "file": "Reflexiv.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Äquivalenzrelation.md",
+                "file": "Reflexiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Reflexiv.md",
+    "Relationen.md",
     "Äquivalenzrelation.md",
     "Primitive Datentypen.md",
     "Mathe I Hausübung 01 H1.2 (b).md",
@@ -127,8 +129,6 @@
     "Mathe I Hausübung 01 H1.2 (a)(iii).md",
     "Beweisprinzipien.md",
     "Bijektiv.md",
-    "Symmetrisch.md",
-    "Surjektiv.md",
-    "Mathe I Grundlagen.md"
+    "Symmetrisch.md"
   ]
 }
