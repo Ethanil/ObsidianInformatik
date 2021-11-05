@@ -16,7 +16,7 @@ Day Planner-05.11.2021
 - [x] 12:30 Wiederholung
 - [x] 13:00 BREAK
 - [x] 14:00 Wiederholung
-- [ ] 14:30 BREAK
+- [x] 14:30 BREAK
 - [ ] 14:45 Wiederholung
 - [ ] 15:15 BREAK
 - [ ] 15:30 Wiederholung
