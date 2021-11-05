@@ -7,8 +7,11 @@
         "id": "0499d78153111a90",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Injektiv.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Injektiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +120,13 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Injektiv.md",
     "Relationen.md",
     "Linkseindeutig.md",
     "Rechtstotal.md",
     "Surjektiv.md",
     "Linkstotal.md",
     "Rechtseindeutig.md",
-    "Injektiv.md",
     "Mengendifferenz.md",
     "Komplement.md",
     "Vereinigung.md"
