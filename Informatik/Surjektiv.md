@@ -1,5 +1,6 @@
 # Surjektiv
-Eine [[Abbildung]] ist surjektiv, wenn jedes Element des [[Zielbereich|Zielbereichs]] mindestens einmal getroffen wird. Die Abbildung
+Eine [[Abbildung]] ist surjektiv, wenn jedes Element des [[Zielbereich|Zielbereichs]] mindestens einmal getroffen wird. Die [[Relationen|Relation]] ist also [[Rechtstotal]]
+Die Abbildung
 $$A:=\{3,5,10\}\ B:=\{a,b\}$$
 $$f:A\rightarrow B$$
 $$3\mapsto a$$

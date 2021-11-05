@@ -1,5 +1,6 @@
 # Injektiv
-Eine [[Abbildung]] ist injektiv, wenn jedes Element des [[Zielbereich|Zielbereichs]] genau einmal getroffen wird. Die Abbildung
+Eine [[Abbildung]] ist injektiv, wenn jedes Element des [[Definitionsbereich|Definitionsbereichs]] vom [[Zielbereich]] genau einmal getroffen wird. Die [[Relationen|Relation]] ist also [[Linkseindeutig]].
+Die Abbildung
 $$A:=\{3,5,10\}\ B:=\{a,b,c\}$$
 $$f:A\rightarrow B$$
 $$3\mapsto a$$

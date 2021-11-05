@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mengendifferenz.md",
+            "file": "Injektiv.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mengendifferenz.md",
+                "file": "Injektiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Injektiv.md",
+    "Surjektiv.md",
     "Mengendifferenz.md",
     "Komplement.md",
     "Vereinigung.md",
@@ -127,8 +129,6 @@
     "Schnittmenge.md",
     "Reflexiv.md",
     "Relationen.md",
-    "Äquivalenzrelation.md",
-    "Primitive Datentypen.md",
-    "Mathe I Hausübung 01 H1.2 (b).md"
+    "Äquivalenzrelation.md"
   ]
 }
