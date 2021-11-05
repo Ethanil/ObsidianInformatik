@@ -10,5 +10,11 @@ Man schreibt $xRy$ falls das Tupel $(x,y)\in R$ liegt und sagt "x steht in Relat
 ## [[Antisymmetrisch]]
 ## [[Transitiv]]
 ## [[Totalität]]
+## [[Rechtstotal]]
+## [[Linkstotal]]
+## [[Rechtseindeutig]]
+## [[Linkseindeutig]]
 ## [[Äquivalenzrelation]]
 ## [[Ordnungsrelation]]
+
+Eine Relation nennt man [[Abbildung]] wenn sie linkstotal und rechtseindeutig ist.
