@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beweis durch Induktion.md",
+            "file": "Mathe I Hausübung 01.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beweis durch Induktion.md",
+                "file": "Mathe I Hausübung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "0499d78153111a90",
   "lastOpenFiles": [
+    "Mathe I Hausübung 01.md",
+    "Mathe I Hausübung 01 H1.2 (b).md",
+    "Mathe I Hausübung 01 H1.2 (a)(iii).md",
     "Beweis durch Induktion.md",
     "Beweisprinzipien.md",
     "Beweis (direkter).md",
     "Beweis durch Widerspruch.md",
     "Beweis durch Kontraposition.md",
     "Injektiv.md",
-    "Relationen.md",
-    "Linkseindeutig.md",
-    "Rechtstotal.md",
-    "Surjektiv.md"
+    "Relationen.md"
   ]
 }
