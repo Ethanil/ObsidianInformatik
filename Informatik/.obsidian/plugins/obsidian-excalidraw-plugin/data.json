@@ -2,7 +2,7 @@
   "folder": "Excalidraw",
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "drawingFilenamePrefix": "Drawing ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "DD.MM.YYYY HH-mm-ss",
   "width": "400",
   "matchTheme": true,
   "matchThemeAlways": true,
