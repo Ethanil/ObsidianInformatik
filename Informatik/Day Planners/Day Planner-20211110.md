@@ -15,5 +15,5 @@ Day Planner-10.11.2021
 - [x] 15:10 BREAK
 - [x] 16:15 DT Lernzeit
 - [x] 16:45 BREAK
-- [ ] 17:00 DT Lernzeit
+- [x] 17:00 DT Lernzeit
 - [ ] 17:30 END
