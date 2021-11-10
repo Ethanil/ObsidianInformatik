@@ -12,7 +12,7 @@ Wir erzeugen Halbleiter indem wir in nicht leitende Materialien wie Silizium (Gl
 Wenn wir nun p-Typ und n-Typ Halbleiter direkt nebeneinander setzen und daran eine Spannung anlegen können wir sie leitend bzw nichtleitend machen (abhängig von der Seite an der wir + bzw - anschließen). Wir erzeugen also eine Diode, also ein Baustück welchse von p-Typ zu n-Typ leitet, aber andersherum nicht.
 
 ## MOS Feldeffekttransistoren (MOSFETs)
-MOS steht für Metalloxid-Halbleiter (Metall-Oxide-)
+MOS steht für Metalloxid-Halbleiter (Metall-Oxide-Semiconductor)
 Bei einem MOSFET betten wir 2 n-Typ Halbleiter(Source und Drain) in einen p-Typ Halbleiter (Substrat) ein (nMOS), bzw 2 p-Typ in ein n-Typ (pMOS).
 
 ## nMOS
@@ -25,3 +25,7 @@ Die Majoritätsladungsträger in einem nMOS sind Elektronen, was bedeutet dass e
 ![[Pasted image 20211110185126.png]]
 pMOS Transistoren schließt man "nach unten" zur Versorgungsspannung ($V_{DD}$) und ist ausgeschaltet, wenn das Gate 1 ist.
 Die Majoritätsladungsträger sind "Löcher", also leiten wir 1'en gut von Source nach Drain weiter.
+
+## CMOS
+(Complementary Metal-Oxide-Semiconductor)
+Damit wir keine Durchschaltung von Source direkt zu Ground haben, bauen wir ein pull-up und ein pull-down Netz aus pMOS und nMOS.
