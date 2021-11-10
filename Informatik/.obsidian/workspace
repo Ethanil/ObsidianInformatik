@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "9e1bc3ea53fbca01",
+    "id": "569a5e24b9dfd4dc",
     "type": "split",
     "children": [
       {
-        "id": "0499d78153111a90",
+        "id": "531d4381d5c1a297",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Paritätsfunktion.md",
+            "file": "Physikalische Realisierung von Logikgattern.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paritätsfunktion.md",
+                "file": "Physikalische Realisierung von Logikgattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b3c44f768bb659c9",
@@ -118,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0499d78153111a90",
+  "active": "531d4381d5c1a297",
   "lastOpenFiles": [
-    "Paritätsfunktion.md",
+    "Physikalische Realisierung von Logikgattern.md",
     "DT Vorlesung 3 03.11.2021.md",
-    "XOR.md",
     "DT Vorlesung 1 20.10.2021.md",
-    "DT Vorlesung 2 27.10.2021.md",
-    "Mathe I Hausübung 01.md",
-    "Mathe I Hausübung 01 H1.2 (b).md",
-    "Mathe I Hausübung 01 H1.2 (a)(iii).md",
-    "Beweis durch Induktion.md",
-    "Beweisprinzipien.md"
+    "Excalidraw/Drawing 2021-11-10 17.16.57.excalidraw.md",
+    "Excalidraw/test.excalidraw.md",
+    "Teilmengenbeziehungen.md",
+    "test.excalidraw",
+    "Paritätsfunktion.md",
+    "XOR.md",
+    "DT Vorlesung 2 27.10.2021.md"
   ]
 }
