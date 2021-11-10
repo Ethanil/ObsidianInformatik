@@ -12,7 +12,7 @@ Day Planner-10.11.2021
 - [x] 13:00 Mentorengespräch
 - [x] 13:15 BREAK
 - [x] 13:30 DT Übung
-- [ ] 15:10 BREAK
+- [x] 15:10 BREAK
 - [ ] 16:15 DT Lernzeit
 - [ ] 16:45 BREAK
 - [ ] 17:00 DT Lernzeit
