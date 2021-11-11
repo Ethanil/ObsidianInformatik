@@ -19,5 +19,5 @@ Day Planner-11.11.2021
 - [x] 16:00 BREAK
 - [x] 16:15 AFE Lernzeit
 - [x] 16:45 BREAK
-- [ ] 17:00 AFE Lernzeit
+- [x] 17:00 AFE Lernzeit
 - [ ] 17:30 END
