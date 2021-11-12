@@ -17,7 +17,7 @@ Day Planner-12.11.2021
 - [x] 13:00 BREAK
 - [x] 14:00 Wiederholung
 - [x] 14:30 BREAK
-- [ ] 14:45 Wiederholung
+- [x] 14:45 Wiederholung
 - [ ] 15:15 BREAK
 - [ ] 15:30 Wiederholung
 - [ ] 16:00 BREAK
