@@ -5,12 +5,12 @@ Day Planner-12.11.2021
 | Gestern | Morgen |  
 | ------- | ------ |  
 | [[Day Planner-20211111]] | [[Day Planner-20211113]] |  
-- [ ] 08:00 AFE Vorlesung
-- [ ] 09:50 BREAK
-- [ ] 10:15 Wiederholung
-- [ ] 10:45 BREAK
-- [ ] 11:00 Wiederholung
-- [ ] 11:30 BREAK
+- [x] 08:00 AFE Vorlesung
+- [x] 09:50 BREAK
+- [x] 10:15 Wiederholung
+- [x] 10:45 BREAK
+- [x] 11:00 Wiederholung
+- [x] 11:30 BREAK
 - [ ] 11:45 Wiederholung
 - [ ] 12:15 BREAK
 - [ ] 12:30 Wiederholung
