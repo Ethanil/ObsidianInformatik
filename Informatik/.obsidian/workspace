@@ -7,8 +7,11 @@
         "id": "0ada8f4c55901966",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Relationen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +120,8 @@
   },
   "active": "0ada8f4c55901966",
   "lastOpenFiles": [
+    "Relationen.md",
+    "Reflexiv.md",
     "Day Planners/Day Planner-20211028.md",
     "Day Planners/Day Planner-20211027.md",
     "Day Planners/Day Planner-20211026.md",
@@ -123,8 +129,6 @@
     "Day Planners/Day Planner-20211024.md",
     "Day Planners/Day Planner-20211023.md",
     "Day Planners/Day Planner-20211029.md",
-    "Day Planners/Day Planner-20211030.md",
-    "Day Planners/Day Planner-20211031.md",
-    "Day Planners/Day Planner-20211101.md"
+    "Day Planners/Day Planner-20211030.md"
   ]
 }
