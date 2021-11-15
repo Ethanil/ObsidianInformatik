@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RSA-Verschlüsselung.md",
+            "file": "Gruppen.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSA-Verschlüsselung.md",
+                "file": "Gruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "0ada8f4c55901966",
   "lastOpenFiles": [
+    "Gruppen.md",
+    "abelsch.md",
     "RSA-Verschlüsselung.md",
     "Day Planners/Day Planner-20211115.md",
     "Day Planners/Day Planner-20211116.md",
@@ -127,8 +129,6 @@
     "Der kleine Satz von Fermat.md",
     "Erweiterter Euklidischer Algorithmus.md",
     "Der Euklidische Algorithmus.md",
-    "ggT.md",
-    "Lemma.md",
-    "Modulo Rechenregeln.md"
+    "ggT.md"
   ]
 }
