@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relationen.md",
-            "mode": "preview"
+            "file": "Der Euklidische Algorithmus.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modulo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relationen.md",
+                "file": "Der Euklidische Algorithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "0ada8f4c55901966",
   "lastOpenFiles": [
+    "Der Euklidische Algorithmus.md",
+    "ggT.md",
+    "Lemma.md",
+    "Modulo Rechenregeln.md",
     "Relationen.md",
     "Reflexiv.md",
     "Day Planners/Day Planner-20211028.md",
     "Day Planners/Day Planner-20211027.md",
     "Day Planners/Day Planner-20211026.md",
-    "Day Planners/Day Planner-20211025.md",
-    "Day Planners/Day Planner-20211024.md",
-    "Day Planners/Day Planner-20211023.md",
-    "Day Planners/Day Planner-20211029.md",
-    "Day Planners/Day Planner-20211030.md"
+    "Day Planners/Day Planner-20211025.md"
   ]
 }
