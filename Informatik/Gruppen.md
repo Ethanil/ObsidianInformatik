@@ -1,5 +1,5 @@
 # Gruppen
-Eine Gruppe $G$ ist eine spezielle Menge mit einer Abbildung(Verknüpfung) $*$ und folgenden Eigenschaften:
+Eine Gruppe $G$ ist eine spezielle [[Mengen|Menge]] mit einer [[Abbildung]](Verknüpfung) $*$ und folgenden Eigenschaften:
 
 ## Assoziativität: 
 $a,b,c \in G: a*(b*c)=(a*b)*c$
