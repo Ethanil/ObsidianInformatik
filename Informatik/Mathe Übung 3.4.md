@@ -10,3 +10,9 @@ $\bar{\bar{g}}*\bar{g}=n$
 $\bar{g}*g=\bar{\bar{g}}*\bar{g}$
 $\bar{g}*g*g=\bar{\bar{g}}*\bar{g}*g$
 $n*g=\bar{\bar{g}}*n$
+$g=\bar{\bar{g}}$
+
+## 2
+$\bar{n}=n$
+$\bar{n}=\bar{n}*n$
+$\bar{n}=\bar{n}$
