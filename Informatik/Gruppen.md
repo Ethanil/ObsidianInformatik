@@ -6,7 +6,7 @@ $a,b,c \in G: a*(b*c)=(a*b)*c$
 ## Existenz eines neutralen Elements: 
 $\exists n\in G:\forall a\in G: n*a=a \land a*n=a$
 ## Existenz des inversen Elements: 
-$\forall a \in G \ \exists a_2 \in G:a_2*a=n\land a*a_2=n$
+$\forall a \in G \ \exists \bar{a} \in G:\bar{a}*a=n\land a*\bar{a}=n$
 
 Eine Gruppe heißt [[abelsch]] wenn sie folgende Eigenschaft zusätzlich besitzt:
 ## Kommutativität: 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gruppen.md",
-            "mode": "preview"
+            "file": "Mathe Übung 3.4.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gruppen.md",
+                "file": "Mathe Übung 3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "0ada8f4c55901966",
   "lastOpenFiles": [
+    "Mathe Übung 3.4.md",
     "Gruppen.md",
     "abelsch.md",
     "RSA-Verschlüsselung.md",
@@ -128,7 +129,6 @@
     "Day Planners/Day Planner-20211117.md",
     "Der kleine Satz von Fermat.md",
     "Erweiterter Euklidischer Algorithmus.md",
-    "Der Euklidische Algorithmus.md",
-    "ggT.md"
+    "Der Euklidische Algorithmus.md"
   ]
 }
