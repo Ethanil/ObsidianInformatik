@@ -9,7 +9,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gruppen.md",
+            "file": "Injektiv.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "afc4bf954b412fe8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Injektiv.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "44fdf88c9ab84a43",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linkseindeutig.md",
             "mode": "preview"
           }
         }
@@ -69,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gruppen.md",
+                "file": "Linkseindeutig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ada8f4c55901966",
+  "active": "44fdf88c9ab84a43",
   "lastOpenFiles": [
+    "Linkseindeutig.md",
+    "Rechtseindeutig.md",
+    "Injektiv.md",
+    "Abbildung.md",
+    "Surjektiv.md",
+    "Bijektiv.md",
     "Gruppen.md",
     "Mathe Übung 3.4.md",
     "abelsch.md",
-    "RSA-Verschlüsselung.md",
-    "Day Planners/Day Planner-20211115.md",
-    "Day Planners/Day Planner-20211116.md",
-    "Day Planners/Day Planner-20211117.md",
-    "Der kleine Satz von Fermat.md",
-    "Erweiterter Euklidischer Algorithmus.md",
-    "Der Euklidische Algorithmus.md"
+    "RSA-Verschlüsselung.md"
   ]
 }
