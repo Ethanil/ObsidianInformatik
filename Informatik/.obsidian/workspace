@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gruppen.md",
+            "file": "Untergruppen.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gruppen.md",
+                "file": "Untergruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
+    "Untergruppen.md",
     "Gruppen.md",
     "Injektiv.md",
     "Linkseindeutig.md",
@@ -128,7 +129,6 @@
     "Surjektiv.md",
     "Bijektiv.md",
     "Mathe Übung 3.4.md",
-    "abelsch.md",
-    "RSA-Verschlüsselung.md"
+    "abelsch.md"
   ]
 }
