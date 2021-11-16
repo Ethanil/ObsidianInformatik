@@ -7,7 +7,7 @@ Day Planner-16.11.2021
 | [[Day Planner-20211115]] | [[Day Planner-20211117]] |  
 - [x] 10:00 Mathe I Lernzeit
 - [x] 10:30 BREAK
-- [ ] 10:45 Mathe I Lernzeit
+- [x] 10:45 Mathe I Lernzeit
 - [ ] 11:15 BREAK
 - [ ] 11:40 Mathe I Übung
 - [ ] 13:30 Mathe I Treffpunkt
