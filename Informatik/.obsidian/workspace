@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boolsche Algebra.md",
+            "file": "Theoreme der Boolschen Algebra.md",
             "mode": "preview"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOR.md",
+                "file": "Theoreme der Boolschen Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,13 +151,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cf406ba132679963",
+  "active": "ec372329ee219e75",
   "lastOpenFiles": [
-    "NOR.md",
     "Theoreme der Boolschen Algebra.md",
+    "Boolsche Algebra.md",
+    "NOR.md",
     "Axiome der Boolschen Algebra.md",
     "Aussagen und ihre Verknüpfungen.md",
-    "Boolsche Algebra.md",
     "DT Vorlesung 4 10.11.2021.md",
     "Operatorpräzedenz in DT.md",
     "Boolsche Gleichungen.md",
