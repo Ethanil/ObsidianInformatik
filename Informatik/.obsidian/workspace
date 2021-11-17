@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theoreme der Boolschen Algebra.md",
+            "file": "NOR.md",
             "mode": "preview"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoreme der Boolschen Algebra.md",
+                "file": "NOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
   },
   "active": "cf406ba132679963",
   "lastOpenFiles": [
+    "NOR.md",
     "Theoreme der Boolschen Algebra.md",
     "Axiome der Boolschen Algebra.md",
     "Aussagen und ihre Verknüpfungen.md",
@@ -161,7 +162,6 @@
     "Operatorpräzedenz in DT.md",
     "Boolsche Gleichungen.md",
     "Product-of-sums.md",
-    "Sum-of-products.md",
-    "Templates/default Template.md"
+    "Sum-of-products.md"
   ]
 }
