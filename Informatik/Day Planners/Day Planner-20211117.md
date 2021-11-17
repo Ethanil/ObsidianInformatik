@@ -6,7 +6,7 @@ Day Planner-17.11.2021
 | ------- | ------ |  
 | [[Day Planner-20211116]] | [[Day Planner-20211118]] |  
 - [x] 09:50 DT Vorlesung
-- [ ] 11:30 BREAK
+- [x] 11:30 BREAK
 - [ ] 12:00 DT Lernzeit
 - [ ] 12:45 BREAK
 - [ ] 13:00 Mentorengespräch
