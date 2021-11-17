@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untergruppen.md",
+            "file": "Day Planners/Day Planner-20211117.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untergruppen.md",
+                "file": "Day Planners/Day Planner-20211117.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211117.md",
     "Untergruppen.md",
     "Gruppen.md",
     "Injektiv.md",
@@ -128,7 +129,6 @@
     "Abbildung.md",
     "Surjektiv.md",
     "Bijektiv.md",
-    "Mathe Übung 3.4.md",
-    "abelsch.md"
+    "Mathe Übung 3.4.md"
   ]
 }
