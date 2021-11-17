@@ -6,3 +6,4 @@
 ## [[Maxterm]]
 ## [[Sum-of-products]]
 ## [[Product-of-sums]]
+## [[Operatorpräzedenz in DT]]

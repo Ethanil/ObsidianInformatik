@@ -13,5 +13,5 @@ collapse: true
 | 1   | 0   | 1   | $m_2=A\overline{B}$            |
 | 1   | 1   | 0   | $m_3=AB$                       |
 
-$SOP==m_1+m_2
+$SOP=\overline{A}B+A\overline{B}=m_1+m_2$
 ```

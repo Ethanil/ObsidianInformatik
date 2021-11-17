@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sum-of-products.md",
+            "file": "Operatorpräzedenz in DT.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sum-of-products.md",
+                "file": "Operatorpräzedenz in DT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
-    "Sum-of-products.md",
+    "Operatorpräzedenz in DT.md",
     "Boolsche Gleichungen.md",
-    "Templates/default Template.md",
     "Product-of-sums.md",
+    "Sum-of-products.md",
+    "Templates/default Template.md",
     "DT Vorlesung 4 10.11.2021.md",
     "Disjunktion(oder).md",
     "Maxterm.md",
     "Aussagen und ihre Verknüpfungen.md",
-    "Minterm.md",
-    "Konjunktion(und).md"
+    "Minterm.md"
   ]
 }
