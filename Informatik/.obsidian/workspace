@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DT Vorlesung 4 10.11.2021.md",
+            "file": "Boolsche Algebra.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "cf406ba132679963",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theoreme der Boolschen Algebra.md",
             "mode": "preview"
           }
         }
@@ -20,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boolsche Algebra.md",
+            "file": "Axiome der Boolschen Algebra.md",
             "mode": "source"
           }
         }
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolsche Algebra.md",
+                "file": "Theoreme der Boolschen Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "94e170eaad04878c",
+  "active": "cf406ba132679963",
   "lastOpenFiles": [
+    "Theoreme der Boolschen Algebra.md",
     "Boolsche Algebra.md",
     "DT Vorlesung 4 10.11.2021.md",
+    "Axiome der Boolschen Algebra.md",
     "Operatorpräzedenz in DT.md",
     "Boolsche Gleichungen.md",
     "Product-of-sums.md",
     "Sum-of-products.md",
     "Templates/default Template.md",
-    "Disjunktion(oder).md",
-    "Maxterm.md",
-    "Aussagen und ihre Verknüpfungen.md"
+    "Disjunktion(oder).md"
   ]
 }
