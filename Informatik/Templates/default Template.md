@@ -1,1 +1,4 @@
+---
+aliases: 
+---
 # <% tp.file.title %>

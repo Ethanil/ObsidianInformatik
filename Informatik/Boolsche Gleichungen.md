@@ -4,3 +4,5 @@
 ## [[Implikant]]
 ## [[Minterm]]
 ## [[Maxterm]]
+## [[Sum-of-products]]
+## [[Product-of-sums]]

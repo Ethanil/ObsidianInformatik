@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Disjunktion(oder).md",
-            "mode": "preview"
+            "file": "Sum-of-products.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disjunktion(oder).md",
+                "file": "Sum-of-products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +119,15 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
-    "Disjunktion(oder).md",
+    "Sum-of-products.md",
     "Boolsche Gleichungen.md",
+    "Templates/default Template.md",
+    "Product-of-sums.md",
+    "DT Vorlesung 4 10.11.2021.md",
+    "Disjunktion(oder).md",
     "Maxterm.md",
     "Aussagen und ihre Verknüpfungen.md",
     "Minterm.md",
-    "DT Vorlesung 4 10.11.2021.md",
-    "Konjunktion(und).md",
-    "Implikant.md",
-    "Literal.md",
-    "DT-Komplement.md"
+    "Konjunktion(und).md"
   ]
 }
