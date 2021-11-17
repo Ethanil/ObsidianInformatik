@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20211117.md",
-            "mode": "preview"
+            "file": "Kombinatorische Logik.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d95264cf5a875203",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20211117.md",
+                "file": "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec372329ee219e75",
+  "active": "d95264cf5a875203",
   "lastOpenFiles": [
+    "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
+    "Kombinatorische Logik.md",
+    "Kombinatorische Logik_17.11.2021 12-39-57.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-39-03.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-37-46.excalidraw.md",
+    "DT Vorlesung 4 10.11.2021.md",
+    "DT Vorlesung 3 03.11.2021.md",
     "Day Planners/Day Planner-20211117.md",
     "Untergruppen.md",
-    "Gruppen.md",
-    "Injektiv.md",
-    "Linkseindeutig.md",
-    "Rechtseindeutig.md",
-    "Abbildung.md",
-    "Surjektiv.md",
-    "Bijektiv.md",
-    "Mathe Übung 3.4.md"
+    "Gruppen.md"
   ]
 }
