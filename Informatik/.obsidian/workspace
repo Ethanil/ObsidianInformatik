@@ -9,18 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kombinatorische Logik.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d95264cf5a875203",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md"
+            "file": "Disjunktion(oder).md",
+            "mode": "preview"
           }
         }
       }
@@ -49,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modulo",
+                "query": "disjunktion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -58,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
+                "file": "Disjunktion(oder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,20 +116,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d95264cf5a875203",
+  "active": "ec372329ee219e75",
   "lastOpenFiles": [
-    "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
-    "Kombinatorische Logik.md",
-    "Kombinatorische Logik_17.11.2021 12-39-57.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-39-03.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-37-46.excalidraw.md",
+    "Disjunktion(oder).md",
+    "Boolsche Gleichungen.md",
+    "Maxterm.md",
+    "Aussagen und ihre Verknüpfungen.md",
+    "Minterm.md",
     "DT Vorlesung 4 10.11.2021.md",
-    "DT Vorlesung 3 03.11.2021.md",
-    "Day Planners/Day Planner-20211117.md",
-    "Untergruppen.md",
-    "Gruppen.md"
+    "Konjunktion(und).md",
+    "Implikant.md",
+    "Literal.md",
+    "DT-Komplement.md"
   ]
 }

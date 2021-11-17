@@ -15,11 +15,13 @@ Damit die kombinatorische Logik funktioniert muss der Schaltkreis noch ein paar 
 ```ad-example
 title:Beispiele
 collapse:true
-Korrekte kombinatorische Logik:
+### Korrekte kombinatorische Logik:
 ![[Kombinatorische Logik_17.11.2021 12-37-46.excalidraw.md]]
 ![[Kombinatorische Logik_17.11.2021 12-39-03.excalidraw.md]]
 ![[Kombinatorische Logik_17.11.2021 12-39-57.excalidraw.md]]
-Falsche kombinatorische Logik:
+### Falsche kombinatorische Logik:
 ![[Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md]]
-
+(Zyklisch)
+![[Kombinatorische Logik_17.11.2021 12-44-13.excalidraw.md]]
+(Knoten mit 2 inputs)
 ```
