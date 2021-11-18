@@ -1,11 +1,11 @@
 # Injektiv
-Eine [[Abbildung]] ist injektiv, wenn jedes Element des [[Definitionsbereich|Definitionsbereichs]] vom [[Zielbereich]] genau einmal getroffen wird. Die [[Relationen|Relation]] ist also [[Linkseindeutig]].
+Eine [[Abbildung]] ist injektiv, wenn jedes Element des [[Definitionsbereich|Definitionsbereichs]] vom [[Zielbereich]] höchstens einmal getroffen wird. Die [[Relationen|Relation]] ist also [[Linkseindeutig]].
 Die Abbildung
 $$A:=\{3,5,10\}\ B:=\{a,b,c\}$$
 $$f:A\rightarrow B$$
 $$3\mapsto a$$
 $$5\mapsto b$$
-$$10\mapsto c$$
+$$\mapsto c$$
 ist damit injektiv, da sowohl $a$, als auch $b$, als auch $c$ genau einmal getroffen wird.
 ## "Ausnahme"
 Eine Ausnahme dieser Regel ist, wenn 
