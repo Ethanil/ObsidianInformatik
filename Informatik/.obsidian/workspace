@@ -9,41 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theoreme der Boolschen Algebra.md",
+            "file": "Day Planners/Day Planner-20211118.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "cf406ba132679963",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NOR.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "325253b044d6dbfd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Axiome der Boolschen Algebra.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "94e170eaad04878c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Axiome der Boolschen Algebra.md",
-            "mode": "source"
           }
         }
       }
@@ -102,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoreme der Boolschen Algebra.md",
+                "file": "Day Planners/Day Planner-20211118.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +120,15 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20211118.md",
+    "Day Planners/Day Planner-20211111.md",
+    "Day Planners/Day Planner-20211112.md",
+    "Day Planners/Day Planner-20211113.md",
     "Theoreme der Boolschen Algebra.md",
     "Boolsche Algebra.md",
     "NOR.md",
     "Axiome der Boolschen Algebra.md",
     "Aussagen und ihre Verknüpfungen.md",
-    "DT Vorlesung 4 10.11.2021.md",
-    "Operatorpräzedenz in DT.md",
-    "Boolsche Gleichungen.md",
-    "Product-of-sums.md",
-    "Sum-of-products.md"
+    "DT Vorlesung 4 10.11.2021.md"
   ]
 }
