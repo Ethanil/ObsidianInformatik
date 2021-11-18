@@ -6,7 +6,7 @@
 - [x] 10:00 AFE Lernzeit
 - [x] 10:30 BREAK
 - [x] 10:45 AFE Lernzeit
-- [ ] 11:20 BREAK
+- [x] 11:20 BREAK
 - [ ] 11:40 AFE Übung
 - [ ] 13:20 BREAK
 - [ ] 14:00 AFE Lernzeit
