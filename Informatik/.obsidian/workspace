@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theoreme der Boolschen Algebra.md",
+            "file": "Day Planners/Day Planner-20211119.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoreme der Boolschen Algebra.md",
+                "file": "Day Planners/Day Planner-20211119.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "ec372329ee219e75",
   "lastOpenFiles": [
-    "Theoreme der Boolschen Algebra.md",
-    "Injektiv.md",
-    "Surjektiv.md",
+    "Day Planners/Day Planner-20211119.md",
     "Day Planners/Day Planner-20211118.md",
-    "Day Planners/Day Planner-20211111.md",
-    "Day Planners/Day Planner-20211112.md",
+    "Day Planners/Day Planner-20211117.md",
+    "Day Planners/Day Planner-20211116.md",
+    "Day Planners/Day Planner-20211115.md",
+    "Day Planners/Day Planner-20211114.md",
     "Day Planners/Day Planner-20211113.md",
-    "Boolsche Algebra.md",
-    "NOR.md",
-    "Axiome der Boolschen Algebra.md"
+    "Day Planners/Day Planner-20211112.md",
+    "Theoreme der Boolschen Algebra.md",
+    "Injektiv.md"
   ]
 }
