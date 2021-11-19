@@ -7,7 +7,7 @@ Day Planner-19.11.2021
 | [[Day Planner-20211118]] | [[Day Planner-20211120]] |  
 - [x] 08:00 AFE Vorlesung
 - [x] 09:50 BREAK
-- [ ] 10:15 Wiederholung
+- [x] 10:15 Wiederholung
 - [ ] 10:45 BREAK
 - [ ] 11:00 Wiederholung
 - [ ] 11:30 BREAK
