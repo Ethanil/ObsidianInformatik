@@ -93,21 +93,9 @@ a) Folgende Tabelle gibt an, welche Segmente bei welcher Ziffer beleuchtet sind.
 
 b) Geben Sie zu den Segmenten c, d, e, f und g 1 die zugehörige vollständige disjunktive Normalform (DNF) oder konjunktive Normalform (KNF) an, je nachdem welche weniger Minterme bzw. Maxterme benötigt. Sofern gleich viele Minterme/Maxterme benötigt werden, geben Sie die DNF an. (2,5 PP)
 
-$$c=abdef\bar{g_1}
-+\bar{a}b\bar{d}\bar{e}\bar{f}\bar{g_1}
-+abd\bar{e}\bar{f}g_1
-+\bar{a}b\bar{d}\bar{e}fg_1
-+a\bar{b}d\bar{e}fg_1
-+a\bar{b}defg_1
-+ab\bar{d}\bar{e}\bar{f}\bar{g_1}
-+abdefg_1
-+abd\bar{e}fg_1$$
-$$d=abcef\bar{g_1}
-+ab\bar{c}e\bar{f}g_1
-+abc\bar{e}\bar{f}g_1
-+a\bar{b}c\bar{e}fg_1
-+abcefg_1
-+abcefg_1
-+abcefg_1
+$$c=\bar{a}+\bar{b}+\bar{d}+\bar{e}+f+\bar{g_1}$$
+$$c=(a+\bar{b}+\bar{c}+e+f+g_1)
+*(a+\bar{b}+\bar{c}+e+\bar{f}+\bar{g_1})
+*(\bar{a}+\bar{b}+\bar{c}+e+f+g_1)
 $$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
