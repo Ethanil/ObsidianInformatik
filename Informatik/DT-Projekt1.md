@@ -164,3 +164,4 @@ $$\stackrel{T12’}{=}\bar{x_1} \bar{x_2} \bar{x_3} \bar{x_4} \bar{x_5}$$
 $$F=x_1 x_2 x_3 x_4 x_5+x_0 (x_1 x_2 (x_4 + \bar{x_5} ) + x_5 )+\bar{x_1} \bar{x_2} \bar{x_3} \bar{x_4} \bar{x_5}$$
 b) Leider hat der Student am nächsten Tag vergessen, welches Segment er untersucht hat. Analysieren Sie zunächst, für welche Zeichen (0 bis 9 und A bis Z) der Term F aus Teilaufgabe a) wahr wird und zählen Sie diese auf. Überprüfen Sie dann, welches Segment (vgl. Abbildung 1) der Term F aus Teilaufgabe a) beschreibt und nennen Sie dieses. (2 PP)
 Hinweis: Sie können die Segmente einzelner Zeichen unter https://aresluna.org/segmented-type/ anzeigen.
+Der Term wird für 0,V,W,X und Z wahr und beschreibt damit das Segment k.

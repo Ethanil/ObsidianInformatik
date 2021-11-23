@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implikant.md",
+                "file": "DT-Projekt1.md",
                 "mode": "preview"
               }
             }
@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implikant.md",
+                "file": "DT-Projekt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +140,15 @@
   },
   "active": "b9486950dd444975",
   "lastOpenFiles": [
-    "Implikant.md",
-    "Boolsche Gleichungen.md",
     "DT-Projekt1.md",
+    "Literal.md",
+    "DT-Komplement.md",
+    "Implikant.md",
     "Theoreme der Boolschen Algebra.md",
+    "Boolsche Gleichungen.md",
     "Axiome der Boolschen Algebra.md",
     "Beweis durch Induktion.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
-    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
-    "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
-    "Disjunktion(oder).md"
+    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md"
   ]
 }
