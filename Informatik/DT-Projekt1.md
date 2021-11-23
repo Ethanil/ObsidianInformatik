@@ -133,8 +133,13 @@ $$B=x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 )$$
 $$C=\overline{x_1 + (x_2 + x_3 + x_4 )\overline{\bar{x_2} x_3 \bar{x_4}} + x_3 + x_5}$$
 $$F=A+B+C$$
 $$A=x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4$$
-$$\stackrel{T12’}{=}x_1 (\bar{\bar{x_3}} \bar{\bar{x_5}} + x_3 x_4 x_5 )x_2 x_4$$
-$$\stackrel{T4}{=}x_1(x_3 x_5 + x_3 x_4 x_5 ) x_2 x_4 $$
+$$\stackrel{T12’}{=}x_1 ((\bar{\bar{x_3}} \bar{\bar{x_5}}) + x_3 x_4 x_5 )x_2 x_4$$
+$$\stackrel{T4}{=}x_1((x_3 x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
+$$\stackrel{T4}{=}x_1((x_3 x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
+
+
+
+
 $$\stackrel{T6}{=}x_1 x_2 x_4 (x_3 x_5 + x_3 x_4 x_5 )$$
 $$\stackrel{T8}{=}x_1 x_2 x_4 \cdot x_3 x_5 + x_1 x_2 x_4 \cdot x_3 x_4 x_5 $$
 $$\stackrel{T6}{=}x_1 x_2 x_3 x_4 x_5 + x_1 x_2 x_3 x_4 x_4 x_5 $$
@@ -162,6 +167,6 @@ $$\stackrel{T8}{=}\overline{x_1 + x_2 \cdot (1 + \bar{x_3} + x_4 + x_3 + x_4 ) +
 $$\stackrel{T2’}{=}\overline{x_1 + x_2 \cdot 1 + x_3 + x_4 \cdot 1 + x_5  }$$
 $$\stackrel{T1}{=}\overline{x_1 + x_2 + x_3 + x_4 + x_5  }$$
 $$\stackrel{T12’}{=}\bar{x_1} \bar{x_2} \bar{x_3} \bar{x_4} \bar{x_5}$$
-$$F=x_1 x_2 x_3 x_4 x_5+$$
+$$F=(x_1 x_2 x_3 x_4 x_5)+(x_0 (x_1 x_2 (x_4 + \bar{x_5} ) + x_5 ))+(\bar{x_1} \bar{x_2} \bar{x_3} \bar{x_4} \bar{x_5})$$
 b) Leider hat der Student am nächsten Tag vergessen, welches Segment er untersucht hat. Analysieren Sie zunächst, für welche Zeichen (0 bis 9 und A bis Z) der Term F aus Teilaufgabe a) wahr wird und zählen Sie diese auf. Überprüfen Sie dann, welches Segment (vgl. Abbildung 1) der Term F aus Teilaufgabe a) beschreibt und nennen Sie dieses. (2 PP)
 Hinweis: Sie können die Segmente einzelner Zeichen unter https://aresluna.org/segmented-type/ anzeigen.
