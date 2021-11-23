@@ -7,10 +7,9 @@
         "id": "115d2baef71e0ebe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "DT-Projekt1.md",
-            "mode": "preview"
+            "file": "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt1.md",
+                "file": "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +119,7 @@
   },
   "active": "115d2baef71e0ebe",
   "lastOpenFiles": [
+    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
     "DT-Projekt1.md",
     "Erweiterter Euklidischer Algorithmus.md",
     "Theoreme der Boolschen Algebra.md",
@@ -128,7 +128,6 @@
     "Programm.md",
     "Disjunktion(oder).md",
     "Day Planners/Day Planner-20211123.md",
-    "Day Planners/Day Planner-20211124.md",
-    "Day Planners/Day Planner-20211125.md"
+    "Day Planners/Day Planner-20211124.md"
   ]
 }
