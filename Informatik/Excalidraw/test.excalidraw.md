@@ -15,7 +15,7 @@ excalidraw-plugin: parsed
 	"source": "https://excalidraw.com",
 	"elements": [],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -40,7 +40,7 @@ excalidraw-plugin: parsed
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -56,7 +56,6 @@ excalidraw-plugin: parsed
 			}
 		</style>
 	</defs>
-	<rect x="0" y="0" width="20" height="20" fill="#ffffff"></rect>
 </svg>
 ```
 %%
