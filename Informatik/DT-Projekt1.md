@@ -60,11 +60,49 @@ $$2116215$$
 $$+235502$$
 $$\_\_\_\_\_\_\_$$
 $$2355020$$
+$$2355020=10\cdot 235502$$
 Der Wert für $(10)_7$ Tage
+
 Um die Datenraten bei der Übertragung aktualisierter Impfungen an unser Einlasssystem möglichst gering halten zu können, wird lediglich die Gesamtzahl neuer verabreichter Impfdosen und die Anzahl an Erstimpfungen übertragen. Zur Vermeidung von Übertragungsfehlern soll eine Längs- und Querparität verwendet werden.
 Dem Einlasssystem wurden 93 185 insgesamt verabreichte Impfdosen und 57 849 Erstimpfungen übermittelt. Tragen Sie die Binärdarstellung der insgesamt verabreichten Impfdosen in die erste Zeile in folgender Tabelle ein und die Binärdarstellung der Erstimpfungen in die zweite Zeile. Die empfangenen Längs- und Querparitätsbits sind jeweils in der unteren Zeile und der rechten Spalte eingetragen. Lag ein Übertragungsfehler vor? Wenn ja, markieren Sie das betroffene Bit und nennen Sie die korrekte Dezimalzahl.
 
+| 1            | 0            | 1            | 1            | 0            | 1            | 1            | 0            | 0            | 0            | 0       | 0            | 0            | 0            | 0            | 0            | 1            | 0   | $\checkmark$ |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | --- | ------------ |
+| 0            | 1            | 1            | 1            | 0            | 0            | 0            | 0            | 1            | 1            | ***1*** | 1            | 1            | 1            | 0            | 0            | 1            | 1   | X            |
+| 1            | 1            | 0            | 0            | 0            | 1            | 1            | 0            | 1            | 1            | 0       | 1            | 1            | 1            | 0            | 0            | 0            | -   | -            |
+| $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | X       | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ | -   | -            |
+
 In dieser Aufgabe erstellen Sie einen Dekodierer für ein Display zur Darstellung von Dezimalzahlen. Der studentische Filmkreis der TU Darmstadt denkt allerdings auch weiter in die Zukunft und möchte das Display des Einlasssystems nach der Pandemie zur Anzeige von Filmtiteln verwenden. Da eine übliche 7-Segmentanzeige nur mit Einschränkungen Buchstaben anzeigen kann, kommt eine 16-Segmentanzeige (vgl. Abbildung 1) zum Einsatz. 
 a) Folgende Tabelle gibt an, welche Segmente bei welcher Ziffer beleuchtet sind. Eine Ziffer wird mit x 0 x 1 x 2 x 3 binär kodiert. Vervollständigen Sie die Tabelle, indem Sie sich an den Segmentnamen und Zuweisungen in Abbildung 1 orientieren. (2,5 PP)
+
+    
+
+| Ziffer | $x_0$ | $x_1$ | $x_2$ | $x_3$ | $a$ | $b$ | $c$ | $d$ | $e$ | $f$ | $g_1$ | $g_2$ | $h$ | $i$ | $j$ | $k$ | $l$ | $m$ | $dp$ | $dk$ |
+| ------ | ----- | ----- | ----- | ----- | --- | --- | --- | --- | --- | --- | ----- | ----- | --- | --- | --- | --- | --- | --- | ---- | ---- |
+| 0      | 0     | 0     | 0     | 0     | 1   | 1   | 1   | 1   | 1   | 1   | 0     | 0     | 0   | 0   | 1   | 1   | 0   | 0   | 0    | 0    |
+| 1      | 0     | 0     | 0     | 1     | 0   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 1   | 0   | 0   | 0   | 0    | 0    |
+| 2      | 0     | 0     | 1     | 0     | 1   | 1   | 0   | 1   | 1   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 3      | 0     | 0     | 1     | 1     | 1   | 1   | 1   | 1   | 0   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 4      | 0     | 1     | 0     | 0     | 0   | 1   | 1   | 0   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 5      | 0     | 1     | 0     | 1     | 1   | 0   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 6      | 0     | 1     | 1     | 0     | 1   | 0   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 7      | 0     | 1     | 1     | 1     | 1   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 8      | 1     | 0     | 0     | 0     | 1   | 1   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 9      | 1     | 0     | 0     | 1     | 1   | 1   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+
+
 b) Geben Sie zu den Segmenten c, d, e, f und g 1 die zugehörige vollständige disjunktive Normalform (DNF) oder konjunktive Normalform (KNF) an, je nachdem welche weniger Minterme bzw. Maxterme benötigt. Sofern gleich viele Minterme/Maxterme benötigt werden, geben Sie die DNF an. (2,5 PP)
+
+$$c=abdef\bar{g_1}
++\bar{a}b\bar{d}\bar{e}\bar{f}\bar{g_1}
++abd\bar{e}\bar{f}g_1
++\bar{a}b\bar{d}\bar{e}fg_1
++a\bar{b}d\bar{e}fg_1
++a\bar{b}defg_1
++ab\bar{d}\bar{e}\bar{f}\bar{g_1}
++abdefg_1
++abd\bar{e}fg_1$$
+$$d=abcefg_1
++abcefg_1
+$$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
