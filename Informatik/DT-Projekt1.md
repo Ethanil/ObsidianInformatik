@@ -135,21 +135,15 @@ $$F=A+B+C$$
 $$A=x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4$$
 $$\stackrel{T12’}{=}x_1 ((\bar{\bar{x_3}} \bar{\bar{x_5}}) + x_3 x_4 x_5 )x_2 x_4$$
 $$\stackrel{T4}{=}x_1((x_3 x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
-$$\stackrel{T8’}{=}x_1((x_3+ x_3 x_4 x_5( x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
+$$\stackrel{T8’}{=}x_1(( x_3 + x_3 x_4 x_5) \cdot ( x_5 + x_3 x_4 x_5 )) x_2 x_4 $$
+$$\stackrel{T9’}{=}x_1(( x_3) \cdot (x_5)) x_2 x_4 $$
+$$\stackrel{T7}{=}x_1 x_3 x_5 x_2 x_4 $$
+$$\stackrel{T6}{=}x_1 x_2 x_3 x_4 x_5 $$
+$$A=x_1 x_2 x_3 x_4 x_5 $$
 
-
-
-
-$$\stackrel{T6}{=}x_1 x_2 x_4 (x_3 x_5 + x_3 x_4 x_5 )$$
-$$\stackrel{T8}{=}x_1 x_2 x_4 \cdot x_3 x_5 + x_1 x_2 x_4 \cdot x_3 x_4 x_5 $$
-$$\stackrel{T6}{=}x_1 x_2 x_3 x_4 x_5 + x_1 x_2 x_3 x_4 x_4 x_5 $$
-$$\stackrel{T3}{=}x_1 x_2 x_3 x_4 x_5 + x_1 x_2 x_3 x_4 x_5 $$
-$$\stackrel{T3’}{=}x_1 x_2 x_3 x_4 x_5$$
 $$B=x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 )$$
 $$\stackrel{T6’}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + x_4 x_5 + \bar{x_4} x_5 )$$
-$$\stackrel{T8}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + (x_4 +\bar{x_4}) x_5 )$$
-$$\stackrel{T5’}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + (1) x_5 )$$
-$$\stackrel{T1}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + x_5 )$$
+$$\stackrel{T10}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + x_5 )$$
 $$\stackrel{T8}{=}x_0 (x_1 x_2 (\bar{x_5} + x_4 ) + x_5 )$$
 $$\stackrel{T6’}{=}x_0 (x_1 x_2 (x_4 + \bar{x_5} ) + x_5 )$$
 $$C=\overline{x_1 + (x_2 + x_3 + x_4 )\overline{\bar{x_2} x_3 \bar{x_4}} + x_3 + x_5}$$
