@@ -77,25 +77,35 @@ a) Folgende Tabelle gibt an, welche Segmente bei welcher Ziffer beleuchtet sind.
 
     
 
-| Ziffer | $x_0$ | $x_1$ | $x_2$ | $x_3$ | $a$ | $b$ | $c$ | $d$ | $e$ | $f$ | $g_1$ | $g_2$ | $h$ | $i$ | $j$ | $k$ | $l$ | $m$ | $dp$ | $dk$ |
-| ------ | ----- | ----- | ----- | ----- | --- | --- | --- | --- | --- | --- | ----- | ----- | --- | --- | --- | --- | --- | --- | ---- | ---- |
-| 0      | 0     | 0     | 0     | 0     | 1   | 1   | 1   | 1   | 1   | 1   | 0     | 0     | 0   | 0   | 1   | 1   | 0   | 0   | 0    | 0    |
-| 1      | 0     | 0     | 0     | 1     | 0   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 1   | 0   | 0   | 0   | 0    | 0    |
-| 2      | 0     | 0     | 1     | 0     | 1   | 1   | 0   | 1   | 1   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 3      | 0     | 0     | 1     | 1     | 1   | 1   | 1   | 1   | 0   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 4      | 0     | 1     | 0     | 0     | 0   | 1   | 1   | 0   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 5      | 0     | 1     | 0     | 1     | 1   | 0   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 6      | 0     | 1     | 1     | 0     | 1   | 0   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 7      | 0     | 1     | 1     | 1     | 1   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 8      | 1     | 0     | 0     | 0     | 1   | 1   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
-| 9      | 1     | 0     | 0     | 1     | 1   | 1   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| Ziffer | $x_0$ | $x_1$ | $x_2$ | $x_3$ |     | $a$ | $b$ | $c$ | $d$ | $e$ | $f$ | $g_1$ | $g_2$ | $h$ | $i$ | $j$ | $k$ | $l$ | $m$ | $dp$ | $dk$ |
+| ------ | ----- | ----- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- | ----- | ----- | --- | --- | --- | --- | --- | --- | ---- | ---- |
+| 0      | 0     | 0     | 0     | 0     |     | 1   | 1   | 1   | 1   | 1   | 1   | 0     | 0     | 0   | 0   | 1   | 1   | 0   | 0   | 0    | 0    |
+| 1      | 0     | 0     | 0     | 1     |     | 0   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 1   | 0   | 0   | 0   | 0    | 0    |
+| 2      | 0     | 0     | 1     | 0     |     | 1   | 1   | 0   | 1   | 1   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 3      | 0     | 0     | 1     | 1     |     | 1   | 1   | 1   | 1   | 0   | 0   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 4      | 0     | 1     | 0     | 0     |     | 0   | 1   | 1   | 0   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 5      | 0     | 1     | 0     | 1     |     | 1   | 0   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 6      | 0     | 1     | 1     | 0     |     | 1   | 0   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 7      | 0     | 1     | 1     | 1     |     | 1   | 1   | 1   | 0   | 0   | 0   | 0     | 0     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 8      | 1     | 0     | 0     | 0     |     | 1   | 1   | 1   | 1   | 1   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
+| 9      | 1     | 0     | 0     | 1     |     | 1   | 1   | 1   | 1   | 0   | 1   | 1     | 1     | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    |
 
 
 b) Geben Sie zu den Segmenten c, d, e, f und g 1 die zugehörige vollständige disjunktive Normalform (DNF) oder konjunktive Normalform (KNF) an, je nachdem welche weniger Minterme bzw. Maxterme benötigt. Sofern gleich viele Minterme/Maxterme benötigt werden, geben Sie die DNF an. (2,5 PP)
 
-$$c=\bar{a}+\bar{b}+\bar{d}+\bar{e}+f+\bar{g_1}$$
-$$c=(a+\bar{b}+\bar{c}+e+f+g_1)
-*(a+\bar{b}+\bar{c}+e+\bar{f}+\bar{g_1})
-*(\bar{a}+\bar{b}+\bar{c}+e+f+g_1)
-$$
+$$c=x_0+x_1+\bar{x_2}+x_3$$
+$$d=(x_0+x_1+x_2+\bar{x_3})
+*(x_0+\bar{x_1}+x_2+x_3)
+*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
+$$e=\bar{x_0}\bar{x_1}\bar{x_2}\bar{x_3}
++\bar{x_0}\bar{x_1}x_2\bar{x_3}
++\bar{x_0}x_1x_2\bar{x_3}
++x_0\bar{x_1}\bar{x_2}\bar{x_3}$$
+$$f=(x_0+x_1+x_2+\bar{x_3})
+*(x_0+x_1+\bar{x_2}+x_3)
+*(x_0+x_1+\bar{x_2}+\bar{x_3})
+*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
+$$g_1=(x_0+x_1+x_2+x_3)
+*(x_0+x_1+x_2+\bar{x_3})
+*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
