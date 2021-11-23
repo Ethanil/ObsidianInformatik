@@ -135,7 +135,7 @@ $$F=A+B+C$$
 $$A=x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4$$
 $$\stackrel{T12’}{=}x_1 ((\bar{\bar{x_3}} \bar{\bar{x_5}}) + x_3 x_4 x_5 )x_2 x_4$$
 $$\stackrel{T4}{=}x_1((x_3 x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
-$$\stackrel{T4}{=}x_1((x_3 x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
+$$\stackrel{T8’}{=}x_1((x_3+ x_3 x_4 x_5( x_5) + x_3 x_4 x_5 ) x_2 x_4 $$
 
 
 
