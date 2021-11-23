@@ -10,6 +10,7 @@
           {
             "id": "bb82db5ecbb91a74",
             "type": "leaf",
+            "dimension": 37.68844221105528,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,11 +22,12 @@
           {
             "id": "b9486950dd444975",
             "type": "leaf",
+            "dimension": 62.311557788944725,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DT-Projekt1.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           }
