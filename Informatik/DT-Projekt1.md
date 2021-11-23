@@ -30,7 +30,37 @@ $$(1*7^9+2*7^8+3*7^7+6*7^6+5*7^5+5*7^4+6*7^3+4*7^2+6*7^1+2*7^0)_{10}$$
 $$=(1236556462)_7$$
 d) Wie viele vollständige Impfungen liegen in einer Woche vor, wenn jeden Tag 96 472 Impfdosen verabreicht werden, wovon 53 693 Erstimpfungen 3 sind? Führen Sie alle Rechnungen im 7er-Zahlensystem durch. Konvertieren Sie dafür zunächst alle benötigten Zahlen in das 7er-Zahlensystem. (3,5 PP)
 $$(96472)_{10}=(5*7^5+5*7^4+1*7^3+1*7^2+5*7^1+5*7^0)_{10}=(551155)_{7}$$
+$$(53693)_{10}=(3*7^5+1*7^4+2*7^3+3*7^2+5*7^1+3*7^0)_{10}=(312353)_{7}$$
+Ab jetzt sind alle Rechnungen im 7er System, weshalb auf die $7$ bei $x_7$ verzichtet wird.
+$$551155$$
+$$-312353$$
+$$\_\_\_\_\_\_\_$$
+$$235502$$
+Als nächstes müssen wir mit $7_{10}$ multiplizieren, also $(10)_7$, was wie bei jeder Multiplikation mit dem Wert der Basis ein Anhängen einer $0$ rechts von der Ursprungszahl bedeutet.
+Alternativ ist ein weiterer Weg die Addition:
+$$235502$$
+$$+235502$$
+$$\_\_\_\_\_\_\_$$
+$$504304$$
+Womit wir den Wert für $2$ Tage haben.
 
+$$504304$$
+$$+504304$$
+$$\_\_\_\_\_\_\_$$
+$$1311611$$
+Der Wert für $4$ Tage.
+
+$$1311611$$
+$$+504304$$
+$$\_\_\_\_\_\_\_$$
+$$2116215$$
+Der Wert für $6$ Tage.
+
+$$2116215$$
+$$+235502$$
+$$\_\_\_\_\_\_\_$$
+$$2355020$$
+Der Wert für $(10)_7$ Tage
 Um die Datenraten bei der Übertragung aktualisierter Impfungen an unser Einlasssystem möglichst gering halten zu können, wird lediglich die Gesamtzahl neuer verabreichter Impfdosen und die Anzahl an Erstimpfungen übertragen. Zur Vermeidung von Übertragungsfehlern soll eine Längs- und Querparität verwendet werden.
 Dem Einlasssystem wurden 93 185 insgesamt verabreichte Impfdosen und 57 849 Erstimpfungen übermittelt. Tragen Sie die Binärdarstellung der insgesamt verabreichten Impfdosen in die erste Zeile in folgender Tabelle ein und die Binärdarstellung der Erstimpfungen in die zweite Zeile. Die empfangenen Längs- und Querparitätsbits sind jeweils in der unteren Zeile und der rechten Spalte eingetragen. Lag ein Übertragungsfehler vor? Wenn ja, markieren Sie das betroffene Bit und nennen Sie die korrekte Dezimalzahl.
 
