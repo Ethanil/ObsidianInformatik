@@ -15,3 +15,5 @@ collapse: true
 
 $SOP=(A+B)(\overline{A}+\overline{B})=m_0m_3$
 ```
+
+Siehe [[Sum-of-products|SOP]]
