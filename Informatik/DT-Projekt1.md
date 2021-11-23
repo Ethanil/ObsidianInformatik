@@ -120,3 +120,6 @@ $$d=x_0+\bar{x_1}x_2+x_2\bar{x_3}+x_1\bar{x_2}x_3+\bar{x_1}\bar{x_3}$$
 $$e=\bar{x_1}\bar{x_3}+x_2\bar{x_3}$$
 $$f=x_0+x_1\bar{x_2}+\bar{x_2}\bar{x_3}+x_1\bar{x_3}$$
 $$g_1=\bar{x_1}x_2+x_1x_3+x_1\bar{x_2}+x_0$$
+
+d) Vervollständigen Sie die Schaltung für einen Dekodierer der 16-Segmentanzeige. Realisieren Sie dafür die minimierten Ausdrücke aus Teilaufgabe c) mit zweistufiger Logik. Sollte ein Segment in einer der beiden Stufen kein Gatter benötigen, verwenden Sie jeweils einen Buffer als Ersatz. Der Eingang 0 ist eine konstante Null. Hinweis: Sie müssen nur die Schaltung für die Segmente c, d, e, f und g 1 zeichnen. Die Segmente a und b müssen Sie nicht kopieren.(5 PP)
+![[DT-Projekt1_23.11.2021 17-38-20.excalidraw676]]

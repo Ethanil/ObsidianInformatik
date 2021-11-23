@@ -10,7 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "DT-Projekt1.md",
-            "mode": "source"
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "31113c3b90d8f30b",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "DT-Projekt1_23.11.2021 17-38-20.excalidraw676.md"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt1.md",
+                "file": "DT-Projekt1_23.11.2021 17-38-20.excalidraw676.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b9486950dd444975",
+  "active": "31113c3b90d8f30b",
   "lastOpenFiles": [
+    "DT-Projekt1_23.11.2021 17-38-20.excalidraw676.md",
     "DT-Projekt1.md",
+    "Disjunktion(oder).md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
     "Excalidraw/test.excalidraw.md",
     "Excalidraw/Feldeffekt-Transistoren_2021-11-10 18.22.59.excalidraw.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
     "Erweiterter Euklidischer Algorithmus.md",
     "Theoreme der Boolschen Algebra.md",
-    "Sum-of-products.md",
-    "Product-of-sums.md",
-    "Programm.md"
+    "Sum-of-products.md"
   ]
 }
