@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DT-Projekt1.md",
+                "file": "Implikant.md",
                 "mode": "preview"
               }
             }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "implik",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt1.md",
+                "file": "Implikant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +141,15 @@
   },
   "active": "b9486950dd444975",
   "lastOpenFiles": [
+    "Implikant.md",
+    "Boolsche Gleichungen.md",
     "DT-Projekt1.md",
     "Theoreme der Boolschen Algebra.md",
+    "Axiome der Boolschen Algebra.md",
     "Beweis durch Induktion.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
-    "Disjunktion(oder).md",
-    "Excalidraw/test.excalidraw.md",
-    "Excalidraw/Feldeffekt-Transistoren_2021-11-10 18.22.59.excalidraw.md",
-    "Erweiterter Euklidischer Algorithmus.md"
+    "Disjunktion(oder).md"
   ]
 }
