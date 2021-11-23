@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sum-of-products.md",
+            "file": "DT-Projekt1.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disjunktion",
+                "query": "floor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sum-of-products.md",
+                "file": "DT-Projekt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +121,15 @@
   },
   "active": "115d2baef71e0ebe",
   "lastOpenFiles": [
+    "DT-Projekt1.md",
+    "Erweiterter Euklidischer Algorithmus.md",
+    "Theoreme der Boolschen Algebra.md",
     "Sum-of-products.md",
     "Product-of-sums.md",
     "Programm.md",
     "Disjunktion(oder).md",
     "Day Planners/Day Planner-20211123.md",
     "Day Planners/Day Planner-20211124.md",
-    "Day Planners/Day Planner-20211125.md",
-    "Day Planners/Day Planner-20211115 1.md",
-    "Day Planners/Day Planner-20211121.md",
-    "Day Planners/Day Planner-20211120.md"
+    "Day Planners/Day Planner-20211125.md"
   ]
 }
