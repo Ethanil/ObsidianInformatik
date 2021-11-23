@@ -126,6 +126,22 @@ d) Vervollständigen Sie die Schaltung für einen Dekodierer der 16-Segmentanzei
 Ein Student des studentischen Filmkreises, der die Vorlesung Digitaltechnik nicht besucht hat, stellt sich die Frage, wie man den Dekodierer erweitern kann, sodass neben den 10 Ziffern auch alle 26 Großbuchstaben des Alphabets auf der Anzeige dargestellt werden können. Dabei stellt er fest, dass 6 Bits x 0 , . . . , x 5 zur Kodierung der insgesamt 36 Zeichen benötigt werden, wobei 0 die Zahl Null, 10 den Buchstaben A und 35 den Buchstaben Z kodiert.
 a) Nach langen Untersuchungen eines einzelnen Segmentes hat der Student den unten stehenden Ausdruck F abgeleitet. Vereinfachen Sie F mit Hilfe der Rechenregeln der boole’schen Algebra zu einer minimalen Summe von Implikanten. Geben Sie für jeden Rechenschritt den Namen des verwendeten Axioms oder Theorems an (Sie können auch die in der Vorlesung eingeführten Abkürzungen verwenden, z.B. T9). (6 PP)
 Hinweis: Der minimale Ausdruck besteht aus 4 Implikanten. Sie dürfen die Terme einzeln vereinfachen, sofern Sie diese zum Schluss wieder zusammenfügen.
-$$F = x 1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4 + x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 ) + \overline{x_1 + (x_2 + x_3 + x_4 )\overline{x_2 x_3 x_4} + x_3 + x_5}$$
+$$F = x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4 + x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 ) + \overline{x_1 + (x_2 + x_3 + x_4 )\overline{\bar{x_2} x_3 \bar{x_4}} + x_3 + x_5}$$
+Seien $A,B,C$ Hilfsausdrücke für die bessere Übersicht mit folgendem Inhalt:
+$$A=x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4$$
+$$B=x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 )$$
+$$C=\overline{x_1 + (x_2 + x_3 + x_4 )\overline{\bar{x_2} x_3 \bar{x_4}} + x_3 + x_5}$$
+$$F=A+B+C$$
+$$A=x_1 (\overline{(\bar{x_3} + \bar{x_5} )} + x_3 x_4 x_5 )x_2 x_4$$
+$$\stackrel{T12’}{=}x_1 (\bar{\bar{x_3}} \bar{\bar{x_5}} + x_3 x_4 x_5 )x_2 x_4$$
+$$\stackrel{T4}{=}x_1 x_2 x_4 (x_3 x_5 + x_3 x_4 x_5 )$$
+$$\stackrel{T8}{=}x_1 x_2 x_4 \cdot x_3 x_5 + x_1 x_2 x_4 \cdot x_3 x_4 x_5 $$
+$$\stackrel{T3}{=}x_1 x_2 x_3 x_4 x_5 + x_1 x_2 x_3 x_4 x_5 $$
+$$\stackrel{T3’}{=}x_1 x_2 x_3 x_4 x_5$$
+$$B=x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 )$$
+$$\stackrel{T8}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + (x_4 +\bar{x_4}) x_5 )$$
+$$\stackrel{T5’}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + (1) x_5 )$$
+$$\stackrel{T1}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_4 + x_5 )$$
+$$\stackrel{T8}{=}x_0 x_1 x_2 \bar{x_5} + x_0 x_1 x_2 x_4 + x_0 x_5 $$
 b) Leider hat der Student am nächsten Tag vergessen, welches Segment er untersucht hat. Analysieren Sie zunächst, für welche Zeichen (0 bis 9 und A bis Z) der Term F aus Teilaufgabe a) wahr wird und zählen Sie diese auf. Überprüfen Sie dann, welches Segment (vgl. Abbildung 1) der Term F aus Teilaufgabe a) beschreibt und nennen Sie dieses. (2 PP)
 Hinweis: Sie können die Segmente einzelner Zeichen unter https://aresluna.org/segmented-type/ anzeigen.
