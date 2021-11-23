@@ -104,5 +104,10 @@ $$c=abdef\bar{g_1}
 +abd\bar{e}fg_1$$
 $$d=abcefg_1
 +abcefg_1
++abcefg_1
++abcefg_1
++abcefg_1
++abcefg_1
++abcefg_1
 $$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
