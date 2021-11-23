@@ -102,10 +102,10 @@ $$c=abdef\bar{g_1}
 +ab\bar{d}\bar{e}\bar{f}\bar{g_1}
 +abdefg_1
 +abd\bar{e}fg_1$$
-$$d=abcefg_1
-+abcefg_1
-+abcefg_1
-+abcefg_1
+$$d=abcef\bar{g_1}
++ab\bar{c}e\bar{f}g_1
++abc\bar{e}\bar{f}g_1
++a\bar{b}c\bar{e}fg_1
 +abcefg_1
 +abcefg_1
 +abcefg_1
