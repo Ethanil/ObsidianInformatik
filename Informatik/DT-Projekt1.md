@@ -114,7 +114,7 @@ $$g_1=(x_0+x_1+x_2+x_3)
 *(x_0+x_1+x_2+\bar{x_3})
 *(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
-![[DT-Projekt1_23.11.2021 16-57-35.excalidraw|1400]]
+![[DT-Projekt1_23.11.2021 16-57-35.excalidraw|700]]
 $$c=x_1+\bar{x_2}+x_3$$
 $$d=x_0+\bar{x_1}x_2+x_2\bar{x_3}+x_1\bar{x_2}x_3+\bar{x_1}\bar{x_3}$$
 $$e=\bar{x_1}\bar{x_3}+x_2\bar{x_3}$$
