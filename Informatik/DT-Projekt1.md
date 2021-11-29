@@ -143,13 +143,11 @@ $$A=x_1 x_2 x_3 x_4 x_5 $$
 
 $$B=x_0 (x_1 x_2 \bar{x_5} + x_4 x_5 + x_1 x_2 x_4 + \bar{x_4} x_5 )$$
 $$\stackrel{T10}{=}x_0 (x_1 x_2 \bar{x_5} + x_5 + x_1 x_2 x_4 )$$
-$$\stackrel{T10}{=}x_0 (x_1 x_2 \bar{x_5} + x_5 + x_1 x_2 x_4 )$$
-$$\stackrel{T11}{=}x_0 (x_1 x_2 \bar{x_5} + x_4 \bar{x_5} + \bar{x_4} x_5 )\text{    mit} A=\bar{x_5}, B=x_1x_2, C=x_4$$
-$$\stackrel{T10}{=}x_0 (x_1 x_2 \bar{x_5} + x_5 )$$
-$$\stackrel{T9’}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_5 + x_5 )$$
-$$\stackrel{T8}{=}x_0 (x_1 x_2 (\bar{x_5} + x_5) + x_5 )$$
-$$\stackrel{T5’}{=}x_0 (x_1 x_2 (1) + x_5 )$$
-$$\stackrel{T1}{=}x_0 (x_1 x_2 + x_5 )$$
+$$\stackrel{T9’}{=}x_0 (x_1 x_2 \bar{x_5} + x_1 x_2 x_5 + x_5 + x_1 x_2 x_4 )$$
+$$\stackrel{T8}{=}x_0 (x_1 x_2 (\bar{x_5} + x_5 + x_4) + x_5 )$$
+$$\stackrel{T5’}{=}x_0 (x_1 x_2 (1 + x_4) + x_5 )$$
+$$\stackrel{T2’}{=}x_0 (x_1 x_2 (1) + x_5)$$
+$$\stackrel{T1}{=}x_0 (x_1 x_2 + x_5)$$
 $$\stackrel{T8}{=}x_0 x_1 x_2 + x_0 x_5 $$
 $$B=x_0 x_1 x_2 + x_0 x_5 $$
 
