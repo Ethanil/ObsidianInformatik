@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "DT-Projekt1.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoreme der Boolschen Algebra.md",
+                "file": "DT-Projekt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bb82db5ecbb91a74",
+  "active": "b9486950dd444975",
   "lastOpenFiles": [
-    "Theoreme der Boolschen Algebra.md",
     "DT-Projekt1.md",
+    "Theoreme der Boolschen Algebra.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
     "Literal.md",
