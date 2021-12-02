@@ -8335,7 +8335,7 @@ g ^EtsObSMD
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -8360,7 +8360,7 @@ g ^EtsObSMD
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1151.926665739352 2261.4391414097386" width="1151.926665739352" height="2261.4391414097386">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1151.926665739352 2261.4391414097386" width="1151.926665739352" height="2261.4391414097386" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
