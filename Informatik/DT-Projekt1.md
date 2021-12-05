@@ -100,21 +100,22 @@ b) Geben Sie zu den Segmenten c, d, e, f und g 1 die zugehörige vollständige d
 
 $$c=x_0+x_1+\bar{x_2}+x_3$$
 $$d=(x_0+x_1+x_2+\bar{x_3})
-*(x_0+\bar{x_1}+x_2+x_3)
-*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
+\cdot (x_0+\bar{x_1}+x_2+x_3)
+\cdot (x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 $$e=\bar{x_0}\bar{x_1}\bar{x_2}\bar{x_3}
 +\bar{x_0}\bar{x_1}x_2\bar{x_3}
 +\bar{x_0}x_1x_2\bar{x_3}
 +x_0\bar{x_1}\bar{x_2}\bar{x_3}$$
 $$f=(x_0+x_1+x_2+\bar{x_3})
-*(x_0+x_1+\bar{x_2}+x_3)
-*(x_0+x_1+\bar{x_2}+\bar{x_3})
-*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
+\cdot (x_0+x_1+\bar{x_2}+x_3)
+\cdot (x_0+x_1+\bar{x_2}+\bar{x_3})
+\cdot (x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 $$g_1=(x_0+x_1+x_2+x_3)
-*(x_0+x_1+x_2+\bar{x_3})
-*(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
+\cdot (x_0+x_1+x_2+\bar{x_3})
+\cdot (x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
 ![[DT-Projekt1_23.11.2021 16-57-35.excalidraw 2|700]]
+$$\overline{c}=\bar{x_1}x_2\bar{x_3}$$
 $$c=x_1+\bar{x_2}+x_3$$
 $$\overline{d}=x_1\bar{x_3}\bar{x_2}+x_3\bar{x_2}\bar{x_0}\bar{x_1}+x_2x_3x_1$$
 $$d=(\bar{x_1}+x_3+x_2)\cdot (\bar{x_3}+x_2+x_0+x_1)\cdot (\bar{x_2}+\bar{x_3}+\bar{x_1})$$
