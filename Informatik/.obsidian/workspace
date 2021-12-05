@@ -4,15 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b9486950dd444975",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DT-Projekt1.md",
-            "mode": "preview"
+        "id": "12f51c6f92f98ef3",
+        "type": "split",
+        "children": [
+          {
+            "id": "bcf194c31908769b",
+            "type": "leaf",
+            "dimension": 20.770519262981573,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT-Projekt1.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "b9486950dd444975",
+            "type": "leaf",
+            "dimension": 79.22948073701842,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt1.md",
+                "file": "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +139,15 @@
   },
   "active": "b9486950dd444975",
   "lastOpenFiles": [
+    "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
     "DT-Projekt1.md",
-    "Vereinigung.md",
-    "Theoreme der Boolschen Algebra.md",
+    "Erweiterter Euklidischer Algorithmus.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
+    "Boolsche Algebra.md",
+    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
-    "Literal.md",
-    "DT-Komplement.md",
-    "Implikant.md",
-    "Boolsche Gleichungen.md",
-    "Axiome der Boolschen Algebra.md"
+    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
+    "Vereinigung.md",
+    "Theoreme der Boolschen Algebra.md"
   ]
 }

@@ -114,15 +114,18 @@ $$g_1=(x_0+x_1+x_2+x_3)
 *(x_0+x_1+x_2+\bar{x_3})
 *(x_0+\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 c) Die aus Teilaufgabe b) resultierenden DNFs und KNFs können noch weiter vereinfacht werden. Nutzen Sie Karnaugh Diagramme um die DNFs bzw. KNFs zu minimieren. Betrachten Sie nicht verwendete Kodierungen (10 -15) als “Don’t Cares”. Verwenden Sie das folgende dargestellte Karnaugh Diagramm. (2,5 PP)
-![[DT-Projekt1_23.11.2021 16-57-35.excalidraw|700]]
+![[DT-Projekt1_23.11.2021 16-57-35.excalidraw 2|700]]
 $$c=x_1+\bar{x_2}+x_3$$
-$$d=x_0+\bar{x_1}x_2+x_2\bar{x_3}+x_1\bar{x_2}x_3+\bar{x_1}\bar{x_3}$$
+$$\overline{d}=x_1\bar{x_3}\bar{x_2}+x_3\bar{x_2}\bar{x_0}\bar{x_1}+x_2x_3x_1$$
+$$d=(\bar{x_1}+x_3+x_2)\cdot (\bar{x_3}+x_2+x_0+x_1)\cdot (\bar{x_2}+\bar{x_3}+\bar{x_1})$$
 $$e=\bar{x_1}\bar{x_3}+x_2\bar{x_3}$$
-$$f=x_0+x_1\bar{x_2}+\bar{x_2}\bar{x_3}+x_1\bar{x_3}$$
-$$g_1=\bar{x_1}x_2+x_1x_3+x_1\bar{x_2}+x_0$$
+$$\overline{f}=\bar{x_0}\bar{x_1}x_2+\bar{x_0}\bar{x_1}x_3+x_2x_3$$
+$$f=(x_0+x_1+\bar{x_2})\cdot (x_0+x_1+\bar{x_3})\cdot (\bar{x_2}+\bar{x_3})$$
+$$\overline{g_1}=\bar{x_0}\bar{x_1}\bar{x_2}+x_1x_2x_3$$
+$$g_1=(x_0+x_1+x_2)\cdot (\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 
 d) Vervollständigen Sie die Schaltung für einen Dekodierer der 16-Segmentanzeige. Realisieren Sie dafür die minimierten Ausdrücke aus Teilaufgabe c) mit zweistufiger Logik. Sollte ein Segment in einer der beiden Stufen kein Gatter benötigen, verwenden Sie jeweils einen Buffer als Ersatz. Der Eingang 0 ist eine konstante Null. Hinweis: Sie müssen nur die Schaltung für die Segmente c, d, e, f und g 1 zeichnen. Die Segmente a und b müssen Sie nicht kopieren.(5 PP)
-![[DT-Projekt1_23.11.2021 17-38-20.excalidraw6761]]
+![[DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1]]
 Ein Student des studentischen Filmkreises, der die Vorlesung Digitaltechnik nicht besucht hat, stellt sich die Frage, wie man den Dekodierer erweitern kann, sodass neben den 10 Ziffern auch alle 26 Großbuchstaben des Alphabets auf der Anzeige dargestellt werden können. Dabei stellt er fest, dass 6 Bits $x_0, . . . ,x_5$ zur Kodierung der insgesamt 36 Zeichen benötigt werden, wobei 0 die Zahl Null, 10 den Buchstaben A und 35 den Buchstaben Z kodiert.
 a) Nach langen Untersuchungen eines einzelnen Segmentes hat der Student den unten stehenden Ausdruck F abgeleitet. Vereinfachen Sie F mit Hilfe der Rechenregeln der boole’schen Algebra zu einer minimalen Summe von Implikanten. Geben Sie für jeden Rechenschritt den Namen des verwendeten Axioms oder Theorems an (Sie können auch die in der Vorlesung eingeführten Abkürzungen verwenden, z.B. T9). (6 PP)
 Hinweis: Der minimale Ausdruck besteht aus 4 Implikanten. Sie dürfen die Terme einzeln vereinfachen, sofern Sie diese zum Schluss wieder zusammenfügen.
