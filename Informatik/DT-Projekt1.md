@@ -120,8 +120,8 @@ $$c=x_1+\bar{x_2}+x_3$$
 $$\overline{d}=x_1\bar{x_3}\bar{x_2}+x_3\bar{x_2}\bar{x_0}\bar{x_1}+x_2x_3x_1$$
 $$d=(\bar{x_1}+x_3+x_2)\cdot (\bar{x_3}+x_2+x_0+x_1)\cdot (\bar{x_2}+\bar{x_3}+\bar{x_1})$$
 $$e=\bar{x_1}\bar{x_3}+x_2\bar{x_3}$$
-$$\overline{f}=\bar{x_0}\bar{x_1}x_2+\bar{x_0}\bar{x_1}x_3+x_2x_3$$
-$$f=(x_0+x_1+\bar{x_2})\cdot (x_0+x_1+\bar{x_3})\cdot (\bar{x_2}+\bar{x_3})$$
+$$\overline{f}=\bar{x_1}x_2+\bar{x_0}\bar{x_1}x_3+x_2x_3$$
+$$f=(x_1+\bar{x_2})\cdot (x_0+x_1+\bar{x_3})\cdot (\bar{x_2}+\bar{x_3})$$
 $$\overline{g_1}=\bar{x_0}\bar{x_1}\bar{x_2}+x_1x_2x_3$$
 $$g_1=(x_0+x_1+x_2)\cdot (\bar{x_1}+\bar{x_2}+\bar{x_3})$$
 
