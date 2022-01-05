@@ -1039,8 +1039,8 @@ CLK ^5pjcB6qs
 			"type": "line",
 			"x": -268.0518550819688,
 			"y": -175.68346713211207,
-			"width": 437.72161865234375,
-			"height": 0.912872314453125,
+			"width": 457.90086926912,
+			"height": 0.5284889622738547,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1052,8 +1052,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 468596879,
-			"version": 260,
-			"versionNonce": 1884967905,
+			"version": 294,
+			"versionNonce": 1078597359,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1062,8 +1062,8 @@ CLK ^5pjcB6qs
 					0
 				],
 				[
-					437.72161865234375,
-					0.912872314453125
+					457.90086926912,
+					-0.5284889622738547
 				]
 			],
 			"lastCommittedPoint": [
@@ -1078,10 +1078,10 @@ CLK ^5pjcB6qs
 		{
 			"id": "Eq8K1V8TPsMrDhJXPqiSG",
 			"type": "line",
-			"x": 125.39553261334368,
-			"y": -89.41717074539332,
+			"x": 188.81603914089305,
+			"y": -64.91380417466965,
 			"width": 0,
-			"height": 85.35342407226562,
+			"height": 112.25910226922286,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1093,8 +1093,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 615344065,
-			"version": 110,
-			"versionNonce": 403576495,
+			"version": 185,
+			"versionNonce": 1419142031,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1104,7 +1104,7 @@ CLK ^5pjcB6qs
 				],
 				[
 					0,
-					-85.35342407226562
+					-112.25910226922286
 				]
 			],
 			"lastCommittedPoint": [
@@ -1952,8 +1952,8 @@ CLK ^5pjcB6qs
 			"type": "line",
 			"x": -73.42676772714412,
 			"y": -48.74461970430717,
-			"width": 1.711578369140625,
-			"height": 233.92318725585938,
+			"width": 0.719319219174622,
+			"height": 172.40363742994225,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1965,8 +1965,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1450414625,
-			"version": 147,
-			"versionNonce": 2121190113,
+			"version": 214,
+			"versionNonce": 1927423137,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1975,8 +1975,8 @@ CLK ^5pjcB6qs
 					0
 				],
 				[
-					-1.711578369140625,
-					233.92318725585938
+					-0.719319219174622,
+					172.40363742994225
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1991,7 +1991,7 @@ CLK ^5pjcB6qs
 			"x": -9.525782009370687,
 			"y": 87.61547245877877,
 			"width": 0,
-			"height": 98.1336212158203,
+			"height": 36.01871324622111,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2003,8 +2003,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 854111809,
-			"version": 122,
-			"versionNonce": 33133967,
+			"version": 187,
+			"versionNonce": 256901409,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -2014,7 +2014,7 @@ CLK ^5pjcB6qs
 				],
 				[
 					0,
-					98.1336212158203
+					36.01871324622111
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2025,8 +2025,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 865,
-			"versionNonce": 633602433,
+			"version": 946,
+			"versionNonce": 1707294817,
 			"isDeleted": false,
 			"id": "zZdfgV22jO4wVTOAJ06Jm",
 			"fillStyle": "hachure",
@@ -2035,8 +2035,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -58.0148802747261,
-			"y": 295.5717605845373,
+			"x": -57.053962048986,
+			"y": 233.59261533371495,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 34.64715623108237,
@@ -2065,8 +2065,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 875,
-			"versionNonce": 160928527,
+			"version": 956,
+			"versionNonce": 995635759,
 			"isDeleted": false,
 			"id": "Ro1UDfpn6E-J38c393e9a",
 			"fillStyle": "hachure",
@@ -2075,8 +2075,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -52.217872142797184,
-			"y": 209.28105978583574,
+			"x": -51.25695391705708,
+			"y": 147.3019145350134,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 46.19620830810978,
@@ -2105,8 +2105,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 878,
-			"versionNonce": 732572001,
+			"version": 959,
+			"versionNonce": 1797164097,
 			"isDeleted": false,
 			"id": "1YSv8ffJc77_2o-N272T0",
 			"fillStyle": "hachure",
@@ -2115,8 +2115,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -75.50348814173967,
-			"y": 209.36691410172122,
+			"x": -74.54256991599956,
+			"y": 147.38776885089888,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 46.19620830810978,
@@ -2145,8 +2145,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 929,
-			"versionNonce": 1517312303,
+			"version": 1010,
+			"versionNonce": 1158681679,
 			"isDeleted": false,
 			"id": "-ik0pIUfw5tcvYkht7omL",
 			"fillStyle": "hachure",
@@ -2155,8 +2155,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -40.627734070074304,
-			"y": 209.24800723045087,
+			"x": -39.6668158443342,
+			"y": 147.26886197962853,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
@@ -2185,8 +2185,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 992,
-			"versionNonce": 104879425,
+			"version": 1073,
+			"versionNonce": 1659198497,
 			"isDeleted": false,
 			"id": "YqSMqOen60ovLoXItth1b",
 			"fillStyle": "hachure",
@@ -2195,8 +2195,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -29.105114183788125,
-			"y": 244.04998589763056,
+			"x": -28.144195958048023,
+			"y": 182.07084064680822,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 23.09810415405489,
@@ -2225,8 +2225,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 933,
-			"versionNonce": 1015765839,
+			"version": 1014,
+			"versionNonce": 767996527,
 			"isDeleted": false,
 			"id": "9X_A1ov1bcar8p7539CW2",
 			"fillStyle": "hachure",
@@ -2235,8 +2235,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -75.37486083044871,
-			"y": 243.82081079099487,
+			"x": -74.41394260470861,
+			"y": 181.84166554017253,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 23.09810415405489,
@@ -2265,8 +2265,8 @@ CLK ^5pjcB6qs
 		},
 		{
 			"type": "line",
-			"version": 1661,
-			"versionNonce": 686163233,
+			"version": 1742,
+			"versionNonce": 2097623041,
 			"isDeleted": false,
 			"id": "uOe2eoikbxwINzOmMS9Pr",
 			"fillStyle": "hachure",
@@ -2275,8 +2275,8 @@ CLK ^5pjcB6qs
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 1.5732730338934893,
-			"x": -51.2896895223062,
-			"y": 243.5508181353623,
+			"x": -50.328771296566096,
+			"y": 181.57167288453996,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 22.06880765878671,
@@ -2318,8 +2318,8 @@ CLK ^5pjcB6qs
 		{
 			"id": "QzgNA4GpSl8rMBDe7sWJb",
 			"type": "line",
-			"x": -28.772452276227114,
-			"y": 185.42059682454385,
+			"x": -28.29200922524035,
+			"y": 123.92192674847479,
 			"width": 19.646579908288118,
 			"height": 0.1984438688858745,
 			"angle": 0,
@@ -2333,8 +2333,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1085325775,
-			"version": 38,
-			"versionNonce": 3436641,
+			"version": 137,
+			"versionNonce": 184688033,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -2359,8 +2359,8 @@ CLK ^5pjcB6qs
 		{
 			"id": "cHDiiBqzoqcG3eRYdrsK0",
 			"type": "line",
-			"x": -52.388015710330365,
-			"y": 186.2143988371118,
+			"x": -51.42709748459026,
+			"y": 124.23525358628945,
 			"width": 22.226429814877633,
 			"height": 0.7938020125679373,
 			"angle": 0,
@@ -2374,8 +2374,8 @@ CLK ^5pjcB6qs
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 533856815,
-			"version": 49,
-			"versionNonce": 441836847,
+			"version": 130,
+			"versionNonce": 507808911,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -2520,13 +2520,13 @@ CLK ^5pjcB6qs
 	</g>
 	<g transform="translate(140.92961384532373 10) rotate(0 18.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">CLK</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(182.00877644297998 19.86932373046875) rotate(0 218.86080932617188 0.4564361572265625)">
-			<path d="M0 0 C95.48 0.2, 190.96 0.4, 437.72 0.91 M0 0 C123.12 0.26, 246.24 0.51, 437.72 0.91" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(182.00877644297998 19.86932373046875) rotate(0 228.95043463456 -0.26424448113692733)">
+			<path d="M0 0 C99.88 -0.12, 199.76 -0.23, 457.9 -0.53 M0 0 C128.8 -0.15, 257.59 -0.3, 457.9 -0.53" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(575.4561641382925 106.1356201171875) rotate(0 0 -42.67671203613281)">
-			<path d="M0 0 C0 -28.41, 0 -56.83, 0 -85.35 M0 0 C0 -27.82, 0 -55.64, 0 -85.35" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(638.8766706658419 130.63898668791117) rotate(0 0 -56.12955113461143)">
+			<path d="M0 0 C0 -37.37, 0 -74.74, 0 -112.26 M0 0 C0 -36.59, 0 -73.18, 0 -112.26" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -2625,57 +2625,57 @@ CLK ^5pjcB6qs
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(376.6338637978047 146.80817115827364) rotate(0 -0.8557891845703125 116.96159362792969)">
-			<path d="M0 0 C-0.45 62.09, -0.91 124.18, -1.71 233.92 M0 0 C-0.36 49, -0.72 98.01, -1.71 233.92" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(376.6338637978047 146.80817115827364) rotate(0 -0.359659609587311 86.20181871497113)">
+			<path d="M0 0 C-0.19 45.76, -0.38 91.52, -0.72 172.4 M0 0 C-0.15 36.12, -0.3 72.23, -0.72 172.4" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(440.5348495155781 283.1682633213596) rotate(0 0 49.06681060791015)">
-			<path d="M0 0 C0 32.79, 0 65.58, 0 98.13 M0 0 C0 36.59, 0 73.18, 0 98.13" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(440.5348495155781 283.1682633213596) rotate(0 0 18.009356623110556)">
+			<path d="M0 0 C0 12.03, 0 24.07, 0 36.02 M0 0 C0 13.43, 0 26.86, 0 36.02" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(392.0457512502227 491.1245514471181) rotate(90.14190486383944 17.323578115541185 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(393.0066694759628 429.14540619629577) rotate(90.14190486383944 17.323578115541185 0)">
 			<path d="M0 0 C5.77 0, 28.87 0, 34.65 0 M0 0 C5.77 0, 28.87 0, 34.65 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(397.8427593821516 404.83385064841656) rotate(90.14190486383944 23.09810415405489 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(398.8036776078917 342.8547053975942) rotate(90.14190486383944 23.09810415405489 0)">
 			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(374.5571433832091 404.919704964302) rotate(90.14190486383944 23.09810415405489 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(375.5180616089492 342.94055971347973) rotate(90.14190486383944 23.09810415405489 0)">
 			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(409.4328974548745 404.8007980930317) rotate(90.14190486383944 0 23.098104154054894)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(410.3938156806146 342.82165284220935) rotate(90.14190486383944 0 23.098104154054894)">
 			<path d="M0 0 C0 7.7, 0 38.5, 0 46.2 M0 0 C0 7.7, 0 38.5, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(420.95551734116066 439.6027767602114) rotate(90.14190486383944 11.549052077027445 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(421.91643556690076 377.62363150938904) rotate(90.14190486383944 11.549052077027445 0)">
 			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(374.6857706945001 439.3736016535757) rotate(90.14190486383944 11.549052077027447 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(375.6466889202402 377.39445640275335) rotate(90.14190486383944 11.549052077027447 0)">
 			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(398.7709420026426 439.1036089979431) rotate(90.14190486383944 11.034403829393355 23.09810415405488)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(399.7318602283827 377.1244637471208) rotate(90.14190486383944 11.034403829393355 23.098104154054894)">
 			<path d="M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2 M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(421.2881792487217 380.97338768712467) rotate(0 9.823289954144059 0.09922193444293725)">
+		<g transform="translate(421.76862229970845 319.4747176110556) rotate(0 9.823289954144059 0.09922193444293725)">
 			<path d="M0 0 C7.4 0.07, 14.8 0.15, 19.65 0.2 M0 0 C7.25 0.07, 14.5 0.15, 19.65 0.2" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(397.67261581461844 381.7671896996926) rotate(0 -11.113214907438817 -0.3969010062839686)">
+		<g transform="translate(398.63353404035854 319.78804444887027) rotate(0 -11.113214907438817 -0.3969010062839686)">
 			<path d="M0 0 C-8.89 -0.32, -17.78 -0.63, -22.23 -0.79 M0 0 C-8.38 -0.3, -16.75 -0.6, -22.23 -0.79" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
