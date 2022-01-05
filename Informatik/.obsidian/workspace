@@ -10,19 +10,19 @@
           {
             "id": "caeb0ad904e8a155",
             "type": "leaf",
-            "dimension": 16.9061707523246,
+            "dimension": 43.61792054099746,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DT-Projekt2.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           },
           {
             "id": "a58525e1d50f9d7b",
             "type": "leaf",
-            "dimension": 83.0938292476754,
+            "dimension": 56.38207945900253,
             "state": {
               "type": "excalidraw",
               "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
+                "file": "DT-Projekt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a58525e1d50f9d7b",
+  "active": "caeb0ad904e8a155",
   "lastOpenFiles": [
-    "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
     "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
     "DT-Projekt1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
