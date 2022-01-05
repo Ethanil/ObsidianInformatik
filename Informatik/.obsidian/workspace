@@ -10,7 +10,7 @@
           {
             "id": "caeb0ad904e8a155",
             "type": "leaf",
-            "dimension": 29.56081081081081,
+            "dimension": 16.9061707523246,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "82d2100c631ffb4d",
+            "id": "a58525e1d50f9d7b",
             "type": "leaf",
-            "dimension": 70.4391891891892,
+            "dimension": 83.0938292476754,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md"
+                "file": "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md"
               }
             }
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
+                "file": "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "82d2100c631ffb4d",
+  "active": "a58525e1d50f9d7b",
   "lastOpenFiles": [
-    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
+    "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
     "DT-Projekt1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
     "Injektiv.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
-    "Erweiterter Euklidischer Algorithmus.md",
-    "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md"
+    "Erweiterter Euklidischer Algorithmus.md"
   ]
 }
