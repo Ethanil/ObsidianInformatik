@@ -14,21 +14,48 @@ Falls das Lichtschranken-Kontrollsystem ein gültiges Passieren entdeckt, soll s
 
 | Zustand | Sensor | Reset(R) | Nächster Zustand |
 | ------- | ------ | -------- | ---------------- |
-| $s_0$   | 0      | -        | $s_0$            |
-| $s_0$   | 1      | -        | $s_1$            |
-| $s_1$   | 0      | -        | $s_0$            |
-| $s_1$   | 1      | -        | $s_2$            |
-| $s_2$   | 0      | -        | $s_0$            |
-| $s_2$   | 1      | -        | $s_3$            |
-| $s_3$   | 0      | -        | $s_4$            |
-| $s_3$   | 1      | -        | $s_3$            |
-| $s_4$   | 0      | -        | $s_5$            |
-| $s_4$   | 1      | -        | $s_1$            |
-| $s_5$   | 0      | -        | $s_6$            |
-| $s_5$   | 1      | -        | $s_1$            |
-| $s_6$   | -      | 0        | $s_6$            |
-| $s_6$   | 0      | 1        | $s_0$            |
-| $s_6$   | 1      | 1        | $s_0$            |
+| $S_0$   | 0      | -        | $s_0$            |
+| $S_0$   | 1      | -        | $s_1$            |
+| $S_1$   | 0      | -        | $s_0$            |
+| $S_1$   | 1      | -        | $s_2$            |
+| $S_2$   | 0      | -        | $s_0$            |
+| $S_2$   | 1      | -        | $s_3$            |
+| $S_3$   | 0      | -        | $s_4$            |
+| $S_3$   | 1      | -        | $s_3$            |
+| $S_4$   | 0      | -        | $s_5$            |
+| $S_4$   | 1      | -        | $s_1$            |
+| $S_5$   | 0      | -        | $s_6$            |
+| $S_5$   | 1      | -        | $s_1$            |
+| $S_6$   | -      | 0        | $s_6$            |
+| $S_6$   | 0      | 1        | $s_0$            |
+| $S_6$   | 1      | 1        | $s_0$            |
+
+| Zustand | $s_2$ | $s_1$ | $s_0$ |
+| ------- | ----- | ----- | ----- |
+| $S_0$   | 0     | 0     | 0     |
+| $S_1$   | 0     | 0     | 1     |
+| $S_2$   | 0     | 1     | 0     |
+| $S_3$   | 0     | 1     | 1     |
+| $S_4$   | 1     | 0     | 0     |
+| $S_5$   | 1     | 0     | 1     |
+| $S_6$   | 1     | 1     | 0     |
+
+| Zustand | Sensor | O   |
+| ------- | ------ | --- |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
+| $S_0$   | 0      | 0   |
 
 #### b) 
 Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
