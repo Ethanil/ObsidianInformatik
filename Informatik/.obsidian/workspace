@@ -4,15 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "caeb0ad904e8a155",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DT-Projekt2.md",
-            "mode": "preview"
+        "id": "c2d271101ca0b80b",
+        "type": "split",
+        "children": [
+          {
+            "id": "caeb0ad904e8a155",
+            "type": "leaf",
+            "dimension": 29.56081081081081,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT-Projekt2.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "82d2100c631ffb4d",
+            "type": "leaf",
+            "dimension": 70.4391891891892,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -52,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -69,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2.md",
+                "file": "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +138,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "caeb0ad904e8a155",
+  "active": "82d2100c631ffb4d",
   "lastOpenFiles": [
+    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
     "DT-Projekt2.md",
     "DT-Projekt1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
@@ -128,7 +149,6 @@
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw.md",
     "Erweiterter Euklidischer Algorithmus.md",
-    "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
-    "Boolsche Algebra.md"
+    "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md"
   ]
 }

@@ -8,6 +8,7 @@ Entwerfen Sie zunächst eine digitale Schaltung für die Kontrolleinheit der Lic
 Lichtschranke unterbrochen ist und eine 0, wenn dies nicht der Fall ist. 
 Die Kontrolleinheit der Lichtschranke hat einen Ausgang zum Bus, der mit O gekennzeichnet wird, und einen Eingang vom Bus, den wir mit R bezeichnen. Am Ausgang O soll eine logische 1 anliegen, sobald ein gültiges Passieren eines Kunden erkannt wird. Ein gültiges Passieren findet genau dann statt, wenn die Lichtschranke für mindestens 3 Takte unterbrochen ist und anschließend für 3 Takte ununterbrochen bleibt. 
 Falls das Lichtschranken-Kontrollsystem ein gültiges Passieren entdeckt, soll solange am Ausgang O die 1 ausgegeben werden, bis ein Reset Signal am Eingang R anliegt. (2 PP)  
+![[DT-Projekt2_05.01.2022 20-38-28.excalidraw.md]]
 
 #### b) 
 Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
@@ -26,7 +27,7 @@ Abschließend sollen Sie eine digitale Schaltung für den Motorcontrol-Chipbaust
 | Kaffee                      | Wasserkocher + Leitsystem + (Kaffeemühle → Aufgussschub (P = 1)) → Pumpe (500ml) → Aufgussschub (P = 0)                        |
 | Cappucino / Latte Macchiato | Wasserkocher + Leitsystem + (Kaffeemühle → Aufgussschub (P = 1)) → Pumpe (250 ml) → Aufgussschub (P = 0) → Milchpumpe (250 ml) |
 
- Tabelle 1: Rezepte der Getränke des Getränkeautomaten. Jedes Rezept beginnt mit dem Becherauslass sowie der Nutzung des Leitsystems vom Wassertank zum Auslass (dies kann auch parallel passieren). Gewünschte Zusätze (Zucker- und Eiswürfelbereiter) können jederzeit parallel dem Getränk hinzugegeben werden (Voraussetzung: Der Automat hat bereits einen Becher ausgelassen). Die Notation “Wasserkocher + (Kaffeemühle → Aufgussschub (P = 1))” bedeutet, dass der Wasserkocher parallel zur Kaffeemühle und dem Aufgussschub verwendet werden darf - diese Komponenten sind unabhängig voneinander.
+** Tabelle 1**: Rezepte der Getränke des Getränkeautomaten. Jedes Rezept beginnt mit dem Becherauslass sowie der Nutzung des Leitsystems vom Wassertank zum Auslass (dies kann auch parallel passieren). Gewünschte Zusätze (Zucker- und Eiswürfelbereiter) können jederzeit parallel dem Getränk hinzugegeben werden (Voraussetzung: Der Automat hat bereits einen Becher ausgelassen). Die Notation “Wasserkocher + (Kaffeemühle → Aufgussschub (P = 1))” bedeutet, dass der Wasserkocher parallel zur Kaffeemühle und dem Aufgussschub verwendet werden darf - diese Komponenten sind unabhängig voneinander.
  
 ## 2.2 Getränkeautomat (10 PP)  
 In dieser Aufgabe sollen Sie den Getränkeautomaten planen und Teile davon konstruieren.  
@@ -54,18 +55,32 @@ Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszei
 | Kaffeemühle       | 2,3 s    | St       | R        | Die Kaffeemühle mahlt eine Portion Kaffeebohnen in den Kaffeeaufguss, sobald am Eingang St eine logische 1 anliegt. Sobald der Vorgang abgeschlossen ist, liegt am Ausgang R eine logische 1 an.                                                                                                                  |
 | Aufgussschub      | 310 ms   | St, P    | R        | Der Aufgussschub bewegt den Kaffeeaufguss zwischen Kaffeemühle (P = 0) und dem Flüssigkeitsauslass (P = 1), wenn am Eingang St eine logische 1 anliegt. Sobald der Vorgang abgeschlossen ist, liegt am Ausgang R eine logische 1 an                                                                               |
 
+**Tabelle 2**: Liste der einzelnen Komponenten des Getränkeautomaten.
 
+## Zentrale Kontrolleinheit (9 PP)  
+In dieser Aufgabe entwerfen Sie die zentrale Kontrolleinheit für das System. Diese ist am Bus mittels der Eingänge $X_0, X_1$ und Ausgänge $Y_0, \dotso , Y_{n−1}$ angeschlossen. Von der zentralen Kontrolleinheit erhält der Bus für jede Komponente, an die er angeschlossen ist, bis zu zwei weitere Steuersignale, die nicht auf dem Schaltplan im Prolog eingezeichnet sind und angeben, ob die jeweilige Komponente senden oder empfangen soll (oder nichts von beidem, wenn beide Signale aus sind). Benennen Sie diese Ausgänge $C_{in}, C_{out}$ für die Kontrolleinheit, $A_{in}$ für das Display, $S_{in}, S_{out}$ für die Schiebetür,  
+$L_{in}, L_{out}$ für die Lichtschranke, und $G_{in}$ für den Getränkeautomaten. Hierbei wird das in-Signal der jeweiligen Komponente auf eine logische 1 gesetzt, wenn die Komponente Daten vom Bus empfangen soll und das out-Signal, wenn die Komponente Daten senden soll.  
+Der Schalter, bei dem die Kunden ihr Ticket scannen, ist direkt an die Kontrolleinheit angeschlossen. Dieser erhält als Eingang ein Signal R, das angibt, wenn der nächste Kunde sein Ticket scannen darf. Ein Ausgang V gibt an, wenn ein Ticket vom Kunden erfolgreich gescannt wurde und die Seriennummer im System hinterlegt ist. Darüber hinaus wird ebenfalls die Kodierung $G_0, \dotso , G_{n−1}$ vom Schalter ausgegeben, welche das gewünschte Getränks angibt, das an den Getränkeautomaten weitergegeben werden soll.  
+Der Ablauf des Kontrollsystems ist wie folgt:  
+1. Initialer Zustand: Es werden keine Daten über den Bus gesendet und die maximale Teilnehmeranzahl wird auf 50 Personen gesetzt. Diese Zahl wird bereits auf dem Display angezeigt.  
+2. Sofern noch Besucher passieren dürfen, wartet das Kontrollsystem auf das V -Signal des Schalters, welches ein gültiges Scannen symbolisiert. Am Eingang G ist der Getränkewunsch kodiert.  
+3. Der Getränkewunsch wird an den Getränkeautomaten weitergereicht.  
+4. Die Schiebetür öffnet sich.  
+5. Sobald die Schiebetür komplett geöffnet wurde, wartet das Kontrollsystem auf eine Lichtschrankenunterbrechung. Falls sich die Bewegungsrichtung der Schiebetür unerwartet ändert, liegt ein Systemfehler vor und das System fährt herunter.  
+6. Sobald die Lichtschranke unterbrochen wurde, wird diese zurückgesetzt und die Tür schließt sich. Auch hier gilt wieder, dass das System herunterfährt, wenn sich die Bewegungsrichtung der Schiebetür unerwartet ändert.  
+7. Sobald die Tür geschlossen wurde, wird die Anzeige auf dem Display aktualisiert und der nächste Besucher darf passieren. Übergeben Sie die anzuzeigende Zahl an die Display Komponente.  
 
+Sie müssen für alle Komponenten die korrekten Eingänge/Ausgänge am Bus setzen, wie sie in den vorherigen Aufgabenstellungen erklärt wurden.
+#### Aufgabe: 
+Entwerfen Sie das **FSM-Diagramm eines Moore-Automaten**, der das zentrale Kontrollsystem wie oben  
+beschrieben umsetzt. Die Ausgänge des Automaten sind die Steuersignale zum Bus (hier genügt es, nur die Ausgänge aufzulisten, die auf 1 gesetzt sind) sowie die Nachricht Y , die in den Bus geschickt wird. Stellen Sie den Zustand “System fährt herunter” mit einem Fehlerzustand dar, der alle Ausgänge auf 0 setzt und keine Folgezustände besitzt. Sie dürfen eine Kette von Zuständen mit Punkten abkürzen, wenn alle Zustände in der Kette dieselben Zustandsübergänge und ähnliche Ausgänge haben (vgl. Abbildung 2). Die Zustände, die den Anfang und das Ende der Kette bilden, müssen in jedem Fall gezeichnet werden. Geben Sie auch die Anzahl der Zustände an, die sie abkürzen. Weiterhin dürfen Sie alle Methoden zur Umsetzung von Zustandsautomaten verwenden, die Sie in der Vorlesung gelernt haben.
 
+## Bus (3 PP)  
+In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, der das Display, die Schiebetür, den Getränkeautomaten, die Lichtschranke und die zentrale Kontrolleinheit verbindet.  
+#### a) 
+Entwerfen Sie einen digitalen Schaltplan für den Bus. Orientieren Sie sich an den Interfaces aus dem Prolog. Achten Sie darauf, dass keine Komponente unnötige Wires erhält (z.B. benötigt die Lichtschranke weniger  
+Daten vom Bus als der Getränkeautomat). Beachten Sie außerdem die zusätzlichen Eingänge, die in Projekt 2.3 beschrieben sind und die bestimmen, welche Komponente empfängt und sendet. (2PP)  
+#### b) 
+Ihr Schaltplan benötigt jeweils bis zu 2 Signale, um zu steuern, welche Komponente sendet und empfängt. Beschreiben Sie, wie man die Anzahl dieser Kontroll-Bits reduzieren kann. (1PP)
 
-
-
-
-
-
-
-
-
-
-
-
+# Ich hoffe Sie hatten eine besinnliche und erfrischende Weihnachtszeit! 🙂
