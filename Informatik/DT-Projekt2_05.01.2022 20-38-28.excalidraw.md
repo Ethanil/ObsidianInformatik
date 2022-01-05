@@ -21,15 +21,15 @@ Q ^Oq63ewP0
 
 X ^h9WLh9yi
 
-D ^U85SwFrl
+D ^bSAvHYKF
 
-Q ^8V6eOwcr
+Q ^8DxFuPif
 
-Q ^EmK25WT7
+Q ^F0o9lM72
 
-X ^x0KId7Zn
+X ^4D3n6Uhk
 
-CLK ^PiInqIv4
+CLK ^5pjcB6qs
 
 %%
 # Drawing
@@ -48,8 +48,8 @@ CLK ^PiInqIv4
 			"baseline": 32,
 			"id": "h46HSahV",
 			"type": "text",
-			"x": -427.5412572224934,
-			"y": -83.4578959147135,
+			"x": -440.0606315249488,
+			"y": -137.51286679222468,
 			"width": 113,
 			"height": 46,
 			"angle": 0,
@@ -62,19 +62,19 @@ CLK ^PiInqIv4
 			"opacity": 100,
 			"strokeSharpness": "sharp",
 			"seed": 57075,
-			"version": 651,
+			"version": 753,
 			"versionNounce": 1,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElementIds": [],
 			"rawText": "Sensor",
-			"versionNonce": 1959813967
+			"versionNonce": 405038799
 		},
 		{
 			"id": "RNRVnaNF",
 			"type": "text",
-			"x": -38.055397033691406,
-			"y": 127.31094360351562,
+			"x": -85.72747257777621,
+			"y": 361.1072673494853,
 			"width": 26,
 			"height": 46,
 			"angle": 0,
@@ -88,8 +88,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 2100434447,
-			"version": 101,
-			"versionNonce": 1511720143,
+			"version": 174,
+			"versionNonce": 936735137,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "O",
@@ -103,8 +103,8 @@ CLK ^PiInqIv4
 		{
 			"id": "MCbtjeRM",
 			"type": "text",
-			"x": 129.0001449584961,
-			"y": 122.54953002929688,
+			"x": 112.62637922498914,
+			"y": 378.1533808632503,
 			"width": 25,
 			"height": 46,
 			"angle": 0,
@@ -118,8 +118,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 623231297,
-			"version": 90,
-			"versionNonce": 1605411745,
+			"version": 155,
+			"versionNonce": 1873589487,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "R",
@@ -150,8 +150,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 1904155983,
-			"version": 491,
-			"versionNonce": 1272694433,
+			"version": 492,
+			"versionNonce": 911775105,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -205,8 +205,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 330964321,
-			"version": 196,
-			"versionNonce": 1168257007,
+			"version": 197,
+			"versionNonce": 1766211343,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -252,8 +252,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 1623186671,
-			"version": 110,
-			"versionNonce": 13388417,
+			"version": 111,
+			"versionNonce": 1686912353,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "D",
@@ -284,8 +284,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 1641890113,
-			"version": 151,
-			"versionNonce": 2027182607,
+			"version": 152,
+			"versionNonce": 661226799,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "Q",
@@ -316,8 +316,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 56777953,
-			"version": 120,
-			"versionNonce": 1891717729,
+			"version": 121,
+			"versionNonce": 29354305,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "Q",
@@ -348,8 +348,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 401969103,
-			"version": 190,
-			"versionNonce": 1954299951,
+			"version": 191,
+			"versionNonce": 1769932623,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -391,8 +391,8 @@ CLK ^PiInqIv4
 			],
 			"strokeSharpness": "sharp",
 			"seed": 397884143,
-			"version": 84,
-			"versionNonce": 1351245377,
+			"version": 85,
+			"versionNonce": 928192801,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "X",
@@ -405,8 +405,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "arrow",
-			"version": 597,
-			"versionNonce": 1428363265,
+			"version": 873,
+			"versionNonce": 1843348847,
 			"isDeleted": false,
 			"id": "ZGYRK7QApfSvX1oR65no7",
 			"fillStyle": "hachure",
@@ -415,8 +415,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 97.95780745830865,
-			"y": -88.57810371697846,
+			"x": 161.4023265012774,
+			"y": -63.017709429869086,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 58.03250994001121,
@@ -457,8 +457,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 302,
-			"versionNonce": 1413162127,
+			"version": 578,
+			"versionNonce": 1454722305,
 			"isDeleted": false,
 			"id": "rQW99P_yK_fTV951n5eUM",
 			"fillStyle": "hachure",
@@ -467,8 +467,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 116.31972774158936,
-			"y": -89.10299248071763,
+			"x": 179.7642467845581,
+			"y": -63.54259819360826,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 17.46361773947001,
@@ -501,18 +501,18 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "text",
-			"version": 216,
-			"versionNonce": 2078437345,
+			"version": 492,
+			"versionNonce": 332578703,
 			"isDeleted": false,
-			"id": "U85SwFrl",
+			"id": "bSAvHYKF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 102.34500109006188,
-			"y": -67.78795254506392,
+			"x": 165.78952013303063,
+			"y": -42.22755825795454,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
@@ -533,18 +533,18 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "text",
-			"version": 257,
-			"versionNonce": 2108013231,
+			"version": 533,
+			"versionNonce": 1466303713,
 			"isDeleted": false,
-			"id": "8V6eOwcr",
+			"id": "8DxFuPif",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 134.99225484262877,
-			"y": -68.95407535728845,
+			"x": 198.43677388559752,
+			"y": -43.39368107017907,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -565,18 +565,18 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "text",
-			"version": 226,
-			"versionNonce": 1688980417,
+			"version": 502,
+			"versionNonce": 1032975791,
 			"isDeleted": false,
-			"id": "EmK25WT7",
+			"id": "F0o9lM72",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 136.31840388648214,
-			"y": -17.998860255113897,
+			"x": 199.7629229294509,
+			"y": 7.561534031995478,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -597,8 +597,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 296,
-			"versionNonce": 1704496335,
+			"version": 572,
+			"versionNonce": 351584449,
 			"isDeleted": false,
 			"id": "TT3EFshCTk02ygQm60jlz",
 			"fillStyle": "hachure",
@@ -607,8 +607,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 135.12770086763027,
-			"y": -15.650832486771463,
+			"x": 198.57221991059902,
+			"y": 9.909561800337912,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 13.891508682914377,
@@ -637,18 +637,18 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "text",
-			"version": 190,
-			"versionNonce": 1201580961,
+			"version": 466,
+			"versionNonce": 1917151183,
 			"isDeleted": false,
-			"id": "x0KId7Zn",
+			"id": "4D3n6Uhk",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 121.26852752408047,
-			"y": -42.15690502588723,
+			"x": 184.71304656704922,
+			"y": -16.59651073877785,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 12,
@@ -669,8 +669,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 493,
-			"versionNonce": 1740575887,
+			"version": 835,
+			"versionNonce": 1291911329,
 			"isDeleted": false,
 			"id": "Q7ZjHkka55HeTueoqlSHO",
 			"fillStyle": "hachure",
@@ -679,8 +679,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": 15.253399604630317,
-			"y": -57.04522902305557,
+			"x": 128.44938349134907,
+			"y": -30.571992939071194,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 31.040289972119606,
@@ -709,8 +709,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 696,
-			"versionNonce": 1188397025,
+			"version": 1038,
+			"versionNonce": 1074107887,
 			"isDeleted": false,
 			"id": "NmoBt5ulsJFUoeGK1_cMn",
 			"fillStyle": "hachure",
@@ -719,8 +719,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -67.479680040922,
-			"y": -67.27417639082785,
+			"x": 45.716303845796745,
+			"y": -40.80094030684347,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 37.68160260577701,
@@ -749,8 +749,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 582,
-			"versionNonce": 1529588399,
+			"version": 947,
+			"versionNonce": 1564099713,
 			"isDeleted": false,
 			"id": "zwIAobAXCCfoxgfgI6IeO",
 			"fillStyle": "hachure",
@@ -759,12 +759,12 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -67.36186408465437,
-			"y": -46.52328353773905,
+			"x": 55.41926384503313,
+			"y": -19.593596037739047,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 37.396568673318974,
-			"height": 0,
+			"width": 27.811424630350224,
+			"height": 0.456451416015625,
 			"seed": 1451961199,
 			"groupIds": [
 				"5h9ChkSzrYcnEPTzQLMJq"
@@ -782,15 +782,15 @@ CLK ^PiInqIv4
 					0
 				],
 				[
-					37.396568673318974,
-					0
+					27.811424630350224,
+					-0.456451416015625
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 567,
-			"versionNonce": 2126306241,
+			"version": 909,
+			"versionNonce": 1574633487,
 			"isDeleted": false,
 			"id": "i00SKY2rReFcLWIq17Kwh",
 			"fillStyle": "hachure",
@@ -799,8 +799,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -26.34759778454116,
-			"y": -77.94528583359929,
+			"x": 86.84838610217759,
+			"y": -51.47204974961491,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 10.346763324039866,
@@ -833,8 +833,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 570,
-			"versionNonce": 2095086799,
+			"version": 912,
+			"versionNonce": 1096813665,
 			"isDeleted": false,
 			"id": "0zarXimym1qFtxjzLrDbK",
 			"fillStyle": "hachure",
@@ -843,8 +843,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -36.62918802164518,
-			"y": -78.1784007130894,
+			"x": 76.56679586507357,
+			"y": -51.70516462910503,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 10.346763324039866,
@@ -877,8 +877,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 641,
-			"versionNonce": 487439265,
+			"version": 983,
+			"versionNonce": 230565423,
 			"isDeleted": false,
 			"id": "x3CQUWzKwbFVYhj0gVydv",
 			"fillStyle": "hachure",
@@ -887,8 +887,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -26.4147012100432,
-			"y": -77.73261217738703,
+			"x": 86.78128267667554,
+			"y": -51.25937609340265,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 41.387053296159465,
@@ -921,8 +921,8 @@ CLK ^PiInqIv4
 		},
 		{
 			"type": "line",
-			"version": 577,
-			"versionNonce": 1349913327,
+			"version": 919,
+			"versionNonce": 1363269697,
 			"isDeleted": false,
 			"id": "2d9gKEiBr_h1VLMpJVmlb",
 			"fillStyle": "hachure",
@@ -931,8 +931,8 @@ CLK ^PiInqIv4
 			"roughness": 0,
 			"opacity": 90,
 			"angle": 0,
-			"x": -26.421008874677593,
-			"y": -17.690104928624038,
+			"x": 86.77497501204115,
+			"y": 8.783131155360337,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 41.387053296159465,
@@ -964,69 +964,12 @@ CLK ^PiInqIv4
 			]
 		},
 		{
-			"id": "kaGaG5ZQfFe3momPRVAS-",
-			"type": "line",
-			"x": -123.36179160540632,
-			"y": 3.695683258512929,
-			"width": 112.73953247070312,
-			"height": 103.61087036132812,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 1542908417,
-			"version": 303,
-			"versionNonce": 2138927905,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					20.0831298828125,
-					-0.456451416015625
-				],
-				[
-					17.80096435546875,
-					-103.61087036132812
-				],
-				[
-					-92.65640258789062,
-					-101.78512573242188
-				],
-				[
-					-91.287109375,
-					-51.12078857421875
-				],
-				[
-					-58.423736572265625,
-					-51.12078857421875
-				]
-			],
-			"lastCommittedPoint": [
-				-58.423736572265625,
-				-51.12078857421875
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
 			"id": "FpqNKOBd8WbQUumGimw_S",
 			"type": "line",
 			"x": -124.27466391985945,
 			"y": -46.05578158523707,
-			"width": 56.597991943359375,
-			"height": 0.456451416015625,
+			"width": 106.80587768554688,
+			"height": 2.7386474609375,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1038,8 +981,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 478439169,
-			"version": 106,
-			"versionNonce": 937626639,
+			"version": 144,
+			"versionNonce": 1052715041,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1048,8 +991,8 @@ CLK ^PiInqIv4
 					0
 				],
 				[
-					56.597991943359375,
-					-0.456451416015625
+					106.80587768554688,
+					-2.7386474609375
 				]
 			],
 			"lastCommittedPoint": [
@@ -1062,101 +1005,7 @@ CLK ^PiInqIv4
 			"endArrowhead": null
 		},
 		{
-			"id": "FisI1EGd56H4d1clJlwit",
-			"type": "line",
-			"x": 47.801477437562426,
-			"y": -57.01024935867457,
-			"width": 50.66436767578125,
-			"height": 0.4564208984375,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 753569665,
-			"version": 62,
-			"versionNonce": 1595838671,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					50.66436767578125,
-					-0.4564208984375
-				]
-			],
-			"lastCommittedPoint": [
-				50.66436767578125,
-				-0.4564208984375
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"id": "VKPL3pVWHQ4YGFKe9x_Wj",
-			"type": "line",
-			"x": 156.43313026959368,
-			"y": -59.29241488601832,
-			"width": 252.40878295898438,
-			"height": 71.66036987304688,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 1775345391,
-			"version": 227,
-			"versionNonce": 1439266575,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					26.9296875,
-					0
-				],
-				[
-					27.3861083984375,
-					-71.66036987304688
-				],
-				[
-					-225.02267456054688,
-					-69.83462524414062
-				],
-				[
-					-223.19692993164062,
-					-7.302978515625
-				]
-			],
-			"lastCommittedPoint": [
-				-223.19692993164062,
-				-7.302978515625
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"id": "PiInqIv4",
+			"id": "5pjcB6qs",
 			"type": "text",
 			"x": -309.1310176796251,
 			"y": -185.55279086258082,
@@ -1173,8 +1022,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 247840047,
-			"version": 21,
-			"versionNonce": 594592769,
+			"version": 22,
+			"versionNonce": 1266614415,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "CLK",
@@ -1203,8 +1052,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 468596879,
-			"version": 259,
-			"versionNonce": 168844975,
+			"version": 260,
+			"versionNonce": 1884967905,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1244,8 +1093,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 615344065,
-			"version": 109,
-			"versionNonce": 1924070657,
+			"version": 110,
+			"versionNonce": 403576495,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1285,8 +1134,8 @@ CLK ^PiInqIv4
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 294391695,
-			"version": 65,
-			"versionNonce": 77009807,
+			"version": 66,
+			"versionNonce": 1216819137,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -1303,6 +1152,1243 @@ CLK ^PiInqIv4
 				-0.4564208984375,
 				-94.48211669921875
 			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 757,
+			"versionNonce": 1651347361,
+			"isDeleted": false,
+			"id": "KCpjCGYmBLnzgisfleuSk",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -51.02718277894331,
+			"y": -15.24225592427058,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.19620830810978,
+			"height": 0,
+			"seed": 645275823,
+			"groupIds": [
+				"xSu9juuuoaLBW75qq1wy7"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.19620830810978,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 811,
+			"versionNonce": 1413280641,
+			"isDeleted": false,
+			"id": "_lNpinN6_2rVitPaFAOE_",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -4.835595935450726,
+			"y": -26.889554610977882,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 46.19620830810978,
+			"seed": 1478164719,
+			"groupIds": [
+				"xSu9juuuoaLBW75qq1wy7"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 874,
+			"versionNonce": 1356775695,
+			"isDeleted": false,
+			"id": "mPf0zE4wObze9_zJ4X2pi",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -4.737951110883671,
+			"y": -26.89203869800724,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 1175128847,
+			"groupIds": [
+				"xSu9juuuoaLBW75qq1wy7"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 815,
+			"versionNonce": 1110760289,
+			"isDeleted": false,
+			"id": "5x33Q69zIUiRLy73YZq6r",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -4.85252902181918,
+			"y": 19.378133636640555,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 699715887,
+			"groupIds": [
+				"xSu9juuuoaLBW75qq1wy7"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1543,
+			"versionNonce": 1285670703,
+			"isDeleted": false,
+			"id": "AZDr7EtsmXDU_LScqNxmv",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": 18.431632982679787,
+			"y": -27.347109906728633,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.06880765878671,
+			"height": 46.19620830810978,
+			"seed": 478204751,
+			"groupIds": [
+				"xSu9juuuoaLBW75qq1wy7"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					16.71630831791197,
+					4.54960992713353
+				],
+				[
+					22.06880765878671,
+					23.942157549332705
+				],
+				[
+					15.46049071346681,
+					42.0583211255435
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 694,
+			"versionNonce": 480560961,
+			"isDeleted": false,
+			"id": "bdBVd7Ll3D6htc_tHYe7w",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -216.30188875787428,
+			"y": -48.695363046713254,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34.64715623108237,
+			"height": 0,
+			"seed": 1749532929,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					34.64715623108237,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 704,
+			"versionNonce": 39782735,
+			"isDeleted": false,
+			"id": "97A_byT0rxpL3h1uzUz3q",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -308.39551020979945,
+			"y": -60.05314515411061,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.19620830810978,
+			"height": 0,
+			"seed": 1909558159,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.19620830810978,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 707,
+			"versionNonce": 502019873,
+			"isDeleted": false,
+			"id": "IMVwmLqH-1rsWG_slhgvd",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -308.25198456575356,
+			"y": -36.767813208800774,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.19620830810978,
+			"height": 0,
+			"seed": 1988753633,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.19620830810978,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 758,
+			"versionNonce": 795805551,
+			"isDeleted": false,
+			"id": "MeTiiUEDURhSvpUq7tQvi",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -262.20392336630687,
+			"y": -71.70044384081791,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 46.19620830810978,
+			"seed": 165101999,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 821,
+			"versionNonce": 142256897,
+			"isDeleted": false,
+			"id": "wnlCofvxRZEoB2LwoJamn",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -262.1062785417399,
+			"y": -71.70292792784727,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 326776001,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 762,
+			"versionNonce": 1377452431,
+			"isDeleted": false,
+			"id": "c9pCHYeogxl0K0jMpmS-n",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -262.2208564526753,
+			"y": -25.432755593199474,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 536949711,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1490,
+			"versionNonce": 617587425,
+			"isDeleted": false,
+			"id": "Akpd0SebtfiSgERV6aD_u",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 0,
+			"x": -238.93669444817635,
+			"y": -72.15799913656866,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.06880765878671,
+			"height": 46.19620830810978,
+			"seed": 1119351969,
+			"groupIds": [
+				"P-Wy2r_Z9wmK_8hf6_k1f"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					16.71630831791197,
+					4.54960992713353
+				],
+				[
+					22.06880765878671,
+					23.942157549332705
+				],
+				[
+					15.46049071346681,
+					42.0583211255435
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"id": "4v3TkCkXuxK9AO3zPZPCj",
+			"type": "line",
+			"x": -121.71841970813944,
+			"y": 3.817232498397118,
+			"width": 222.74050903320312,
+			"height": 101.78512573242188,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 118922959,
+			"version": 395,
+			"versionNonce": 1108634063,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					35.14556884765625,
+					-0.4564208984375
+				],
+				[
+					35.60198974609375,
+					60.7059326171875
+				],
+				[
+					-186.68206787109375,
+					57.967315673828125
+				],
+				[
+					-187.13851928710938,
+					-41.079193115234375
+				]
+			],
+			"lastCommittedPoint": [
+				-187.13851928710938,
+				-41.079193115234375
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "t1p2KpCyqT_mz26ynt-wb",
+			"type": "line",
+			"x": 218.7824958192043,
+			"y": -32.69756852699351,
+			"width": 277.05633544921875,
+			"height": 123.23757934570318,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1235840239,
+			"version": 319,
+			"versionNonce": 1729830561,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					36.05841064453125,
+					-0.456451416015625
+				],
+				[
+					37.427734375,
+					122.78112792968756
+				],
+				[
+					-239.62860107421875,
+					119.58609008789068
+				],
+				[
+					-239.17218017578125,
+					41.9920654296875
+				],
+				[
+					-223.1968994140625,
+					42.904937744140625
+				]
+			],
+			"lastCommittedPoint": [
+				-223.1968994140625,
+				42.904937744140625
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "cXsIB-gVkFBuDuhbkexRy",
+			"type": "line",
+			"x": 42.141992889516814,
+			"y": -4.855008712540382,
+			"width": 12.78021240234375,
+			"height": 15.062347412109375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1705539777,
+			"version": 79,
+			"versionNonce": 44324847,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					12.78021240234375,
+					0.4564208984375
+				],
+				[
+					12.32373046875,
+					-14.605926513671875
+				]
+			],
+			"lastCommittedPoint": [
+				12.32373046875,
+				-14.605926513671875
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ez2cN2rP8pTLiYkZptmhS",
+			"type": "line",
+			"x": 45.793482147329314,
+			"y": -41.36984025550913,
+			"width": 64.31936391194654,
+			"height": 12.323760986328125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1994934241,
+			"version": 142,
+			"versionNonce": 710976129,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.4564208984375,
+					-12.323760986328125
+				],
+				[
+					-64.31936391194654,
+					-7.987632751464844
+				]
+			],
+			"lastCommittedPoint": [
+				-62.98809814453125,
+				-9.12872314453125
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "y8rnAJxqdN6Pp4Lj_AZQl",
+			"type": "line",
+			"x": -323.06227246092783,
+			"y": -114.8228686385298,
+			"width": 275.1653616768973,
+			"height": 99.76375034877233,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 450838575,
+			"version": 218,
+			"versionNonce": 592544271,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					275.1653616768973,
+					0
+				],
+				[
+					273.2092721121652,
+					99.76375034877233
+				]
+			],
+			"lastCommittedPoint": [
+				273.2092721121652,
+				99.76375034877233
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "wq7fxj_8g-e1cnnVEVzBL",
+			"type": "line",
+			"x": -309.369209542401,
+			"y": -114.8228686385298,
+			"width": 0,
+			"height": 56.07635498046875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1558599873,
+			"version": 94,
+			"versionNonce": 369797729,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					56.07635498046875
+				]
+			],
+			"lastCommittedPoint": [
+				0,
+				56.07635498046875
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "5eInFZCPYBc3Gui2F7-ur",
+			"type": "line",
+			"x": -73.42676772714412,
+			"y": -48.74461970430717,
+			"width": 1.711578369140625,
+			"height": 233.92318725585938,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1450414625,
+			"version": 147,
+			"versionNonce": 2121190113,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.711578369140625,
+					233.92318725585938
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "he-qs4A7AF5EvHSJZOs9I",
+			"type": "line",
+			"x": -9.525782009370687,
+			"y": 87.61547245877877,
+			"width": 0,
+			"height": 98.1336212158203,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 854111809,
+			"version": 122,
+			"versionNonce": 33133967,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					98.1336212158203
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 865,
+			"versionNonce": 633602433,
+			"isDeleted": false,
+			"id": "zZdfgV22jO4wVTOAJ06Jm",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -58.0148802747261,
+			"y": 295.5717605845373,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34.64715623108237,
+			"height": 0,
+			"seed": 1156299905,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					34.64715623108237,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 875,
+			"versionNonce": 160928527,
+			"isDeleted": false,
+			"id": "Ro1UDfpn6E-J38c393e9a",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -52.217872142797184,
+			"y": 209.28105978583574,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.19620830810978,
+			"height": 0,
+			"seed": 505219087,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.19620830810978,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 878,
+			"versionNonce": 732572001,
+			"isDeleted": false,
+			"id": "1YSv8ffJc77_2o-N272T0",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -75.50348814173967,
+			"y": 209.36691410172122,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.19620830810978,
+			"height": 0,
+			"seed": 606241889,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					46.19620830810978,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 929,
+			"versionNonce": 1517312303,
+			"isDeleted": false,
+			"id": "-ik0pIUfw5tcvYkht7omL",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -40.627734070074304,
+			"y": 209.24800723045087,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 46.19620830810978,
+			"seed": 142552623,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 992,
+			"versionNonce": 104879425,
+			"isDeleted": false,
+			"id": "YqSMqOen60ovLoXItth1b",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -29.105114183788125,
+			"y": 244.04998589763056,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 620056641,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 933,
+			"versionNonce": 1015765839,
+			"isDeleted": false,
+			"id": "9X_A1ov1bcar8p7539CW2",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -75.37486083044871,
+			"y": 243.82081079099487,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.09810415405489,
+			"height": 0,
+			"seed": 1274515535,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					23.09810415405489,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1661,
+			"versionNonce": 686163233,
+			"isDeleted": false,
+			"id": "uOe2eoikbxwINzOmMS9Pr",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 1.5732730338934893,
+			"x": -51.2896895223062,
+			"y": 243.5508181353623,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.06880765878671,
+			"height": 46.19620830810978,
+			"seed": 1027842081,
+			"groupIds": [
+				"qnRUJ4PnHl7i3JcThDtPs"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					16.71630831791197,
+					4.54960992713353
+				],
+				[
+					22.06880765878671,
+					23.942157549332705
+				],
+				[
+					15.46049071346681,
+					42.0583211255435
+				],
+				[
+					0,
+					46.19620830810978
+				]
+			]
+		},
+		{
+			"id": "QzgNA4GpSl8rMBDe7sWJb",
+			"type": "line",
+			"x": -28.772452276227114,
+			"y": 185.42059682454385,
+			"width": 19.646579908288118,
+			"height": 0.1984438688858745,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1085325775,
+			"version": 38,
+			"versionNonce": 3436641,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					19.646579908288118,
+					0.1984438688858745
+				]
+			],
+			"lastCommittedPoint": [
+				19.646579908288118,
+				0.1984438688858745
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "cHDiiBqzoqcG3eRYdrsK0",
+			"type": "line",
+			"x": -52.388015710330365,
+			"y": 186.2143988371118,
+			"width": 22.226429814877633,
+			"height": 0.7938020125679373,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 533856815,
+			"version": 49,
+			"versionNonce": 441836847,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-22.226429814877633,
+					-0.7938020125679373
+				]
+			],
+			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
@@ -1335,7 +2421,7 @@ CLK ^PiInqIv4
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.3604958905246 378.86373446609645" width="631.3604958905246" height="378.86373446609645" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 716.2708617191531 629.7061717258312" width="716.2708617191531" height="629.7061717258312" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -1351,116 +2437,246 @@ CLK ^PiInqIv4
 			}
 		</style>
 	</defs>
-	<g transform="translate(10 112.09489494786732) rotate(0 56.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Sensor</text></g>
-	<g transform="translate(399.485860188802 322.86373446609645) rotate(0 13 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">O</text></g>
-	<g transform="translate(566.5414021809895 318.1023208918777) rotate(0 12.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g transform="translate(10 58.039924070356136) rotate(0 56.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Sensor</text></g>
+	<g transform="translate(364.3331589471726 556.6600582120661) rotate(0 13 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">O</text></g>
+	<g transform="translate(562.6870107499379 573.7061717258312) rotate(0 12.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(256.75980975693597 116.10751140416977) rotate(0 28.69021824428006 55.58731079101565)">
+		<g transform="translate(269.27918405939135 116.10751140416977) rotate(0 28.69021824428006 55.58731079101565)">
 			<path d="M0 0 C-0.1 33.56, -0.2 67.13, -0.33 112.15 M0 0 C-0.07 23.89, -0.14 47.78, -0.33 112.15 M-0.33 112.15 C15.56 112.06, 31.45 111.97, 57.71 111.83 M-0.33 112.15 C16.59 112.06, 33.51 111.96, 57.71 111.83 M57.71 111.83 C57.52 79.19, 57.33 46.55, 57.05 -0.98 M57.71 111.83 C57.48 73.2, 57.26 34.57, 57.05 -0.98 M57.05 -0.98 C43.93 -0.75, 30.81 -0.53, 0 0 M57.05 -0.98 C45.39 -0.78, 33.72 -0.58, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(275.1217300402167 115.5826226404306) rotate(0 8.731808869735005 7.04498291015625)">
+		<g transform="translate(287.64110434267207 115.5826226404306) rotate(0 8.731808869735005 7.04498291015625)">
 			<path d="M0 0 C2.38 3.93, 4.76 7.86, 8.53 14.09 M0 0 C3.31 5.47, 6.62 10.93, 8.53 14.09 M8.53 14.09 C11.42 9.53, 14.31 4.98, 17.46 0 M8.53 14.09 C11.59 9.26, 14.65 4.43, 17.46 0" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(261.1470033886892 136.89766257608431) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
-	<g transform="translate(293.7942571412561 135.7315397638598) rotate(0 7 12.5)"><text x="7" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Q</text></g>
-	<g transform="translate(295.12040618510946 186.68675486603433) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Q</text></g>
+	<g transform="translate(273.6663776911446 136.89766257608431) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
+	<g transform="translate(306.3136314437115 135.7315397638598) rotate(0 7 12.5)"><text x="7" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Q</text></g>
+	<g transform="translate(307.63978048756485 186.68675486603433) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Q</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(293.9297031662576 189.03478263437677) rotate(0 6.945754341457189 -0.2976724375849358)">
+		<g transform="translate(306.44907746871297 189.03478263437677) rotate(0 6.945754341457189 -0.2976724375849358)">
 			<path d="M0 0 C3.99 -0.17, 7.98 -0.34, 13.89 -0.6 M0 0 C2.97 -0.13, 5.94 -0.25, 13.89 -0.6" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(280.0705298227078 162.528710095261) rotate(0 6 12.5)"><text x="6" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">X</text></g>
+	<g transform="translate(292.5899041251632 162.528710095261) rotate(0 6 12.5)"><text x="6" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">X</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(535.4990646808021 106.97468714560236) rotate(0 28.69021824428006 55.58731079101565)">
+		<g transform="translate(611.4629580262263 132.53508143271173) rotate(0 28.69021824428006 55.58731079101565)">
 			<path d="M0 0 C-0.12 41.37, -0.24 82.74, -0.33 112.15 M0 0 C-0.12 41.58, -0.24 83.17, -0.33 112.15 M-0.33 112.15 C18.96 112.04, 38.24 111.94, 57.71 111.83 M-0.33 112.15 C22.72 112.02, 45.77 111.89, 57.71 111.83 M57.71 111.83 C57.55 84.96, 57.4 58.09, 57.05 -0.98 M57.71 111.83 C57.51 77.46, 57.31 43.08, 57.05 -0.98 M57.05 -0.98 C38.95 -0.67, 20.84 -0.36, 0 0 M57.05 -0.98 C41.3 -0.71, 25.54 -0.44, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(553.8609849640827 106.44979838186319) rotate(0 8.731808869735005 7.04498291015625)">
+		<g transform="translate(629.8248783095069 132.01019266897256) rotate(0 8.731808869735005 7.04498291015625)">
 			<path d="M0 0 C1.92 3.17, 3.84 6.34, 8.53 14.09 M0 0 C3 4.96, 6.01 9.92, 8.53 14.09 M8.53 14.09 C11.44 9.51, 14.34 4.92, 17.46 0 M8.53 14.09 C10.63 10.78, 12.73 7.48, 17.46 0" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(539.8862583125554 127.7648383175169) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
-	<g transform="translate(572.5335120651222 126.59871550529238) rotate(0 7 12.5)"><text x="7" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Q</text></g>
-	<g transform="translate(573.8596611089756 177.55393060746692) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Q</text></g>
+	<g transform="translate(615.8501516579795 153.32523260462628) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
+	<g transform="translate(648.4974054105463 152.15910979240175) rotate(0 7 12.5)"><text x="7" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">Q</text></g>
+	<g transform="translate(649.8235544543998 203.1143248945763) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Q</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(572.6689580901236 179.90195837580936) rotate(0 6.945754341457189 -0.2976724375849358)">
+		<g transform="translate(648.6328514355478 205.46235266291873) rotate(0 6.945754341457189 -0.2976724375849358)">
 			<path d="M0 0 C4.28 -0.18, 8.56 -0.37, 13.89 -0.6 M0 0 C3.58 -0.15, 7.16 -0.31, 13.89 -0.6" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(558.8097847465739 153.3958858366936) rotate(0 6 12.5)"><text x="6" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">X</text></g>
+	<g transform="translate(634.773678091998 178.95628012380297) rotate(0 6 12.5)"><text x="6" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">X</text></g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(452.79465682712373 138.50756183952524) rotate(0 15.520144986059805 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(578.5100150162979 164.9807979235096) rotate(0 15.520144986059805 0)">
 			<path d="M0 0 C5.17 0, 25.87 0, 31.04 0 M0 0 C5.17 0, 25.87 0, 31.04 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(370.0615771815714 128.27861447175297) rotate(0 18.840801302888504 0.03622681985169862)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(495.77693537074555 154.75185055573735) rotate(0 18.840801302888508 0.03622681985169862)">
 			<path d="M0 0 C6.28 0.01, 31.4 0.06, 37.68 0.07 M0 0 C6.28 0.01, 31.4 0.06, 37.68 0.07" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(370.17939313783904 149.02950732484177) rotate(0 18.698284336659487 0)">
-			<path d="M0 0 C6.23 0, 31.16 0, 37.4 0 M0 0 C6.23 0, 31.16 0, 37.4 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(505.47989536998193 175.95919482484177) rotate(0 13.905712315175109 -0.2282257080078125)">
+			<path d="M0 0 C4.64 -0.08, 23.18 -0.38, 27.81 -0.46 M0 0 C4.64 -0.08, 23.18 -0.38, 27.81 -0.46" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(411.19365943795225 117.60750502898154) rotate(0 5.173381662019933 20.693526648079732)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(536.9090176271263 144.0807411129659) rotate(0 5.173381662019935 20.693526648079732)">
 			<path d="M0 0 C1.72 3.45, 10.35 13.8, 10.35 20.69 C10.35 27.59, 1.72 37.94, 0 41.39 M0 0 C1.72 3.45, 10.35 13.8, 10.35 20.69 C10.35 27.59, 1.72 37.94, 0 41.39" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(400.91206920084824 117.37439014949142) rotate(0 5.173381662019933 20.693526648079732)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(526.6274273900224 143.8476262334758) rotate(0 5.173381662019935 20.693526648079732)">
 			<path d="M0 0 C1.72 3.45, 10.35 13.8, 10.35 20.69 C10.35 27.59, 1.72 37.94, 0 41.39 M0 0 C1.72 3.45, 10.35 13.8, 10.35 20.69 C10.35 27.59, 1.72 37.94, 0 41.39" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(411.12655601245024 117.8201786851938) rotate(0 20.693526648079732 10.346763324039866)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(536.8419142016244 144.29341476917818) rotate(0 20.693526648079725 10.346763324039866)">
 			<path d="M0 0 C3.58 0.35, 14.58 -1.36, 21.48 2.09 C28.38 5.54, 38.07 17.59, 41.39 20.69 M0 0 C3.58 0.35, 14.58 -1.36, 21.48 2.09 C28.38 5.54, 38.07 17.59, 41.39 20.69" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(411.12024834781585 158.5562125820365) rotate(0 20.693526648079732 -10.346763324039863)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(536.83560653699 185.0294486660209) rotate(0 20.693526648079725 -10.346763324039864)">
 			<path d="M0 0 C3.41 -0.44, 13.53 0.84, 20.43 -2.61 C27.33 -6.06, 37.89 -17.68, 41.39 -20.69 M0 0 C3.41 -0.44, 13.53 0.84, 20.43 -2.61 C27.33 -6.06, 37.89 -17.68, 41.39 -20.69" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(314.1794656170871 199.24847412109375) rotate(0 -36.28663635253906 -51.80543518066406)">
-			<path d="M0 0 C5.61 -0.13, 11.22 -0.26, 20.08 -0.46 M0 0 C5.08 -0.12, 10.16 -0.23, 20.08 -0.46 M20.08 -0.46 C19.35 -33.51, 18.62 -66.57, 17.8 -103.61 M20.08 -0.46 C19.29 -36.52, 18.49 -72.58, 17.8 -103.61 M17.8 -103.61 C-15.53 -103.06, -48.86 -102.51, -92.66 -101.79 M17.8 -103.61 C-17.18 -103.03, -52.15 -102.45, -92.66 -101.79 M-92.66 -101.79 C-92.23 -85.88, -91.8 -69.97, -91.29 -51.12 M-92.66 -101.79 C-92.24 -86.55, -91.83 -71.32, -91.29 -51.12 M-91.29 -51.12 C-81.6 -51.12, -71.92 -51.12, -58.42 -51.12 M-91.29 -51.12 C-79.08 -51.12, -66.87 -51.12, -58.42 -51.12" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(325.78596760508935 149.49700927734375) rotate(0 53.40293884277344 -1.36932373046875)">
+			<path d="M0 0 C28.3 -0.73, 56.61 -1.45, 106.81 -2.74 M0 0 C41.96 -1.08, 83.93 -2.15, 106.81 -2.74" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
+	<g transform="translate(140.92961384532373 10) rotate(0 18.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">CLK</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(313.26659330263396 149.49700927734375) rotate(0 28.298995971679688 -0.2282257080078125)">
-			<path d="M0 0 C15 -0.12, 30 -0.24, 56.6 -0.46 M0 0 C22.24 -0.18, 44.48 -0.36, 56.6 -0.46" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g transform="translate(485.34273466005584 138.54254150390625) rotate(0 25.332183837890625 -0.22821044921875)">
-			<path d="M0 0 C17.13 -0.15, 34.26 -0.31, 50.66 -0.46 M0 0 C19.65 -0.18, 39.31 -0.35, 50.66 -0.46" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g transform="translate(593.9743874920871 136.2603759765625) rotate(0 -98.81828308105469 -35.83018493652344)">
-			<path d="M0 0 C5.92 0, 11.85 0, 26.93 0 M0 0 C10.33 0, 20.66 0, 26.93 0 M26.93 0 C27.04 -16.97, 27.15 -33.94, 27.39 -71.66 M26.93 0 C27.03 -16.26, 27.14 -32.53, 27.39 -71.66 M27.39 -71.66 C-51.79 -71.09, -130.98 -70.51, -225.02 -69.83 M27.39 -71.66 C-71.09 -70.95, -169.56 -70.24, -225.02 -69.83 M-225.02 -69.83 C-224.6 -55.5, -224.19 -41.16, -223.2 -7.3 M-225.02 -69.83 C-224.52 -52.62, -224.02 -35.41, -223.2 -7.3" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g transform="translate(128.41023954286834 10) rotate(0 18.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">CLK</text></g>
-	<g stroke-linecap="round">
-		<g transform="translate(169.4894021405246 19.86932373046875) rotate(0 218.86080932617188 0.4564361572265625)">
+		<g transform="translate(182.00877644297998 19.86932373046875) rotate(0 218.86080932617188 0.4564361572265625)">
 			<path d="M0 0 C95.48 0.2, 190.96 0.4, 437.72 0.91 M0 0 C123.12 0.26, 246.24 0.51, 437.72 0.91" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(562.9367898358371 106.1356201171875) rotate(0 0 -42.67671203613281)">
+		<g transform="translate(575.4561641382925 106.1356201171875) rotate(0 0 -42.67671203613281)">
 			<path d="M0 0 C0 -28.41, 0 -56.83, 0 -85.35 M0 0 C0 -27.82, 0 -55.64, 0 -85.35" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(284.0547097577121 114.80789184570312) rotate(0 -0.22821044921875 -47.241058349609375)">
+		<g transform="translate(296.5740840601675 114.80789184570312) rotate(0 -0.22821044921875 -47.241058349609375)">
 			<path d="M0 0 C-0.12 -24.9, -0.24 -49.8, -0.46 -94.48 M0 0 C-0.11 -22.01, -0.21 -44.02, -0.46 -94.48" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(399.0334487460055 180.31053493831024) rotate(0 23.09810415405489 0)">
+			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(445.2250355894981 168.66323625160294) rotate(0 0 23.09810415405489)">
+			<path d="M0 0 C0 7.7, 0 38.5, 0 46.2 M0 0 C0 7.7, 0 38.5, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(445.32268041406513 168.66075216457358) rotate(0 11.549052077027445 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(445.2081025031296 214.93092449922136) rotate(0 11.549052077027445 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(468.4922645076286 168.2056809558522) rotate(0 11.034403829393355 23.09810415405489)">
+			<path d="M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2 M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(233.75874276707452 146.85742781586757) rotate(0 17.32357811554118 0)">
+			<path d="M0 0 C5.77 0, 28.87 0, 34.65 0 M0 0 C5.77 0, 28.87 0, 34.65 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(141.66512131514935 135.4996457084702) rotate(0 23.09810415405488 0)">
+			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(141.80864695919524 158.78497765378006) rotate(0 23.09810415405488 0)">
+			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(187.85670815864194 123.85234702176291) rotate(0 0 23.09810415405489)">
+			<path d="M0 0 C0 7.7, 0 38.5, 0 46.2 M0 0 C0 7.7, 0 38.5, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(187.95435298320888 123.84986293473355) rotate(0 11.54905207702744 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(187.83977507227348 170.12003526938133) rotate(0 11.54905207702744 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(211.12393707677245 123.39479172601216) rotate(0 11.034403829393355 23.09810415405489)">
+			<path d="M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2 M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(328.34221181680937 199.37002336097794) rotate(0 -75.76826477050781 9.813369750976562)">
+			<path d="M0 0 C8.03 -0.1, 16.06 -0.21, 35.15 -0.46 M0 0 C12.62 -0.16, 25.23 -0.33, 35.15 -0.46 M35.15 -0.46 C35.26 15.17, 35.38 30.8, 35.6 60.71 M35.15 -0.46 C35.3 20.49, 35.46 41.43, 35.6 60.71 M35.6 60.71 C-26.6 59.94, -88.8 59.17, -186.68 57.97 M35.6 60.71 C-29.26 59.91, -94.13 59.11, -186.68 57.97 M-186.68 57.97 C-186.83 25.62, -186.98 -6.73, -187.14 -41.08 M-186.68 57.97 C-186.85 20.96, -187.02 -16.04, -187.14 -41.08" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(668.8431273441531 162.8552223355873) rotate(0 -101.10043334960938 61.162338256835966)">
+			<path d="M0 0 C8.21 -0.1, 16.41 -0.21, 36.06 -0.46 M0 0 C11.76 -0.15, 23.51 -0.3, 36.06 -0.46 M36.06 -0.46 C36.35 25.6, 36.64 51.67, 37.43 122.78 M36.06 -0.46 C36.53 41.92, 37 84.3, 37.43 122.78 M37.43 122.78 C-45.47 121.83, -128.37 120.87, -239.63 119.59 M37.43 122.78 C-67.18 121.57, -171.79 120.37, -239.63 119.59 M-239.63 119.59 C-239.49 96.13, -239.35 72.68, -239.17 41.99 M-239.63 119.59 C-239.46 90.76, -239.29 61.94, -239.17 41.99 M-239.17 41.99 C-234.99 42.23, -230.81 42.47, -223.2 42.9 M-239.17 41.99 C-233.66 42.31, -228.16 42.62, -223.2 42.9" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(492.2026244144656 190.69778215004044) rotate(0 6.390106201171875 -7.0747528076171875)">
+			<path d="M0 0 C2.59 0.09, 5.18 0.19, 12.78 0.46 M0 0 C3.36 0.12, 6.72 0.24, 12.78 0.46 M12.78 0.46 C12.6 -5.55, 12.42 -11.55, 12.32 -14.61 M12.78 0.46 C12.61 -5.1, 12.44 -10.66, 12.32 -14.61" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(495.8541136722781 154.1829506070717) rotate(0 -32.15968195597327 -6.1618804931640625)">
+			<path d="M0 0 C-0.09 -2.48, -0.18 -4.95, -0.46 -12.32 M0 0 C-0.16 -4.44, -0.33 -8.88, -0.46 -12.32 M-0.46 -12.32 C-22.9 -10.8, -45.35 -9.28, -64.32 -7.99 M-0.46 -12.32 C-23.82 -10.74, -47.17 -9.15, -64.32 -7.99" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(126.99835906402097 80.72992222405102) rotate(0 137.58268083844865 49.88187517438617)">
+			<path d="M0 0 C105.7 0, 211.4 0, 275.17 0 M0 0 C81.13 0, 162.26 0, 275.17 0 M275.17 0 C274.7 23.48, 274.24 46.97, 273.21 99.76 M275.17 0 C274.73 22.42, 274.29 44.83, 273.21 99.76" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(140.6914219825478 80.72992222405102) rotate(0 0 28.038177490234375)">
+			<path d="M0 0 C0 12.43, 0 24.86, 0 56.08 M0 0 C0 18.19, 0 36.39, 0 56.08" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(376.6338637978047 146.80817115827364) rotate(0 -0.8557891845703125 116.96159362792969)">
+			<path d="M0 0 C-0.45 62.09, -0.91 124.18, -1.71 233.92 M0 0 C-0.36 49, -0.72 98.01, -1.71 233.92" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(440.5348495155781 283.1682633213596) rotate(0 0 49.06681060791015)">
+			<path d="M0 0 C0 32.79, 0 65.58, 0 98.13 M0 0 C0 36.59, 0 73.18, 0 98.13" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(392.0457512502227 491.1245514471181) rotate(90.14190486383944 17.323578115541185 0)">
+			<path d="M0 0 C5.77 0, 28.87 0, 34.65 0 M0 0 C5.77 0, 28.87 0, 34.65 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(397.8427593821516 404.83385064841656) rotate(90.14190486383944 23.09810415405489 0)">
+			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(374.5571433832091 404.919704964302) rotate(90.14190486383944 23.09810415405489 0)">
+			<path d="M0 0 C7.7 0, 38.5 0, 46.2 0 M0 0 C7.7 0, 38.5 0, 46.2 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(409.4328974548745 404.8007980930317) rotate(90.14190486383944 0 23.098104154054894)">
+			<path d="M0 0 C0 7.7, 0 38.5, 0 46.2 M0 0 C0 7.7, 0 38.5, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(420.95551734116066 439.6027767602114) rotate(90.14190486383944 11.549052077027445 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(374.6857706945001 439.3736016535757) rotate(90.14190486383944 11.549052077027447 0)">
+			<path d="M0 0 C3.85 0, 19.25 0, 23.1 0 M0 0 C3.85 0, 19.25 0, 23.1 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(398.7709420026426 439.1036089979431) rotate(90.14190486383944 11.034403829393355 23.09810415405488)">
+			<path d="M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2 M0 0 C2.79 0.76, 13.04 0.56, 16.72 4.55 C20.39 8.54, 22.28 17.69, 22.07 23.94 C21.86 30.19, 19.14 38.35, 15.46 42.06 C11.78 45.77, 2.58 45.51, 0 46.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(421.2881792487217 380.97338768712467) rotate(0 9.823289954144059 0.09922193444293725)">
+			<path d="M0 0 C7.4 0.07, 14.8 0.15, 19.65 0.2 M0 0 C7.25 0.07, 14.5 0.15, 19.65 0.2" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(397.67261581461844 381.7671896996926) rotate(0 -11.113214907438817 -0.3969010062839686)">
+			<path d="M0 0 C-8.89 -0.32, -17.78 -0.63, -22.23 -0.79 M0 0 C-8.38 -0.3, -16.75 -0.6, -22.23 -0.79" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 </svg>
