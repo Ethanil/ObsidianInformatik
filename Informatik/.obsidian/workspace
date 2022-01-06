@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ae0293848e8c4694",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2.md",
+                "file": "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +129,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "caeb0ad904e8a155",
+  "active": "ae0293848e8c4694",
   "lastOpenFiles": [
+    "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
     "DT-Projekt2.md",
     "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
     "DT-Projekt2_06.01.2022 14-40-55.excalidraw.md",
@@ -129,7 +140,6 @@
     "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
     "DT-Projekt1.md",
     "Excalidraw/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
-    "Injektiv.md",
-    "Excalidraw/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md"
+    "Injektiv.md"
   ]
 }
