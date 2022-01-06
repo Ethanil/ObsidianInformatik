@@ -178,14 +178,45 @@ Für die Inputs:
 ```
 Espresso-Output für die Inputs:
 ```
+.i 5
+.o 3
+.p 6
+-1-1- 011
+1-0-- 101
+--01- 001
+-1-0- 100
+001-- 010
+1---0 001
+.e
 ```
 Das heißt:
+$S'_0=s_0\overline{s_2}+s_1\overline{D_{in}}$
+$S'_1=s_1D_{in}+\overline{s_0}\overline{s_1}s_2$
+$S'_2=s_1D_{in}+s_0\overline{s_2}+\overline{s_2}D_{in}+s_0\overline{R}$
 
 Für die Outputs:
 ```
+.i 3
+.o 4
+000 1000
+001 0-11
+010 0-01
+011 1101
+100 0-10
+101 0-00
+11- ----
 ```
 Espresso-Output für die Outputs:
 ```
+.i 3
+.o 4
+.p 5
+000 1000
+1-0 0010
+001 0011
+-11 1000
+-1- 0101
+.e
 ```
 Das heißt:
 
