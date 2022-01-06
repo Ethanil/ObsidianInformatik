@@ -123,13 +123,10 @@ Einmal sortieren:
 1-10- 110
 .e
 ```
-Das heißt:
-$S'_1=\overline{s_1}\overline{s_2}S+s_0s_2S$
-$S'_2=\overline{s_0}s_2S$
-$S'_3=\overline{s_0}s_1S$
-$S'_4=s_1s_2\overline{S}$
-$S'_5=s_0\overline{s_1}\overline{s_2}\overline{S}$
-$S'_6=s_0s_1\overline{R}+s_0s_2\overline{S}$
+Daraus erhalten wir:
+$S'_0=s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0s_1\overline{R}+s_0s_2\overline{S}$
+$S'_1=\overline{s_0}s_2S+\overline{s_0}s_1S+s_0s_1\overline{R}+s_0s_2\overline{S}$
+$s'_2=s_0s_2S+\overline{s_1}\overline{s_2}S+\overline{s_0}s_1S+s_0\overline{s_1}\overline{s_2}\overline{S}$
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 nur dann wahr ist, wenn wir in Zustand $S_6$ sind und $\bar{R}$ ist)
 ```
 .i   5
