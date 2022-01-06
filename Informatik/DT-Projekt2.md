@@ -88,9 +88,6 @@ $S'_0=s_0s_1+s_0s_2\overline{S}+s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_
 $S'_1=s_0s_1+s_0s_2\overline{S}+\overline{s_0}s_2S+\overline{s_0}s_1S$
 $S'_2=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overline{s_1}S+\overline{s_1}\overline{s_2}S$
 
-$S'_0=s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0s_1\overline{R}+s_0s_2\overline{S}$
-$S'_1=\overline{s_0}s_2S+\overline{s_0}s_1S+s_0s_1\overline{R}+s_0s_2\overline{S}$
-$s'_2=s_0s_2S+\overline{s_1}\overline{s_2}S+\overline{s_0}s_1S+s_0\overline{s_1}\overline{s_2}\overline{S}$
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 exakt dann 1 ausgibt, wenn wir in Zustand $S_6$ sind)
 ```
 .i   
@@ -112,11 +109,15 @@ Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da m
 ```
 Das heißt:
 $O=s_0s_1\overline{s_2}$
+
+![[DT-Projekt2_06.01.2022 14-40-55.excalidraw.md]]
+
+
 #### b) 
-Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
-Für diesen Teil der Schiebetür haben Sie zunächst Zugriff auf einen Motorcontrol-Chipbaustein (vgl. Abbildung 1), der sich um die Kontrolle der Schrittmotoren kümmert. Dieser erhält die beiden Eingänge Din und C, sowie  
-die beiden Ausgänge R und Dout . Die Ausgänge haben dieselbe Funktion wie die gleichnamigen Ausgänge der kompletten Schiebetür. Wie zuvor gibt der Din-Eingang an, ob die Tür geöffnet (1) oder geschlossen (0) werden soll.  
-Der C-Eingang wird auf 1 gesetzt, wenn die Schiebetür die am Eingang Din angegebene Richtung anfahren soll. C soll dabei nur für einen Takt auf 1 gesetzt werden und auch nur, wenn sich die Richtungsanweisung, die vom Bus-Eingang Din kommt, ändert. Beachten Sie, dass sich die Richtung während der Bewegung ebenfalls ändern kann. (1 PP)
+Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang $D_{in}$ vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
+Für diesen Teil der Schiebetür haben Sie zunächst Zugriff auf einen Motorcontrol-Chipbaustein (vgl. Abbildung 1), der sich um die Kontrolle der Schrittmotoren kümmert. Dieser erhält die beiden Eingänge $D_{in}$ und C, sowie  
+die beiden Ausgänge R und $D_{out}$ . Die Ausgänge haben dieselbe Funktion wie die gleichnamigen Ausgänge der kompletten Schiebetür. Wie zuvor gibt der $D_{in}$-Eingang an, ob die Tür geöffnet (1) oder geschlossen (0) werden soll.  
+Der C-Eingang wird auf 1 gesetzt, wenn die Schiebetür die am Eingang $D_{in}$ angegebene Richtung anfahren soll. C soll dabei nur für einen Takt auf 1 gesetzt werden und auch nur, wenn sich die Richtungsanweisung, die vom Bus-Eingang $D_{in}$ kommt, ändert. Beachten Sie, dass sich die Richtung während der Bewegung ebenfalls ändern kann. (1 PP)
 
 #### c) 
 Abschließend sollen Sie eine digitale Schaltung für den Motorcontrol-Chipbaustein entwerfen, den Sie in Ihrer Schaltung aus Teilaufgabe b) verwendet haben. Dieser Chipbaustein soll die Motoren steuern, um die Tür zu öffnen und zu schließen. Verwenden Sie dazu einen Motor-Chipbaustein, der die beiden Eingänge S und $D_{in}$ hat (vgl. Abbildung 1). Der Schrittmotor hat insgesamt 512 Positionen, wobei die Tür sich bei Position 0 im geschlossenen und bei Position 511 im offenen Zustand befindet (für beide Türen). Wenn der Eingang S des Motor-Chipbausteins 1 ist, dann bewegt sich der Motor innerhalb eines Taktes in die an $D_{in}$ angegebene Richtung. Bezeichnen Sie den Motor-Chipbaustein für die linke Tür mit $Motor_L$ und den für die rechte Tür mit $Motor_R$. Achten Sie darauf, dass der Motor niemals über die angegeben Schrittstufen hinaus angesteuert wird. Sie können davon ausgehen, dass sich die Motoren initial an Position 0 (Tür geschlossen) befinden. Zusätzlich zu den genannten Eingängen hat der Motorcontrol-Chipbaustein einen EMERGENCY-Eingang E, der bei einem Notfall auf 1 gesetzt ist und die Tür sofort anhält. Der Betrieb geht erst weiter, sobald E wieder auf 0 gesetzt ist. (5 PP)
