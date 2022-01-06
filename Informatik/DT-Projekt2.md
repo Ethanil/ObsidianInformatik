@@ -61,58 +61,75 @@ Als input für die Zustände haben wir:
 ```
 .i   5
 .o   3
-0000- 000
-0001- 001
-0010- 000
-0011- 010
-0100- 000
-0101- 011
-0110- 100
-0111- 011
-1000- 101
-1001- 001
-1010- 110
-1011- 001
-110-0 110
-110-1 000
+00000 000
+00001 000
+00010 001
+00011 001
+00100 000
+00101 000
+00110 010
+00111 010
+01000 000
+01001 000
+01010 011
+01011 011
+01100 100
+01101 100
+01110 011
+01111 011
+10000 101
+10001 101
+10010 001
+10011 001
+10100 110
+10101 110
+10110 001
+10111 001
+11000 110
+11010 110
+11001 000
+11011 000
+11100 ---
+11110 ---
+11101 ---
+11111 ---
 ```
 Damit generiert Espresso:
 ```
 .i 5
 .o 3
 .p 8
--001- 001
+1-11- 001
 1000- 101
-110-0 110
-0110- 100
-1010- 110
+-001- 001
+-110- 100
+1-10- 110
+11--0 110
 01-1- 011
 0-11- 010
-10-1- 001
-.e
 ```
 Einmal sortieren:
 ```
 .i 5
 .o 3
 .p 8
+1-11- 001
 -001- 001
-10-1- 001
 0-11- 010
 01-1- 011
-0110- 100
+-110- 100
 1000- 101
-110-0 110
-1010- 110
+11--0 110
+1-10- 110
 .e
 ```
 Das heißt:
-$S'_1=\overline{s_1}\overline{s_2}S+s_0\overline{s_1}S$
+$S'_1=\overline{s_1}\overline{s_2}S+s_0s_2S$
 $S'_2=\overline{s_0}s_2S$
 $S'_3=\overline{s_0}s_1S$
-$S'_4=\overline{s_0}s_1s_2\overline{S}$
+$S'_4=s_1s_2\overline{S}$
 $S'_5=s_0\overline{s_1}\overline{s_2}\overline{S}$
-$S'_6=s_0s_1\overline{s_2}\overline{R}+$
+$S'_6=s_0s_1\overline{R}+s_0s_2\overline{S}$
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 nur dann wahr ist, wenn wir in Zustand $S_6$ sind und $\bar{R}$ ist)
 ```
 .i   5
@@ -139,7 +156,8 @@ Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da m
 110-0 1
 .e
 ```
-
+Das heißt:
+$O=s_0s_1\overline{s_2}\overline{R}$
 #### b) 
 Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
 Für diesen Teil der Schiebetür haben Sie zunächst Zugriff auf einen Motorcontrol-Chipbaustein (vgl. Abbildung 1), der sich um die Kontrolle der Schrittmotoren kümmert. Dieser erhält die beiden Eingänge Din und C, sowie  
