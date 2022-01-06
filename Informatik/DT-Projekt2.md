@@ -10,7 +10,7 @@ Falls das Lichtschranken-Kontrollsystem ein gültiges Passieren entdeckt, soll s
 
 Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstellen, der die Lichtschranke darstellt. Diesen können wir dann in seine Zustands- und Ausgabetabellen verwandeln und diese mithilfe von Espresso minimieren.
 
-![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|700]]
+![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|1500]]
 
 
 | Zustand | Sensor | Reset(R) | Nächster Zustand |
@@ -64,7 +64,7 @@ Als input für die Zustände haben wir:
 0000- 000
 0001- 001
 0010- 000
-0011 010
+0011- 010
 0100- 000
 0101- 011
 0110- 100
@@ -74,26 +74,72 @@ Als input für die Zustände haben wir:
 1010- 110
 1011- 001
 110-0 110
-11001 000
-1101 000
+110-1 000
 ```
 Damit generiert Espresso:
 ```
 .i 5
 .o 3
 .p 8
--0110 100
--0010 001
-10-01 101
-010-1 101
-000-1 011
--11-0 001
-1-1-0 110
-0-1-0 011
+-001- 001
+1000- 101
+110-0 110
+0110- 100
+1010- 110
+01-1- 011
+0-11- 010
+10-1- 001
+.e
+```
+Einmal sortieren:
+```
+.i 5
+.o 3
+.p 8
+-001- 001
+10-1- 001
+0-11- 010
+01-1- 011
+0110- 100
+1000- 101
+110-0 110
+1010- 110
+.e
+```
+Das heißt:
+$S'_1=\overline{s_1}\overline{s_2}S+s_0\overline{s_1}S$
+$S'_2=\overline{s_0}s_2S$
+$S'_3=\overline{s_0}s_1S$
+$S'_4=\overline{s_0}s_1s_2\overline{S}$
+$S'_5=s_0\overline{s_1}\overline{s_2}\overline{S}$
+$S'_6=s_0s_1\overline{s_2}\overline{R}+$
+Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 nur dann wahr ist, wenn wir in Zustand $S_6$ sind und $\bar{R}$ ist)
+```
+.i   5
+.o   1
+00000 0
+00010 0
+00100 0
+00110 0
+01000 0
+01010 0
+01100 0
+01110 0
+10000 0
+10010 0
+10100 0
+10110 0
+110-0 1
+110-1 0
+```
+```
+.i 5
+.o 1
+.p 1
+110-0 1
 .e
 ```
 
-Für die Outputs haben wir:
 #### b) 
 Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
 Für diesen Teil der Schiebetür haben Sie zunächst Zugriff auf einen Motorcontrol-Chipbaustein (vgl. Abbildung 1), der sich um die Kontrolle der Schrittmotoren kümmert. Dieser erhält die beiden Eingänge Din und C, sowie  
