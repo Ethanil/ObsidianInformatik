@@ -91,34 +91,27 @@ $S'_2=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overlin
 $S'_0=s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0s_1\overline{R}+s_0s_2\overline{S}$
 $S'_1=\overline{s_0}s_2S+\overline{s_0}s_1S+s_0s_1\overline{R}+s_0s_2\overline{S}$
 $s'_2=s_0s_2S+\overline{s_1}\overline{s_2}S+\overline{s_0}s_1S+s_0\overline{s_1}\overline{s_2}\overline{S}$
-Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 nur dann wahr ist, wenn wir in Zustand $S_6$ sind und $\bar{R}$ ist)
+Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 exakt dann 1 ausgibt, wenn wir in Zustand $S_6$ sind)
 ```
-.i   5
+.i   
 .o   1
-00000 0
-00010 0
-00100 0
-00110 0
-01000 0
-01010 0
-01100 0
-01110 0
-10000 0
-10010 0
-10100 0
-10110 0
-110-0 1
-110-1 0
+000- 0
+001- 0
+010- 0
+011- 0
+100- 0
+101- 0
+110- 1
 ```
 ```
-.i 5
+.i 4
 .o 1
 .p 1
-110-0 1
+110- 1
 .e
 ```
 Das heißt:
-$O=s_0s_1\overline{s_2}\overline{R}$
+$O=s_0s_1\overline{s_2}$
 #### b) 
 Entwerfen Sie eine digitale Schaltung für die Schiebetür, die folgende Spezifikationen erfüllt. Die Schaltung erhält den Eingang Din vom Bus, der angibt, ob die Tür geöffnet ($D_{in} = 1$) oder geschlossen werden soll ($D_{in}$ = 0). Desweiteren hat die Schiebetür 2 Ausgänge zum Bus, die wir mit R und $D_{out}$ bezeichnen. R ist auf 1 gesetzt, wenn die Getränk Rezept Schiebetür eine finale Position erreicht hat, d.h. komplett geöffnet oder geschlossen ist. $D_{out}$ hingegen gibt an, in welcher finalen Position sich die Schiebetür befindet (1 = offen, 0 = geschlossen). 
 Für diesen Teil der Schiebetür haben Sie zunächst Zugriff auf einen Motorcontrol-Chipbaustein (vgl. Abbildung 1), der sich um die Kontrolle der Schrittmotoren kümmert. Dieser erhält die beiden Eingänge Din und C, sowie  
