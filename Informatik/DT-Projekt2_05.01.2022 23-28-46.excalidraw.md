@@ -62,8 +62,6 @@ S ^QBXnqLmH
 
 S ^719VMzxL
 
-R ^K3czp28J
-
 %%
 # Drawing
 ```json
@@ -307,8 +305,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "ellipse",
-			"version": 412,
-			"versionNonce": 613589089,
+			"version": 453,
+			"versionNonce": 113347106,
 			"isDeleted": false,
 			"id": "BTG3iuLOuGU8noIntRPMu",
 			"fillStyle": "hachure",
@@ -317,8 +315,8 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 436.0564963931128,
-			"y": -29.0467529296875,
+			"x": 439.09940410795656,
+			"y": -27.52534993489587,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 159.75238037109375,
@@ -337,8 +335,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 1141102849,
+			"version": 283,
+			"versionNonce": 772892002,
 			"isDeleted": false,
 			"id": "V9lpg1z4",
 			"fillStyle": "hachure",
@@ -347,8 +345,8 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 502.21686626615974,
-			"y": 24.636444091796875,
+			"x": 505.2597739810035,
+			"y": 26.157847086588504,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -369,8 +367,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 1367536527,
+			"version": 289,
+			"versionNonce": 36411838,
 			"isDeleted": false,
 			"id": "AAu2u2Bp",
 			"fillStyle": "hachure",
@@ -379,8 +377,8 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 523.3320090884254,
-			"y": 54.6160888671875,
+			"x": 526.3749168032691,
+			"y": 56.13749186197913,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 20,
@@ -401,8 +399,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "ellipse",
-			"version": 585,
-			"versionNonce": 1295222497,
+			"version": 638,
+			"versionNonce": 1953430142,
 			"isDeleted": false,
 			"id": "AACuStOZ-B49kBmyZcH0g",
 			"fillStyle": "hachure",
@@ -412,7 +410,7 @@ R ^K3czp28J
 			"opacity": 100,
 			"angle": 0,
 			"x": 849.9769879295709,
-			"y": -43.53300645616315,
+			"y": -8.539618598090158,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 159.75238037109375,
@@ -430,8 +428,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 393851887,
+			"version": 474,
+			"versionNonce": 1598440418,
 			"isDeleted": false,
 			"id": "QJsWlzs2",
 			"fillStyle": "hachure",
@@ -441,7 +439,7 @@ R ^K3czp28J
 			"opacity": 100,
 			"angle": 0,
 			"x": 916.1373578026178,
-			"y": 10.150190565321225,
+			"y": 45.14357842339422,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -462,8 +460,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "text",
-			"version": 427,
-			"versionNonce": 2099185281,
+			"version": 480,
+			"versionNonce": 1377428286,
 			"isDeleted": false,
 			"id": "wXDnidcN",
 			"fillStyle": "hachure",
@@ -473,7 +471,7 @@ R ^K3czp28J
 			"opacity": 100,
 			"angle": 0,
 			"x": 937.2525006248834,
-			"y": 40.12983534071185,
+			"y": 75.12322319878484,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -852,8 +850,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "arrow",
-			"version": 404,
-			"versionNonce": 1720897889,
+			"version": 508,
+			"versionNonce": 2081420770,
 			"isDeleted": false,
 			"id": "mEJO4MNi95_S_NQ_9q6hz",
 			"fillStyle": "hachure",
@@ -862,12 +860,12 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 241.58925653072689,
-			"y": 48.38113954456978,
+			"x": 241.5985664829288,
+			"y": 48.59656298227422,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 176.72505228388238,
-			"height": 3.1347971002217605,
+			"width": 179.74010342189405,
+			"height": 1.63147303706603,
 			"seed": 100064239,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -891,15 +889,15 @@ R ^K3czp28J
 					0
 				],
 				[
-					176.72505228388238,
-					-3.1347971002217605
+					179.74010342189405,
+					-1.63147303706603
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 792,
-			"versionNonce": 718668449,
+			"version": 910,
+			"versionNonce": 1291121406,
 			"isDeleted": false,
 			"id": "0BHKxoj1542KEgMCXr1OA",
 			"fillStyle": "hachure",
@@ -908,12 +906,12 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1026.5301115807513,
-			"y": 29.334007578569654,
+			"x": 1025.2056520670383,
+			"y": 55.585881975838504,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 187.53673421531857,
-			"height": 15.950073781088193,
+			"width": 189.40365951967965,
+			"height": 1.1483319129500131,
 			"seed": 613420943,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -937,8 +935,8 @@ R ^K3czp28J
 					0
 				],
 				[
-					187.53673421531857,
-					15.950073781088193
+					189.40365951967965,
+					-1.1483319129500131
 				]
 			]
 		},
@@ -1176,8 +1174,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "arrow",
-			"version": 953,
-			"versionNonce": 289588271,
+			"version": 1175,
+			"versionNonce": 468122302,
 			"isDeleted": false,
 			"id": "dsAyCNC2Vd389Gxu5MJqE",
 			"fillStyle": "hachure",
@@ -1186,12 +1184,12 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 615.5450131888244,
-			"y": 53.60750475730228,
+			"x": 618.4244315374013,
+			"y": 63.14304737222517,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 217.5236826646825,
-			"height": 11.524131910794885,
+			"width": 214.84821189172487,
+			"height": 6.07765157318029,
 			"seed": 855838945,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -1215,15 +1213,15 @@ R ^K3czp28J
 					0
 				],
 				[
-					217.5236826646825,
-					-11.524131910794885
+					214.84821189172487,
+					6.07765157318029
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 113,
-			"versionNonce": 744364609,
+			"version": 124,
+			"versionNonce": 2068962494,
 			"isDeleted": false,
 			"id": "0k6nbpAD",
 			"fillStyle": "hachure",
@@ -1232,8 +1230,8 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 691.4746071951729,
-			"y": -6.717790391710196,
+			"x": 702.1247333344957,
+			"y": -0.6319749620226958,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 22,
@@ -1750,8 +1748,8 @@ R ^K3czp28J
 		},
 		{
 			"type": "arrow",
-			"version": 323,
-			"versionNonce": 661728271,
+			"version": 375,
+			"versionNonce": 916158846,
 			"isDeleted": false,
 			"id": "b_f-HaBY3tMZ5r9dxiYWC",
 			"fillStyle": "hachure",
@@ -1760,12 +1758,12 @@ R ^K3czp28J
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 497.9539409610518,
-			"y": -28.962787497511357,
+			"x": 501.05454069588427,
+			"y": -27.45491492726954,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 649.167884310385,
-			"height": 141.66653970130406,
+			"width": 652.2684840452176,
+			"height": 143.17441227154575,
 			"seed": 597568911,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -1789,12 +1787,12 @@ R ^K3czp28J
 					0
 				],
 				[
-					-370.0902127144029,
-					-141.66653970130406
+					-373.1908124492354,
+					-143.17441227154575
 				],
 				[
-					-649.167884310385,
-					-11.256470644384422
+					-652.2684840452176,
+					-12.764343214626237
 				]
 			]
 		},
@@ -1941,86 +1939,6 @@ R ^K3czp28J
 					-1.5214029947916856
 				]
 			]
-		},
-		{
-			"type": "arrow",
-			"version": 437,
-			"versionNonce": 1427822671,
-			"isDeleted": false,
-			"id": "npnwQ2MaxLkxcvQNcvjeW",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 2214.2741699879302,
-			"y": 132.6697184244788,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 2347.9039306640625,
-			"height": 591.540283203125,
-			"seed": 1082715407,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": {
-				"elementId": "Te2BwHC1ygBqYf95Extvv",
-				"focus": -0.7906131406015843,
-				"gap": 16.243073313613493
-			},
-			"endBinding": {
-				"elementId": "qwuEopH86RxNxwi2t4bXV",
-				"focus": 0.6703445329205115,
-				"gap": 16.373074010741604
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1225.0727539062502,
-					591.540283203125
-				],
-				[
-					-2347.9039306640625,
-					5.477294921875
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 3,
-			"versionNonce": 448716737,
-			"isDeleted": false,
-			"id": "K3czp28J",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 930.48559576918,
-			"y": 729.6684977213538,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25,
-			"height": 46,
-			"seed": 466093025,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "R",
-			"rawText": "R",
-			"baseline": 32,
-			"textAlign": "left",
-			"verticalAlign": "top"
 		}
 	],
 	"appState": {
@@ -2049,7 +1967,7 @@ R ^K3czp28J
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2976.3427219803725 1089.4864400227862" width="2976.3427219803725" height="1089.4864400227862" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2976.3427219803725 785.204610188802" width="2976.3427219803725" height="785.204610188802" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -2086,16 +2004,16 @@ R ^K3czp28J
 	</g>
 	<g transform="translate(599.3125613984606 325.6127929687501) rotate(0 9.5 23)"><text x="9.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">s</text></g>
 	<g transform="translate(620.4277042207262 355.59243774414074) rotate(0 3.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
-	<g stroke-linecap="round" transform="translate(892.0040185110909 274.77118937174487) rotate(0 79.8761901855469 84.44058227539062)">
+	<g stroke-linecap="round" transform="translate(895.0469262259346 276.2925923665365) rotate(0 79.8761901855469 84.44058227539062)">
 		<path d="M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69 M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
-	<g transform="translate(958.1643883841377 328.45438639322924) rotate(0 9.5 23)"><text x="9.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">s</text></g>
-	<g transform="translate(979.2795312064034 358.43403116861987) rotate(0 10 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">2</text></g>
-	<g stroke-linecap="round" transform="translate(1305.924510047549 260.2849358452692) rotate(0 79.87619018554688 84.44058227539062)">
+	<g transform="translate(961.2072960989815 329.97578938802087) rotate(0 9.5 23)"><text x="9.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">s</text></g>
+	<g transform="translate(982.3224389212471 359.9554341634115) rotate(0 10 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">2</text></g>
+	<g stroke-linecap="round" transform="translate(1305.924510047549 295.2783237033422) rotate(0 79.87619018554688 84.44058227539062)">
 		<path d="M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69 M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
-	<g transform="translate(1372.0848799205958 313.9681328667536) rotate(0 9.5 23)"><text x="9.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">s</text></g>
-	<g transform="translate(1393.2000227428614 343.9477776421442) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3</text></g>
+	<g transform="translate(1372.0848799205958 348.9615207248266) rotate(0 9.5 23)"><text x="9.5" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr">s</text></g>
+	<g transform="translate(1393.2000227428614 378.9411655002172) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="28px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3</text></g>
 	<g stroke-linecap="round" transform="translate(1691.0066023327056 262.72478230794286) rotate(0 79.87619018554688 84.44058227539062)">
 		<path d="M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69 M79.88 0 C90.52 -1.28, 103.33 2.86, 113.5 7.84 C123.66 12.83, 133.64 20.87, 140.87 29.92 C148.11 38.97, 153.95 50.7, 156.91 62.13 C159.87 73.56, 160.5 86.8, 158.64 98.48 C156.78 110.16, 152.07 122.46, 145.73 132.23 C139.39 141.99, 130.23 151.05, 120.59 157.09 C110.95 163.13, 99.03 167.27, 87.88 168.46 C76.73 169.64, 64.27 168.1, 53.68 164.21 C43.09 160.33, 32.41 153.38, 24.35 145.15 C16.3 136.91, 9.37 125.85, 5.34 114.8 C1.31 103.74, -0.57 90.63, 0.18 78.81 C0.92 66.99, 4.44 54.26, 9.82 43.87 C15.21 33.48, 23.46 23.5, 32.48 16.47 C41.51 9.44, 56.05 4.44, 63.95 1.7 C71.85 -1.05, 77.22 0, 79.88 0 C82.53 0, 79.88 0.28, 79.88 1.69" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
@@ -2124,25 +2042,25 @@ R ^K3czp28J
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(697.5367786487049 352.1990818460022) rotate(0 88.36252614194119 -1.5673985501108803)">
-			<path d="M0 0 C29.45 -0.52, 147.27 -2.61, 176.73 -3.13 M0 0 C29.45 -0.52, 147.27 -2.61, 176.73 -3.13" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(697.5460886009068 352.4145052837066) rotate(0 89.87005171094702 -0.815736518533015)">
+			<path d="M0 0 C29.96 -0.27, 149.78 -1.36, 179.74 -1.63 M0 0 C29.96 -0.27, 149.78 -1.36, 179.74 -1.63" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(697.5367786487049 352.1990818460022) rotate(0 88.36252614194119 -1.5673985501108803)">
-			<path d="M148.72 7.62 C155.65 4.96, 162.58 2.3, 176.73 -3.13 M148.72 7.62 C154.58 5.37, 160.43 3.12, 176.73 -3.13" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(697.5460886009068 352.4145052837066) rotate(0 89.87005171094702 -0.815736518533015)">
+			<path d="M151.64 8.88 C158.6 6.28, 165.55 3.68, 179.74 -1.63 M151.64 8.88 C157.52 6.69, 163.39 4.49, 179.74 -1.63" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(697.5367786487049 352.1990818460022) rotate(0 88.36252614194119 -1.5673985501108803)">
-			<path d="M148.36 -12.89 C155.38 -10.48, 162.4 -8.06, 176.73 -3.13 M148.36 -12.89 C154.29 -10.85, 160.22 -8.81, 176.73 -3.13" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(697.5460886009068 352.4145052837066) rotate(0 89.87005171094702 -0.815736518533015)">
+			<path d="M151.46 -11.64 C158.46 -9.16, 165.46 -6.68, 179.74 -1.63 M151.46 -11.64 C157.37 -9.54, 163.29 -7.45, 179.74 -1.63" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1482.4776336987293 333.151949880002) rotate(0 93.76836710765929 7.9750368905440965)">
-			<path d="M0 0 C31.26 2.66, 156.28 13.29, 187.54 15.95 M0 0 C31.26 2.66, 156.28 13.29, 187.54 15.95" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1481.1531741850163 359.40382427727087) rotate(0 94.70182975983982 -0.5741659564750066)">
+			<path d="M0 0 C31.57 -0.19, 157.84 -0.96, 189.4 -1.15 M0 0 C31.57 -0.19, 157.84 -0.96, 189.4 -1.15" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1482.4776336987293 333.151949880002) rotate(0 93.76836710765929 7.9750368905440965)">
-			<path d="M158.58 23.78 C166.9 21.53, 175.22 19.28, 187.54 15.95 M158.58 23.78 C165.32 21.96, 172.07 20.13, 187.54 15.95" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1481.1531741850163 359.40382427727087) rotate(0 94.70182975983982 -0.5741659564750066)">
+			<path d="M161.28 9.28 C169.36 6.29, 177.44 3.29, 189.4 -1.15 M161.28 9.28 C167.83 6.85, 174.38 4.42, 189.4 -1.15" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1482.4776336987293 333.151949880002) rotate(0 93.76836710765929 7.9750368905440965)">
-			<path d="M160.32 3.34 C168.14 6.96, 175.96 10.59, 187.54 15.95 M160.32 3.34 C166.66 6.28, 173 9.21, 187.54 15.95" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1481.1531741850163 359.40382427727087) rotate(0 94.70182975983982 -0.5741659564750066)">
+			<path d="M161.15 -11.24 C169.27 -8.34, 177.39 -5.44, 189.4 -1.15 M161.15 -11.24 C167.73 -8.89, 174.31 -6.54, 189.4 -1.15" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -2182,17 +2100,17 @@ R ^K3czp28J
 	<g transform="translate(191.70272827148426 10) rotate(0 97 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Sensor = S</text></g>
 	<g transform="translate(771.3363138834634 288.3333333333333) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(1071.4925353068024 357.4254470587347) rotate(0 108.76184133234125 -5.762065955397443)">
-			<path d="M0 0 C36.25 -1.92, 181.27 -9.6, 217.52 -11.52 M0 0 C36.25 -1.92, 181.27 -9.6, 217.52 -11.52" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1074.3719536553795 366.96098967365754) rotate(0 107.42410594586244 3.038825786590145)">
+			<path d="M0 0 C35.81 1.01, 179.04 5.06, 214.85 6.08 M0 0 C35.81 1.01, 179.04 5.06, 214.85 6.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1071.4925353068024 357.4254470587347) rotate(0 108.76184133234125 -5.762065955397443)">
-			<path d="M189.92 0.21 C198.16 -3.29, 206.4 -6.8, 217.52 -11.52 M189.92 0.21 C200.79 -4.41, 211.67 -9.03, 217.52 -11.52" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1074.3719536553795 366.96098967365754) rotate(0 107.42410594586244 3.038825786590145)">
+			<path d="M186.38 15.54 C194.88 12.71, 203.38 9.89, 214.85 6.08 M186.38 15.54 C197.59 11.81, 208.81 8.08, 214.85 6.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1071.4925353068024 357.4254470587347) rotate(0 108.76184133234125 -5.762065955397443)">
-			<path d="M188.83 -20.28 C197.4 -17.66, 205.97 -15.05, 217.52 -11.52 M188.83 -20.28 C200.13 -16.83, 211.44 -13.38, 217.52 -11.52" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1074.3719536553795 366.96098967365754) rotate(0 107.42410594586244 3.038825786590145)">
+			<path d="M186.96 -4.98 C195.29 -1.68, 203.61 1.63, 214.85 6.08 M186.96 -4.98 C197.95 -0.62, 208.93 3.73, 214.85 6.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1147.422129313151 297.1001519097222) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(1158.0722554524737 303.1859673394097) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
 	<g transform="translate(2436.606903076172 266.2937418619792) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
 	<g stroke-linecap="round">
 		<g transform="translate(2468.810272216797 266.21728515625) rotate(0 -18.257446289062614 0.7607523600260322)">
@@ -2253,14 +2171,14 @@ R ^K3czp28J
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(953.9014630790298 274.855154803921) rotate(0 -324.5839421551925 -70.83326985065203)">
-			<path d="M0 0 C-61.68 -23.61, -261.9 -139.79, -370.09 -141.67 C-478.28 -143.54, -602.65 -32.99, -649.17 -11.26 M0 0 C-61.68 -23.61, -261.9 -139.79, -370.09 -141.67 C-478.28 -143.54, -602.65 -32.99, -649.17 -11.26" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(957.0020628138623 276.3630273741628) rotate(0 -326.1342420226088 -71.58720613577287)">
+			<path d="M0 0 C-62.2 -23.86, -264.48 -141.05, -373.19 -143.17 C-481.9 -145.3, -605.76 -34.5, -652.27 -12.76 M0 0 C-62.2 -23.86, -264.48 -141.05, -373.19 -143.17 C-481.9 -145.3, -605.76 -34.5, -652.27 -12.76" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(953.9014630790298 274.855154803921) rotate(0 -324.5839421551925 -70.83326985065203)">
-			<path d="M-630.81 -34.98 C-634.91 -29.69, -639 -24.39, -649.17 -11.26 M-630.81 -34.98 C-637.42 -26.44, -644.03 -17.9, -649.17 -11.26" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(957.0020628138623 276.3630273741628) rotate(0 -326.1342420226088 -71.58720613577287)">
+			<path d="M-633.94 -36.52 C-638.03 -31.22, -642.12 -25.92, -652.27 -12.76 M-633.94 -36.52 C-640.54 -27.96, -647.14 -19.41, -652.27 -12.76" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(953.9014630790298 274.855154803921) rotate(0 -324.5839421551925 -70.83326985065203)">
-			<path d="M-619.85 -17.63 C-626.39 -16.21, -632.94 -14.79, -649.17 -11.26 M-619.85 -17.63 C-630.41 -15.34, -640.97 -13.04, -649.17 -11.26" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(957.0020628138623 276.3630273741628) rotate(0 -326.1342420226088 -71.58720613577287)">
+			<path d="M-622.96 -19.18 C-629.5 -17.75, -636.04 -16.32, -652.27 -12.76 M-622.96 -19.18 C-633.52 -16.87, -644.07 -14.56, -652.27 -12.76" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g transform="translate(665.7009278664871 104.30115085177994) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
@@ -2275,18 +2193,6 @@ R ^K3czp28J
 			<path d="M0 0 C-5.58 -0.25, -27.89 -1.27, -33.47 -1.52 M0 0 C-5.58 -0.25, -27.89 -1.27, -33.47 -1.52" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g stroke-linecap="round">
-		<g transform="translate(2670.221692105908 436.48766072591116) rotate(0 -1173.9519653320312 295.7701416015625)">
-			<path d="M0 0 C-204.18 98.59, -833.76 590.63, -1225.07 591.54 C-1616.39 592.45, -2160.77 103.15, -2347.9 5.48 M0 0 C-204.18 98.59, -833.76 590.63, -1225.07 591.54 C-1616.39 592.45, -2160.77 103.15, -2347.9 5.48" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-		<g transform="translate(2670.221692105908 436.48766072591116) rotate(0 -1173.9519653320312 295.7701416015625)">
-			<path d="M-2318.8 12.77 C-2325.83 11.01, -2332.86 9.25, -2347.9 5.48 M-2318.8 12.77 C-2326.77 10.78, -2334.73 8.78, -2347.9 5.48" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-		<g transform="translate(2670.221692105908 436.48766072591116) rotate(0 -1173.9519653320312 295.7701416015625)">
-			<path d="M-2330.3 29.77 C-2334.55 23.9, -2338.8 18.04, -2347.9 5.48 M-2330.3 29.77 C-2335.12 23.12, -2339.94 16.47, -2347.9 5.48" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g transform="translate(1386.433117887158 1033.4864400227862) rotate(0 12.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
 </svg>
 ```
 %%
