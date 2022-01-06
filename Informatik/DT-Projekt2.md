@@ -90,7 +90,7 @@ $S'_2=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overlin
 
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 exakt dann 1 ausgibt, wenn wir in Zustand $S_6$ sind)
 ```
-.i   
+.i   4
 .o   1
 000- 0
 001- 0
@@ -121,7 +121,74 @@ Der C-Eingang wird auf 1 gesetzt, wenn die Schiebetür die am Eingang $D_{in}$ a
 
 Wir fangen wieder an, indem wir einen Automaten entwerfen, allerdings dieses mal einen Moore-Automaten, da sich dieser eher anbietet:
 
-![[DT-Projekt2_06.01.2022 15-44-49.excalidraw.md]]
+![[DT-Projekt2_06.01.2022 15-44-49.excalidraw.md|600]]
+Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und eine Zustandsübergangstabelle und Ausgabetabelle aufstellen:
+
+| Zustand | $D_{in}$ | $R$ | Nächster Zustand |
+| ------- | -------- | --- | ---------------- |
+| $S_0$   | 0        | -   | $s_0$            |
+| $S_0$   | 1        | -   | $s_1$            |
+| $S_1$   | -        | -   | $s_2$            |
+| $S_2$   | 0        | 0   | $s_4$            |
+| $S_2$   | 1        | 1   | $s_3$            |
+| $S_3$   | 0        | -   | $s_4$            |
+| $S_3$   | 1        | -   | $s_3$            |
+| $S_4$   | -        | -   | $s_5$            |
+| $S_5$   | 0        | 1   | $s_0$            |
+| $S_5$   | 1        | 0   | $s_1$            |
+
+| Zustand | $s_2$ | $s_1$ | $s_0$ |
+| ------- | ----- | ----- | ----- |
+| $S_0$   | 0     | 0     | 0     |
+| $S_1$   | 0     | 0     | 1     |
+| $S_2$   | 0     | 1     | 0     |
+| $S_3$   | 0     | 1     | 1     |
+| $S_4$   | 1     | 0     | 0     |
+| $S_5$   | 1     | 0     | 1     |
+
+| Zustand | $R$ | $D_{out}$ | $C$ | $D_{in}$ |
+| ------- | --- | --------- | --- | -------- |
+| $S_0$   | 1   | 0         | 0   | 0        |
+| $S_1$   | 0   | -         | 1   | 1        |
+| $S_2$   | 0   | -         | 0   | 1        |
+| $S_3$   | 1   | 1         | 0   | 1        |
+| $S_4$   | 0   | -         | 1   | 0        |
+| $S_5$   | 0   | -         | 0   | 0        |
+
+Jetzt können wir wieder Espresso benutzen, um die Tabellen zu minimieren und um eine bool'sche Gleichung aufzustellen:
+Für die Inputs:
+```
+.i 5
+.o 3
+0000- 000
+0001- 001
+001-- 010
+01000 100
+01001 ---
+01010 ---
+01011 011
+0110- 100
+0111- 011
+100-- 101
+10100 ---
+10101 000
+10110 001
+10111 ---
+11--- ---
+```
+Espresso-Output für die Inputs:
+```
+```
+Das heißt:
+
+Für die Outputs:
+```
+```
+Espresso-Output für die Outputs:
+```
+```
+Das heißt:
+
 
 #### c) 
 Abschließend sollen Sie eine digitale Schaltung für den Motorcontrol-Chipbaustein entwerfen, den Sie in Ihrer Schaltung aus Teilaufgabe b) verwendet haben. Dieser Chipbaustein soll die Motoren steuern, um die Tür zu öffnen und zu schließen. Verwenden Sie dazu einen Motor-Chipbaustein, der die beiden Eingänge S und $D_{in}$ hat (vgl. Abbildung 1). Der Schrittmotor hat insgesamt 512 Positionen, wobei die Tür sich bei Position 0 im geschlossenen und bei Position 511 im offenen Zustand befindet (für beide Türen). Wenn der Eingang S des Motor-Chipbausteins 1 ist, dann bewegt sich der Motor innerhalb eines Taktes in die an $D_{in}$ angegebene Richtung. Bezeichnen Sie den Motor-Chipbaustein für die linke Tür mit $Motor_L$ und den für die rechte Tür mit $Motor_R$. Achten Sie darauf, dass der Motor niemals über die angegeben Schrittstufen hinaus angesteuert wird. Sie können davon ausgehen, dass sich die Motoren initial an Position 0 (Tür geschlossen) befinden. Zusätzlich zu den genannten Eingängen hat der Motorcontrol-Chipbaustein einen EMERGENCY-Eingang E, der bei einem Notfall auf 1 gesetzt ist und die Tür sofort anhält. Der Betrieb geht erst weiter, sobald E wieder auf 0 gesetzt ist. (5 PP)
