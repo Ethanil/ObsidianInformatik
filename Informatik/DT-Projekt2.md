@@ -17,7 +17,7 @@ Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstel
 | ------- | ------ | ---------------- |
 | $S_0$   | 0      | $s_0$            |
 | $S_0$   | 1      | $s_1$            |
-| $S_1$   | 0      | $s_0$            |
+| $S_1$   | 0      | $s_0$            | 
 | $S_1$   | 1      | $s_2$            |
 | $S_2$   | 0      | $s_0$            |
 | $S_2$   | 1      | $s_3$            |
@@ -295,7 +295,7 @@ Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszei
 Zuerst können wir uns der Übersichtshalber alle Bauteile in der richtigen Ebene darstellen um eine Parallelität zu gewährleisten.
 ![[DT-Projekt2_07.01.2022 14-18-52.excalidraw.md|700]]
 Danach können wir erste Logik implementieren:
-![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md]]
+![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md|700]]
 
 Jetzt brauchen wir nur noch die Logik des Decoders aufschreiben und wir sind fertig.
 Folgende Werte muss der Decoder erzeugen:
@@ -308,6 +308,40 @@ Folgende Werte muss der Decoder erzeugen:
 - Welchen Sirup (Cola/Orange/Zitrone)
 - Kein Milchkaffee(0) / Milchkaffee(1)
 
+| Getränkecode | Temperatur | Kaffegetränk | Wassermenge | Zucker | Eis | Sirup | Sirupsorte | Milchkaffee |
+| ------------ | ---------- | ------------ | ----------- | ------ | --- | ----- | ---------- | ----------- |
+| 00000        | 0          | 0            | 500         | 0      | 0   | 0     | -          | 0           |
+| 00001        | 0          | 0            | 500         | 0      | 1   | 0     | -          | 0           |
+| 00010        | 0          | 0            | 500         | 1      | 0   | 0     | -          | 0           |
+| 00011        | 0          | 0            | 500         | 1      | 1   | 0     | -          | 0           |
+| 00100        | 0          | 0            | 400         | 0      | 0   | 1     | 01         | 0           |
+| 00101        | 0          | 0            | 400         | 0      | 1   | 1     | 01         | 0           |
+| 00110        | 0          | 0            | 400         | 1      | 0   | 1     | 01         | 0           |
+| 00111        | 0          | 0            | 400         | 1      | 1   | 1     | 01         | 0           |
+| 01000        | 0          | 0            | 400         | 0      | 0   | 1     | 10         | 0           |
+| 01001        | 0          | 0            | 400         | 0      | 1   | 1     | 10         | 0           |
+| 01010        | 0          | 0            | 400         | 1      | 0   | 1     | 10         | 0           |
+| 01011        | 0          | 0            | 400         | 1      | 1   | 1     | 10         | 0           |
+| 01100        | 0          | 0            | 400         | 0      | 0   | 1     | 11         | 0           |
+| 01101        | 0          | 0            | 400         | 0      | 1   | 1     | 11         | 0           |
+| 01110        | 0          | 0            | 400         | 1      | 0   | 1     | 11         | 0           |
+| 01111        | 0          | 0            | 400         | 1      | 1   | 1     | 11         | 0           |
+| 10000        | 1          | 1            | 500         | 0      | 0   | 0     | -          | 0           |
+| 10001        | 1          | 1            | 500         | 0      | 1   | 0     | -          | 0           |
+| 10010        | 1          | 1            | 500         | 1      | 0   | 0     | -          | 0           |
+| 10011        | 1          | 1            | 500         | 1      | 1   | 0     | -          | 0           |
+| 10100        | 1          | 1            | 250         | 0      | 0   | 0     | -          | 1           |
+| 10101        | 1          | 1            | 250         | 0      | 1   | 0     | -          | 1           |
+| 10110        | 1          | 1            | 250         | 1      | 0   | 0     | -          | 1           |
+| 10111        | 1          | 1            | 250         | 1      | 1   | 0     | -          | 1           |
+| 11000        | 1          | 1            | 250         | 0      | 0   | 0     | -          | 1           |
+| 11001        | 1          | 1            | 250         | 0      | 1   | 0     | -          | 1           |
+| 11010        | 1          | 1            | 250         | 1      | 0   | 0     | -          | 1           |
+| 11011        | 1          | 1            | 250         | 1      | 1   | 0     | -          | 1           |
+| 11100        | 1          | 0            | 500         | 0      | 0   | 0     | -          | 0           |
+| 11101        | 1          | 0            | 500         | 0      | 1   | 0     | -          | 0           |
+| 11110        | 1          | 0            | 500         | 1      | 0   | 0     | -          | 0           |
+| 11111        | 1          | 0            | 500         | 1      | 1   | 0     | -          | 0           |
 
 
 ## Zentrale Kontrolleinheit (9 PP)  
