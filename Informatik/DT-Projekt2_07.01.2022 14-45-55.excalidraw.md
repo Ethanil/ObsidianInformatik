@@ -152,11 +152,11 @@ Wenn wir die Kaffeemühle brauchen
 wird der Aufgussschub in jedem Fall
 vor den Ausguss geschoben ^BRPlNC1g
 
-Input vom Dekoder über Zucker ^FirNqpsJ
+Input vom Decoder über Zucker ^FirNqpsJ
 
-Input vom Dekoder über Eiswürfel ^cnZBSdJn
+Input vom Decoder über Eiswürfel ^cnZBSdJn
 
-Input vom Dekoder, ob wir die Kaffeemühle brauchen ^UO9ZMmNX
+Input vom Decoder, ob wir die Kaffeemühle brauchen ^UO9ZMmNX
 
 Input vom Decoder, ob das Wasser
 gekühlt(0) oder geheizt(1) werden muss ^dqKkeppP
@@ -165,6 +165,24 @@ Wenn wir Kaffee brauchen, muss dieser fertig sein
 oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 
 1 ^mXzeB3kC
+
+Input com Decoder über die Menge
+an Wasser ^lM0aFaa3
+
+Wie oben beim Kaffee müssen wir
+sicher gehen, dass auch dann ein "ready"
+Signal kommt, wenn kein Zucker/Eis ausgewählt
+wurde ^chpRx1zr
+
+Für Wasser und Tee sind wir hier schon fertig ^xmVjp6BO
+
+0 ^ntad5BK9
+
+Aufgussschub wieder reinschieben, wenn wir
+ein "Kaffee"-Getränk hatten ^SBMVIJB8
+
+Input vom Decoder ob wir ein Sirup brauchen
+und welchen ^JMywG2hs
 
 %%
 # Drawing
@@ -176,8 +194,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 	"elements": [
 		{
 			"type": "text",
-			"version": 443,
-			"versionNonce": 1854540362,
+			"version": 446,
+			"versionNonce": 897088022,
 			"isDeleted": false,
 			"id": "ALESdZW2",
 			"fillStyle": "hachure",
@@ -209,8 +227,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 481,
-			"versionNonce": 514463574,
+			"version": 484,
+			"versionNonce": 1475631690,
 			"isDeleted": false,
 			"id": "2aJtMKeZ",
 			"fillStyle": "hachure",
@@ -242,8 +260,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 476,
-			"versionNonce": 170275082,
+			"version": 479,
+			"versionNonce": 332187478,
 			"isDeleted": false,
 			"id": "LQGZiML8",
 			"fillStyle": "hachure",
@@ -275,8 +293,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 438,
-			"versionNonce": 928562326,
+			"version": 441,
+			"versionNonce": 1908834570,
 			"isDeleted": false,
 			"id": "iAT5kpp1",
 			"fillStyle": "hachure",
@@ -308,8 +326,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 763,
-			"versionNonce": 353337290,
+			"version": 766,
+			"versionNonce": 1420127382,
 			"isDeleted": false,
 			"id": "tyXjTrLe1EveoZ6BLo9sN",
 			"fillStyle": "hachure",
@@ -335,8 +353,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 649,
-			"versionNonce": 629193174,
+			"version": 652,
+			"versionNonce": 1143328714,
 			"isDeleted": false,
 			"id": "ITv494WW4QMhKox3kNqZM",
 			"fillStyle": "hachure",
@@ -377,8 +395,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 667,
-			"versionNonce": 2069952138,
+			"version": 670,
+			"versionNonce": 1438083542,
 			"isDeleted": false,
 			"id": "yo_lQTYv_Yb4YOjO4NSAx",
 			"fillStyle": "hachure",
@@ -419,8 +437,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 708,
-			"versionNonce": 540479254,
+			"version": 711,
+			"versionNonce": 321734282,
 			"isDeleted": false,
 			"id": "UienqxiV6hD_owTCya0Bf",
 			"fillStyle": "hachure",
@@ -461,8 +479,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 546,
-			"versionNonce": 1842713930,
+			"version": 549,
+			"versionNonce": 1981267734,
 			"isDeleted": false,
 			"id": "7lsAtevp",
 			"fillStyle": "hachure",
@@ -493,8 +511,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 458,
-			"versionNonce": 871414870,
+			"version": 461,
+			"versionNonce": 1738007882,
 			"isDeleted": false,
 			"id": "a3Ep8eI1",
 			"fillStyle": "hachure",
@@ -526,8 +544,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 515,
-			"versionNonce": 1304976394,
+			"version": 518,
+			"versionNonce": 1782279254,
 			"isDeleted": false,
 			"id": "5RheXrkE",
 			"fillStyle": "hachure",
@@ -559,8 +577,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 482,
-			"versionNonce": 377667990,
+			"version": 485,
+			"versionNonce": 2059447306,
 			"isDeleted": false,
 			"id": "ta8w9NBf",
 			"fillStyle": "hachure",
@@ -592,8 +610,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 731,
-			"versionNonce": 422857418,
+			"version": 734,
+			"versionNonce": 267874710,
 			"isDeleted": false,
 			"id": "7SYrFA6wvsfPjLFGCImgZ",
 			"fillStyle": "hachure",
@@ -619,8 +637,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 612,
-			"versionNonce": 2065833686,
+			"version": 615,
+			"versionNonce": 581081802,
 			"isDeleted": false,
 			"id": "7If_GVe_Y85UOcda6FSEB",
 			"fillStyle": "hachure",
@@ -661,8 +679,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 584,
-			"versionNonce": 1454662026,
+			"version": 587,
+			"versionNonce": 1115737814,
 			"isDeleted": false,
 			"id": "zrfKJJ1sqfeEtqfdmokgS",
 			"fillStyle": "hachure",
@@ -703,8 +721,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 674,
-			"versionNonce": 1717818390,
+			"version": 677,
+			"versionNonce": 1037611402,
 			"isDeleted": false,
 			"id": "6rVj2xnz",
 			"fillStyle": "hachure",
@@ -735,8 +753,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 416,
-			"versionNonce": 25403466,
+			"version": 419,
+			"versionNonce": 778863638,
 			"isDeleted": false,
 			"id": "9sUWwCig",
 			"fillStyle": "hachure",
@@ -768,8 +786,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 453,
-			"versionNonce": 37544278,
+			"version": 456,
+			"versionNonce": 530444362,
 			"isDeleted": false,
 			"id": "MTdzR6VB",
 			"fillStyle": "hachure",
@@ -801,8 +819,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 460,
-			"versionNonce": 1971128074,
+			"version": 463,
+			"versionNonce": 632262998,
 			"isDeleted": false,
 			"id": "kKR9PsOu",
 			"fillStyle": "hachure",
@@ -834,8 +852,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 815,
-			"versionNonce": 1912751766,
+			"version": 818,
+			"versionNonce": 2077054730,
 			"isDeleted": false,
 			"id": "sBJRecI7EgMCMCnUVHCt4",
 			"fillStyle": "hachure",
@@ -861,8 +879,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 700,
-			"versionNonce": 1528534474,
+			"version": 703,
+			"versionNonce": 1939797654,
 			"isDeleted": false,
 			"id": "f4tEn2s6RUixwCbEIxgCF",
 			"fillStyle": "hachure",
@@ -903,8 +921,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 668,
-			"versionNonce": 644416470,
+			"version": 671,
+			"versionNonce": 1390536138,
 			"isDeleted": false,
 			"id": "419qqdOkVmt9xPbozZqYX",
 			"fillStyle": "hachure",
@@ -945,8 +963,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 583,
-			"versionNonce": 326782090,
+			"version": 586,
+			"versionNonce": 821015510,
 			"isDeleted": false,
 			"id": "LqzVmBJo",
 			"fillStyle": "hachure",
@@ -977,8 +995,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 342,
-			"versionNonce": 1674062358,
+			"version": 413,
+			"versionNonce": 1407067786,
 			"isDeleted": false,
 			"id": "6Bg0zohB",
 			"fillStyle": "hachure",
@@ -987,8 +1005,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -19.076260356160446,
-			"y": 805.180326217386,
+			"x": -50.863696705212305,
+			"y": 1891.496647454135,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 100,
@@ -1010,8 +1028,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 355,
-			"versionNonce": 1001892426,
+			"version": 426,
+			"versionNonce": 2103762710,
 			"isDeleted": false,
 			"id": "Pq4DlyY2",
 			"fillStyle": "hachure",
@@ -1020,8 +1038,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -29.637238836908182,
-			"y": 779.6137041645122,
+			"x": -61.42467518596004,
+			"y": 1865.9300254012612,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -1043,8 +1061,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 344,
-			"versionNonce": 1017542486,
+			"version": 415,
+			"versionNonce": 523027786,
 			"isDeleted": false,
 			"id": "tBPd1PGN",
 			"fillStyle": "hachure",
@@ -1053,8 +1071,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 78.05241919183072,
-			"y": 778.5692662111082,
+			"x": 46.26498284277886,
+			"y": 1864.8855874478572,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
@@ -1076,8 +1094,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 331,
-			"versionNonce": 547344650,
+			"version": 402,
+			"versionNonce": 1256492118,
 			"isDeleted": false,
 			"id": "vhqoPuB3",
 			"fillStyle": "hachure",
@@ -1086,8 +1104,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 26.967562886027054,
-			"y": 836.5513414936138,
+			"x": -4.8198734630248055,
+			"y": 1922.8676627303628,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -1109,8 +1127,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 697,
-			"versionNonce": 382278806,
+			"version": 768,
+			"versionNonce": 750357514,
 			"isDeleted": false,
 			"id": "x-hGJOGT-fOWIoKjZQoxX",
 			"fillStyle": "hachure",
@@ -1119,8 +1137,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -61.90392860533666,
-			"y": 775.1228985096977,
+			"x": -93.69136495438852,
+			"y": 1861.4392197464467,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -1136,8 +1154,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 534,
-			"versionNonce": 1800740810,
+			"version": 605,
+			"versionNonce": 1048351126,
 			"isDeleted": false,
 			"id": "ufc76cfCrq6ixYzI3Ekqp",
 			"fillStyle": "hachure",
@@ -1146,8 +1164,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 32.7719802636268,
-			"y": 860.2461229415159,
+			"x": 0.9845439145749424,
+			"y": 1946.5624441782647,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1178,8 +1196,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 601,
-			"versionNonce": 2011503062,
+			"version": 672,
+			"versionNonce": 1652521674,
 			"isDeleted": false,
 			"id": "-6RWzh3RXZ_vtO4OwBpOL",
 			"fillStyle": "hachure",
@@ -1188,8 +1206,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -20.468326860347133,
-			"y": 717.7255451543671,
+			"x": -52.25576320939899,
+			"y": 1804.041866391116,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1220,8 +1238,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 642,
-			"versionNonce": 938645130,
+			"version": 713,
+			"versionNonce": 593620694,
 			"isDeleted": false,
 			"id": "gqFEtDjLdmWib49PD4cw6",
 			"fillStyle": "hachure",
@@ -1230,8 +1248,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 85.5397017287662,
-			"y": 717.5781598942955,
+			"x": 53.752265379714345,
+			"y": 1803.8944811310444,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1262,8 +1280,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 1729064726,
+			"version": 556,
+			"versionNonce": 790204810,
 			"isDeleted": false,
 			"id": "3iufnumh",
 			"fillStyle": "hachure",
@@ -1272,8 +1290,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 82.96092104931768,
-			"y": 844.5558202234337,
+			"x": 51.17348470026582,
+			"y": 1930.8721414601825,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 38,
@@ -1294,8 +1312,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 928,
-			"versionNonce": 188121546,
+			"version": 1003,
+			"versionNonce": 1261866518,
 			"isDeleted": false,
 			"id": "NuAx2HZA",
 			"fillStyle": "hachure",
@@ -1304,8 +1322,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 95.40571392769402,
-			"y": 219.19692632666818,
+			"x": 142.4185770868737,
+			"y": 454.94575139991036,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 142,
@@ -1327,8 +1345,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 960,
-			"versionNonce": 1254283222,
+			"version": 1035,
+			"versionNonce": 332498506,
 			"isDeleted": false,
 			"id": "HEWV3F3q",
 			"fillStyle": "hachure",
@@ -1337,8 +1355,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 155.53383543997097,
-			"y": 191.41446434285126,
+			"x": 202.54669859915066,
+			"y": 427.16328941609345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -1360,8 +1378,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 936,
-			"versionNonce": 1498921098,
+			"version": 1011,
+			"versionNonce": 1890081622,
 			"isDeleted": false,
 			"id": "3B36HuMU",
 			"fillStyle": "hachure",
@@ -1370,8 +1388,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 159.42708495168972,
-			"y": 248.8939260127729,
+			"x": 206.4399481108694,
+			"y": 484.6427510860151,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -1393,8 +1411,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 1194,
-			"versionNonce": 1401253142,
+			"version": 1269,
+			"versionNonce": 287190282,
 			"isDeleted": false,
 			"id": "PmTT8gYrv8e7oZWaku527",
 			"fillStyle": "hachure",
@@ -1403,8 +1421,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 71.67006344265474,
-			"y": 187.20618248866504,
+			"x": 118.68292660183442,
+			"y": 422.9550075619072,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -1420,8 +1438,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1031,
-			"versionNonce": 597956426,
+			"version": 1106,
+			"versionNonce": 955154582,
 			"isDeleted": false,
 			"id": "Dxp_eRqPA52e-k2347LVn",
 			"fillStyle": "hachure",
@@ -1430,8 +1448,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 166.34597231161797,
-			"y": 272.3294069204828,
+			"x": 213.35883547079766,
+			"y": 508.078231993725,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1462,8 +1480,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1047,
-			"versionNonce": 1774410326,
+			"version": 1122,
+			"versionNonce": 1940388810,
 			"isDeleted": false,
 			"id": "Z9iuFhjn3_0s0uoZEg8-c",
 			"fillStyle": "hachure",
@@ -1472,8 +1490,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 167.1172008321755,
-			"y": 128.2873752759126,
+			"x": 214.1300639913552,
+			"y": 364.0362003491548,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1504,8 +1522,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 1074,
-			"versionNonce": 175545866,
+			"version": 1149,
+			"versionNonce": 2008939990,
 			"isDeleted": false,
 			"id": "Eq0EFKOb",
 			"fillStyle": "hachure",
@@ -1514,8 +1532,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 222.20018903434402,
-			"y": 257.74426917479127,
+			"x": 269.2130521935237,
+			"y": 493.49309424803346,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 35,
@@ -1536,8 +1554,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 581,
-			"versionNonce": 1951506326,
+			"version": 749,
+			"versionNonce": 1770648202,
 			"isDeleted": false,
 			"id": "8Hyk7rm8",
 			"fillStyle": "hachure",
@@ -1546,8 +1564,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 393.61451180638346,
-			"y": 218.1830078890131,
+			"x": 514.3418067282585,
+			"y": 461.4631439974115,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 162,
@@ -1569,8 +1587,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 576,
-			"versionNonce": 1791642826,
+			"version": 744,
+			"versionNonce": 1110168342,
 			"isDeleted": false,
 			"id": "LKjLbfox",
 			"fillStyle": "hachure",
@@ -1579,8 +1597,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 459.89779776480987,
-			"y": 188.76705329916948,
+			"x": 580.6250926866849,
+			"y": 432.0471894075679,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -1602,8 +1620,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 577,
-			"versionNonce": 929381590,
+			"version": 745,
+			"versionNonce": 629084490,
 			"isDeleted": false,
 			"id": "GnxFRvfU",
 			"fillStyle": "hachure",
@@ -1612,8 +1630,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 467.09112226257776,
-			"y": 245.74908716496157,
+			"x": 587.8184171844528,
+			"y": 489.02922327336,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -1635,8 +1653,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 774,
-			"versionNonce": 1245324170,
+			"version": 942,
+			"versionNonce": 1118634070,
 			"isDeleted": false,
 			"id": "4Cx-vIjDN2KRNwEiS2Cc9",
 			"fillStyle": "hachure",
@@ -1645,8 +1663,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 379.0221263780911,
-			"y": 185.89644783041948,
+			"x": 499.7494212999661,
+			"y": 429.1765839388179,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -1662,8 +1680,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 611,
-			"versionNonce": 680735254,
+			"version": 779,
+			"versionNonce": 1256347658,
 			"isDeleted": false,
 			"id": "xWY9cBEXNecKaRZNkV8u0",
 			"fillStyle": "hachure",
@@ -1672,8 +1690,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 473.69803524705435,
-			"y": 271.01967226223724,
+			"x": 594.4253301689293,
+			"y": 514.2998083706357,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1704,8 +1722,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 627,
-			"versionNonce": 1124147786,
+			"version": 795,
+			"versionNonce": 219579798,
 			"isDeleted": false,
 			"id": "d7ftILaDsQHpY81e1cRYH",
 			"fillStyle": "hachure",
@@ -1714,8 +1732,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 474.4692637676119,
-			"y": 126.97764061766682,
+			"x": 595.1965586894869,
+			"y": 370.25777672606523,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -1746,8 +1764,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 745,
-			"versionNonce": 1120960342,
+			"version": 913,
+			"versionNonce": 1504626378,
 			"isDeleted": false,
 			"id": "nGGoegb0",
 			"fillStyle": "hachure",
@@ -1756,8 +1774,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 530.1719002082344,
-			"y": 256.20915845895524,
+			"x": 650.8991951301094,
+			"y": 499.4892945673537,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 30,
@@ -1778,8 +1796,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 2023514122,
+			"version": 474,
+			"versionNonce": 1922917078,
 			"isDeleted": false,
 			"id": "wQvOsKUM",
 			"fillStyle": "hachure",
@@ -1811,8 +1829,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 473,
-			"versionNonce": 903937430,
+			"version": 476,
+			"versionNonce": 444554634,
 			"isDeleted": false,
 			"id": "kYeuNR3Q",
 			"fillStyle": "hachure",
@@ -1844,8 +1862,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 471,
-			"versionNonce": 1390923466,
+			"version": 474,
+			"versionNonce": 1440126998,
 			"isDeleted": false,
 			"id": "YICJRbmX",
 			"fillStyle": "hachure",
@@ -1877,8 +1895,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 728,
-			"versionNonce": 190372566,
+			"version": 731,
+			"versionNonce": 177151050,
 			"isDeleted": false,
 			"id": "o2voy4WlGdWxDdv6pCxKu",
 			"fillStyle": "hachure",
@@ -1904,8 +1922,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 659,
-			"versionNonce": 1972101386,
+			"version": 662,
+			"versionNonce": 2125931862,
 			"isDeleted": false,
 			"id": "1pkZUaMYSQMoPKWedpDq_",
 			"fillStyle": "hachure",
@@ -1946,8 +1964,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 581,
-			"versionNonce": 946016278,
+			"version": 584,
+			"versionNonce": 1203307274,
 			"isDeleted": false,
 			"id": "o3UO5xh_lPUJcxdJiSFh8",
 			"fillStyle": "hachure",
@@ -1988,8 +2006,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 617,
-			"versionNonce": 1767071498,
+			"version": 620,
+			"versionNonce": 1855195798,
 			"isDeleted": false,
 			"id": "W7TTBETZ",
 			"fillStyle": "hachure",
@@ -2020,8 +2038,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 333,
-			"versionNonce": 1694210006,
+			"version": 336,
+			"versionNonce": 2088243658,
 			"isDeleted": false,
 			"id": "9MMr6Zc2",
 			"fillStyle": "hachure",
@@ -2053,8 +2071,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 738916490,
+			"version": 388,
+			"versionNonce": 874661846,
 			"isDeleted": false,
 			"id": "s0YTdkRw",
 			"fillStyle": "hachure",
@@ -2086,8 +2104,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 334,
-			"versionNonce": 681979158,
+			"version": 337,
+			"versionNonce": 1273448586,
 			"isDeleted": false,
 			"id": "y2c5Z0tQ",
 			"fillStyle": "hachure",
@@ -2119,8 +2137,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 350,
-			"versionNonce": 1039095626,
+			"version": 353,
+			"versionNonce": 1064754454,
 			"isDeleted": false,
 			"id": "VJ8mffW8",
 			"fillStyle": "hachure",
@@ -2152,8 +2170,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 607,
-			"versionNonce": 1556879958,
+			"version": 610,
+			"versionNonce": 1036101450,
 			"isDeleted": false,
 			"id": "-OBB26KlT_wXxB3xLPY_3",
 			"fillStyle": "hachure",
@@ -2179,8 +2197,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 477,
-			"versionNonce": 1942931478,
+			"version": 480,
+			"versionNonce": 906414678,
 			"isDeleted": false,
 			"id": "jI49daV0tecLqMAZYI7dM",
 			"fillStyle": "hachure",
@@ -2221,8 +2239,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 511,
-			"versionNonce": 138567574,
+			"version": 514,
+			"versionNonce": 711077386,
 			"isDeleted": false,
 			"id": "W_TDMU3yhfElFoS3PNaW9",
 			"fillStyle": "hachure",
@@ -2263,8 +2281,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 552,
-			"versionNonce": 1531284682,
+			"version": 555,
+			"versionNonce": 1185353622,
 			"isDeleted": false,
 			"id": "KGpoyqN7gKQuB3Uzk9d2G",
 			"fillStyle": "hachure",
@@ -2305,8 +2323,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 506,
-			"versionNonce": 255720662,
+			"version": 509,
+			"versionNonce": 650370250,
 			"isDeleted": false,
 			"id": "MdNQATF7",
 			"fillStyle": "hachure",
@@ -2337,8 +2355,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 430,
-			"versionNonce": 156066698,
+			"version": 433,
+			"versionNonce": 2106371286,
 			"isDeleted": false,
 			"id": "kj5u9ePh",
 			"fillStyle": "hachure",
@@ -2370,8 +2388,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 428,
-			"versionNonce": 122941974,
+			"version": 431,
+			"versionNonce": 1887548298,
 			"isDeleted": false,
 			"id": "PHRieFJD",
 			"fillStyle": "hachure",
@@ -2403,8 +2421,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 409,
-			"versionNonce": 1034707530,
+			"version": 412,
+			"versionNonce": 407675414,
 			"isDeleted": false,
 			"id": "x5giNjuM",
 			"fillStyle": "hachure",
@@ -2436,8 +2454,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 668,
-			"versionNonce": 192495446,
+			"version": 671,
+			"versionNonce": 1507242570,
 			"isDeleted": false,
 			"id": "xwK5iTtpPUDwXJ0XbDpQ_",
 			"fillStyle": "hachure",
@@ -2463,8 +2481,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 505,
-			"versionNonce": 1933412618,
+			"version": 508,
+			"versionNonce": 1507585878,
 			"isDeleted": false,
 			"id": "6Eg0xhNXQCfg1Y0U73Ilq",
 			"fillStyle": "hachure",
@@ -2505,8 +2523,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 521,
-			"versionNonce": 268625046,
+			"version": 524,
+			"versionNonce": 899537162,
 			"isDeleted": false,
 			"id": "fMPJOfMx5vykAxPQ6B0qZ",
 			"fillStyle": "hachure",
@@ -2547,8 +2565,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 511,
-			"versionNonce": 293328842,
+			"version": 514,
+			"versionNonce": 1586467990,
 			"isDeleted": false,
 			"id": "mxMcIHY6",
 			"fillStyle": "hachure",
@@ -2579,8 +2597,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 563,
-			"versionNonce": 1534019338,
+			"version": 682,
+			"versionNonce": 1129457610,
 			"isDeleted": false,
 			"id": "fAP8K9s4",
 			"fillStyle": "hachure",
@@ -2589,8 +2607,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -425.9134544053293,
-			"y": 252.9486464523809,
+			"x": -470.25280115477176,
+			"y": 466.29955500427906,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 58,
@@ -2612,8 +2630,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 621,
-			"versionNonce": 784161098,
+			"version": 740,
+			"versionNonce": 1880920534,
 			"isDeleted": false,
 			"id": "K0pr9rfA",
 			"fillStyle": "hachure",
@@ -2622,8 +2640,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -350.4936817273781,
-			"y": 227.07865133519343,
+			"x": -394.8330284768206,
+			"y": 440.42955988709156,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -2645,8 +2663,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 660,
-			"versionNonce": 311293706,
+			"version": 779,
+			"versionNonce": 453942922,
 			"isDeleted": false,
 			"id": "LDediKDg",
 			"fillStyle": "hachure",
@@ -2655,8 +2673,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -450.44900399300286,
-			"y": 225.9500265250806,
+			"x": -494.78835074244535,
+			"y": 439.30093507697876,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
@@ -2678,8 +2696,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 580,
-			"versionNonce": 1870840790,
+			"version": 699,
+			"versionNonce": 1503127318,
 			"isDeleted": false,
 			"id": "FU5MG4hT",
 			"fillStyle": "hachure",
@@ -2688,8 +2706,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -401.043520323298,
-			"y": 280.36351258193815,
+			"x": -445.3828670727405,
+			"y": 493.71442113383637,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -2711,8 +2729,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 935,
-			"versionNonce": 1373408394,
+			"version": 1054,
+			"versionNonce": 428752202,
 			"isDeleted": false,
 			"id": "hsCFsuMqPgzs7ZR9l7PK3",
 			"fillStyle": "hachure",
@@ -2721,8 +2739,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -484.708765302385,
-			"y": 218.583201922241,
+			"x": -529.0481120518275,
+			"y": 431.9341104741391,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -2738,8 +2756,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 772,
-			"versionNonce": 828889366,
+			"version": 891,
+			"versionNonce": 997626966,
 			"isDeleted": false,
 			"id": "tNO5b1arCq2y2jKTl6Wof",
 			"fillStyle": "hachure",
@@ -2748,8 +2766,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -390.03285643342156,
-			"y": 303.706426354059,
+			"x": -434.37220318286404,
+			"y": 517.0573349059571,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -2780,8 +2798,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 839,
-			"versionNonce": 1550740298,
+			"version": 958,
+			"versionNonce": 1277953034,
 			"isDeleted": false,
 			"id": "QfpjGRpRjW65QEna4Mxwn",
 			"fillStyle": "hachure",
@@ -2790,8 +2808,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -443.2731635573955,
-			"y": 161.18584856691032,
+			"x": -487.612510306838,
+			"y": 374.53675711880845,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -2822,8 +2840,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 880,
-			"versionNonce": 947406422,
+			"version": 999,
+			"versionNonce": 1603115414,
 			"isDeleted": false,
 			"id": "63wBdk_yk2-hUIvaBxb3Z",
 			"fillStyle": "hachure",
@@ -2832,8 +2850,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -337.26513496828215,
-			"y": 161.03846330683874,
+			"x": -381.60448171772464,
+			"y": 374.38937185873687,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -2864,8 +2882,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 705,
-			"versionNonce": 1591112202,
+			"version": 824,
+			"versionNonce": 1558377162,
 			"isDeleted": false,
 			"id": "WGrjuMot",
 			"fillStyle": "hachure",
@@ -2874,8 +2892,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -339.11046356753127,
-			"y": 287.8481441132087,
+			"x": -383.44981031697375,
+			"y": 501.1990526651068,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 37,
@@ -2896,8 +2914,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 633,
-			"versionNonce": 772918090,
+			"version": 787,
+			"versionNonce": 1903762518,
 			"isDeleted": false,
 			"id": "s7sUgPKm",
 			"fillStyle": "hachure",
@@ -2906,8 +2924,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -361.69107401069095,
-			"y": 517.1624493402489,
+			"x": -226.87954185388344,
+			"y": 1236.0482743611776,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 105,
@@ -2929,8 +2947,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 671,
-			"versionNonce": 1295705686,
+			"version": 825,
+			"versionNonce": 1400241162,
 			"isDeleted": false,
 			"id": "a5eGrfFb",
 			"fillStyle": "hachure",
@@ -2939,8 +2957,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -365.3188990664944,
-			"y": 488.39964939605244,
+			"x": -230.50736690968688,
+			"y": 1207.285474416981,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -2962,8 +2980,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 666,
-			"versionNonce": 1695404554,
+			"version": 820,
+			"versionNonce": 1140793750,
 			"isDeleted": false,
 			"id": "PuWqLHc3",
 			"fillStyle": "hachure",
@@ -2972,8 +2990,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -259.8248805118069,
-			"y": 490.59581638824005,
+			"x": -125.01334835499938,
+			"y": 1209.4816414091688,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 12,
@@ -2995,8 +3013,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 628,
-			"versionNonce": 418884502,
+			"version": 782,
+			"versionNonce": 1479404234,
 			"isDeleted": false,
 			"id": "Pd7walq4",
 			"fillStyle": "hachure",
@@ -3005,8 +3023,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -311.41058259048987,
-			"y": 550.8808505679274,
+			"x": -176.59905043368235,
+			"y": 1269.766675588856,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -3028,8 +3046,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 953,
-			"versionNonce": 1415250122,
+			"version": 1107,
+			"versionNonce": 2048032470,
 			"isDeleted": false,
 			"id": "KzrPyo5VX7FTBnjioqdew",
 			"fillStyle": "hachure",
@@ -3038,8 +3056,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -399.53607188458864,
-			"y": 487.5887107136619,
+			"x": -264.7245397277811,
+			"y": 1206.4745357345905,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -3055,8 +3073,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 790,
-			"versionNonce": 1936312534,
+			"version": 944,
+			"versionNonce": 1165623690,
 			"isDeleted": false,
 			"id": "_WdqLx_331UkJzXLOCUwX",
 			"fillStyle": "hachure",
@@ -3065,8 +3083,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -304.8601630156254,
-			"y": 572.7119351454801,
+			"x": -170.0486308588179,
+			"y": 1291.5977601664088,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3097,8 +3115,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 857,
-			"versionNonce": 664033162,
+			"version": 1011,
+			"versionNonce": 1749562390,
 			"isDeleted": false,
 			"id": "nm8fRjYojysRpgPyJTG9n",
 			"fillStyle": "hachure",
@@ -3107,8 +3125,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -358.1004701395991,
-			"y": 430.19135735833135,
+			"x": -223.2889379827916,
+			"y": 1149.07718237926,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3139,8 +3157,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 898,
-			"versionNonce": 203832854,
+			"version": 1052,
+			"versionNonce": 1184186442,
 			"isDeleted": false,
 			"id": "vMm2rv-1hQKduoVn3vWCk",
 			"fillStyle": "hachure",
@@ -3149,8 +3167,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -252.09244155048577,
-			"y": 430.04397209825964,
+			"x": -117.28090939367826,
+			"y": 1148.9297971191882,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3181,8 +3199,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 736,
-			"versionNonce": 1593103946,
+			"version": 890,
+			"versionNonce": 143999318,
 			"isDeleted": false,
 			"id": "goCOZAbl",
 			"fillStyle": "hachure",
@@ -3191,8 +3209,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -248.29943384172657,
-			"y": 556.685210279193,
+			"x": -113.48790168491905,
+			"y": 1275.5710353001216,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 33,
@@ -3213,8 +3231,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 1478626134,
+			"version": 432,
+			"versionNonce": 1733994250,
 			"isDeleted": false,
 			"id": "huJmBFYi",
 			"fillStyle": "hachure",
@@ -3223,8 +3241,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -34.56970802451724,
-			"y": 514.2361879888549,
+			"x": 204.14550657281586,
+			"y": 1246.1823886224738,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 130,
@@ -3246,8 +3264,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 995589386,
+			"version": 484,
+			"versionNonce": 1313777302,
 			"isDeleted": false,
 			"id": "T2aNo9QM",
 			"fillStyle": "hachure",
@@ -3256,8 +3274,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -33.77891619509023,
-			"y": 485.1712117053728,
+			"x": 204.93629840224287,
+			"y": 1217.1174123389917,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -3279,8 +3297,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 238,
-			"versionNonce": 1706176662,
+			"version": 433,
+			"versionNonce": 4535754,
 			"isDeleted": false,
 			"id": "uuhV7Uid",
 			"fillStyle": "hachure",
@@ -3289,8 +3307,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 77.45028534880862,
-			"y": 485.2584963384643,
+			"x": 316.1654999461417,
+			"y": 1217.2046969720832,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 13,
@@ -3312,8 +3330,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 254,
-			"versionNonce": 708266954,
+			"version": 449,
+			"versionNonce": 2049532886,
 			"isDeleted": false,
 			"id": "Otd5Rk24",
 			"fillStyle": "hachure",
@@ -3322,8 +3340,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 27.014293789098815,
-			"y": 544.9107659743461,
+			"x": 265.7295083864319,
+			"y": 1276.856966607965,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -3345,8 +3363,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 511,
-			"versionNonce": 814460374,
+			"version": 706,
+			"versionNonce": 577760394,
 			"isDeleted": false,
 			"id": "yUlKv9yXnx5T_WVr53Ddk",
 			"fillStyle": "hachure",
@@ -3355,8 +3373,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -63.9563057170534,
-			"y": 480.3083016424813,
+			"x": 174.7589088802797,
+			"y": 1212.2545022761,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -3372,8 +3390,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 348,
-			"versionNonce": 833569418,
+			"version": 543,
+			"versionNonce": 1849325846,
 			"isDeleted": false,
 			"id": "ZWfL26ydaEG9ZytqC0ynb",
 			"fillStyle": "hachure",
@@ -3382,8 +3400,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 30.71960315190995,
-			"y": 565.4315260742994,
+			"x": 269.43481774924305,
+			"y": 1297.3777267079183,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3414,8 +3432,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 415,
-			"versionNonce": 1975747350,
+			"version": 610,
+			"versionNonce": 60148554,
 			"isDeleted": false,
 			"id": "7ZbOXNUp_RzNaxUMAqbf5",
 			"fillStyle": "hachure",
@@ -3424,8 +3442,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -22.520703972063984,
-			"y": 422.91094828715075,
+			"x": 216.19451062526912,
+			"y": 1154.8571489207695,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3456,8 +3474,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 456,
-			"versionNonce": 1551524170,
+			"version": 651,
+			"versionNonce": 32958038,
 			"isDeleted": false,
 			"id": "FcpLWWztfDBGK55Cgnfvb",
 			"fillStyle": "hachure",
@@ -3466,8 +3484,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 83.48732461704947,
-			"y": 422.7635630270791,
+			"x": 322.20253921438257,
+			"y": 1154.709763660698,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3498,8 +3516,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 410,
-			"versionNonce": 130986070,
+			"version": 605,
+			"versionNonce": 1779552778,
 			"isDeleted": false,
 			"id": "IScv4Ovb",
 			"fillStyle": "hachure",
@@ -3508,8 +3526,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 87.94583205841616,
-			"y": 550.5418555963256,
+			"x": 326.66104665574926,
+			"y": 1282.4880562299445,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 29,
@@ -3530,8 +3548,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 386,
-			"versionNonce": 636725258,
+			"version": 457,
+			"versionNonce": 371827734,
 			"isDeleted": false,
 			"id": "TV1ocANG",
 			"fillStyle": "hachure",
@@ -3540,8 +3558,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -335.574813179373,
-			"y": 820.5946310467535,
+			"x": -367.36224952842485,
+			"y": 1906.9109522835024,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 58,
@@ -3563,8 +3581,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 413,
-			"versionNonce": 578958742,
+			"version": 484,
+			"versionNonce": 1975701578,
 			"isDeleted": false,
 			"id": "xZBBbHu5",
 			"fillStyle": "hachure",
@@ -3573,8 +3591,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -360.57082554916474,
-			"y": 794.724635929566,
+			"x": -392.3582618982166,
+			"y": 1881.040957166315,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 24,
@@ -3596,8 +3614,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 409,
-			"versionNonce": 1712723658,
+			"version": 480,
+			"versionNonce": 1489547606,
 			"isDeleted": false,
 			"id": "eSEgby1w",
 			"fillStyle": "hachure",
@@ -3606,8 +3624,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -266.7946618121855,
-			"y": 799.6817587323004,
+			"x": -298.58209816123735,
+			"y": 1885.9980799690493,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
@@ -3629,8 +3647,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 403,
-			"versionNonce": 1058214614,
+			"version": 474,
+			"versionNonce": 2052470538,
 			"isDeleted": false,
 			"id": "J9Q3RmHL",
 			"fillStyle": "hachure",
@@ -3639,8 +3657,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -310.70487909734175,
-			"y": 848.0094971763107,
+			"x": -342.4923154463936,
+			"y": 1934.3258184130596,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 14,
@@ -3662,8 +3680,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "rectangle",
-			"version": 758,
-			"versionNonce": 1031581066,
+			"version": 829,
+			"versionNonce": 647239318,
 			"isDeleted": false,
 			"id": "hBRNK1sQujPQLKkvZfSQV",
 			"fillStyle": "hachure",
@@ -3672,8 +3690,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -394.37012407642874,
-			"y": 786.2291865166136,
+			"x": -426.1575604254806,
+			"y": 1872.5455077533625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 188.05145263671875,
@@ -3689,8 +3707,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 595,
-			"versionNonce": 1746290710,
+			"version": 666,
+			"versionNonce": 1297008074,
 			"isDeleted": false,
 			"id": "7FIphHMdLbAYEFGilXHd7",
 			"fillStyle": "hachure",
@@ -3699,8 +3717,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -299.6942152074653,
-			"y": 871.3524109484316,
+			"x": -331.48165155651714,
+			"y": 1957.6687321851805,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3731,8 +3749,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 662,
-			"versionNonce": 23227466,
+			"version": 733,
+			"versionNonce": 138466262,
 			"isDeleted": false,
 			"id": "rfyZ6cZZplo28sPmh2WIn",
 			"fillStyle": "hachure",
@@ -3741,8 +3759,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -352.9345223314392,
-			"y": 728.8318331612829,
+			"x": -384.72195868049107,
+			"y": 1815.148154398032,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3773,8 +3791,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 703,
-			"versionNonce": 226547030,
+			"version": 774,
+			"versionNonce": 935820426,
 			"isDeleted": false,
 			"id": "38z6eJiUPwjmbn2EoXxOh",
 			"fillStyle": "hachure",
@@ -3783,8 +3801,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -246.92649374232587,
-			"y": 728.6844479012113,
+			"x": -278.71393009137773,
+			"y": 1815.0007691379603,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.2766187263257507,
@@ -3815,8 +3833,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 528,
-			"versionNonce": 664949514,
+			"version": 599,
+			"versionNonce": 669247766,
 			"isDeleted": false,
 			"id": "8g5P19Hk",
 			"fillStyle": "hachure",
@@ -3825,8 +3843,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -248.771822341575,
-			"y": 855.4941287075814,
+			"x": -280.55925869062685,
+			"y": 1941.8104499443302,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 37,
@@ -3847,8 +3865,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 2020440150,
+			"version": 248,
+			"versionNonce": 1942317386,
 			"isDeleted": false,
 			"id": "I51sDKsr",
 			"fillStyle": "hachure",
@@ -3879,8 +3897,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "arrow",
-			"version": 776,
-			"versionNonce": 696606730,
+			"version": 779,
+			"versionNonce": 613951574,
 			"isDeleted": false,
 			"id": "rioEN32FJ1tHf3SH6xKU7",
 			"fillStyle": "hachure",
@@ -3925,8 +3943,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 1974641942,
+			"version": 133,
+			"versionNonce": 782086154,
 			"isDeleted": false,
 			"id": "1Kndq8Qr",
 			"fillStyle": "hachure",
@@ -3960,8 +3978,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "arrow",
-			"version": 153,
-			"versionNonce": 2125516490,
+			"version": 156,
+			"versionNonce": 1465691542,
 			"isDeleted": false,
 			"id": "_q4Y3RU7A3_RRPKNcsWwW",
 			"fillStyle": "hachure",
@@ -4002,8 +4020,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 912,
-			"versionNonce": 505036438,
+			"version": 915,
+			"versionNonce": 1547640522,
 			"isDeleted": false,
 			"id": "ADqfQKPfgGxT0SKCh9s2C",
 			"fillStyle": "hachure",
@@ -4042,8 +4060,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1005,
-			"versionNonce": 546139338,
+			"version": 1008,
+			"versionNonce": 1641974486,
 			"isDeleted": false,
 			"id": "WQijnnzgrEOel-T3J7dsX",
 			"fillStyle": "hachure",
@@ -4082,8 +4100,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 941,
-			"versionNonce": 2093087702,
+			"version": 944,
+			"versionNonce": 423933322,
 			"isDeleted": false,
 			"id": "FCh37Uzplc6fe1k1GX5Bi",
 			"fillStyle": "hachure",
@@ -4122,8 +4140,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 976,
-			"versionNonce": 625792138,
+			"version": 979,
+			"versionNonce": 313704470,
 			"isDeleted": false,
 			"id": "GX1UqUTfYl-TOm50FBWil",
 			"fillStyle": "hachure",
@@ -4162,8 +4180,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1042,
-			"versionNonce": 1107300630,
+			"version": 1045,
+			"versionNonce": 921269322,
 			"isDeleted": false,
 			"id": "hu9hBbnlYxqIZ3T_NBs1W",
 			"fillStyle": "hachure",
@@ -4202,8 +4220,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 984,
-			"versionNonce": 1788195658,
+			"version": 987,
+			"versionNonce": 500059478,
 			"isDeleted": false,
 			"id": "Us7VbMUzhBSW337bj5OR5",
 			"fillStyle": "hachure",
@@ -4242,8 +4260,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1688,
-			"versionNonce": 2034859606,
+			"version": 1691,
+			"versionNonce": 654859018,
 			"isDeleted": false,
 			"id": "EyfW2GVZcKJn__bhEcdcN",
 			"fillStyle": "hachure",
@@ -4294,8 +4312,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 970,
-			"versionNonce": 1622480074,
+			"version": 973,
+			"versionNonce": 1887842966,
 			"isDeleted": false,
 			"id": "yn3A3q9ATIgzwGs8uJlcu",
 			"fillStyle": "hachure",
@@ -4350,8 +4368,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1231645450,
-			"version": 182,
-			"versionNonce": 326541194,
+			"version": 185,
+			"versionNonce": 1746692554,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4388,8 +4406,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 890519434,
-			"version": 139,
-			"versionNonce": 536051786,
+			"version": 142,
+			"versionNonce": 93286358,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4410,8 +4428,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 595,
-			"versionNonce": 15619350,
+			"version": 598,
+			"versionNonce": 1900060810,
 			"isDeleted": false,
 			"id": "fL9-PK0oi3L4ccYwOeedq",
 			"fillStyle": "hachure",
@@ -4450,8 +4468,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 748,
-			"versionNonce": 194883402,
+			"version": 751,
+			"versionNonce": 956237078,
 			"isDeleted": false,
 			"id": "VHn1ziVlfS6LGhNbFfgz-",
 			"fillStyle": "hachure",
@@ -4490,8 +4508,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 647,
-			"versionNonce": 1238319702,
+			"version": 650,
+			"versionNonce": 506462026,
 			"isDeleted": false,
 			"id": "O9Do_3I8_QHER4_JCEPuC",
 			"fillStyle": "hachure",
@@ -4530,8 +4548,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 625,
-			"versionNonce": 1870476810,
+			"version": 628,
+			"versionNonce": 474608214,
 			"isDeleted": false,
 			"id": "wE904-bUYwA5FxZcka8Kq",
 			"fillStyle": "hachure",
@@ -4574,8 +4592,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 701,
-			"versionNonce": 983598998,
+			"version": 704,
+			"versionNonce": 457541130,
 			"isDeleted": false,
 			"id": "WFpxIFYxWTrtRTdOnalLr",
 			"fillStyle": "hachure",
@@ -4618,8 +4636,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 638,
-			"versionNonce": 591258826,
+			"version": 641,
+			"versionNonce": 1246050198,
 			"isDeleted": false,
 			"id": "7W8UdmrNY_xI9p6ypwjdz",
 			"fillStyle": "hachure",
@@ -4678,8 +4696,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 235056202,
-			"version": 43,
-			"versionNonce": 597107926,
+			"version": 46,
+			"versionNonce": 1367094474,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4716,8 +4734,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 221367894,
-			"version": 35,
-			"versionNonce": 1618656138,
+			"version": 38,
+			"versionNonce": 992335062,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4754,8 +4772,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1676671510,
-			"version": 333,
-			"versionNonce": 1329035350,
+			"version": 336,
+			"versionNonce": 1383009162,
 			"isDeleted": false,
 			"boundElementIds": [
 				"rjZU2ExC4K0V93CEG2Ofw"
@@ -4786,8 +4804,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 473368150,
-			"version": 448,
-			"versionNonce": 326703434,
+			"version": 451,
+			"versionNonce": 411093526,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4806,7 +4824,7 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			],
 			"startBinding": null,
 			"endBinding": {
-				"elementId": "MRSwZ25K",
+				"elementId": "ZnfPDYlcLjQvlV_Qbjhxy",
 				"focus": 0.29164009557916376,
 				"gap": 16.99556610648756
 			},
@@ -4831,8 +4849,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 702330378,
-			"version": 339,
-			"versionNonce": 1846921686,
+			"version": 342,
+			"versionNonce": 1146686026,
 			"isDeleted": false,
 			"boundElementIds": [
 				"dyFPkAcNktoQn_eeNUJ5l"
@@ -4863,8 +4881,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 122286934,
-			"version": 207,
-			"versionNonce": 2120541834,
+			"version": 210,
+			"versionNonce": 290133846,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4905,8 +4923,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 663832342,
-			"version": 31,
-			"versionNonce": 1191742358,
+			"version": 34,
+			"versionNonce": 1310011658,
 			"isDeleted": false,
 			"boundElementIds": [
 				"uLylOuNJ-7VZJ-HjVor22"
@@ -4937,8 +4955,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 900040790,
-			"version": 166,
-			"versionNonce": 896872982,
+			"version": 169,
+			"versionNonce": 769244310,
 			"isDeleted": false,
 			"boundElementIds": [
 				"uLylOuNJ-7VZJ-HjVor22"
@@ -4969,8 +4987,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1957539286,
-			"version": 291,
-			"versionNonce": 1668448086,
+			"version": 294,
+			"versionNonce": 52330442,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -4985,12 +5003,12 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "TFGYFjYd",
+				"elementId": "YtmUwRLwHML0PjC2lVXfN",
 				"focus": 0.2896505434955177,
 				"gap": 3.61822509765625
 			},
 			"endBinding": {
-				"elementId": "S6LcVQXP",
+				"elementId": "pk4TrENHeyBFVbEdv9Ss7",
 				"focus": -0.2744144924113497,
 				"gap": 11.885456082227734
 			},
@@ -5015,8 +5033,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1347750102,
-			"version": 31,
-			"versionNonce": 1648600714,
+			"version": 34,
+			"versionNonce": 601995734,
 			"isDeleted": false,
 			"boundElementIds": [
 				"LrIQExPX0cFCmCjUYryf1"
@@ -5047,8 +5065,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 987730454,
-			"version": 157,
-			"versionNonce": 303521558,
+			"version": 160,
+			"versionNonce": 1334834826,
 			"isDeleted": false,
 			"boundElementIds": [
 				"LrIQExPX0cFCmCjUYryf1"
@@ -5079,8 +5097,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 772807638,
-			"version": 148,
-			"versionNonce": 1155679562,
+			"version": 151,
+			"versionNonce": 712511254,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5095,12 +5113,12 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "BRPlNC1g",
+				"elementId": "7NZtJcY5iiysDcVE2_se-",
 				"focus": -0.7135294773831885,
 				"gap": 12.7510986328125
 			},
 			"endBinding": {
-				"elementId": "QbJ08Caf",
+				"elementId": "DVabpMI8t2EhIx0pXvBkJ",
 				"focus": 0.5704179241762752,
 				"gap": 13.700439453125
 			},
@@ -5110,9 +5128,9 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		{
 			"id": "FirNqpsJ",
 			"type": "text",
-			"x": 11.699317888085034,
-			"y": 98.33522467576131,
-			"width": 311,
+			"x": -47.13276395684693,
+			"y": 60.27083017663517,
+			"width": 312,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -5125,12 +5143,12 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 218333782,
-			"version": 130,
-			"versionNonce": 1878673674,
+			"version": 642,
+			"versionNonce": 1680119114,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"text": "Input vom Dekoder über Zucker",
-			"rawText": "Input vom Dekoder über Zucker",
+			"text": "Input vom Decoder über Zucker",
+			"rawText": "Input vom Decoder über Zucker",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
@@ -5140,9 +5158,9 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		{
 			"id": "cnZBSdJn",
 			"type": "text",
-			"x": 337.1546367628682,
-			"y": 95.42514980596957,
-			"width": 330,
+			"x": 462.9748207678015,
+			"y": 70.1290080309393,
+			"width": 331,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -5155,12 +5173,12 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 167762838,
-			"version": 246,
-			"versionNonce": 1517429910,
+			"version": 535,
+			"versionNonce": 1309785174,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"text": "Input vom Dekoder über Eiswürfel",
-			"rawText": "Input vom Dekoder über Eiswürfel",
+			"text": "Input vom Decoder über Eiswürfel",
+			"rawText": "Input vom Decoder über Eiswürfel",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
@@ -5185,14 +5203,14 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1483343574,
-			"version": 204,
-			"versionNonce": 1720768406,
+			"version": 211,
+			"versionNonce": 574053386,
 			"isDeleted": false,
 			"boundElementIds": [
 				"yQQsFT6hZSXKPredD4XRX"
 			],
-			"text": "Input vom Dekoder, ob wir die Kaffeemühle brauchen",
-			"rawText": "Input vom Dekoder, ob wir die Kaffeemühle brauchen",
+			"text": "Input vom Decoder, ob wir die Kaffeemühle brauchen",
+			"rawText": "Input vom Decoder, ob wir die Kaffeemühle brauchen",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
@@ -5217,8 +5235,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 706653078,
-			"version": 203,
-			"versionNonce": 1096778006,
+			"version": 206,
+			"versionNonce": 1149485462,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "Input vom Decoder, ob das Wasser\ngekühlt(0) oder geheizt(1) werden muss",
@@ -5247,8 +5265,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 993717846,
-			"version": 91,
-			"versionNonce": 1294789270,
+			"version": 94,
+			"versionNonce": 130239178,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5285,8 +5303,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 408760778,
-			"version": 22,
-			"versionNonce": 1197175894,
+			"version": 25,
+			"versionNonce": 1090723542,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5323,8 +5341,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1540782486,
-			"version": 111,
-			"versionNonce": 330431062,
+			"version": 114,
+			"versionNonce": 459497866,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5361,8 +5379,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 876740106,
-			"version": 90,
-			"versionNonce": 2134931094,
+			"version": 93,
+			"versionNonce": 1210373142,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5383,8 +5401,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 836,
-			"versionNonce": 2087551062,
+			"version": 839,
+			"versionNonce": 1481809994,
 			"isDeleted": false,
 			"id": "Y5frRjHaXvzig0JeNzMZW",
 			"fillStyle": "hachure",
@@ -5423,8 +5441,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 986,
-			"versionNonce": 1802098698,
+			"version": 989,
+			"versionNonce": 64872790,
 			"isDeleted": false,
 			"id": "oOLvDbL5vBzKQD4KV2slu",
 			"fillStyle": "hachure",
@@ -5463,8 +5481,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 893,
-			"versionNonce": 986121622,
+			"version": 896,
+			"versionNonce": 443287306,
 			"isDeleted": false,
 			"id": "KczrM42Y9q0Up0dCaPIIT",
 			"fillStyle": "hachure",
@@ -5503,8 +5521,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 904,
-			"versionNonce": 2101757642,
+			"version": 907,
+			"versionNonce": 394479254,
 			"isDeleted": false,
 			"id": "wlz9EbFJ9T7LJUNmVgx0j",
 			"fillStyle": "hachure",
@@ -5547,8 +5565,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 981,
-			"versionNonce": 373154518,
+			"version": 984,
+			"versionNonce": 170563018,
 			"isDeleted": false,
 			"id": "5qrGF2T8YZpLBXi5s0iOu",
 			"fillStyle": "hachure",
@@ -5591,8 +5609,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 920,
-			"versionNonce": 1596382602,
+			"version": 923,
+			"versionNonce": 1942619094,
 			"isDeleted": false,
 			"id": "L-zWoqTy0m4skoBNeoRrd",
 			"fillStyle": "hachure",
@@ -5635,8 +5653,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 2027,
-			"versionNonce": 193622614,
+			"version": 2030,
+			"versionNonce": 145312906,
 			"isDeleted": false,
 			"id": "1Dihb7n8OxgNKSpibtBQq",
 			"fillStyle": "hachure",
@@ -5675,8 +5693,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 2025,
-			"versionNonce": 508364298,
+			"version": 2028,
+			"versionNonce": 717691158,
 			"isDeleted": false,
 			"id": "POFBWOKDXozkQIC_JmgsL",
 			"fillStyle": "hachure",
@@ -5715,8 +5733,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 2108,
-			"versionNonce": 2104866710,
+			"version": 2111,
+			"versionNonce": 463678282,
 			"isDeleted": false,
 			"id": "gKT61eyFdE_kyzLiIIDo8",
 			"fillStyle": "hachure",
@@ -5755,8 +5773,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 2024,
-			"versionNonce": 127120586,
+			"version": 2027,
+			"versionNonce": 1139770966,
 			"isDeleted": false,
 			"id": "s_lFkeaEOwCMMo1M15ZHK",
 			"fillStyle": "hachure",
@@ -5795,8 +5813,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 2091,
-			"versionNonce": 877024470,
+			"version": 2094,
+			"versionNonce": 1500721674,
 			"isDeleted": false,
 			"id": "dqyrFfeqVdsUuVIYgNRAi",
 			"fillStyle": "hachure",
@@ -5835,8 +5853,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "ellipse",
-			"version": 1969,
-			"versionNonce": 1503038346,
+			"version": 1972,
+			"versionNonce": 270027670,
 			"isDeleted": false,
 			"id": "vI96ZQPAeVVR1zYWlre3y",
 			"fillStyle": "hachure",
@@ -5876,8 +5894,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 562415178,
-			"version": 139,
-			"versionNonce": 2052160906,
+			"version": 142,
+			"versionNonce": 1427398858,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5914,8 +5932,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 945616790,
-			"version": 301,
-			"versionNonce": 240831178,
+			"version": 304,
+			"versionNonce": 2104912086,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5952,8 +5970,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1661657482,
-			"version": 71,
-			"versionNonce": 1334601674,
+			"version": 74,
+			"versionNonce": 169981834,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -5974,8 +5992,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 		},
 		{
 			"type": "line",
-			"version": 1120,
-			"versionNonce": 1458721226,
+			"version": 1123,
+			"versionNonce": 1805573654,
 			"isDeleted": false,
 			"id": "Pz3LFgjxfH1SAH7cSy576",
 			"fillStyle": "hachure",
@@ -6030,8 +6048,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1031975242,
-			"version": 98,
-			"versionNonce": 285615574,
+			"version": 101,
+			"versionNonce": 1221998154,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -6046,7 +6064,7 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "R2xBvojb",
+				"elementId": "dsz8CsFt6BK_IRgN8fNG8",
 				"focus": -0.6386877946197181,
 				"gap": 4.73279832524247
 			},
@@ -6072,8 +6090,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 2040457930,
-			"version": 216,
-			"versionNonce": 104352394,
+			"version": 219,
+			"versionNonce": 2139532118,
 			"isDeleted": false,
 			"boundElementIds": [
 				"Gfe31ZuEE5tJwSOYIfa75"
@@ -6085,59 +6103,6 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 42
-		},
-		{
-			"id": "yQQsFT6hZSXKPredD4XRX",
-			"type": "arrow",
-			"x": 33.11515643603093,
-			"y": -752.216196092136,
-			"width": 1184.1238839285713,
-			"height": 346.8909127371651,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 2132540822,
-			"version": 142,
-			"versionNonce": 592438794,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1174.9952915736606,
-					-7.824576241629302
-				],
-				[
-					1184.1238839285713,
-					339.0663364955358
-				]
-			],
-			"lastCommittedPoint": [
-				1184.1238839285713,
-				339.0663364955358
-			],
-			"startBinding": {
-				"elementId": "1Kndq8Qr",
-				"focus": 0.10189181702268225,
-				"gap": 12.57532046074698
-			},
-			"endBinding": {
-				"elementId": "UO9ZMmNX",
-				"focus": -0.15089606550417034,
-				"gap": 13.651879791024385
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
 		},
 		{
 			"id": "mXzeB3kC",
@@ -6157,8 +6122,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 498899082,
-			"version": 70,
-			"versionNonce": 64843478,
+			"version": 73,
+			"versionNonce": 571268362,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "1",
@@ -6187,8 +6152,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 290486806,
-			"version": 84,
-			"versionNonce": 1274854794,
+			"version": 87,
+			"versionNonce": 2005061782,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -6225,8 +6190,8 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1530209302,
-			"version": 15,
-			"versionNonce": 83933398,
+			"version": 18,
+			"versionNonce": 1396747210,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"points": [
@@ -6244,6 +6209,3946 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "lM0aFaa3",
+			"type": "text",
+			"x": -729.8431264318679,
+			"y": 337.0496725889916,
+			"width": 338,
+			"height": 49,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1381663626,
+			"version": 225,
+			"versionNonce": 2135444950,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Input com Decoder über die Menge\nan Wasser",
+			"rawText": "Input com Decoder über die Menge\nan Wasser",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42
+		},
+		{
+			"id": "ZnpFOVpwmRkkQXipp5v37",
+			"type": "line",
+			"x": 58.65396240916198,
+			"y": -747.5196786072975,
+			"width": 1603.2293701171875,
+			"height": 1.14105224609375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1387872458,
+			"version": 123,
+			"versionNonce": 848077450,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1603.2293701171875,
+					-1.14105224609375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1cd2qZSTul2yuHhMn_k8-",
+			"type": "line",
+			"x": 1660.5177726305155,
+			"y": -743.9831563323733,
+			"width": 9.12862141927144,
+			"height": 887.0062255859375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1331477322,
+			"version": 65,
+			"versionNonce": 65807126,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9.12862141927144,
+					887.0062255859375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "lvhFpqW-whvFR4r-EM6J1",
+			"type": "line",
+			"x": 1515.4897100220078,
+			"y": -388.17840779721337,
+			"width": 149.7108154296875,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 981144394,
+			"version": 63,
+			"versionNonce": 447463754,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					149.7108154296875,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "7iE8kn-6hANFfni8r2BRI",
+			"type": "line",
+			"x": 176.01982765924004,
+			"y": 29.91645689748111,
+			"width": 1493.4086608886719,
+			"height": 8.648247969777003,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1391219082,
+			"version": 366,
+			"versionNonce": 132337750,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1493.4086608886719,
+					-8.648247969777003
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "xsrNWRwv1SVAwh3XTpXZV",
+			"type": "line",
+			"x": 618.6180701679787,
+			"y": 68.68944787712826,
+			"width": 1.3933458830179006,
+			"height": 41.5596217105267,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 389145430,
+			"version": 222,
+			"versionNonce": 1459161098,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.3933458830179006,
+					-41.5596217105267
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "Ho2zNWLT5IFeSturLF31X",
+			"type": "line",
+			"x": -380.62558647805963,
+			"y": 10.737596383696655,
+			"width": 1.5486471993590385,
+			"height": 364.82230322701434,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 950120586,
+			"version": 99,
+			"versionNonce": 1996674454,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.5486471993590385,
+					364.82230322701434
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 401,
+			"versionNonce": 258963146,
+			"isDeleted": false,
+			"id": "aPlwTX6rlV2ohqrrVcK0Y",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 184.07041294428467,
+			"y": 350.8180310708595,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 946709206,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 412,
+			"versionNonce": 2055189206,
+			"isDeleted": false,
+			"id": "nwp-GAnuOjOhw9dxZAaNQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 193.5366712867804,
+			"y": 199.6056473147135,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 148053386,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 415,
+			"versionNonce": 883559818,
+			"isDeleted": false,
+			"id": "GF-pKA9DW63cY70BP8Cme",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 153.04863621153072,
+			"y": 200.09403086686828,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 2006898710,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 465,
+			"versionNonce": 1290725398,
+			"isDeleted": false,
+			"id": "BGx33Sphyr_EZtdAtvuzo",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 212.7249381802281,
+			"y": 200.12610247555332,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 80,
+			"seed": 2020269130,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 528,
+			"versionNonce": 1810091082,
+			"isDeleted": false,
+			"id": "el6TAj4_yPOHlBa9iLPx2",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 232.8242885898116,
+			"y": 260.38043671173835,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 1031234902,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 470,
+			"versionNonce": 239433046,
+			"isDeleted": false,
+			"id": "GPvmsFeXou04rESSHfljf",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 152.66404255314242,
+			"y": 261.00576049431675,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 68993802,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1197,
+			"versionNonce": 2063053578,
+			"isDeleted": false,
+			"id": "SmBQFRwGH8kuOPj3Eoo1V",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5617326167691346,
+			"x": 195.58096125436015,
+			"y": 258.8950007601224,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.21752211626858,
+			"height": 80,
+			"seed": 1800161942,
+			"groupIds": [
+				"LGOi_3LKm4XPrOhQ14j51"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					28.948364257812727,
+					7.878759047564245
+				],
+				[
+					38.21752211626858,
+					41.46168428308806
+				],
+				[
+					26.77360983455901,
+					72.83423928653497
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 508,
+			"versionNonce": 400054934,
+			"isDeleted": false,
+			"id": "gFwV1v03Duxlp2Vbp-5Bj",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 567.1770200030461,
+			"y": 352.9455152551229,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 1165879242,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 519,
+			"versionNonce": 878756298,
+			"isDeleted": false,
+			"id": "mnc3y54BdK2f8r65XiysB",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 576.6589140380596,
+			"y": 203.6682497118102,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1200411094,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 521,
+			"versionNonce": 1348245462,
+			"isDeleted": false,
+			"id": "dyItl4tt_bbEuskKavs4Q",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 536.9054184726618,
+			"y": 204.6575654380028,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1640128138,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 572,
+			"versionNonce": 1664743562,
+			"isDeleted": false,
+			"id": "yoqQu-SW6nQOvj2VY4NyH",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 596.8773970219811,
+			"y": 204.49869189310093,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 80,
+			"seed": 1493182230,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 635,
+			"versionNonce": 2145856790,
+			"isDeleted": false,
+			"id": "FdbLfJ5QP9gePh6F4-tOS",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 616.5462170654818,
+			"y": 264.0809225300894,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 1405746506,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 577,
+			"versionNonce": 926832458,
+			"isDeleted": false,
+			"id": "-ZmQpJIFlFYAS4YkN1-Ej",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 536.4353243183716,
+			"y": 264.02437779095345,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 601281622,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1304,
+			"versionNonce": 602741334,
+			"isDeleted": false,
+			"id": "9ybRLlybAh4cw4JuPzsCq",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5654402301516086,
+			"x": 577.9704569979386,
+			"y": 261.97349847090425,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.21752211626858,
+			"height": 80,
+			"seed": 1223672842,
+			"groupIds": [
+				"OZ0eMosb8pnHjpNtrVSlJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					28.948364257812727,
+					7.878759047564245
+				],
+				[
+					38.21752211626858,
+					41.46168428308806
+				],
+				[
+					26.77360983455901,
+					72.83423928653497
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"id": "yZZmuhOojuYn47FwZvZY2",
+			"type": "line",
+			"x": -380.1979360263995,
+			"y": 7.297554915001456,
+			"width": 797.8491821289062,
+			"height": 4.5643310546875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1073110026,
+			"version": 47,
+			"versionNonce": 818470410,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					797.8491821289062,
+					-4.5643310546875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "BryYsfih7TdC1gFMkMogD",
+			"type": "line",
+			"x": 415.8254404384443,
+			"y": 6.384713118126456,
+			"width": 1.8258056640625,
+			"height": 153.3623046875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 129562762,
+			"version": 40,
+			"versionNonce": 1128488854,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.8258056640625,
+					153.3623046875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "HegXscne8ri_91cKl-pij",
+			"type": "line",
+			"x": 230.51269629781928,
+			"y": 161.5727624345327,
+			"width": 186.2255859375,
+			"height": 0.5765669973279728,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 276263830,
+			"version": 40,
+			"versionNonce": 215256266,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					186.2255859375,
+					0.5765669973279728
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "9DymXvWcVfVBvOVTdBx2N",
+			"type": "line",
+			"x": 416.20988482578105,
+			"y": 164.07113375957488,
+			"width": 161.19371273643083,
+			"height": 1.7296206825667468,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 206735254,
+			"version": 85,
+			"versionNonce": 1109327062,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					161.19371273643083,
+					-1.7296206825667468
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "eAFvS8b9kpO9YPWqBgtws",
+			"type": "line",
+			"x": 190.50380122689967,
+			"y": 160.0018717067378,
+			"width": 1.9218043277141987,
+			"height": 75.4319682874193,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2017731222,
+			"version": 221,
+			"versionNonce": 821846922,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9218043277141987,
+					-75.4319682874193
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "dtzXvnim_pXJ6GJVcG1dJ",
+			"type": "line",
+			"x": 178.49237159079712,
+			"y": 31.719465251144356,
+			"width": 0.9609182257390785,
+			"height": 28.8275146484375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 463731286,
+			"version": 63,
+			"versionNonce": 907342358,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9609182257390785,
+					28.8275146484375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "P7o1Golr_oKbUEGM0aLir",
+			"type": "line",
+			"x": 615.7095218272225,
+			"y": 164.32598766068259,
+			"width": 0,
+			"height": 69.66645893297755,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2130223062,
+			"version": 55,
+			"versionNonce": 393962058,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-69.66645893297755
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "X6ZhUJoInWbNC55Ylhn9T",
+			"type": "line",
+			"x": -130.70940370110475,
+			"y": -755.7335081297915,
+			"width": 880.9205627441406,
+			"height": 4.564208984375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1458353174,
+			"version": 65,
+			"versionNonce": 974798678,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-880.9205627441406,
+					4.564208984375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1BHpiVq1_crVMtvpbYI3L",
+			"type": "line",
+			"x": -1011.6299664452454,
+			"y": -751.1692991454165,
+			"width": 17.11639404296875,
+			"height": 1841.7171478271484,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 957884118,
+			"version": 128,
+			"versionNonce": 32175306,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					17.11639404296875,
+					1841.7171478271484
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "pOTWFdIo_LJDFm6GwvLAY",
+			"type": "line",
+			"x": -1000.218986220636,
+			"y": 357.9688844483335,
+			"width": 264.7325134277344,
+			"height": 4.564361572265625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 3098902,
+			"version": 32,
+			"versionNonce": 1115939990,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					264.7325134277344,
+					-4.564361572265625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 551,
+			"versionNonce": 722333078,
+			"isDeleted": false,
+			"id": "WQSHsjARNn0bLb_80T5wZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 169.38684663323062,
+			"y": 737.8695704315417,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 1244055690,
+			"groupIds": [
+				"lSk1N5z6uEZSHa0t3GD_p"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 701,
+			"versionNonce": 1195499210,
+			"isDeleted": false,
+			"id": "-XWa4rotgeA-YNWE3f7L6",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 169.63668757300078,
+			"y": 593.9723449573822,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 93.03951379024602,
+			"height": 0.18366033380698354,
+			"seed": 1726962966,
+			"groupIds": [
+				"lSk1N5z6uEZSHa0t3GD_p"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					93.03951379024602,
+					-0.18366033380698354
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 645,
+			"versionNonce": 761776854,
+			"isDeleted": false,
+			"id": "Hcsj9F4Ka-PI-IWiNimiJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 186.02825315472924,
+			"y": 597.542224247266,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 80,
+			"seed": 1517242966,
+			"groupIds": [
+				"lSk1N5z6uEZSHa0t3GD_p"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					20,
+					40
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 697,
+			"versionNonce": 368014730,
+			"isDeleted": false,
+			"id": "wCkdI0CrAFOcY8skDs_yo",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 177.8730658123673,
+			"y": 646.9766664443766,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 40,
+			"seed": 1052880394,
+			"groupIds": [
+				"lSk1N5z6uEZSHa0t3GD_p"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					41.51519775390625,
+					4.0404256184895075
+				],
+				[
+					80,
+					40
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 634,
+			"versionNonce": 454295574,
+			"isDeleted": false,
+			"id": "DgL1r4sLhY1pGNG5Q9xBi",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 136.65812366378063,
+			"y": 687.4374407308258,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 40,
+			"seed": 1241485206,
+			"groupIds": [
+				"lSk1N5z6uEZSHa0t3GD_p"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.49498494466138,
+					-5.050506591796875
+				],
+				[
+					80,
+					-40
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 549,
+			"versionNonce": 1445921814,
+			"isDeleted": false,
+			"id": "_-82VWRM_TBAkAZn6LP3F",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 588.5588846887412,
+			"y": 737.4783622494043,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 2048802890,
+			"groupIds": [
+				"g2XD1kTcU0zMmfVucwb0e"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 606,
+			"versionNonce": 725839946,
+			"isDeleted": false,
+			"id": "98JGzYXSBzv66cTc6Y6nJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 548.0769546401496,
+			"y": 594.390618385197,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 93.40679746685623,
+			"height": 0.18366033380675617,
+			"seed": 1103341322,
+			"groupIds": [
+				"g2XD1kTcU0zMmfVucwb0e"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					93.40679746685623,
+					-0.18366033380675617
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 619,
+			"versionNonce": 824316246,
+			"isDeleted": false,
+			"id": "sMfm8-mNItr8PgqWV6oUN",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 605.2002912102397,
+			"y": 597.1510160651286,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 80,
+			"seed": 1794483862,
+			"groupIds": [
+				"g2XD1kTcU0zMmfVucwb0e"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					20,
+					40
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 695,
+			"versionNonce": 1992480522,
+			"isDeleted": false,
+			"id": "IZPoG9sbkmG134Osc-vbc",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 597.0451038678779,
+			"y": 646.5854582622393,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 40,
+			"seed": 630076874,
+			"groupIds": [
+				"g2XD1kTcU0zMmfVucwb0e"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					41.51519775390625,
+					4.0404256184895075
+				],
+				[
+					80,
+					40
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 632,
+			"versionNonce": 1824618134,
+			"isDeleted": false,
+			"id": "wyG478ZW7vaLUC_8jThVw",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5483017602110607,
+			"x": 555.8301617192911,
+			"y": 687.0462325486884,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 40,
+			"seed": 1777361878,
+			"groupIds": [
+				"g2XD1kTcU0zMmfVucwb0e"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.49498494466138,
+					-5.050506591796875
+				],
+				[
+					80,
+					-40
+				]
+			]
+		},
+		{
+			"id": "YU3zE8gtcZCRhsvV4USlM",
+			"type": "line",
+			"x": 13.684288315498634,
+			"y": 92.49654863290561,
+			"width": 7.9875946044921875,
+			"height": 459.85870361328125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 114007178,
+			"version": 80,
+			"versionNonce": 563935306,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.9875946044921875,
+					459.85870361328125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "xEO0RsJCdRxo07FgvzJ0h",
+			"type": "line",
+			"x": 171.15453367682676,
+			"y": 550.073071460054,
+			"width": 149.48265075683594,
+			"height": 1.1411285400390625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1816373398,
+			"version": 39,
+			"versionNonce": 218433878,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-149.48265075683594,
+					1.1411285400390625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1y7saY8Jmdb0ThKV39Myk",
+			"type": "line",
+			"x": 633.2953417822955,
+			"y": 542.0854005616166,
+			"width": 86.72286987304688,
+			"height": 1.1411285400390625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1197053258,
+			"version": 54,
+			"versionNonce": 2024496906,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					86.72286987304688,
+					-1.1411285400390625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "55J3v_LI8i9uLWRu7Iaww",
+			"type": "line",
+			"x": 721.1592639014361,
+			"y": 543.2265291016556,
+			"width": 1.141204833984375,
+			"height": 449.58892822265625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 217709782,
+			"version": 46,
+			"versionNonce": 1099263638,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.141204833984375,
+					-449.58892822265625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "chpRx1zr",
+			"type": "text",
+			"x": 730.288139633858,
+			"y": 643.1300020020462,
+			"width": 456,
+			"height": 99,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 19494998,
+			"version": 230,
+			"versionNonce": 1668040662,
+			"isDeleted": false,
+			"boundElementIds": [
+				"U0SCpMLGxtnyxBQcDSnGg"
+			],
+			"text": "Wie oben beim Kaffee müssen wir\nsicher gehen, dass auch dann ein \"ready\"\nSignal kommt, wenn kein Zucker/Eis ausgewählt\nwurde",
+			"rawText": "Wie oben beim Kaffee müssen wir\nsicher gehen, dass auch dann ein \"ready\"\nSignal kommt, wenn kein Zucker/Eis ausgewählt\nwurde",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 91
+		},
+		{
+			"type": "line",
+			"version": 1989,
+			"versionNonce": 1799826390,
+			"isDeleted": false,
+			"id": "YeHghDJVakQxedKL-F78p",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 157.98983256256028,
+			"y": 572.2669086208002,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 0,
+			"seed": 1616487382,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1986,
+			"versionNonce": 821208202,
+			"isDeleted": false,
+			"id": "FnIyXYsZdQeU4XQC-s46W",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 173.4960815155429,
+			"y": 572.2615292516173,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 30.206365769031063,
+			"seed": 644066442,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					30.206365769031063
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2069,
+			"versionNonce": 140460310,
+			"isDeleted": false,
+			"id": "8fQt8BiPaEdiYKLU4bBIT",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 166.34486645716075,
+			"y": 594.7093911749733,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 610449686,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1985,
+			"versionNonce": 553747274,
+			"isDeleted": false,
+			"id": "bjXBKp17XNsNxUNaUa8QP",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 151.21261122835804,
+			"y": 610.36555652489,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 1393658698,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					-15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2052,
+			"versionNonce": 205696598,
+			"isDeleted": false,
+			"id": "DuIKGP2aTisbX3VtSzRTg",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 167.08249120721635,
+			"y": 632.5888009912946,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15.241875665021348,
+			"height": 0,
+			"seed": 1226253910,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					15.241875665021348,
+					0
+				]
+			]
+		},
+		{
+			"type": "ellipse",
+			"version": 1930,
+			"versionNonce": 1363577354,
+			"isDeleted": false,
+			"id": "PgBPFXKm0djQhIpUVFlnS",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 170.92196405032453,
+			"y": 617.7188119071253,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.954629513670557,
+			"height": 6.954629513670557,
+			"seed": 1410699786,
+			"groupIds": [
+				"kNHH042ta1ZQVrwA6xbM2"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": []
+		},
+		{
+			"type": "line",
+			"version": 2036,
+			"versionNonce": 868643734,
+			"isDeleted": false,
+			"id": "K4tirQ67niSEZOj_wf9Ni",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 620.3320043143021,
+			"y": 565.3074557745313,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 0,
+			"seed": 111948682,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2034,
+			"versionNonce": 683456714,
+			"isDeleted": false,
+			"id": "4_J-_ZJHnaFZ5oHektdtH",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 635.8382532672847,
+			"y": 565.3020764053483,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 30.206365769031063,
+			"seed": 805970454,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					30.206365769031063
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2117,
+			"versionNonce": 1495240918,
+			"isDeleted": false,
+			"id": "mW32MxNJD-27VWk0x-jEZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 628.6870382089025,
+			"y": 587.7499383287045,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 1186017866,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2033,
+			"versionNonce": 1996427146,
+			"isDeleted": false,
+			"id": "lAHUcdAYDJ5h_Q-jssoJN",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 613.5547829800998,
+			"y": 603.4061036786211,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 501837654,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					-15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2100,
+			"versionNonce": 1206060566,
+			"isDeleted": false,
+			"id": "yr3bleR_crDOdAF9mnJY4",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 629.4246629589582,
+			"y": 625.6293481450257,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15.241875665021348,
+			"height": 0,
+			"seed": 589846794,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					15.241875665021348,
+					0
+				]
+			]
+		},
+		{
+			"type": "ellipse",
+			"version": 1978,
+			"versionNonce": 1615367754,
+			"isDeleted": false,
+			"id": "5IZLamcl2sSdRX5IfrviB",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 7.8272909733155025,
+			"x": 633.2641358020663,
+			"y": 610.7593590608562,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.954629513670557,
+			"height": 6.954629513670557,
+			"seed": 1156387990,
+			"groupIds": [
+				"SKPd83afyext3614eT-uS"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": []
+		},
+		{
+			"type": "line",
+			"version": 484,
+			"versionNonce": 1021988746,
+			"isDeleted": false,
+			"id": "HO_b_NGjkjt6mefuF_7Nh",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 11.414620948828796,
+			"y": 959.3753642562745,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 712239126,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 539,
+			"versionNonce": 424396310,
+			"isDeleted": false,
+			"id": "_byWmqaNUz7QScF1-GXy8",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 39.914125456448836,
+			"y": 821.0614481616099,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 53.53529974373495,
+			"height": 1.132931354221455,
+			"seed": 1429130314,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					53.53529974373495,
+					-1.132931354221455
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 526,
+			"versionNonce": 1187761738,
+			"isDeleted": false,
+			"id": "T6Xe5iRqBIBB_qByY4FzA",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 1.1427690511186306,
+			"y": 809.9833702553499,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1932162390,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 541,
+			"versionNonce": 928420694,
+			"isDeleted": false,
+			"id": "ytoT4MJL0WnLRGPDHtn4g",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 41.125985805251716,
+			"y": 809.8224267183605,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 80,
+			"seed": 48411402,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 598,
+			"versionNonce": 2106553610,
+			"isDeleted": false,
+			"id": "DnK86K_cJzYEanct3SDRj",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 61.029227119511816,
+			"y": 868.5695605334253,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 404576918,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 540,
+			"versionNonce": 2098575510,
+			"isDeleted": false,
+			"id": "9oVY_XORlv9L0SUt7itNX",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": -20.15491047533419,
+			"y": 869.8190797865225,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 116113866,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1267,
+			"versionNonce": 1387283402,
+			"isDeleted": false,
+			"id": "hN9LLXU17NP8wvQd7W77k",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": 22.500677963418404,
+			"y": 867.9998163090031,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.21752211626858,
+			"height": 80,
+			"seed": 104406,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					28.948364257812727,
+					7.878759047564245
+				],
+				[
+					38.21752211626858,
+					41.46168428308806
+				],
+				[
+					26.77360983455901,
+					72.83423928653497
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 561,
+			"versionNonce": 574502358,
+			"isDeleted": false,
+			"id": "-HD_FwZ1WFe0A4vFg6gvA",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.56248136662151,
+			"x": -18.39727553748802,
+			"y": 821.9433676018483,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 53.53529974373495,
+			"height": 1.132931354221455,
+			"seed": 1653016150,
+			"groupIds": [
+				"iIF5WYrQA1_D7yhWk9pWh"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					53.53529974373495,
+					-1.132931354221455
+				]
+			]
+		},
+		{
+			"id": "VWyS2NnFWNz7wvx0IlNJ2",
+			"type": "line",
+			"x": 201.61549152187945,
+			"y": 767.83600837005,
+			"width": 163.4039306640625,
+			"height": 2.73858642578125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1993880330,
+			"version": 31,
+			"versionNonce": 2123200586,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-163.4039306640625,
+					2.73858642578125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "QGWO2NioZXlfG4-oPETGm",
+			"type": "line",
+			"x": 68.33631671719195,
+			"y": 796.1350196005187,
+			"width": 551.3739624023438,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 535104278,
+			"version": 49,
+			"versionNonce": 1008740630,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					551.3739624023438,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "e_76r391omCi1slF0pOCM",
+			"type": "line",
+			"x": 619.7102791195357,
+			"y": 796.1350196005187,
+			"width": 0.912841796875,
+			"height": 31.03765869140625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 874715978,
+			"version": 13,
+			"versionNonce": 1728879562,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.912841796875,
+					-31.03765869140625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "iURAq-p76BCnCsyCaX-4P",
+			"type": "line",
+			"x": 6.2611214046919486,
+			"y": 796.1350196005187,
+			"width": 440.0037841796875,
+			"height": 5.4771728515625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1383292374,
+			"version": 61,
+			"versionNonce": 141878102,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-440.0037841796875,
+					5.4771728515625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "uADJtbQnVUfhYpLzCXRXM",
+			"type": "line",
+			"x": -433.74266277499555,
+			"y": 801.6121924520812,
+			"width": 0.912872314453125,
+			"height": 227.3048095703125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 272508170,
+			"version": 48,
+			"versionNonce": 1254834518,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.912872314453125,
+					-227.3048095703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "U0SCpMLGxtnyxBQcDSnGg",
+			"type": "arrow",
+			"x": 719.9141670589906,
+			"y": 673.056386267933,
+			"width": 58.195648193359375,
+			"height": 11.988276457453367,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1506059926,
+			"version": 108,
+			"versionNonce": 1971379478,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-58.195648193359375,
+					-11.988276457453367
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "chpRx1zr",
+				"focus": -0.30612580545501156,
+				"gap": 10.373972574867366
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "xmVjp6BO",
+			"type": "text",
+			"x": 159.92477191738908,
+			"y": 938.1499274374328,
+			"width": 451,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1088019658,
+			"version": 145,
+			"versionNonce": 1028615894,
+			"isDeleted": false,
+			"boundElementIds": [
+				"MozmppIhvC0L4vTFwwbcY"
+			],
+			"text": "Für Wasser und Tee sind wir hier schon fertig",
+			"rawText": "Für Wasser und Tee sind wir hier schon fertig",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17
+		},
+		{
+			"id": "MozmppIhvC0L4vTFwwbcY",
+			"type": "arrow",
+			"x": 148.2286812191469,
+			"y": 952.7542069860834,
+			"width": 96.99256896972656,
+			"height": 0.43250939177903547,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1477408086,
+			"version": 63,
+			"versionNonce": 348393866,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-96.99256896972656,
+					0.43250939177903547
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "xmVjp6BO",
+				"focus": -0.07749217435188678,
+				"gap": 11.696090698242188
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ntad5BK9",
+			"type": "text",
+			"x": 317.214063299225,
+			"y": 1132.271189034118,
+			"width": 14,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 319410134,
+			"version": 53,
+			"versionNonce": 1446226838,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "0",
+			"rawText": "0",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17
+		},
+		{
+			"type": "line",
+			"version": 450,
+			"versionNonce": 417267914,
+			"isDeleted": false,
+			"id": "2jDBp1pm4DuHEnTz-b7YB",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 185.6181271729161,
+			"y": 1179.2298450319759,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 1649287114,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 461,
+			"versionNonce": 690342102,
+			"isDeleted": false,
+			"id": "y_YOtZM0tFAkIFsM9JG4y",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 192.59320415316034,
+			"y": 1026.1504014813231,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1224481238,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 463,
+			"versionNonce": 999839626,
+			"isDeleted": false,
+			"id": "0MJgpgNjSWBJ4QjS41YAo",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 153.02638295440903,
+			"y": 1028.8088893366426,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1741395594,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 514,
+			"versionNonce": 711081494,
+			"isDeleted": false,
+			"id": "1xlvqDandVtmeS96iy8kh",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 213.95289681334464,
+			"y": 1028.2086845916092,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 80,
+			"seed": 2101767958,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 577,
+			"versionNonce": 1383650890,
+			"isDeleted": false,
+			"id": "i0c-OlLb_9v5UZS0vFzly",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 234.58569633062058,
+			"y": 1086.823921759463,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 871118154,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 519,
+			"versionNonce": 1323174742,
+			"isDeleted": false,
+			"id": "-qp99JdNEjUxpUmtU3WKV",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 154.35018798726082,
+			"y": 1088.813375234471,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 2014583894,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1246,
+			"versionNonce": 509312266,
+			"isDeleted": false,
+			"id": "Fxjh9tgP31dK-9rWRGNRk",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5511277258615284,
+			"x": 195.08418916016592,
+			"y": 1086.5076696431381,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.21752211626858,
+			"height": 80,
+			"seed": 1477114890,
+			"groupIds": [
+				"458xTVg6obAM9xp2ZmzR-"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					28.948364257812727,
+					7.878759047564245
+				],
+				[
+					38.21752211626858,
+					41.46168428308806
+				],
+				[
+					26.77360983455901,
+					72.83423928653497
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"id": "agT1vOKN_RfT1GQ8hPIa6",
+			"type": "line",
+			"x": 192.21864093594377,
+			"y": 991.3128760458367,
+			"width": 150.6237030029297,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1775068182,
+			"version": 84,
+			"versionNonce": 619589782,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-150.6237030029297,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "g4HUXkfBPxCF7S6ExmD1G",
+			"type": "line",
+			"x": 231.01563800625632,
+			"y": 988.5417164650607,
+			"width": 1039.857766287667,
+			"height": 0.326080322265625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 598950538,
+			"version": 108,
+			"versionNonce": 1035669398,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1039.857766287667,
+					-0.326080322265625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "cU_fW6H_HTppHBAOnvfDv",
+			"type": "line",
+			"x": 1254.1883064632875,
+			"y": -369.31264275299145,
+			"width": 14.4754638671875,
+			"height": 1359.52552141462,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1016911318,
+			"version": 63,
+			"versionNonce": 513995030,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					14.4754638671875,
+					1359.52552141462
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "SBMVIJB8",
+			"type": "text",
+			"x": 422.4451080520157,
+			"y": 1229.2891855537928,
+			"width": 410,
+			"height": 49,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 775424202,
+			"version": 93,
+			"versionNonce": 1767722634,
+			"isDeleted": false,
+			"boundElementIds": [
+				"D3aOGUhmawGVl2fnFh_kF"
+			],
+			"text": "Aufgussschub wieder reinschieben, wenn wir\nein \"Kaffee\"-Getränk hatten",
+			"rawText": "Aufgussschub wieder reinschieben, wenn wir\nein \"Kaffee\"-Getränk hatten",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42
+		},
+		{
+			"id": "D3aOGUhmawGVl2fnFh_kF",
+			"type": "arrow",
+			"x": 416.85021872909783,
+			"y": 1265.18125505249,
+			"width": 54.77223714192769,
+			"height": 1.5214029947928793,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 443866634,
+			"version": 12,
+			"versionNonce": 1536877014,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-54.77223714192769,
+					-1.5214029947928793
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "SBMVIJB8",
+				"focus": -0.5710270819750879,
+				"gap": 5.594889322917879
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "JMywG2hs",
+			"type": "text",
+			"x": -876.8158092482499,
+			"y": 1067.2760172188373,
+			"width": 436,
+			"height": 49,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1106110870,
+			"version": 393,
+			"versionNonce": 290545738,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Input vom Decoder ob wir ein Sirup brauchen\nund welchen",
+			"rawText": "Input vom Decoder ob wir ein Sirup brauchen\nund welchen",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 42
+		},
+		{
+			"id": "cHaogZbmOy_DRLEtDWPMm",
+			"type": "line",
+			"x": -998.2469310744218,
+			"y": 1092.3919992745014,
+			"width": 116.3909912109375,
+			"height": 1.14105224609375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1865097558,
+			"version": 30,
+			"versionNonce": 1895878026,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					116.3909912109375,
+					-1.14105224609375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "OLRLj_sfbAKyhxuyNHsmm",
+			"type": "line",
+			"x": -116.18546867207806,
+			"y": 1150.5875711739154,
+			"width": 0.8876207139765029,
+			"height": 38.036337958441436,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 912533526,
+			"version": 55,
+			"versionNonce": 312919126,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8876207139765029,
+					-38.036337958441436
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "FPKesbzD-2eXT_uDHEzCL",
+			"type": "line",
+			"x": -116.3121844381348,
+			"y": 1112.5512332154758,
+			"width": 642.9400719536679,
+			"height": 8.114352756078006,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 448376138,
+			"version": 193,
+			"versionNonce": 1375863574,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-642.9400719536679,
+					-8.114352756078006
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "Uciktvx00VLYrrL7LK6D-",
+			"type": "line",
+			"x": -671.6562192688634,
+			"y": 1086.7854285008489,
+			"width": 2.0286051432285603,
+			"height": 56.80087619357619,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1094175126,
+			"version": 53,
+			"versionNonce": 969865750,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0286051432285603,
+					56.80087619357619
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "mGyo_r6QKq2fAURXlfL7b",
+			"type": "line",
+			"x": -691.9422707011545,
+			"y": 972.1694074505011,
+			"width": 450.34959581163093,
+			"height": 7.100084092882753,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1246091850,
+			"version": 89,
+			"versionNonce": 1792820886,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					450.34959581163093,
+					7.100084092882753
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 440,
+			"versionNonce": 1245322902,
+			"isDeleted": false,
+			"id": "kijvGcx1PY_zCOGLVrjdw",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -254.5979385359882,
+			"y": 1170.0817419271198,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60,
+			"height": 0,
+			"seed": 2091188374,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					60,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 453,
+			"versionNonce": 619527626,
+			"isDeleted": false,
+			"id": "j6b4sgjmOCYBqkDRoPaoE",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -241.07021658530763,
+			"y": 1019.6360307292098,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 1285127114,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 450,
+			"versionNonce": 1508236246,
+			"isDeleted": false,
+			"id": "VD97GK77hCCGmuKIGVMTn",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -281.57516367965184,
+			"y": 1019.0292855345764,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80,
+			"height": 0,
+			"seed": 10780118,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 493,
+			"versionNonce": 81196170,
+			"isDeleted": false,
+			"id": "3McqbArVj6r7tIprjXP0M",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -222.63640415127853,
+			"y": 1019.4233416074644,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 80,
+			"seed": 676033162,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					80
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 556,
+			"versionNonce": 262664470,
+			"isDeleted": false,
+			"id": "FGWPumhQp71ogHNBbe62T",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -202.51070695201022,
+			"y": 1080.929305759788,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 1782731542,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 498,
+			"versionNonce": 333173578,
+			"isDeleted": false,
+			"id": "Jv6IG-IrN1sXDWCeoU5hA",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -282.879271446126,
+			"y": 1078.880860793656,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40,
+			"height": 0,
+			"seed": 269521226,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					40,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1225,
+			"versionNonce": 116743766,
+			"isDeleted": false,
+			"id": "eL7Y7OXguNXVi9QY-RDp-",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 1.5885837072745383,
+			"x": -241.45558339157918,
+			"y": 1079.8902938778053,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.21752211626858,
+			"height": 80,
+			"seed": 603160662,
+			"groupIds": [
+				"mDIfmsSMzelKIIEZjJzWr"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					28.948364257812727,
+					7.878759047564245
+				],
+				[
+					38.21752211626858,
+					41.46168428308806
+				],
+				[
+					26.77360983455901,
+					72.83423928653497
+				],
+				[
+					0,
+					80
+				]
+			]
 		}
 	],
 	"appState": {
@@ -6272,7 +10177,7 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2289.0702853732637 1868.7131127037537" width="2289.0702853732637" height="1868.7131127037537" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2701.2763604950323 2955.0294339405027" width="2701.2763604950323" height="2955.0294339405027" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -6288,567 +10193,1046 @@ oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung ^R2xBvojb
 			}
 		</style>
 	</defs>
-	<g transform="translate(316.83113785120963 521.5507747278924) rotate(0 52.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem</text></g>
-	<g transform="translate(313.2033127954062 492.787974783696) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(418.6973313500937 494.9841417758835) rotate(0 6 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
-	<g transform="translate(367.1116292714107 555.269175955571) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(278.98613997731195 491.97703610130543) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(572.5725349503819 521.5507747278924) rotate(0 52.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem</text></g>
+	<g transform="translate(568.9447098945784 492.787974783696) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(674.4387284492659 494.9841417758835) rotate(0 6 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(622.8530263705829 555.269175955571) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(534.7275370764842 491.97703610130543) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-1.13 -0.09 C66.07 -0.6, 132.48 2.61, 189.72 0.76 M0.02 0.67 C41.71 1.14, 81.63 0.53, 187.33 0.63 M186.6 0.59 C188.74 23.65, 187.76 42.35, 186.2 86.58 M189.02 -0.28 C188.49 27.76, 188.79 57.3, 187.19 85.95 M189.79 84.5 C140.57 85.01, 98.52 86.55, -0.35 86.64 M187.31 86.35 C132.85 87.17, 75.81 86.39, 0.77 84.95 M-1.82 84.98 C1.21 53.97, -0.66 24.06, -1.79 -1.74 M0 86.57 C-0.75 62.84, -0.76 40.05, 0.38 -0.68" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(373.6620488462752 577.1002605331234) rotate(0 0.13830936316287534 73.38533806078362)">
+		<g transform="translate(629.4034459454474 577.1002605331234) rotate(0 0.13830936316287534 73.38533806078362)">
 			<path d="M-0.68 -0.05 C-0.64 24.35, 0.39 121.18, 0.74 145.81 M1.16 -1.13 C1.04 23.46, 0.03 122.34, 0.04 146.85" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(320.4217417223015 434.5796827459749) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(576.1631388214737 434.5796827459749) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.05 0.47 C-0.06 10.45, -0.9 49.45, -0.68 59.22 M-1.54 -0.34 C-1.12 9.4, 1.11 48.09, 1.53 57.7" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(426.4297703114148 434.4322974859032) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(682.171167410587 434.4322974859032) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.47 -0.96 C0.81 8.89, 1.27 49.14, 1.41 59.06 M-0.75 1.15 C-0.4 10.69, 0.76 48.23, 1.05 57.45" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(430.222778020174 561.0735356668366) rotate(0 16.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">370ms</text></g>
-	<g transform="translate(573.7225282126933 518.8358244085721) rotate(0 62 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasserkühler</text></g>
-	<g transform="translate(617.3094684331174 490.92067199506766) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(623.7236617227379 549.2939978879247) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(534.752300730351 488.69375044012804) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(685.9641751193462 561.0735356668366) rotate(0 16.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">370ms</text></g>
+	<g transform="translate(829.4639253118655 518.8358244085721) rotate(0 62 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasserkühler</text></g>
+	<g transform="translate(873.0508655322897 490.92067199506766) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(879.4650588219101 549.2939978879247) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(790.4936978295232 488.69375044012804) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-1.62 -1.56 C71.28 -0.67, 144.52 0.37, 189.77 -1.39 M-0.43 -0.91 C60.07 -1.91, 122.24 -0.44, 188.86 0.25 M188.75 -0.21 C187.9 20.28, 186.7 37.76, 186.13 87.47 M187.48 -0.43 C187.34 25.35, 186.66 48.02, 187.63 86.64 M187.97 84.52 C126.46 85.11, 63.02 87.43, -0.02 83.82 M188.76 86.73 C147.4 83.29, 104.76 85.2, 0.01 85.87 M-0.7 86.7 C-0.75 51.58, 2.29 16.61, -0.5 -0.77 M0.15 85.82 C0.35 63.8, 0.59 40.52, 0.67 0.13" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(629.4282095993144 573.8169748719462) rotate(0 0.13830936316287534 17.471990544042683)">
+		<g transform="translate(885.1696066984866 573.8169748719462) rotate(0 0.13830936316287534 17.471990544042683)">
 			<path d="M-0.97 -0.94 C-1.12 4.82, -0.25 28.88, 0.09 34.97 M0.72 1.19 C0.3 7.1, -0.95 31.12, -0.95 36.52" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(630.1994381198717 429.7749432273756) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(885.940835219044 429.7749432273756) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.94 -0.18 C-0.96 9.8, -0.01 49.02, 0.3 58.9 M0.77 -1.32 C0.55 8.41, -0.59 47.43, -0.63 57.2" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(702.0699861946225 560.0042697260038) rotate(0 6 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">9s</text></g>
-	<g transform="translate(829.6014208993251 523.064597737565) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasserkocher</text></g>
-	<g transform="translate(885.8420258449166 495.3012048804221) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(889.0123139308541 550.8049323846074) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(801.0338016526599 489.74285152791003) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(957.8113832937947 560.0042697260038) rotate(0 6 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">9s</text></g>
+	<g transform="translate(1085.3428179984974 523.064597737565) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasserkocher</text></g>
+	<g transform="translate(1141.5834229440889 495.3012048804221) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1144.7537110300264 550.8049323846074) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1056.7751987518322 489.74285152791003) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-1.39 0.48 C67.64 -0.36, 137.29 -3.44, 186.24 -1.46 M0.25 -0.86 C61.08 -1.13, 124.36 -1.62, 188.37 0.96 M189.71 -0.29 C186.79 23.62, 187.35 45.85, 188.09 87.55 M188.88 0.35 C187.07 20.56, 187.2 39.63, 188.78 85.07 M186.07 84.22 C123.01 84.08, 56.32 87.63, 1.58 83.99 M188.12 86.8 C138.54 84.96, 90.46 86.28, -0.76 85.81 M-0.77 85.17 C1.07 52.15, 0.61 21.24, 1.35 1.98 M0.13 86.19 C-0.53 52.94, -0.13 18.91, -0.25 -0.87" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(895.7097105216233 574.866075959728) rotate(0 0.13830936316287534 16.18273185961175)">
+		<g transform="translate(1151.4511076207955 574.866075959728) rotate(0 0.13830936316287534 16.18273185961175)">
 			<path d="M-0.83 0.29 C-1.04 5.64, -0.69 27.96, -0.59 33.12 M0.93 -0.6 C1.04 4.93, 2.04 25.96, 1.67 31.39" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(896.4809390421806 430.8240443151576) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1152.2223361413528 430.8240443151576) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.29 -0.86 C0.29 8.87, 1.22 47.93, 1.03 57.57 M-1.02 1.3 C-1.2 11.26, 0.06 49.43, 0.48 58.84" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(957.7983487473261 560.5824300876416) rotate(0 11 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3,5s</text></g>
-	<g transform="translate(746.8123089899127 1734.4492458941095) rotate(0 50 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Milchpumpe</text></g>
-	<g transform="translate(736.251330509165 1708.8826238412357) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(843.9409885379039 1707.8381858878317) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
-	<g transform="translate(792.8561322321002 1765.8202611703373) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(703.9846407407365 1704.3918181864212) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(1213.5397458464984 560.5824300876416) rotate(0 11 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3,5s</text></g>
+	<g transform="translate(970.7662697400331 2820.7655671308585) rotate(0 50 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Milchpumpe</text></g>
+	<g transform="translate(960.2052912592853 2795.1989450779847) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1067.8949492880242 2794.154507124581) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
+	<g transform="translate(1016.8100929822206 2852.1365824070863) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(927.9386014908569 2790.70813942317) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M0.59 1.48 C40.84 1.86, 76.74 -0.48, 188.82 0.7 M-0.28 0.53 C53.49 -0.98, 108.75 -2.67, 188.19 -0.58 M186.75 -1.88 C187.23 23.74, 188.77 43.82, 188.88 85.73 M188.59 0.42 C188.67 19.21, 187.88 41.17, 187.2 86.52 M187.22 87.81 C114.4 84.23, 42.67 82.31, -1.74 85.11 M188.81 85.44 C123.03 85.42, 58.2 86.18, -0.68 85.96 M1.82 87.22 C0.77 60.25, 0.17 34.31, 1.35 0.95 M0.07 84.91 C0.94 59.2, -0.44 30.36, -0.68 0.04" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(798.6605496097 1789.5150426182395) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1022.6145103598203 2875.831363854988) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.36 0.89 C0.74 10.76, 1.43 49.04, 1.24 58.39 M-0.92 0.31 C-0.51 9.88, 0.39 46.85, 0.8 56.42" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(745.420242485726 1646.9944648310907) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(969.3742032358464 2733.310786067839) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.89 0.97 C1.13 10.42, 0.86 47.46, 0.57 57.06 M-0.11 0.43 C0.08 9.96, -0.49 48.72, -0.22 58.05" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(851.4282710748394 1646.847079571019) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1075.3822318249597 2733.163400807768) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.97 0.29 C0.78 9.64, -0.72 47.28, -0.76 56.98 M0.02 -0.6 C0.16 8.78, 1.38 48.44, 1.41 57.94" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(848.8494903953908 1773.824739900157) rotate(0 19 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">18ms/ml</text></g>
-	<g transform="translate(861.2942832737672 1148.4658460033916) rotate(0 71 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Zuckerbereiter</text></g>
-	<g transform="translate(921.4224047860441 1120.6833840195748) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(925.3156542977629 1178.1628456894964) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(837.5586327887279 1116.4751021653885) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(1072.8034511455112 2860.141061136906) rotate(0 19 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">18ms/ml</text></g>
+	<g transform="translate(1164.048543532119 1384.2146710766337) rotate(0 71 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Zuckerbereiter</text></g>
+	<g transform="translate(1224.176665044396 1356.432209092817) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1228.0699145561148 1413.9116707627386) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1140.3128930470798 1352.2239272386307) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-0.21 0.64 C40.98 -1.21, 79.15 -2.58, 189.71 -0.29 M-0.43 0.02 C41.17 0.43, 79.66 0.67, 188.88 0.35 M186.76 1.46 C186.93 25.31, 189.25 48.43, 186.07 84.22 M188.97 0.79 C186.41 31.94, 188.32 64.71, 188.12 86.8 M188.94 84.29 C148.45 86.67, 108.12 84.64, -0.77 85.17 M188.06 86.49 C125.55 86.99, 61.78 86.76, 0.13 86.19 M0.36 85.3 C-2.31 59.6, -2.37 34.54, 1.33 -1.31 M-0.96 85.06 C-0.19 68.05, 0.83 49.72, -0.55 0.2" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(932.2345416576911 1201.5983265972063) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1234.988801916043 1437.3471516704485) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.13 0.39 C0.04 9.94, 1.26 48.33, 1.43 57.76 M-1.65 -0.46 C-1.59 9.24, 0.74 49.43, 1.09 59.12" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(933.0057701782487 1057.556294952636) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1235.7600304366006 1293.3051200258783) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.39 1.16 C0.31 10.97, 0.15 49.07, -0.06 58.72 M-0.87 0.72 C-1.17 10.19, -1.56 47.51, -1.18 56.93" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(988.0887583804172 1187.0131888515148) rotate(0 17.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">230ms</text></g>
-	<g transform="translate(1159.5030811524566 1147.4519275657367) rotate(0 81 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Eiswürfelbereiter</text></g>
-	<g transform="translate(1225.786367110883 1118.035972975893) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(1232.979691608651 1175.018006841685) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(1144.9106957241643 1115.165367507143) rotate(0 94.02572631835938 42.90493774414061)">
+	<g transform="translate(1290.843018638769 1422.762013924757) rotate(0 17.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">230ms</text></g>
+	<g transform="translate(1535.9717731735038 1390.7320636741351) rotate(0 81 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Eiswürfelbereiter</text></g>
+	<g transform="translate(1602.2550591319302 1361.3161090842914) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1609.4483836296981 1418.2981429500835) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1521.3793877452115 1358.4455036155414) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-0.29 -1.71 C66.56 -2.71, 131.73 -1.52, 189.79 -1.31 M0.35 -0.18 C39.11 -1.6, 76.75 -0.83, 187.31 0.54 M186.46 1.54 C186.33 30.76, 189.88 60.25, 186.23 84.98 M189.04 -0.89 C187.19 33.97, 188.51 67.87, 188.05 86.57 M187.41 86.56 C137.26 85.38, 89.2 86.44, 1.98 87.63 M188.43 85.88 C119.03 86.53, 48.83 85.81, -0.87 85.88 M-1.31 83.99 C-1.98 67.85, -2.54 48.22, -1.55 0.38 M0.2 86.23 C0.38 58.27, -0.55 29.36, -0.97 -0.35" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1239.5866045931275 1200.2885919389607) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1616.0552966141747 1443.5687280473592) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.18 -1.03 C0.09 8.37, 0.45 47.54, 0.44 57.4 M-1.73 1.05 C-1.51 11.11, -0.5 48.84, -0.42 58.58" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1240.357833113685 1056.2465602943903) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1616.8265251347323 1299.5266964027887) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-1.03 0.16 C-1.26 9.79, -0.64 47.75, -0.41 57.58 M0.63 -0.8 C0.7 9.01, 2.12 49.16, 1.94 58.85" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1296.0604695543075 1185.4780781356787) rotate(0 15 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">120ms</text></g>
-	<g transform="translate(71.78587398557215 524.7317754525639) rotate(0 70.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Becherauslass</text></g>
-	<g transform="translate(129.3074324746906 497.90434363755276) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(134.61167964963488 554.7756597299075) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(47.520631622277506 493.6772048265211) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(1672.529161575355 1428.7582142440772) rotate(0 15 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">120ms</text></g>
+	<g transform="translate(327.52727108474437 524.7317754525639) rotate(0 70.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Becherauslass</text></g>
+	<g transform="translate(385.0488295738628 497.90434363755276) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(390.3530767488071 554.7756597299075) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(303.2620287214497 493.6772048265211) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-1.31 -1.88 C47.56 0.02, 97.5 -1.99, 188.88 -0.08 M0.54 0.42 C44.26 0.4, 87.75 2.16, 187.2 0.71 M187.22 2 C188.75 33.75, 190.71 65.45, 186.32 85.11 M188.81 -0.37 C187.15 29.17, 187.08 59.48, 187.37 85.96 M189.87 87.22 C132.82 87.93, 75.63 87.81, 1.35 86.76 M188.13 84.91 C129.01 84.84, 67.87 83.27, -0.68 85.85 M0.38 86.31 C0.29 67.21, 1.04 51.66, 0.45 0.71 M-0.35 86.7 C-0.31 66.04, 0.95 46.88, 0.24 -0.12" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(142.19654049124097 578.8004292583391) rotate(0 0.1857269419219847 79.22416997471942)">
+		<g transform="translate(397.9379375904132 578.8004292583391) rotate(0 0.1857269419219847 79.22416997471942)">
 			<path d="M-0.78 -1.13 C-0.81 25.27, -0.39 132.88, -0.13 159.44 M1.01 0.89 C0.78 27.49, -1.21 131.42, -1.34 157.84" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(142.96776901179828 434.7583976137687) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(398.7091661109705 434.7583976137687) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-1.13 -0.5 C-1.09 9.38, 1.07 48.67, 1.27 58.52 M0.48 -1.81 C0.35 7.77, 1.06 46.9, 0.84 56.62" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(197.60822907966644 561.3682557867362) rotate(0 17 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">400ms</text></g>
-	<g transform="translate(1130.1332628434595 620.7158225097008) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Aufgussschub</text></g>
-	<g transform="translate(1130.9240546728865 591.6508462262187) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(1242.1532562167854 591.7381308593102) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">P</text></g>
-	<g transform="translate(1191.7172646570757 651.390400495192) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(1100.7466651509235 586.7879361633272) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(453.34962617883866 561.3682557867362) rotate(0 17 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">400ms</text></g>
+	<g transform="translate(1385.8746599426318 620.7158225097008) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Aufgussschub</text></g>
+	<g transform="translate(1386.6654517720588 591.6508462262187) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1497.8946533159576 591.7381308593102) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">P</text></g>
+	<g transform="translate(1447.4586617562477 651.390400495192) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1356.4880622500955 586.7879361633272) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M-1.29 1.46 C51.61 1.16, 107.02 0.06, 186.07 -1.59 M0.92 0.79 C69.99 -1.76, 142.79 -1.33, 188.12 0.99 M188.94 -1.52 C187.3 19.6, 186.56 35.63, 187.28 85.17 M188.06 0.68 C188.46 29.88, 188.17 58.62, 188.18 86.19 M188.41 85.3 C128.56 86.85, 70.74 88.14, 1.33 84.5 M187.09 85.06 C147.93 86.08, 109.61 85.71, -0.55 86.01 M-1.4 84.48 C-2.14 55.75, 1.59 25.34, -0.09 0.76 M0.94 85.73 C-0.69 56.39, -1.13 26.19, 0.11 0.05" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1195.4225740198867 671.9111605951454) rotate(0 0.13830936316287534 45.02113111091376)">
+		<g transform="translate(1451.163971119059 671.9111605951454) rotate(0 0.13830936316287534 45.02113111091376)">
 			<path d="M-0.77 0.88 C-0.96 16, -0.87 75.83, -0.61 90.69 M1.02 0.29 C1.16 15.07, 1.76 73.73, 1.63 88.91" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1142.1822668959128 529.3905828079967) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1397.923663995085 529.3905828079967) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.88 -0.89 C1.04 9.01, 1.03 48.96, 0.93 58.59 M-0.12 1.26 C-0.05 10.86, 0.38 47.35, 0.32 56.74" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1248.1902954850261 529.2431975479251) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1503.9316925841986 529.2431975479251) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.89 0.65 C-0.63 10.18, 0.78 48.66, 0.78 58.08 M0.84 -0.06 C1.06 9.6, 0.01 49.94, 0.09 59.61" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1252.6488029263928 657.0214901171714) rotate(0 14.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">310ms</text></g>
-	<g transform="translate(1081.6013622861988 431.70297993777604) rotate(0 58 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kaffeemühle</text></g>
-	<g transform="translate(1128.9272551433414 405.41794575808854) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(1135.3186387231408 459.639481577006) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(1046.9198848619849 400.4203005877753) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(1508.3902000255653 657.0214901171714) rotate(0 14.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">310ms</text></g>
+	<g transform="translate(1337.342759385371 431.70297993777604) rotate(0 58 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kaffeemühle</text></g>
+	<g transform="translate(1384.6686522425139 405.41794575808854) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1391.0600358223128 459.639481577006) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1302.661281961157 400.4203005877753) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M1.54 -1.71 C57.63 3.33, 113.99 -0.32, 187.22 2 M-0.89 -0.87 C56.29 -1.42, 112.52 -1.86, 188.81 -0.37 M188.8 -1.36 C188.02 23.59, 189.07 49.13, 189.87 87.22 M188.12 0.67 C188.64 31.71, 187.91 62.2, 188.13 84.91 M186.24 84.45 C118.18 82.66, 46.63 83.03, 0.38 86.31 M188.47 86.03 C135.4 85.48, 81.36 85.21, -0.35 86.7 M1.06 86.28 C-0.19 69.55, -0.13 48.56, 1.7 -1.86 M-0.16 85.38 C-0.58 52, -0.4 18.53, -0.41 -0.29" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1141.5957937309481 485.5435250195933) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1397.3371908301206 485.5435250195933) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.92 -1.03 C1.31 9, 1.08 49.52, 1.13 59.19 M-0.05 1.05 C0.36 10.85, 0.47 48.2, 0.63 57.65" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1142.3670222515057 341.5014933750226) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1398.1084193506777 341.5014933750226) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-1.03 0.86 C-0.64 10.54, 1.34 49.58, 1.38 59.04 M0.63 0.26 C1.05 9.54, 0.86 47.68, 1.01 57.41" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1205.3078944520007 470.1897257748782) rotate(0 11.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">2,3s</text></g>
-	<g transform="translate(339.9751149407439 1182.2175661291044) rotate(0 29 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Pumpe</text></g>
-	<g transform="translate(415.39488761869507 1156.347571011917) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(315.4395653530703 1155.218946201804) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
-	<g transform="translate(364.84504902277513 1209.6324322586615) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(281.17980404368814 1147.8521215989645) rotate(0 94.02572631835938 42.90493774414061)">
+	<g transform="translate(1461.0492915511727 470.1897257748782) rotate(0 11.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">2,3s</text></g>
+	<g transform="translate(551.3771652904736 1395.5684746810025) rotate(0 29 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Pumpe</text></g>
+	<g transform="translate(626.7969379684248 1369.698479563815) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(526.8416157028 1368.5698547537022) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
+	<g transform="translate(576.2470993725049 1422.9833408105599) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(492.58185439341787 1361.2030301508626) rotate(0 94.02572631835938 42.9049377441406)">
 		<path d="M0.02 0.13 C41.29 -3.67, 76.89 -2.58, 188.94 -1.52 M-0.25 -0.38 C56.06 1.07, 112.09 0.85, 188.06 0.68 M189.4 0.27 C189.58 34.37, 190.18 69.4, 188.41 85.3 M188.77 0.66 C187.46 17.39, 187.44 36.64, 187.09 85.06 M187.69 84.71 C146.62 87.12, 104.84 86.99, -1.4 84.48 M187.17 85.76 C150.33 88.01, 112.08 87.37, 0.94 85.73 M1.84 86.02 C-0.62 63.92, -1.6 41.69, -0.32 -0.62 M0.38 86.44 C0.87 60.19, -0.63 33.79, 0.82 -0.48" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(375.8557129126516 1232.9753460307825) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(587.2577632623813 1446.3262545826806) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.01 0.08 C0.34 9.38, 1.59 47.42, 1.46 57.02 M-1.44 -0.93 C-1.12 8.99, 0.63 48.04, 1.14 57.99" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(322.61540578867766 1090.454768243634) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(534.0174561384074 1303.805676795532) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.08 1.19 C-0.25 10.69, -0.76 47.48, -0.8 57.05 M-1.34 0.76 C-1.42 10.38, 1.32 48.74, 1.35 58.04" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(428.623434377791 1090.3073829835623) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(640.0254847275207 1303.6582915354604) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M1.19 -1.07 C1.06 8.53, -0.7 47.96, -0.76 57.67 M0.35 0.98 C0.58 10.74, 1.4 49.48, 1.4 58.98" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(426.7781057785419 1217.1170637899322) rotate(0 18.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">14ms/ml</text></g>
-	<g transform="translate(404.1974953353822 1446.4313690169724) rotate(0 52.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem</text></g>
-	<g transform="translate(400.56967027957876 1417.6685690727759) rotate(0 12 12.499999999999972)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(506.06368883426626 1419.8647360649636) rotate(0 6 12.500000000000028)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
-	<g transform="translate(454.4779867555833 1480.1497702446509) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(366.3524974614845 1416.8576303903853) rotate(0 94.02572631835938 42.9049377441406)">
+	<g transform="translate(638.1801561282716 1430.4679723418303) rotate(0 18.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">14ms/ml</text></g>
+	<g transform="translate(794.7504245913619 2165.317194037901) rotate(0 52.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem</text></g>
+	<g transform="translate(791.1225995355585 2136.5543940937046) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(896.616618090246 2138.7505610858925) rotate(0 6 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(845.030916011563 2199.0355952655796) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(756.9054267174643 2135.7434554113142) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M1.53 -0.74 C64.26 -0.76, 128.89 0.76, 186.69 0.29 M0.91 0.71 C57.26 -1.73, 113.55 -1.79, 188.73 0.47 M188.2 -1.79 C189.27 28.6, 186.53 52.73, 186.69 85.89 M188.24 0.25 C187.22 16.94, 187.6 35.41, 188.27 86.16 M187.35 87.59 C143.05 83.88, 102.35 85.03, 0.47 85.57 M188.9 84.88 C114.88 85, 39.93 84.74, -0.43 85.32 M-0.83 85.23 C1.02 62.71, 1.29 37.74, -1.97 -0.25 M0.41 85.21 C0.66 52.32, -0.56 19.66, 0.65 -0.08" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(461.02840633044775 1501.9808548222036) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(851.5813355864275 2220.8666798431323) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.92 -0.45 C1.06 9.16, 0.14 47.8, -0.03 57.63 M-0.06 -1.73 C-0.02 8.04, -0.96 49.23, -1.13 58.93" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(407.78809920647404 1359.4602770350548) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(798.3410284624538 2078.3461020559835) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.45 -0.3 C-0.48 9.16, -0.38 48.11, -0.18 57.71 M1.52 -1.51 C1.29 8.05, -1.15 49.1, -1.37 59.04" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(513.7961277955874 1359.3128917749832) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(904.3490570515671 2078.1987167959114) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.3 -0.46 C-0.47 9.37, -0.07 48.75, -0.11 58.54 M1.74 -1.75 C1.3 7.76, -1.29 46.42, -1.26 56.66" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(517.5891355043466 1485.9541299559164) rotate(0 16.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">370ms</text></g>
-	<g transform="translate(731.3188613215559 1443.5051076655784) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Aufgussschub</text></g>
-	<g transform="translate(732.1096531509829 1414.4401313820963) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(843.3388546948818 1414.5274160151878) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">P</text></g>
-	<g transform="translate(792.902863135172 1474.1796856510696) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(701.9322636290198 1409.577221319205) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(908.1420647603263 2204.839954976845) rotate(0 16.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">370ms</text></g>
+	<g transform="translate(1225.7754730180613 2175.451308299197) rotate(0 65 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Aufgussschub</text></g>
+	<g transform="translate(1226.5662648474881 2146.386332015715) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(1337.795466391387 2146.4736166488065) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">P</text></g>
+	<g transform="translate(1287.3594748316773 2206.1258862846885) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(1196.388875325525 2141.523421952824) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M1.35 1.98 C45.43 1.4, 88.58 0.25, 188.8 0.14 M-0.25 -0.87 C69.16 -1.23, 138.89 0.33, 187.4 -0.91 M186.54 -1.55 C188.47 20.42, 187.73 38.73, 188.45 86.65 M187.38 -0.97 C188 28.55, 187.47 55.27, 188.43 86.34 M187.88 84.84 C128.9 85.71, 68.18 87.79, 0.11 85.5 M187.74 85.83 C139.4 85.22, 91.95 86.14, 0.51 86.14 M-0.96 85.94 C0.92 67.3, 0.61 49.82, -1.95 -1.08 M0.57 85.82 C0.43 54.99, 0.71 23.92, 0.46 -0.24" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(796.6081724979831 1494.700445751023) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1291.0647841944883 2226.646646384642) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.81 1.19 C1.01 11.01, 1.32 49.43, 1.37 58.94 M-0.22 0.76 C-0.1 10.25, 0.83 47.45, 0.99 57.26" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(743.3678653740092 1352.1798679638741) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1237.8244770705146 2084.126068597493) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M1.19 1.09 C1.37 10.77, 1.25 49.33, 1.12 58.9 M0.35 0.62 C0.45 9.89, 0.72 47.9, 0.62 57.2" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(849.3758939631226 1352.0324827038025) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(1343.832505659628 2083.9786833374214) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M1.09 0.85 C1.14 10.36, 1.15 48.7, 1.09 58.25 M0.2 0.25 C0.09 10.48, 0.56 49.99, 0.56 59.87" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(853.8344014044893 1479.810775273049) rotate(0 14.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">310ms</text></g>
-	<g transform="translate(430.31375616670016 1749.8635507234771) rotate(0 29 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Pumpe</text></g>
-	<g transform="translate(405.3177437969084 1723.9935556062896) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
-	<g transform="translate(499.09390753388766 1728.950678409024) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
-	<g transform="translate(455.1836902487314 1777.2784168530343) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
-	<g stroke-linecap="round" transform="translate(371.5184452696444 1715.4981061933372) rotate(0 94.02572631835938 42.904937744140625)">
+	<g transform="translate(1348.2910131009946 2211.7569759066682) rotate(0 14.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">310ms</text></g>
+	<g transform="translate(654.2677169168205 2836.1798719602257) rotate(0 29 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Pumpe</text></g>
+	<g transform="translate(629.2717045470288 2810.309876843038) rotate(0 12 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">St</text></g>
+	<g transform="translate(723.047868284008 2815.2669996457726) rotate(0 8 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">M</text></g>
+	<g transform="translate(679.1376509988518 2863.5947380897833) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g stroke-linecap="round" transform="translate(595.4724060197648 2801.8144274300857) rotate(0 94.02572631835938 42.904937744140625)">
 		<path d="M0.95 0.36 C62.97 -3, 127.11 -3.06, 189.49 1.33 M0.04 -0.96 C43.35 0.5, 88.4 1.53, 187.87 -0.55 M188.76 -1.4 C187.08 25.49, 187.71 56.66, 186.28 85.71 M187.93 0.94 C188.42 28.51, 189.36 57.06, 188.97 85.92 M187.08 85.49 C129.99 85.04, 72.34 84.42, 0.76 87.07 M187.93 86.63 C121.54 84.03, 56.39 83.36, 0.25 85.13 M-0.16 87.18 C1.6 68.46, 1.18 52.08, 1.28 1.54 M0.53 85.22 C0.08 55.08, 0.25 26.06, 0.43 0.84" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(466.1943541386079 1800.6213306251552) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(690.1483148887282 2886.9376518619038) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.57 0.21 C0.55 9.59, 0.01 47.58, -0.03 57.05 M-0.59 -0.72 C-0.8 8.7, -1.17 48.29, -1.13 58.04" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(412.95404701463394 1658.1007528380064) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(636.9080077647543 2744.4170740747554) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M0.21 -0.3 C-0.05 9.3, -0.6 48.3, -0.76 58.18 M-1.13 -1.51 C-1.11 8.26, 0.96 50, 1.4 59.77" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(518.9620756037473 1657.9533675779348) rotate(0 0.13830936316287534 29.04589103929925)">
+		<g transform="translate(742.9160363538676 2744.269688814684) rotate(0 0.13830936316287534 29.04589103929925)">
 			<path d="M-0.3 -1.04 C-0.34 8.43, 0.13 47.03, 0.37 57.01 M1.74 1.03 C1.5 10.58, -0.38 48.66, -0.54 57.99" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(517.1167470044982 1784.763048384305) rotate(0 18.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">14ms/ml</text></g>
-	<g transform="translate(590.3629574686329 10) rotate(0 137 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kodierter Input</text></g>
+	<g transform="translate(741.0707077546185 2871.079369621054) rotate(0 18.5 6.5)"><text x="0" y="9" font-family="Virgil, Segoe UI Emoji" font-size="10.535202752976186px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">14ms/ml</text></g>
+	<g transform="translate(846.1043545678051 10) rotate(0 137 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kodierter Input</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(726.3585515429437 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
+		<g transform="translate(982.0999486421159 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
 			<path d="M-1.08 0.86 C-1.51 13.89, -2.9 65.35, -3.64 78.24 M0.56 0.27 C0.13 13.43, -3.54 66.23, -4.17 79.37" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
-		<g transform="translate(726.3585515429437 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
+		<g transform="translate(982.0999486421159 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
 			<path d="M-11.3 51.95 C-12.2 55.01, -10.42 63.04, -6.1 77.86 M-12.92 50.07 C-10.58 57.41, -8.65 63.74, -4.87 78.7" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
-		<g transform="translate(726.3585515429437 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
+		<g transform="translate(982.0999486421159 67.67506788646187) rotate(0 -2.2207141581651797 39.51477558215453)">
 			<path d="M9.19 53.17 C3.92 55.79, 1.33 63.56, -6.1 77.86 M7.57 51.29 C5.35 58.41, 2.72 64.47, -4.87 78.7" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(645.4284053213571 152.21459452311387) rotate(0 70.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Decoder</text></g>
+	<g transform="translate(901.1698024205293 152.21459452311387) rotate(0 70.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Decoder</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(720.4305551882833 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
+		<g transform="translate(976.1719522874555 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
 			<path d="M0.8 -0.79 C0.97 13.58, -0.1 72.47, -0.05 87.05 M-0.24 1.42 C0.38 15.84, 1.99 73.82, 2.09 88.16" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
-		<g transform="translate(720.4305551882833 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
+		<g transform="translate(976.1719522874555 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
 			<path d="M-10.02 58.36 C-7.6 66.07, -5.89 70.36, 0.54 88.54 M-8.51 60.59 C-5.03 69.68, -2.44 77.76, 1.12 87.81" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
-		<g transform="translate(720.4305551882833 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
+		<g transform="translate(976.1719522874555 203.7924702962266) rotate(0 0.5201907322273485 43.931884765625)">
 			<path d="M10.5 57.96 C8.61 65.89, 6 70.27, 0.54 88.54 M12 60.2 C8.82 69.3, 4.74 77.51, 1.12 87.81" stroke="#000000" stroke-width="4" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(354.73622120422874 911.7221365028118) rotate(89.46150598226043 30 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(610.477618303401 911.7221365028118) rotate(89.46150598226043 30 0)">
 			<path d="M-0.19 -0.52 C9.69 -0.56, 49.45 -0.28, 59.42 -0.19 M-1.75 1.82 C8.53 1.96, 51.76 1.32, 61.82 1.24" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(362.1478705195291 769.6667873726218) rotate(89.46150598226043 29.623023354695164 0.3174155953958433)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(617.8892676187013 769.6667873726218) rotate(89.46150598226043 29.623023354695164 0.3174155953958433)">
 			<path d="M-0.52 -0.58 C9.31 -0.51, 49.09 0.14, 59.05 0.26 M1.41 1.73 C11.06 1.99, 48.48 1.69, 58 1.61" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(322.07504464217277 772.1649950241701) rotate(89.46150598226043 32.128164252462625 -1.318880312813036)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(577.816441741345 772.1649950241701) rotate(89.46150598226043 32.128164252462625 -1.318880312813036)">
 			<path d="M-0.58 -0.19 C10.1 -0.54, 53.16 -2.14, 63.89 -2.61 M1.31 -1.34 C11.82 -1.43, 52.51 -0.97, 62.74 -1.06" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(385.6656136999752 761.888201992552) rotate(89.46150598226043 0 40)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(641.4070107991474 761.888201992552) rotate(89.46150598226043 0 40)">
 			<path d="M-0.19 -0.37 C-0.1 12.98, 0.05 66.03, 0.03 79.5 M-1.75 -1.61 C-1.77 11.95, -0.98 67.45, -0.9 80.78" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(405.0093641300032 821.523645509141) rotate(89.46150598226043 20 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(660.7507612291754 821.523645509141) rotate(89.46150598226043 20 0)">
 			<path d="M-0.37 0.03 C6.31 0, 32.7 -0.47, 39.5 -0.35 M1.64 -1 C8.17 -0.84, 31.91 1.04, 38.3 1.01" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(326.15538525136583 822.5212016580557) rotate(89.46150598226043 20 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(581.896782350538 822.5212016580557) rotate(89.46150598226043 20 0)">
 			<path d="M0.03 -0.5 C6.67 -0.36, 32.87 0.27, 39.65 0.45 M-1.42 -1.8 C5.05 -2, 31.56 -1.5, 38.52 -1.43" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(366.78209532901815 822.5560728351276) rotate(89.46150598226043 19.10876105813429 40)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(622.5234924281904 822.5560728351276) rotate(89.46150598226043 19.10876105813429 40)">
 			<path d="M-0.5 -0.35 C4.47 1.09, 22.85 1.6, 29.4 8.64 C35.96 15.67, 39.47 31.19, 38.83 41.86 C38.2 52.54, 31.9 66.43, 25.59 72.69 C19.29 78.95, 5.24 78.13, 0.99 79.43 M1.44 -1.57 C6.32 -0.48, 22.54 0.03, 28.69 6.91 C34.85 13.8, 38.97 28.6, 38.39 39.73 C37.81 50.86, 31.61 67.08, 25.22 73.71 C18.83 80.34, 3.98 78.52, 0.03 79.51" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(333.1326569407843 762.8613973253057) rotate(89.46150598226043 40 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(588.8740540399565 762.8613973253057) rotate(89.46150598226043 40 0)">
 			<path d="M-0.58 0.86 C12.87 0.79, 66.74 0.57, 80.28 0.47 M1.31 0.26 C14.67 -0.25, 66.32 -1.65, 79.48 -1.4" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(392.0082028779375 739.0712720292665) rotate(0 186.77200348672193 0.3228892224012725)">
+		<g transform="translate(647.7495999771097 739.0712720292665) rotate(0 186.77200348672193 0.3228892224012725)">
 			<path d="M-0.66 -0.7 C61.4 -0.6, 310.84 0.31, 373.16 0.52 M1.2 1.55 C62.99 1.85, 310.15 1.94, 372.02 2" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(353.26583373264 736.8187620784086) rotate(0 -105.74452231375221 -0.6551934201181666)">
+		<g transform="translate(609.0072308318122 736.8187620784086) rotate(0 -105.74452231375221 -0.6551934201181666)">
 			<path d="M0.2 -1.05 C-35.02 -1.1, -177.35 -1.32, -212.45 -1.43 M-1.15 1.01 C-35.91 1.25, -175.34 0.31, -210.24 0.05" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(757.8067108963784 733.9394946128816) rotate(90.02920172628242 8.15613899409939 -0.3148818896534067)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1013.5481079955506 733.9394946128816) rotate(90.02920172628242 8.15613899409939 -0.3148818896534067)">
 			<path d="M0.01 -0.43 C2.84 -0.43, 14.14 -0.35, 16.76 -0.33 M-1.44 -1.71 C1.29 -2.06, 13.37 -2.17, 16.04 -2.29" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(758.4793761091133 634.0922902677519) rotate(90.02920172628242 25.001600232772105 -1.0589515932315123)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1014.2207732082856 634.0922902677519) rotate(90.02920172628242 25.001600232772105 -1.0589515932315123)">
 			<path d="M-0.43 0.45 C8.01 -0.01, 41.84 -2.3, 50.31 -2.72 M1.54 -0.37 C9.88 -0.67, 41.48 -1.43, 49.52 -1.51" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(720.5634062844185 635.705399072558) rotate(90.02920172628242 23.88163743272748 -0.08019868391886575)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(976.3048033835908 635.705399072558) rotate(90.02920172628242 23.88163743272748 -0.08019868391886575)">
 			<path d="M0.45 0.3 C8.3 0.41, 39.27 0.29, 47.16 0.2 M-0.78 -0.58 C7.47 -0.81, 41.59 -2, 49.55 -1.74" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(754.0147115630068 614.1453479953777) rotate(90.02920172628242 10 40)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1009.756108662179 614.1453479953777) rotate(90.02920172628242 10 40)">
 			<path d="M0.3 -0.61 C3.77 5.98, 20.43 26.52, 20.36 39.99 C20.29 53.46, 3.29 73.59, -0.12 80.2 M-1 1.69 C2.38 8.44, 19.59 28.2, 19.59 41.52 C19.6 54.84, 2.3 75.11, -0.95 81.62" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(744.0739295341843 664.4597258144265) rotate(90.02920172628242 40 20)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(999.8153266333566 664.4597258144265) rotate(90.02920172628242 40 20)">
 			<path d="M-0.61 0.36 C6.24 0.96, 28.04 -2.67, 41.5 3.92 C54.97 10.51, 73.84 34.03, 80.2 39.88 M1.28 -0.5 C7.92 0.27, 27.51 -1.55, 40.55 5.39 C53.59 12.33, 73.01 35.44, 79.53 41.13" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(704.8875331835063 704.6268265913624) rotate(90.02920172628242 40 -20)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(960.6289302826785 704.6268265913624) rotate(90.02920172628242 40 -20)">
 			<path d="M0.36 -0.01 C6.87 -0.72, 26.12 1.87, 39.37 -4.85 C52.63 -11.58, 73.28 -34.37, 79.88 -40.36 M-0.92 -1.06 C5.4 -2.11, 25.03 -0.51, 38.36 -6.87 C51.69 -13.24, 72.33 -33.7, 79.05 -39.23" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(784.9359133061232 609.3661775920693) rotate(0 56.43199573863626 -0.8298839222300103)">
+		<g transform="translate(1040.6773104052954 609.3661775920693) rotate(0 56.43199573863626 -0.8298839222300103)">
 			<path d="M0.28 0.08 C19.05 -0.31, 94.02 -2.32, 112.84 -2.5 M-1.04 -0.92 C17.56 -1.16, 92.94 -1.05, 111.88 -1.4" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(744.2716288601002 607.7064097476093) rotate(0 -58.091791326349494 0)">
+		<g transform="translate(1000.0130259592725 607.7064097476093) rotate(0 -58.091791326349494 0)">
 			<path d="M0.68 -1.19 C-18.76 -1.07, -96.05 -0.4, -115.72 -0.34 M-0.42 0.81 C-20.06 1.18, -97.32 1.15, -116.42 1.01" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(393.8943888346355 610.4337681046547) rotate(0 154.5 37)"><text x="0" y="17.666666666666668" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir werden auf jeden Fall</text><text x="0" y="42.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">das Getränk entweder abkühlen</text><text x="0" y="67" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder aufheizen</text></g>
+	<g transform="translate(649.6357859338077 610.4337681046547) rotate(0 154.5 37)"><text x="0" y="17.666666666666668" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir werden auf jeden Fall</text><text x="0" y="42.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">das Getränk entweder abkühlen</text><text x="0" y="67" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder aufheizen</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(663.2511698404946 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
+		<g transform="translate(918.9925669396669 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
 			<path d="M-0.81 -1.01 C8.88 1.99, 48.02 15.87, 57.73 18.98 M0.97 1.07 C10.63 3.68, 47.99 14.51, 57.35 17.48" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(663.2511698404946 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
+		<g transform="translate(918.9925669396669 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
 			<path d="M26.02 20.97 C37.61 20.24, 43.32 18.2, 56.94 18.44 M27.09 18.17 C38.14 19.1, 47.17 16.97, 58.03 17.74" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(663.2511698404946 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
+		<g transform="translate(918.9925669396669 658.5753249280206) rotate(0 28.319392550314205 8.898597198668654)">
 			<path d="M31.87 1.52 C42.05 5.96, 46.2 9.13, 56.94 18.44 M32.94 -1.28 C42.15 6.37, 49.17 10.92, 58.03 17.74" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(10 823.9676426163735) rotate(0 174 86.5)"><text x="0" y="16.714285714285715" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Der Becher muss </text><text x="0" y="41.42857142857143" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ausgelassen werden, das</text><text x="0" y="66.14285714285714" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem auf Ausgang </text><text x="0" y="90.85714285714286" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gesetzt und das Wasser muss</text><text x="0" y="115.57142857142858" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">vorbereitet sein und entweder muss</text><text x="0" y="140.28571428571428" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">der Kaffee vorbereitet sein, oder</text><text x="0" y="165" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">wir brauchen keinen</text></g>
+	<g transform="translate(265.7413970991722 823.9676426163735) rotate(0 174 86.5)"><text x="0" y="16.714285714285715" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Der Becher muss </text><text x="0" y="41.42857142857143" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ausgelassen werden, das</text><text x="0" y="66.14285714285714" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Leitsystem auf Ausgang </text><text x="0" y="90.85714285714286" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gesetzt und das Wasser muss</text><text x="0" y="115.57142857142858" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">vorbereitet sein und entweder muss</text><text x="0" y="140.28571428571428" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">der Kaffee vorbereitet sein, oder</text><text x="0" y="165" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">wir brauchen keinen</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(261.61346435546875 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
+		<g transform="translate(517.354861454641 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
 			<path d="M0.88 0.39 C14.78 -3.8, 70.02 -20.96, 84.03 -25.33 M-0.12 -0.45 C13.54 -4.47, 68.81 -19.94, 82.92 -24.02" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(261.61346435546875 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
+		<g transform="translate(517.354861454641 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
 			<path d="M59.26 -6.96 C66.43 -11.74, 74.22 -19.31, 83.54 -24.33 M58.7 -6.82 C67.21 -12.58, 77.38 -20.82, 83.85 -24" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(261.61346435546875 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
+		<g transform="translate(517.354861454641 871.483145546061) rotate(0 42.17049239407771 -12.43879955286593)">
 			<path d="M53.65 -26.7 C62.77 -24.58, 72.53 -25.21, 83.54 -24.33 M53.09 -26.56 C63.76 -24.6, 76.11 -25.15, 83.85 -24" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(413.97210693359375 409.44695169840475) rotate(0 13.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">00</text></g>
-	<g transform="translate(342.82564290364553 311.4796360245766) rotate(0 90.5 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir brauchen </text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasser, kein Sirup!</text></g>
+	<g transform="translate(669.713504032766 409.44695169840475) rotate(0 13.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">00</text></g>
+	<g transform="translate(598.5670400028177 311.4796360245766) rotate(0 90.5 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir brauchen </text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasser, kein Sirup!</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(410.83912171588673 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
+		<g transform="translate(666.5805188150589 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
 			<path d="M0.37 -0.39 C1.39 4.88, 4.93 26.55, 5.96 32.3 M-0.9 -1.63 C0.49 3.67, 7.02 27.6, 8.1 33.23" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(410.83912171588673 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
+		<g transform="translate(666.5805188150589 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
 			<path d="M-1.88 17.39 C-0.18 22.35, 5.11 27.74, 8.71 34.34 M-1.71 18.13 C1.88 22.8, 4.45 28.53, 8.59 33.42" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(410.83912171588673 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
+		<g transform="translate(666.5805188150589 364.09786112223287) rotate(0 3.5299938376215323 16.73181724697207)">
 			<path d="M9.5 14.67 C7.93 20.45, 9.94 26.62, 8.71 34.34 M9.67 15.41 C9.57 21.06, 8.44 27.68, 8.59 33.42" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1247.0709228515623 505.0745762101235) rotate(0 2.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
-	<g transform="translate(1383.5025634765623 517.7141636124672) rotate(0 174.5 37)"><text x="0" y="17.666666666666668" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn wir die Kaffeemühle brauchen</text><text x="0" y="42.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">wird der Aufgussschub in jedem Fall</text><text x="0" y="67" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">vor den Ausguss geschoben</text></g>
+	<g transform="translate(1502.8123199507345 505.0745762101235) rotate(0 2.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
+	<g transform="translate(1639.2439605757345 517.7141636124672) rotate(0 174.5 37)"><text x="0" y="17.666666666666668" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn wir die Kaffeemühle brauchen</text><text x="0" y="42.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">wird der Aufgussschub in jedem Fall</text><text x="0" y="67" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">vor den Ausguss geschoben</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(1370.7514648437498 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
+		<g transform="translate(1626.492861942922 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
 			<path d="M-0.5 -1.1 C-17.99 -6.47, -88.38 -26.37, -105.81 -31.54 M1.44 0.94 C-15.59 -4.86, -85.64 -28.14, -103.54 -33.45" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1370.7514648437498 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
+		<g transform="translate(1626.492861942922 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
 			<path d="M-75.39 -36.1 C-79.59 -34.76, -87.25 -33.33, -101.57 -34.51 M-74.32 -33.71 C-82.05 -33.49, -92.62 -34.62, -104.05 -33.5" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1370.7514648437498 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
+		<g transform="translate(1626.492861942922 562.0198887101235) rotate(0 -52.49005126953125 -15.975250244140625)">
 			<path d="M-81.59 -16.54 C-84.51 -19.56, -90.78 -22.51, -101.57 -34.51 M-80.52 -14.15 C-86.42 -19.92, -95.08 -27.05, -104.05 -33.5" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(777.5878872341582 1027.6041443524848) rotate(0 155.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Dekoder über Zucker</text></g>
-	<g transform="translate(1103.0432061089414 1024.694069482693) rotate(0 165 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Dekoder über Eiswürfel</text></g>
-	<g transform="translate(1766.0702853732635 529.7709398711477) rotate(0 256.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Dekoder, ob wir die Kaffeemühle brauchen</text></g>
-	<g transform="translate(605.0463053385436 331.5997057402915) rotate(0 188 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder, ob das Wasser</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gekühlt(0) oder geheizt(1) werden muss</text></g>
+	<g transform="translate(974.4972024883984 989.5397498533587) rotate(0 156 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder über Zucker</text></g>
+	<g transform="translate(1484.6047872130468 999.3979277076628) rotate(0 165.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder über Eiswürfel</text></g>
+	<g transform="translate(2021.8116824724357 529.7709398711477) rotate(0 256.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder, ob wir die Kaffeemühle brauchen</text></g>
+	<g transform="translate(860.7877024377158 331.5997057402915) rotate(0 188 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder, ob das Wasser</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gekühlt(0) oder geheizt(1) werden muss</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(629.9870349614323 428.37383497206315) rotate(0 133.50735982259107 1.1411031087239962)">
+		<g transform="translate(885.7284320606045 428.37383497206315) rotate(0 133.50735982259107 1.1411031087239962)">
 			<path d="M0.17 0.43 C44.66 0.83, 222.97 2.44, 267.52 2.86 M-1.2 -0.39 C43.13 -0.39, 222.15 0.82, 266.83 1.04" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(764.6355233240627 429.895288829485) rotate(0 -0.7607523600261175 -23.202133178710938)">
+		<g transform="translate(1020.3769204232349 429.895288829485) rotate(0 -0.7607523600261175 -23.202133178710938)">
 			<path d="M-0.2 -0.1 C-0.1 -7.95, -0.07 -38.43, -0.38 -46.28 M-1.76 -1.19 C-1.64 -8.91, -0.5 -37.16, -0.73 -44.67" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1143.476770882655 342.4118446156185) rotate(0 329.3942515055338 -1.521453857421875)">
+		<g transform="translate(1399.2181679818273 342.4118446156185) rotate(0 329.3942515055338 -1.521453857421875)">
 			<path d="M0.22 0.08 C109.85 -0.63, 548.33 -3.61, 658 -3.97 M-1.12 -0.93 C108.86 -1.53, 550.58 -2.42, 660.3 -2.92" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1802.2652738937227 339.36893690077477) rotate(0 1.14110310872411 92.42816925048828)">
+		<g transform="translate(2058.006670992895 339.36893690077477) rotate(0 1.14110310872411 92.42816925048828)">
 			<path d="M0.87 0.01 C1.17 31.07, 1.15 154.5, 1.34 185.23 M-0.14 -1.03 C0.57 29.76, 3.35 152.22, 3.55 183.31" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(974.9882379343205 783.57532777594) rotate(179.9677383404354 30 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1230.7296350334927 783.57532777594) rotate(179.9677383404354 30 0)">
 			<path d="M-0.3 0.5 C9.61 0.82, 49.9 1.17, 59.76 1.02 M1.74 -0.28 C11.44 -0.21, 48.78 -0.74, 58.68 -0.57" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1101.0968712588115 805.6001707360762) rotate(179.9677383404354 46.51975689512301 -0.09183016690349177)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1356.8382683579837 805.6001707360762) rotate(179.9677383404354 46.51975689512301 -0.09183016690349177)">
 			<path d="M0.5 -0.24 C16.32 -0.41, 78.7 -1.38, 94.06 -1.3 M-0.69 -1.41 C15.13 -1.45, 78.25 -0.27, 93.64 -0.35" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1101.8495415223988 763.4989240847422) rotate(179.9677383404354 46.703398733428116 -0.09183016690337809)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1357.590938621571 763.4989240847422) rotate(179.9677383404354 46.703398733428116 -0.09183016690337809)">
 			<path d="M-0.24 1.02 C15.19 0.84, 76.61 -0.23, 92.29 -0.57 M-1.83 0.51 C13.99 0.46, 78.56 0.88, 94.41 0.76" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1095.69126018637 743.3095495850031) rotate(179.9677383404354 10 40)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1351.4326572855425 743.3095495850031) rotate(179.9677383404354 10 40)">
 			<path d="M1.02 -1.12 C4.2 5.66, 19.92 26.85, 19.61 40.42 C19.3 53.99, 2.28 73.53, -0.86 80.3 M0.09 0.91 C3.04 7.34, 18.21 25.04, 18.46 38.51 C18.71 51.99, 4.43 75.02, 1.59 81.78" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1035.275177029362 784.8486286492298) rotate(179.9677383404354 40 20)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1291.016574128534 784.8486286492298) rotate(179.9677383404354 40 20)">
 			<path d="M-1.12 -0.39 C5.91 -0.03, 28.36 -3.68, 41.93 3.18 C55.5 10.05, 73.78 34.52, 80.3 40.78 M0.5 -1.64 C7.42 -0.63, 28 -2.47, 41.2 4.27 C54.4 11.02, 73.52 33.12, 79.7 38.84" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1034.0491590865859 784.2602291872089) rotate(179.9677383404354 40 -20)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1289.7905561857583 784.2602291872089) rotate(179.9677383404354 40 -20)">
 			<path d="M-0.39 0.42 C5.88 -0.19, 25.11 1.81, 38.64 -4.75 C52.17 -11.3, 73.76 -32.97, 80.78 -38.92 M1.61 -0.41 C8.17 -1.29, 27.77 0, 40.9 -6.71 C54.04 -13.43, 73.67 -35.21, 80.42 -40.69" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1248.0640697282806 804.3151397740617) rotate(539.7709207102338 15.103182884515547 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1503.805466827453 804.3151397740617) rotate(539.7709207102338 15.103182884515547 0)">
 			<path d="M0 0 C5.03 0, 25.17 0, 30.21 0 M0 0 C5.03 0, 25.17 0, 30.21 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1248.0641904441309 789.27234209104) rotate(539.7709207102338 0 15.103182884515533)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1503.8055875433033 789.27234209104) rotate(539.7709207102338 0 15.103182884515533)">
 			<path d="M0 0 C0 5.03, 0 25.17, 0 30.21 M0 0 C0 5.03, 0 25.17, 0 30.21" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1217.888137991697 804.4358498191241) rotate(539.7709207102338 15.103182884515519 7.551591442257767)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1473.6295350908695 804.4358498191241) rotate(539.7709207102338 15.103182884515519 7.551591442257767)">
 			<path d="M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1 M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1217.6786567186869 804.3981260097551) rotate(539.7709207102338 15.103182884515519 -7.5515914422577595)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1473.4200538178593 804.3981260097551) rotate(539.7709207102338 15.103182884515519 -7.5515914422577595)">
 			<path d="M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1 M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1195.2034119416098 804.5564033208799) rotate(539.7709207102338 7.620937832510663 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1450.9448090407823 804.5564033208799) rotate(539.7709207102338 7.620937832510663 0)">
 			<path d="M0 0 C2.54 0, 12.7 0, 15.24 0 M0 0 C2.54 0, 12.7 0, 15.24 0" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
-	<g stroke-opacity="0.9" fill-opacity="0.9" stroke-linecap="round" transform="translate(1210.7436774797693 801.0335224037678) rotate(539.7709207102338 3.477314756835284 3.477314756835277)">
+	<g stroke-opacity="0.9" fill-opacity="0.9" stroke-linecap="round" transform="translate(1466.4850745789417 801.0335224037678) rotate(539.7709207102338 3.477314756835284 3.477314756835277)">
 		<path d="M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07 M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07" stroke="#000000" stroke-width="2" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1804.5473275232796 556.1758064076087) rotate(0 3.04290771484375 122.8572336832683)">
+		<g transform="translate(2060.288724622452 556.1758064076087) rotate(0 3.04290771484375 122.8572336832683)">
 			<path d="M0.37 0.32 C1.33 41.01, 5.73 203.91, 6.79 244.68 M-0.9 -0.55 C-0.13 40.2, 5.01 204.6, 6.21 245.67" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1810.633142952967 802.6509244089102) rotate(0 -265.8736673990884 0.38035074869799246)">
+		<g transform="translate(2066.3745400521393 802.6509244089102) rotate(0 -265.8736673990884 0.38035074869799246)">
 			<path d="M-0.3 -0.23 C-89.03 0.2, -443.64 1.37, -532.34 1.69 M1.75 -1.4 C-86.58 -1.21, -441.32 -0.16, -529.93 0.05" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(975.3563485193733 784.3935798451096) rotate(0 -280.587706984135 -2.1420676248114887)">
+		<g transform="translate(1231.0977456185456 784.3935798451096) rotate(0 -280.587706984135 -2.1420676248114887)">
 			<path d="M-0.48 -0.03 C-94.19 -0.72, -468.57 -3.21, -561.96 -4.12 M1.47 -1.1 C-91.89 -1.56, -465.84 -1.88, -559.67 -2.49" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(403.36369517179946 792.6794366400094) rotate(89.46150598226043 10.657039405296217 -1.0620341347375017)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(659.1050922709717 792.6794366400094) rotate(89.46150598226043 10.657039405296217 -1.0620341347375017)">
 			<path d="M1.1 -0.37 C4.8 -0.88, 18.34 -1.88, 21.52 -2.28 M0.21 -1.61 C3.84 -2, 16.97 -0.79, 20.68 -0.82" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1204.232606098045 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
+		<g transform="translate(1459.974003197217 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
 			<path d="M-0.58 -0.05 C-14.92 -5.29, -71.36 -25.61, -85.61 -30.81 M1.31 -1.12 C-13.17 -6.2, -71.56 -24.36, -86.24 -29.17" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1204.232606098045 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
+		<g transform="translate(1459.974003197217 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
 			<path d="M-56.35 -29.38 C-65.99 -29.92, -76.7 -28.34, -85.94 -30.11 M-56.83 -29.88 C-67.67 -28.84, -77.96 -28.44, -86.01 -29.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(1204.232606098045 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
+		<g transform="translate(1459.974003197217 855.4362839637581) rotate(0 -43.10311377683189 -15.493337457999587)">
 			<path d="M-62.58 -9.83 C-70.24 -16.88, -78.87 -21.85, -85.94 -30.11 M-63.06 -10.33 C-71.69 -16.32, -79.75 -22.93, -86.01 -29.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1208.9654044232873 854.0034420555714) rotate(0 285 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn wir Kaffee brauchen, muss dieser fertig sein</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung</text></g>
+	<g transform="translate(1464.7068015224595 854.0034420555714) rotate(0 285 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn wir Kaffee brauchen, muss dieser fertig sein</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder wenn wir keinen Kaffee brauchen, ist alles in Ordnung</text></g>
+	<g transform="translate(491.08868299412575 397.7321243162344) rotate(0 2.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(799.0037257821041 177.0527235845875) rotate(0 592.0619419642857 165.62088012695324)">
-			<path d="M-0.21 0.02 C262.16 2.13, 524.82 0.36, 1175.34 -7.48 M-0.14 0.01 C464.58 -1.14, 928.83 -3.93, 1175.39 -7.67 M1176.22 -6.95 C1175.58 90.51, 1177.84 188.2, 1184.69 340.07 M1175.51 -7.73 C1180.38 109.01, 1183.06 225.61, 1183.52 339.29" stroke="#000000" stroke-width="4" fill="none"></path>
-		</g>
-		<g transform="translate(799.0037257821041 177.0527235845875) rotate(0 592.0619419642857 165.62088012695324)">
-			<path d="M1172.45 311.26 C1175.32 317.82, 1178.61 324.03, 1184.39 340.15 M1172.63 311.23 C1177.03 321.98, 1180.57 333.84, 1184.5 339.69" stroke="#000000" stroke-width="4" fill="none"></path>
-		</g>
-		<g transform="translate(799.0037257821041 177.0527235845875) rotate(0 592.0619419642857 165.62088012695324)">
-			<path d="M1192.97 311.06 C1191.26 317.5, 1189.98 323.75, 1184.39 340.15 M1193.15 311.03 C1189.44 321.77, 1184.86 333.71, 1184.5 339.69" stroke="#000000" stroke-width="4" fill="none"></path>
-		</g>
-	</g>
-	<g transform="translate(235.34728589495353 397.7321243162344) rotate(0 2.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
-	<g stroke-linecap="round">
-		<g transform="translate(142.87342221034078 433.77261185444763) rotate(0 88.58818916652524 -0.25799427861750246)">
+		<g transform="translate(398.614819309513 433.77261185444763) rotate(0 88.58818916652524 -0.25799427861750246)">
 			<path d="M-1.17 1.24 C53.72 -3.28, 108.6 -1.45, 178.15 0.47 M-0.62 -0.21 C47.59 -0.33, 94.22 -0.67, 177.4 -0.96" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(236.77083201524533 434.24667441740166) rotate(0 0.396887737771749 -7.73956298828125)">
+		<g transform="translate(492.51222911441755 434.24667441740166) rotate(0 0.396887737771749 -7.73956298828125)">
 			<path d="M-0.03 -0.01 C-1 -6.5, 0.77 -11.65, 1.25 -14.45 M0.23 -0.23 C0.26 -4.93, 0.32 -9.59, 0.13 -16.17" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(291.7868400133775 1266.318592265715) rotate(0 169 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input com Decoder über die Menge</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">an Wasser</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(1080.2839288544073 181.74924106942603) rotate(0 801.6146850585938 -0.570526123046875)">
+			<path d="M-0.67 0.09 C483.87 3.46, 967.74 2.18, 1602.99 -1.09 M-0.25 0.31 C358.59 -4.47, 717.45 -4.54, 1603 -1.31" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(2682.147739075761 185.28576334435024) rotate(0 4.56431070963572 443.50311279296875)">
+			<path d="M0.65 0.51 C7.31 330.26, 10.46 660.67, 9.93 886.25 M0.01 0.1 C6.2 336.28, 9.45 672.07, 9.22 887.02" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(2537.119676467253 541.0905118795101) rotate(0 74.85540771484375 0)">
+			<path d="M-0.09 -1.67 C31.28 -0.13, 67.19 -0.5, 151.37 0.78 M0.08 0.83 C58.17 -0.86, 117.04 -0.83, 149.08 0.86" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1197.6497941044854 959.1853765742046) rotate(0 746.7043304443359 -4.324123984888502)">
+			<path d="M0.31 0.01 C518.1 -5.93, 1036.3 -8.46, 1493.6 -8.84 M-0.15 0.34 C563.72 -9.04, 1126.85 -12.12, 1493.77 -8.95" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1640.248036613224 997.9583675538518) rotate(0 -0.6966729415089503 -20.77981085526335)">
+			<path d="M-1.01 -0.69 C-1.83 -11.85, -1.27 -19.59, -1.25 -39.76 M-0.52 0.46 C-0.98 -14.63, -0.9 -27.01, -1.68 -41.81" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(641.0043799671857 940.0065160604202) rotate(0 -0.7743235996795192 182.41115161350717)">
+			<path d="M-0.44 -0.47 C1.14 128.22, 0.11 255.58, -0.36 364.5 M-0.02 0.24 C-1.73 144.46, -3 288.81, -1.67 364.67" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1205.70037938953 1280.086950747583) rotate(89.48068766879342 30 0)">
+			<path d="M1.06 -0.05 C11.04 -0.09, 48.88 0.65, 58.88 0.81 M0.15 -1.12 C10.58 -0.97, 50.89 -0.91, 61 -0.88" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1215.1666377320257 1128.874566991437) rotate(89.48068766879342 40 0)">
+			<path d="M-0.05 -1.12 C13.25 -1.13, 67.32 0.98, 80.81 1.02 M-1.53 0.9 C11.59 1.1, 66.6 -0.42, 80.29 -0.57" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1174.678602656776 1129.3629505435918) rotate(89.48068766879342 40 0)">
+			<path d="M-1.12 0.81 C12.2 0.97, 67.64 1.15, 81.02 0.9 M0.49 0.19 C13.65 0.03, 67.09 -0.77, 80.61 -0.76" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1234.3549046254734 1129.3950221522769) rotate(89.48068766879342 0 40.000000000000014)">
+			<path d="M0.81 1.02 C0.97 14.4, 1.15 65.78, 0.9 79.14 M-0.22 0.51 C-0.14 14.12, 0.69 67.07, 0.42 80.23" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1254.454255035057 1189.649356388462) rotate(89.48068766879342 20 0)">
+			<path d="M1.02 0.9 C7.73 0.65, 32.45 -0.7, 39.14 -0.69 M0.1 0.32 C7.28 0.14, 34.58 0.69, 41.41 0.48" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1174.2940089983879 1190.2746801710402) rotate(89.48068766879342 20 0)">
+			<path d="M0.9 -0.86 C7.31 -0.83, 32.63 1.08, 39.31 1.2 M-0.09 1.31 C6.64 1.56, 34.86 -0.26, 41.66 -0.3" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1217.2109276996055 1188.163920436846) rotate(89.48068766879342 19.10876105813429 40)">
+			<path d="M-0.86 -0.69 C4 0.63, 23.66 1.99, 30.14 8.83 C36.63 15.67, 38.47 29.7, 38.05 40.36 C37.63 51.02, 33.76 66.22, 27.61 72.82 C21.47 79.42, 5.69 78.85, 1.18 79.96 M0.9 1.56 C5.61 2.48, 23.77 0.61, 29.82 7.2 C35.87 13.79, 37.45 29.98, 37.19 41.1 C36.94 52.22, 34.44 67.37, 28.3 73.91 C22.16 80.45, 5.27 79.01, 0.33 80.33" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1588.8069864482914 1282.2144349318464) rotate(89.69311826767542 30 0)">
+			<path d="M0.47 0.37 C10.36 0.29, 49.49 0.39, 59.47 0.17 M-0.74 -0.48 C8.93 -0.39, 48.17 1.75, 58.25 1.79" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1598.288880483305 1132.9371693885337) rotate(89.69311826767542 40 0)">
+			<path d="M0.37 -0.53 C13.63 -0.55, 67.06 0.42, 80.17 0.34 M-0.89 1.81 C12.16 1.37, 65.59 -1.27, 79.31 -1.61" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1558.5353849179073 1133.9264851147263) rotate(89.69311826767542 40 0)">
+			<path d="M-0.53 0.17 C12.78 -0.06, 67.08 -1.1, 80.34 -0.99 M1.4 -0.79 C14.54 -0.93, 66.24 0.07, 79.56 0.03" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1618.5073634672265 1133.7676115698243) rotate(89.69311826767542 0 40.000000000000014)">
+			<path d="M0.17 0.34 C-0.06 13.59, -1.1 65.7, -0.99 78.99 M-1.2 -0.53 C-1.1 12.88, 0.91 66.33, 1.2 80" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1638.1761835107272 1193.3498422068128) rotate(89.69311826767542 20 0)">
+			<path d="M0.34 -0.99 C6.92 -0.88, 32.37 0.71, 38.99 0.85 M-0.95 1.1 C6.05 0.87, 34.45 -0.82, 41.18 -0.83" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1558.065290763617 1193.293297467677) rotate(89.69311826767542 20 0)">
+			<path d="M-0.99 -1.01 C5.79 -1.04, 34.05 0.04, 40.85 0.11 M0.69 1.08 C7.37 1.23, 33.97 1.81, 40.34 1.71" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1599.600423443184 1191.2424181476276) rotate(89.69311826767542 19.10876105813429 40)">
+			<path d="M-1.01 0.85 C3.78 2.29, 22.61 1.08, 29.06 7.69 C35.5 14.3, 38.07 29.53, 37.66 40.52 C37.25 51.5, 32.76 66.85, 26.61 73.6 C20.46 80.34, 5.21 80.1, 0.77 80.97 M0.67 0.24 C5.28 1.97, 22.18 2.28, 28.17 9.13 C34.16 15.98, 36.84 30.96, 36.6 41.34 C36.37 51.73, 32.92 65.29, 26.77 71.44 C20.61 77.59, 3.93 76.65, -0.3 78.22" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(641.4320304188459 936.566474591725) rotate(0 398.9245910644531 -2.28216552734375)">
+			<path d="M-0.53 -0.18 C207.14 -1.92, 414.82 -3.09, 797.66 -4.88 M-0.16 -0.35 C173.78 -3.57, 346.75 -4.56, 797.57 -4.39" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1437.4554068836896 935.65363279485) rotate(0 0.91290283203125 76.68115234375)">
+			<path d="M-1.95 -0.94 C3.15 39.06, 1.13 80.85, 0.22 154.69 M-0.98 -0.4 C0.76 43.04, 0.58 86.93, 1.27 154.19" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1252.1426627430646 1090.8416821112562) rotate(0 93.11279296875 0.2882834986639864)">
+			<path d="M1.39 -0.27 C70.54 3.05, 137.96 1.09, 184.95 -0.88 M0.12 0.12 C40.59 1.66, 82.14 1.51, 186 0.04" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1437.8398512710264 1093.3400534362984) rotate(0 80.59685636821541 -0.8648103412833734)">
+			<path d="M-1.39 -1.61 C61.9 -0.8, 126.48 -3.24, 162.31 0.02 M-0.97 -0.37 C62.1 0.17, 124.76 -1.12, 160.66 -1.93" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1212.133767672145 1089.2707913834613) rotate(0 -0.9609021638570994 -37.71598414370965)">
+			<path d="M1.94 -1.3 C-0.19 -20.43, -0.74 -42.14, 0.02 -76.68 M-0.51 -0.43 C-0.65 -16.89, 0.42 -34.72, -1.26 -76.33" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1200.1223380360425 960.9883849278679) rotate(0 -0.48045911286953924 14.41375732421875)">
+			<path d="M-0.95 -0.33 C-2.1 8.03, -1.03 20.19, -1.59 29.91 M-0.81 0.2 C-0.12 7.35, -0.24 14.97, -0.21 28.9" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1637.3394882724679 1093.594907337406) rotate(0 0 -34.833229466488774)">
+			<path d="M0.54 -1.44 C0.92 -13.74, 1.5 -28.98, -1.18 -68.35 M0.74 -0.05 C0.51 -16.76, 0.72 -31.94, -0.72 -69.79" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(890.9205627441406 173.53541154693198) rotate(0 -440.4602813720703 2.2821044921875)">
+			<path d="M-0.03 -0.48 C-312.47 1.52, -623.77 3.17, -881 4.26 M0.02 0.08 C-219.58 2.29, -439.15 3.73, -880.86 4.31" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(10 178.09962053130698) rotate(0 8.558197021484375 920.8585739135742)">
+			<path d="M-0.2 0.51 C-1.9 462.56, 2.47 927.12, 17.28 1842 M0.05 0.06 C3.24 536.89, 7.7 1074.03, 16.9 1841.67" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(21.410980224609375 1287.237804125057) rotate(0 132.3662567138672 -2.2821807861328125)">
+			<path d="M1.12 -1.31 C87.93 -0.51, 176.75 -3.17, 266.26 -5.14 M-0.01 0.13 C57.81 -0.74, 116.93 -1.43, 264.7 -4.87" stroke="#000000" stroke-width="4" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1191.016813078476 1667.1384901082652) rotate(88.7111562727702 30 0)">
+			<path d="M0.5 -0.02 C10.41 -0.24, 50.46 -1, 60.19 -1.14 M-0.7 -1.08 C9 -1.2, 49.03 -0.39, 59.34 -0.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1191.266654018246 1523.2412646341058) rotate(88.7111562727702 46.519756895123024 -0.09183016690349177)">
+			<path d="M-0.02 0.19 C15.27 -0.12, 76.53 -1.49, 91.9 -1.35 M-1.49 -0.76 C14.14 -1.01, 77.99 -0.43, 94.01 -0.42" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1207.6582195999747 1526.8111439239894) rotate(88.7111562727702 10 40)">
+			<path d="M-1.14 -1.17 C2.06 5.67, 19.17 27.64, 19.16 41.19 C19.15 54.74, 1.91 73.69, -1.19 80.11 M0.46 0.84 C4.04 7.35, 21.32 26.25, 21.43 39.69 C21.53 53.14, 4.46 74.66, 1.08 81.49" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1199.5030322576126 1576.2455861211001) rotate(88.7111562727702 39.999999999999986 20)">
+			<path d="M-1.17 -0.84 C5.92 -0.18, 29.16 -4.05, 42.71 2.85 C56.25 9.75, 73.94 34.44, 80.11 40.57 M0.42 1.33 C7.44 2.19, 29.22 -2.44, 42.38 3.76 C55.55 9.96, 73.16 32.39, 79.41 38.52" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1158.288090109026 1616.7063604075493) rotate(88.7111562727702 40 -20)">
+			<path d="M-0.84 1.19 C5.73 0.56, 24.73 1.97, 38.3 -4.94 C51.87 -11.85, 73.68 -34.46, 80.57 -40.27 M0.91 0.77 C7.94 0.46, 27.19 3.3, 40.39 -3.34 C53.59 -9.98, 73.55 -33.22, 80.1 -39.09" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1610.1888511339866 1666.747281926128) rotate(88.7111562727702 30 0)">
+			<path d="M0.81 -0.5 C10.79 -0.53, 50.88 -0.19, 60.79 -0.18 M-0.23 -1.8 C9.59 -1.65, 50.28 0.85, 60.25 1.27" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1569.706921085395 1523.6595380619206) rotate(88.7111562727702 46.703398733428116 -0.09183016690337809)">
+			<path d="M0.79 -0.18 C16.26 -0.19, 78.08 -0.61, 93.65 -0.58 M-0.26 -1.31 C15.01 -1.12, 77.14 0.3, 92.83 0.74" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1626.8302576554852 1526.419935741852) rotate(88.7111562727702 10 40)">
+			<path d="M-0.18 0.25 C3.17 6.92, 19.54 27.41, 19.6 40.82 C19.65 54.24, 3.36 74.02, 0.15 80.74 M-1.73 -0.67 C1.47 5.6, 18.24 25.89, 18.44 39.14 C18.64 52.38, 2.41 72.11, -0.54 78.78" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1618.6750703131233 1575.854377938963) rotate(88.7111562727702 40 20)">
+			<path d="M0.25 -0.4 C7.17 0.33, 28.92 -2.6, 42.34 4.19 C55.76 10.98, 74.27 34.2, 80.74 40.33 M-1.08 -1.66 C5.69 -0.7, 28.25 -1.44, 41.83 5.81 C55.4 13.05, 74.27 36.31, 80.36 41.82" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1577.4601281645364 1616.315152225412) rotate(88.7111562727702 40 -20)">
+			<path d="M-0.4 0.82 C6.24 0.07, 26.19 2.3, 39.64 -4.31 C53.1 -10.92, 73.44 -32.99, 80.33 -38.85 M1.59 0.21 C8.1 -0.91, 25.75 0.75, 38.78 -6.05 C51.8 -12.85, 72.58 -34.64, 79.74 -40.59" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1035.314254760744 1021.7654683096291) rotate(0 3.9937973022460938 229.92935180664062)">
+			<path d="M0.22 0.48 C2.15 150.82, 6.18 302.52, 7.4 460.54 M0.31 -0.14 C2.19 153.72, 5.4 308.02, 8.18 459.99" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1192.7845001220721 1479.3419911367776) rotate(0 -74.74132537841797 0.5705642700195312)">
+			<path d="M-0.49 1.03 C-41.07 -1.6, -77.45 -0.71, -150.37 0.85 M-0.2 -0.56 C-52.94 0.29, -105.24 2.45, -149.38 2.11" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1654.9253082275409 1471.35432023834) rotate(0 43.36143493652344 -0.5705642700195312)">
+			<path d="M1.05 1.4 C23.77 0.38, 46.41 -0.28, 87.61 0.27 M-0.79 -0.1 C25.48 1.03, 52.22 -0.3, 87.2 -0.26" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1742.7892303466815 1472.4954487783791) rotate(0 -0.5706024169921875 -224.79446411132812)">
+			<path d="M0.15 -0.75 C-2.55 -150.15, -1.49 -300.63, -1.95 -450.22 M0.31 0.23 C0.96 -143.78, 0.31 -287.88, -1.33 -449.26" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(1751.9181060791034 1572.3989216787697) rotate(0 228 49.5)"><text x="0" y="16.75" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wie oben beim Kaffee müssen wir</text><text x="0" y="41.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">sicher gehen, dass auch dann ein "ready"</text><text x="0" y="66.25" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Signal kommt, wenn kein Zucker/Eis ausgewählt</text><text x="0" y="91" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">wurde</text></g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1179.6197990078056 1501.5358282975237) rotate(448.47073779182455 15.103182884515533 0)">
+			<path d="M0 0 C5.03 0, 25.17 0, 30.21 0 M0 0 C5.03 0, 25.17 0, 30.21 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1195.1260479607884 1501.5304489283408) rotate(448.47073779182455 0 15.103182884515547)">
+			<path d="M0 0 C0 5.03, 0 25.17, 0 30.21 M0 0 C0 5.03, 0 25.17, 0 30.21" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1187.9748329024062 1523.9783108516967) rotate(448.47073779182455 15.103182884515533 7.551591442257745)">
+			<path d="M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1 M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1172.8425776736035 1539.6344762016136) rotate(448.47073779182455 15.103182884515533 -7.551591442257745)">
+			<path d="M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1 M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1188.7124576524618 1561.8577206680181) rotate(448.47073779182455 7.620937832510677 0)">
+			<path d="M0 0 C2.54 0, 12.7 0, 15.24 0 M0 0 C2.54 0, 12.7 0, 15.24 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-opacity="0.9" fill-opacity="0.9" stroke-linecap="round" transform="translate(1192.5519304955699 1546.987731583849) rotate(448.47073779182455 3.477314756835284 3.4773147568352556)">
+		<path d="M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07 M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07" stroke="#000000" stroke-width="2" fill="none"></path>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1641.9619707595475 1494.5763754512548) rotate(448.47073779182455 15.103182884515547 0)">
+			<path d="M0 0 C5.03 0, 25.17 0, 30.21 0 M0 0 C5.03 0, 25.17 0, 30.21 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1657.46821971253 1494.5709960820718) rotate(448.47073779182455 0 15.103182884515547)">
+			<path d="M0 0 C0 5.03, 0 25.17, 0 30.21 M0 0 C0 5.03, 0 25.17, 0 30.21" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1650.317004654148 1517.018858005428) rotate(448.47073779182455 15.103182884515547 7.551591442257745)">
+			<path d="M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1 M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1635.1847494253452 1532.6750233553446) rotate(448.47073779182455 15.103182884515547 -7.551591442257745)">
+			<path d="M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1 M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1651.0546294042035 1554.8982678217492) rotate(448.47073779182455 7.620937832510663 0)">
+			<path d="M0 0 C2.54 0, 12.7 0, 15.24 0 M0 0 C2.54 0, 12.7 0, 15.24 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-opacity="0.9" fill-opacity="0.9" stroke-linecap="round" transform="translate(1654.8941022473118 1540.0282787375797) rotate(448.47073779182455 3.4773147568352556 3.4773147568352556)">
+		<path d="M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07 M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07" stroke="#000000" stroke-width="2" fill="none"></path>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1033.0445873940741 1888.644283932998) rotate(89.52358787524558 30 0)">
+			<path d="M-1.15 -0.75 C8.61 -1.11, 48.8 -1.48, 58.93 -1.2 M0.45 1.47 C10.53 1.13, 51.38 0.1, 61.08 -0.29" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1061.5440919016942 1750.3303678383334) rotate(89.52358787524558 26.767649871867473 -0.5664656771107275)">
+			<path d="M-0.75 -1.07 C7.81 -1.13, 43.13 -1.4, 52.34 -1.5 M1.06 0.98 C9.89 1.2, 45.56 0.11, 54.42 -0.16" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1022.772735496364 1739.2522899320734) rotate(89.52358787524558 40 0)">
+			<path d="M-1.07 -1.2 C12.39 -0.92, 66.21 0.61, 79.63 0.95 M0.57 0.78 C13.94 0.81, 65.52 -0.37, 78.49 -0.67" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1062.755952250497 1739.091346395084) rotate(89.52358787524558 0 40)">
+			<path d="M-1.2 -0.37 C-0.92 13.05, 0.61 65.93, 0.95 79.46 M0.37 -1.61 C0.65 12.07, 0.48 67.29, 0.51 80.71" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1082.6591935647573 1797.8384802101486) rotate(89.52358787524558 20 0)">
+			<path d="M-0.37 0.95 C6.39 1.3, 32.59 0.85, 39.46 0.87 M1.64 0.41 C8.28 0.53, 31.75 -0.61, 38.22 -0.8" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1001.4750559699112 1799.087999463246) rotate(89.52358787524558 20 0)">
+			<path d="M0.95 -0.54 C7.97 -0.35, 34.18 0.71, 40.87 0.81 M0 1.79 C7.03 1.68, 33.57 -0.82, 40.38 -0.89" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1044.1306444086638 1797.2687359857266) rotate(89.52358787524558 19.10876105813429 40)">
+			<path d="M-0.54 0.87 C4.48 2.2, 23.29 2.01, 29.76 8.95 C36.22 15.89, 38.91 31.65, 38.25 42.5 C37.59 53.34, 32.17 67.83, 25.81 74.01 C19.45 80.19, 4.28 78.45, 0.11 79.59 M1.37 0.28 C6.34 1.22, 23.21 0.65, 29.24 7.39 C35.26 14.12, 38.12 29.92, 37.51 40.7 C36.89 51.48, 32.02 65.56, 25.55 72.07 C19.08 78.58, 3.14 78.39, -1.31 79.76" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1003.2326909077574 1751.2122872785717) rotate(89.52358787524558 26.767649871867476 -0.5664656771107275)">
+			<path d="M0.11 1.13 C8.94 0.71, 43.87 -1.29, 52.72 -1.59 M-1.3 0.68 C7.94 0.35, 46.08 0.29, 55.01 -0.3" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1223.2454579671248 1697.1049280467735) rotate(0 -81.70196533203125 1.369293212890625)">
+			<path d="M0.03 -0.11 C-44.66 2.85, -84.14 1.58, -165.02 1.8 M-0.22 0.73 C-59.57 2.19, -118.85 2.93, -164.31 1.75" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1089.9662831624373 1725.4039392772422) rotate(0 275.6869812011719 0)">
+			<path d="M0.1 0.58 C114.24 -2.03, 229.52 -1.16, 550.69 -0.1 M-0.34 0.24 C150.19 0.67, 300.18 0.27, 551.15 -0.25" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1641.340245564781 1725.4039392772422) rotate(0 -0.4564208984375 -15.518829345703125)">
+			<path d="M1.07 0.33 C-1.02 -11.23, 0.66 -22.24, -1.02 -32.32 M0.49 0 C-0.55 -11.63, -0.76 -22.82, -1.54 -31.12" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1027.8910878499373 1725.4039392772422) rotate(0 -220.00189208984375 2.73858642578125)">
+			<path d="M-0.13 -0.42 C-137.05 1.3, -274.73 3.34, -439.2 4.76 M0.07 0.46 C-160.6 2.37, -321.38 4.82, -439.8 5.3" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(587.8873036702498 1730.8811121288047) rotate(0 -0.4564361572265625 -113.65240478515625)">
+			<path d="M-0.56 0.32 C-1.55 -63.43, -3.24 -130.6, -2.25 -227.48 M-0.49 -0.25 C0.42 -84.63, 0.69 -169.29, -0.68 -226.45" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1741.544133504236 1602.3253059446565) rotate(0 -29.097824096679688 -5.994138228726683)">
+			<path d="M-1.37 1 C-11.19 -3.36, -24.28 -4.24, -57.86 -12.23 M0.88 0.41 C-15.72 -2.58, -29.1 -5.06, -58.19 -12.46" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1741.544133504236 1602.3253059446565) rotate(0 -29.097824096679688 -5.994138228726683)">
+			<path d="M-30.03 -14.71 C-33.49 -15.68, -40.18 -13.15, -57.85 -12.7 M-27.78 -15.3 C-37.02 -14.62, -43 -13.17, -58.18 -12.93" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1741.544133504236 1602.3253059446565) rotate(0 -29.097824096679688 -5.994138228726683)">
+			<path d="M-34.85 5.03 C-37.15 -0.36, -42.76 -2.25, -57.85 -12.7 M-32.59 4.44 C-40.53 -0.02, -45.26 -3.67, -58.18 -12.93" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(1181.5547383626345 1867.4188471141563) rotate(0 225.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Für Wasser und Tee sind wir hier schon fertig</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(1169.8586476643923 1882.023126662807) rotate(0 -48.49628448486328 0.21625469588951773)">
+			<path d="M-0.51 1.67 C-19.85 -1.06, -42.3 -0.25, -97.53 2.15 M0.81 -0.6 C-26.8 -0.38, -52.46 0.94, -97.79 0.01" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1169.8586476643923 1882.023126662807) rotate(0 -48.49628448486328 0.21625469588951773)">
+			<path d="M-70.02 -8.33 C-74.52 -9.26, -82.06 -6.37, -98.33 1.72 M-68.69 -10.6 C-77.74 -7.88, -84.89 -3.98, -98.59 -0.42" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1169.8586476643923 1882.023126662807) rotate(0 -48.49628448486328 0.21625469588951773)">
+			<path d="M-70.2 12.19 C-74.53 6.81, -82.04 5.25, -98.33 1.72 M-68.88 9.92 C-78 7.11, -85.1 5.48, -98.59 -0.42" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(1338.8440297444704 2061.540108710841) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1207.2480936181614 2108.498764708699) rotate(88.87307217759093 30 0)">
+			<path d="M1.15 -0.23 C11.3 -0.28, 51.25 0.61, 61.05 0.45 M0.29 -1.39 C10.36 -1.87, 50.84 -1.59, 60.66 -1.44" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1214.2231705984057 1955.4193211580466) rotate(88.87307217759093 40 0)">
+			<path d="M-0.23 1.05 C13.06 0.86, 67.27 0.09, 80.45 -0.01 M-1.8 0.56 C11.3 1.08, 65.92 1.89, 79.74 1.52" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1174.6563493996543 1958.077809013366) rotate(88.87307217759093 40 0)">
+			<path d="M1.05 0.45 C14.19 0.3, 66.76 -1.21, 79.99 -1.16 M0.14 -0.36 C13.02 -0.39, 65.74 -0.1, 79.03 -0.23" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1235.58286325859 1957.4776042683327) rotate(88.87307217759093 0 40)">
+			<path d="M0.45 -0.01 C0.3 13.21, -1.21 67.22, -1.16 80.41 M-0.77 -1.07 C-0.56 12.31, 0.75 65, 0.94 78.5" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1256.215662775866 2016.0928414361865) rotate(88.87307217759093 20 0)">
+			<path d="M-0.01 -1.16 C6.55 -1.11, 33.89 0.6, 40.41 0.77 M-1.48 0.85 C4.86 0.52, 32.51 -0.99, 39.68 -0.96" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1175.9801544325062 2018.0822949111946) rotate(88.87307217759093 20 0)">
+			<path d="M-1.16 0.41 C5.56 0.27, 33.93 -0.95, 40.77 -0.89 M0.43 -0.42 C7.02 -0.44, 33.79 0.31, 40.22 0.19" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1216.7141556054112 2015.7765893198616) rotate(88.87307217759093 19.10876105813429 40)">
+			<path d="M0.41 0.77 C5.09 2.24, 21.63 0.75, 28.06 7.72 C34.49 14.68, 39.15 31.86, 39 42.54 C38.85 53.22, 33.8 65.38, 27.15 71.78 C20.5 78.18, 3.83 79.44, -0.89 80.96 M-0.83 0.12 C4.22 1.89, 23.73 2.39, 30.31 9.17 C36.89 15.94, 39.1 30.23, 38.64 40.76 C38.19 51.29, 33.9 66.09, 27.59 72.33 C21.29 78.57, 5.49 76.85, 0.83 78.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1213.8486073811891 1920.5817957225602) rotate(0 -75.31185150146484 0)">
+			<path d="M-0.37 1.68 C-57.01 -1.59, -113.24 -2.79, -148.8 1.03 M1 0.75 C-37.76 -0.78, -74.21 -0.64, -151.26 0.71" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1252.6456044515016 1917.8106361417842) rotate(0 519.9288831438334 -0.1630401611328125)">
+			<path d="M0.49 0.45 C244.2 0.6, 486.79 -0.86, 1039.67 -1.02 M0.37 0.07 C322.77 -1.48, 645.47 -1.12, 1039.8 -0.58" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(2275.818272908533 559.956276923732) rotate(0 7.23773193359375 679.76276070731)">
+			<path d="M0.2 -0.58 C2.03 290.54, 5.35 580.14, 15.23 1359.08 M0.07 -0.33 C-0.42 383.75, 3.94 766.91, 14.62 1359.92" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(1444.075074497261 2158.558105230516) rotate(0 205 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Aufgussschub wieder reinschieben, wenn wir</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ein "Kaffee"-Getränk hatten</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(1438.4801851743432 2194.4501747292134) rotate(0 -27.386118570963845 -0.7607014973964397)">
+			<path d="M-1.01 0.75 C-12.7 1.08, -24.96 0.4, -53.72 -0.66 M0.87 0.91 C-19.95 -1.83, -39.47 -2.2, -54.79 -0.79" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1438.4801851743432 2194.4501747292134) rotate(0 -27.386118570963845 -0.7607014973964397)">
+			<path d="M-30.57 -10.73 C-35.07 -7.26, -40.21 -5, -53.73 0.07 M-28.69 -10.57 C-38.67 -8.62, -47.42 -4.52, -54.8 -0.06" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(1438.4801851743432 2194.4501747292134) rotate(0 -27.386118570963845 -0.7607014973964397)">
+			<path d="M-29.6 7.99 C-34.43 6.93, -39.8 4.68, -53.73 0.07 M-27.72 8.15 C-38.15 3.27, -47.25 0.53, -54.8 -0.06" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(144.81415719699544 1996.5449368955608) rotate(0 218 24.5)"><text x="0" y="17.5" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Input vom Decoder ob wir ein Sirup brauchen</text><text x="0" y="42" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">und welchen</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(23.383035370823563 2021.6609189512249) rotate(0 58.19549560546875 -0.570526123046875)">
+			<path d="M0.9 -0.71 C34 2.16, 73.82 0.68, 114.49 0.36 M-0.89 0.4 C40 -1.19, 80.19 -1.44, 116.9 -1.11" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(905.4444977731673 2079.8564908506387) rotate(0 0.44381035698825144 -19.018168979220718)">
+			<path d="M-1.34 1.72 C2.29 -13.28, 2.06 -29.28, 0.77 -36.63 M-0.58 0.6 C0.09 -13.76, 0.87 -26.72, 1.82 -37.69" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(905.3177820071105 2041.8201528921993) rotate(0 -321.47003597683397 -4.057176378039003)">
+			<path d="M-0.03 -0.46 C-201.38 -4.53, -403.23 -6.94, -643.43 -8.36 M0.37 -0.24 C-133.06 -3.94, -265.72 -5.91, -643.01 -7.75" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(349.97374717638195 2016.0543481775724) rotate(0 -1.0143025716142802 28.400438096788093)">
+			<path d="M-1.08 -0.03 C0.49 22.06, -2.11 41.38, -1.31 58.61 M0.65 -0.71 C-0.25 20.84, -0.98 40.4, -1.1 56.89" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(329.6876957440909 1901.4383271272245) rotate(0 225.17479790581547 3.5500420464413764)">
+			<path d="M0.73 -0.07 C141.72 4.09, 283.88 6.53, 450.5 6.16 M-0.33 -0.42 C96.6 1.54, 193.9 3.12, 450.65 6.79" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(767.0320279092572 2099.350661603843) rotate(91.01914183007686 30 0)">
+			<path d="M-0.44 0.79 C9.37 0.9, 48.9 -0.2, 59.1 -0.53 M1.52 0.16 C11.69 0.54, 51.54 0.84, 61.34 0.74" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(780.5597498599377 1948.9049504059333) rotate(91.01914183007686 40 0)">
+			<path d="M0.79 -0.9 C14.24 -0.7, 66.47 0.44, 79.47 0.74 M-0.25 1.24 C13.09 1.14, 64.69 -0.62, 78.25 -1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(740.0548027655935 1948.2982052112998) rotate(91.01914183007686 40 0)">
+			<path d="M-0.9 -0.53 C12.63 -0.85, 67.11 -1.12, 80.74 -1.17 M0.83 1.81 C14.31 1.52, 66.89 0.04, 80.17 -0.25" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(798.9935622939669 1948.692261284188) rotate(91.01914183007686 0 40)">
+			<path d="M-0.53 0.74 C-0.85 14.36, -1.12 67.71, -1.17 80.86 M1.4 0.08 C1.35 13.45, 0.89 65.74, 0.93 79.19" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(819.1192594932352 2010.1982254365114) rotate(91.01914183007686 20 0)">
+			<path d="M0.74 -1.17 C7.7 -1.22, 34.38 -1.21, 40.86 -0.82 M-0.34 0.83 C6.62 0.96, 33.86 0.52, 40.36 0.29" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(738.7506949991193 2008.1497804703795) rotate(91.01914183007686 20 0)">
+			<path d="M-1.17 0.86 C5.45 0.68, 32.12 -0.32, 39.18 -0.37 M0.42 0.27 C7.46 0.19, 34.69 1.26, 41.46 0.98" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(780.1743830536661 2009.1592135545288) rotate(91.01914183007686 19.10876105813429 40)">
+			<path d="M0.86 -0.82 C5.5 0.88, 22.26 1.98, 28.58 9.05 C34.91 16.13, 39 31.03, 38.82 41.63 C38.65 52.22, 34.05 66.36, 27.51 72.61 C20.98 78.85, 4.35 78.01, -0.38 79.07 M-0.15 1.36 C4.24 2.87, 21.02 0.6, 27.44 7.55 C33.86 14.49, 38.26 32.02, 38.38 43.03 C38.49 54.04, 34.27 67.6, 28.15 73.59 C22.02 79.58, 6.29 77.73, 1.61 78.98" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 </svg>
