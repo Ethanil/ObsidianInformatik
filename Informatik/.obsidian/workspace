@@ -4,15 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "caeb0ad904e8a155",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DT-Projekt2.md",
-            "mode": "preview"
+        "id": "315167e73f045d1b",
+        "type": "split",
+        "children": [
+          {
+            "id": "caeb0ad904e8a155",
+            "type": "leaf",
+            "dimension": 36.40202702702703,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT-Projekt2.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "b48cce067ce1beee",
+            "type": "leaf",
+            "dimension": 63.59797297297297,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DT-Projekt2_07.01.2022 18-11-37.excalidraw.md"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -70,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2.md",
+                "file": "DT-Projekt2_07.01.2022 18-11-37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +139,9 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "caeb0ad904e8a155",
+  "active": "b48cce067ce1beee",
   "lastOpenFiles": [
+    "DT-Projekt2_07.01.2022 18-11-37.excalidraw.md",
     "DT-Projekt2.md",
     "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
     "DT-Projekt1.md",
@@ -130,7 +150,6 @@
     "DT-Projekt2_07.01.2022 12-57-03.excalidraw.md",
     "DT-Projekt2_07.01.2022 12-30-51.excalidraw.md",
     "DT-Projekt2_07.01.2022 12-03-32.excalidraw.md",
-    "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
-    "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md"
+    "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md"
   ]
 }

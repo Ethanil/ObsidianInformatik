@@ -111,6 +111,7 @@ Das heißt:
 $O=s_2s_1\overline{s_0}$
 
 ![[DT-Projekt2_06.01.2022 14-40-55.excalidraw.md]]
+![[DT-Projekt2_07.01.2022 18-11-37.excalidraw.md]]
 
 
 #### b) 
