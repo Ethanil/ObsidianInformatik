@@ -292,8 +292,10 @@ Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszei
 
 **Tabelle 2**: Liste der einzelnen Komponenten des Getränkeautomaten.
 
+Zuerst können wir uns der Übersichtshalber alle Bauteile in der richtigen Ebene darstellen um eine Parallelität zu gewährleisten.
 ![[DT-Projekt2_07.01.2022 14-18-52.excalidraw.md|700]]
-
+Danach können wir erste Logik implementieren:
+![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md]]
 ## Zentrale Kontrolleinheit (9 PP)  
 In dieser Aufgabe entwerfen Sie die zentrale Kontrolleinheit für das System. Diese ist am Bus mittels der Eingänge $X_0, X_1$ und Ausgänge $Y_0, \dotso , Y_{n−1}$ angeschlossen. Von der zentralen Kontrolleinheit erhält der Bus für jede Komponente, an die er angeschlossen ist, bis zu zwei weitere Steuersignale, die nicht auf dem Schaltplan im Prolog eingezeichnet sind und angeben, ob die jeweilige Komponente senden oder empfangen soll (oder nichts von beidem, wenn beide Signale aus sind). Benennen Sie diese Ausgänge $C_{in}, C_{out}$ für die Kontrolleinheit, $A_{in}$ für das Display, $S_{in}, S_{out}$ für die Schiebetür,  
 $L_{in}, L_{out}$ für die Lichtschranke, und $G_{in}$ für den Getränkeautomaten. Hierbei wird das in-Signal der jeweiligen Komponente auf eine logische 1 gesetzt, wenn die Komponente Daten vom Bus empfangen soll und das out-Signal, wenn die Komponente Daten senden soll.  
