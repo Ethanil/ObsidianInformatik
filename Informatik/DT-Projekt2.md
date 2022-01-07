@@ -84,6 +84,10 @@ Damit generiert Espresso:
 .e
 ```
 Daraus erhalten wir:
+$S'_2=s_2s_1+s_2s_0\overline{S}+s_2\overline{s_1}\overline{s_0}\overline{S}$
+$S'_1=s_2s_1+s_2s_0\overline{S}+\overline{s_2}s_0S+\overline{s_2}s_1S$
+$S'_0=\overline{s_2}s_1S+s_2\overline{s_1}\overline{s_0}\overline{S}+$
+
 $S'_2=s_0s_1+s_0s_2\overline{S}+s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}$
 $S'_1=s_0s_1+s_0s_2\overline{S}+\overline{s_0}s_2S+\overline{s_0}s_1S$
 $S'_0=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overline{s_1}S+\overline{s_1}\overline{s_2}S$
