@@ -63,12 +63,18 @@ least significant bit ^zz1MaFIq
 
 einer der vor dem und negierten Drähte ^X9aJn6op
 
-ein und zum "überschreiben" der zu addierenden Werte, wenn unsere
-gespeicherte Zahl gleich 0 oder 511 ist, addieren wir 0, also machen nichts ^deRGhVls
-
 S ^1ydkELLU
 
 C ^Jfmv8Xor
+
+E ^wFidrsMB
+
+Emergency überschreibt mit einem und das Signal 
+von unserer-Vergleich Logik, damit der Motor 
+sich sofort aufhört zu bewegen ^trVfR7Aw
+
+Das Signal von C können wir mit einem 
+oder in unsere Logik einarbeiten ^r9smJ5bw
 
 %%
 # Drawing
@@ -2901,8 +2907,8 @@ C ^Jfmv8Xor
 		},
 		{
 			"type": "line",
-			"version": 480,
-			"versionNonce": 730006090,
+			"version": 498,
+			"versionNonce": 477873098,
 			"isDeleted": false,
 			"id": "-SacUKDAhhrS0ebAO3ZrB",
 			"fillStyle": "hachure",
@@ -2915,7 +2921,7 @@ C ^Jfmv8Xor
 			"y": -904.2718389046734,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 307.20645480685755,
+			"width": 272.51736789279505,
 			"height": 1.9018215603298358,
 			"seed": 1949569738,
 			"groupIds": [],
@@ -2932,7 +2938,7 @@ C ^Jfmv8Xor
 					0
 				],
 				[
-					307.20645480685755,
+					272.51736789279505,
 					-1.9018215603298358
 				]
 			]
@@ -3616,80 +3622,6 @@ C ^Jfmv8Xor
 			]
 		},
 		{
-			"type": "arrow",
-			"version": 85,
-			"versionNonce": 1941867978,
-			"isDeleted": false,
-			"id": "bdXrZeQ16e8IK_zJL1XQ6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -382.9278060154311,
-			"y": 341.2224295594747,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 182.57423400878906,
-			"height": 58.19557189941409,
-			"seed": 1953300042,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": {
-				"focus": -0.7660002191229629,
-				"gap": 18.257904052734375,
-				"elementId": "_zEkY365F1JW7UJZEmFr4"
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-182.57423400878906,
-					-58.19557189941409
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 222,
-			"versionNonce": 395414486,
-			"isDeleted": false,
-			"id": "deRGhVls",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -364.6699019626967,
-			"y": 315.7303946473653,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 1315,
-			"height": 91,
-			"seed": 329278294,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [
-				"bdXrZeQ16e8IK_zJL1XQ6"
-			],
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "ein und zum \"überschreiben\" der zu addierenden Werte, wenn unsere\ngespeicherte Zahl gleich 0 oder 511 ist, addieren wir 0, also machen nichts",
-			"rawText": "ein und zum \"überschreiben\" der zu addierenden Werte, wenn unsere\ngespeicherte Zahl gleich 0 oder 511 ist, addieren wir 0, also machen nichts",
-			"baseline": 78,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
 			"type": "line",
 			"version": 19,
 			"versionNonce": 217990282,
@@ -3834,27 +3766,32 @@ C ^Jfmv8Xor
 			"verticalAlign": "top"
 		},
 		{
-			"id": "PW7xuv-u3UyPfw3_tFanl",
 			"type": "line",
-			"x": -608.2583330548002,
-			"y": -30.918094695559972,
-			"width": 3.4232330322265625,
-			"height": 195.12603759765625,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 74,
+			"versionNonce": 384444938,
+			"isDeleted": false,
+			"id": "PW7xuv-u3UyPfw3_tFanl",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -608.2583330548002,
+			"y": -30.918094695559972,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 3.4232330322265625,
+			"height": 195.12603759765625,
+			"seed": 1826961610,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1826961610,
-			"version": 74,
-			"versionNonce": 384444938,
-			"isDeleted": false,
-			"boundElementIds": null,
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -3864,42 +3801,37 @@ C ^Jfmv8Xor
 					-3.4232330322265625,
 					195.12603759765625
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "Jfmv8Xor",
 			"type": "text",
-			"x": -437.5706041729642,
-			"y": -437.08769613598975,
-			"width": 23,
-			"height": 46,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 545,
+			"versionNonce": 916325450,
+			"isDeleted": false,
+			"id": "Jfmv8Xor",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -437.5706041729642,
+			"y": -437.08769613598975,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 46,
+			"seed": 1698109078,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1698109078,
-			"version": 545,
-			"versionNonce": 916325450,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"text": "C",
-			"rawText": "C",
+			"boundElementIds": [],
 			"fontSize": 36,
 			"fontFamily": 1,
+			"text": "C",
+			"rawText": "C",
+			"baseline": 32,
 			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 32
+			"verticalAlign": "top"
 		},
 		{
 			"type": "line",
@@ -4154,27 +4086,32 @@ C ^Jfmv8Xor
 			]
 		},
 		{
-			"id": "MzV3myNqGh92kYr1ZJBOA",
 			"type": "line",
-			"x": -444.22201374599047,
-			"y": -415.661146860273,
-			"width": 168.881072998047,
-			"height": 2.282257080078125,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 288,
+			"versionNonce": 2125559062,
+			"isDeleted": false,
+			"id": "MzV3myNqGh92kYr1ZJBOA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -444.22201374599047,
+			"y": -415.661146860273,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 168.881072998047,
+			"height": 2.282257080078125,
+			"seed": 1684460374,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1684460374,
-			"version": 288,
-			"versionNonce": 2125559062,
-			"isDeleted": false,
-			"boundElementIds": null,
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -4184,12 +4121,7 @@ C ^Jfmv8Xor
 					-168.881072998047,
 					2.282257080078125
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "line",
@@ -4442,6 +4374,403 @@ C ^Jfmv8Xor
 					80
 				]
 			]
+		},
+		{
+			"type": "line",
+			"version": 1996,
+			"versionNonce": 2041930762,
+			"isDeleted": false,
+			"id": "2A49m4E4BCQcscFg0J6PG",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -537.0214758845129,
+			"y": -243.16455728567323,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 0,
+			"seed": 5016202,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1994,
+			"versionNonce": 835336598,
+			"isDeleted": false,
+			"id": "7gKQWxrk7Pp5NU3cLRv2a",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -537.0213551686627,
+			"y": -258.207354968695,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 30.206365769031063,
+			"seed": 1618918166,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					30.206365769031063
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2077,
+			"versionNonce": 1379947210,
+			"isDeleted": false,
+			"id": "EkuuWSS1Z5DOf4u0GpbvB",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -567.1974076210965,
+			"y": -243.0438472406108,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 2016323914,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1993,
+			"versionNonce": 783980246,
+			"isDeleted": false,
+			"id": "yT9ot27T_ILfdfgc-8gvr",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -567.4068888941067,
+			"y": -243.08157104997983,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.206365769031063,
+			"height": 15.103182884515531,
+			"seed": 1717758038,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					30.206365769031063,
+					-15.103182884515531
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 2060,
+			"versionNonce": 553609610,
+			"isDeleted": false,
+			"id": "A_Q6jtFHG6dX5GwJ5oaIT",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -589.8821336711837,
+			"y": -242.923293738855,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15.241875665021348,
+			"height": 0,
+			"seed": 1407119370,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					15.241875665021348,
+					0
+				]
+			]
+		},
+		{
+			"type": "ellipse",
+			"version": 1938,
+			"versionNonce": 2968598,
+			"isDeleted": false,
+			"id": "12uFo4Nf7TWAIvBHbhVdn",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 90,
+			"angle": 9.420779772914829,
+			"x": -574.3418681330243,
+			"y": -246.44617465596704,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.954629513670557,
+			"height": 6.954629513670557,
+			"seed": 298806678,
+			"groupIds": [
+				"oIfwXgeqYAmApXhwaabiJ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": []
+		},
+		{
+			"type": "text",
+			"version": 38,
+			"versionNonce": 1022260438,
+			"isDeleted": false,
+			"id": "wFidrsMB",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -492.9564723060258,
+			"y": -265.72358873155326,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25,
+			"height": 46,
+			"seed": 1372438166,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "E",
+			"rawText": "E",
+			"baseline": 32,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "arrow",
+			"version": 21,
+			"versionNonce": 1979222858,
+			"isDeleted": false,
+			"id": "u9VF70nCN_aVmxHfVIw0b",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -368.6819076538086,
+			"y": -98.1795781453452,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 195.3543701171875,
+			"height": 32.86328125,
+			"seed": 749461450,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-195.3543701171875,
+					-32.86328125
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 129,
+			"versionNonce": 2068694922,
+			"isDeleted": false,
+			"id": "trVfR7Aw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -295.7107162475586,
+			"y": -108.4244511922202,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 864,
+			"height": 137,
+			"seed": 691334038,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Emergency überschreibt mit einem und das Signal \nvon unserer-Vergleich Logik, damit der Motor \nsich sofort aufhört zu bewegen",
+			"rawText": "Emergency überschreibt mit einem und das Signal \nvon unserer-Vergleich Logik, damit der Motor \nsich sofort aufhört zu bewegen",
+			"baseline": 123,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "arrow",
+			"version": 46,
+			"versionNonce": 335644374,
+			"isDeleted": false,
+			"id": "tYa7Kw8IacLNP5xX22ahd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -260.9630355834961,
+			"y": -327.8680539919752,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 321.33056640625,
+			"height": 21.553954362255013,
+			"seed": 1509967434,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": {
+				"elementId": "r9smJ5bw",
+				"focus": 0.426189673563372,
+				"gap": 13.0028076171875
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-321.33056640625,
+					21.553954362255013
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 120,
+			"versionNonce": 1541563082,
+			"isDeleted": false,
+			"id": "r9smJ5bw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -247.9602279663086,
+			"y": -367.9928105672202,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 683,
+			"height": 91,
+			"seed": 2039603734,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [
+				"tYa7Kw8IacLNP5xX22ahd"
+			],
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Das Signal von C können wir mit einem \noder in unsere Logik einarbeiten",
+			"rawText": "Das Signal von C können wir mit einem \noder in unsere Logik einarbeiten",
+			"baseline": 78,
+			"textAlign": "left",
+			"verticalAlign": "top"
 		}
 	],
 	"appState": {
@@ -4470,7 +4799,7 @@ C ^Jfmv8Xor
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2208.4919374076144 1921.1872777897563" width="2208.4919374076144" height="1921.1872777897563" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1826.4511231227525 1921.1872777897563" width="1826.4511231227525" height="1921.1872777897563" filter="invert(93%) hue-rotate(180deg)">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -4783,8 +5112,8 @@ C ^Jfmv8Xor
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(388.99414766413247 296.9092226790069) rotate(0 153.60322740342878 -0.9509107801649179)">
-			<path d="M0 0 C51.2 -0.32, 256.01 -1.58, 307.21 -1.9 M0 0 C51.2 -0.32, 256.01 -1.58, 307.21 -1.9" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(388.99414766413247 296.9092226790069) rotate(0 136.25868394639753 -0.9509107801649179)">
+			<path d="M0 0 C45.42 -0.32, 227.1 -1.58, 272.52 -1.9 M0 0 C45.42 -0.32, 227.1 -1.58, 272.52 -1.9" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -4860,18 +5189,6 @@ C ^Jfmv8Xor
 			<path d="M-18.85 4.81 C-24.96 2.14, -31.08 -0.52, -34.86 -2.17 M-18.85 4.81 C-23.15 2.93, -27.45 1.06, -34.86 -2.17" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g stroke-linecap="round">
-		<g transform="translate(865.23403335488 1542.403491143155) rotate(0 -91.28711700439453 -29.09778594970703)">
-			<path d="M0 0 C-30.43 -9.7, -152.15 -48.5, -182.57 -58.2 M0 0 C-30.43 -9.7, -152.15 -48.5, -182.57 -58.2" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-		<g transform="translate(865.23403335488 1542.403491143155) rotate(0 -91.28711700439453 -29.09778594970703)">
-			<path d="M-152.6 -59.41 C-159.51 -59.13, -166.43 -58.85, -182.57 -58.2 M-152.6 -59.41 C-159.97 -59.11, -167.33 -58.81, -182.57 -58.2" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-		<g transform="translate(865.23403335488 1542.403491143155) rotate(0 -91.28711700439453 -29.09778594970703)">
-			<path d="M-158.83 -39.86 C-164.31 -44.09, -169.78 -48.32, -182.57 -58.2 M-158.83 -39.86 C-164.67 -44.37, -170.5 -48.87, -182.57 -58.2" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g transform="translate(883.4919374076144 1516.9114562310456) rotate(0 657.5 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ein und zum "überschreiben" der zu addierenden Werte, wenn unsere</text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gespeicherte Zahl gleich 0 oder 511 ist, addieren wir 0, also machen nichts</text></g>
 	<g stroke-linecap="round">
 		<g transform="translate(636.5222057588512 1340.9260843234936) rotate(0 29.668299357096373 0.3803761800130161)">
 			<path d="M0 0 C9.89 0.13, 49.45 0.63, 59.34 0.76 M0 0 C9.89 0.13, 49.45 0.63, 59.34 0.76" stroke="#000000" stroke-width="1" fill="none"></path>
@@ -4959,6 +5276,59 @@ C ^Jfmv8Xor
 			<path d="M0 0 C4.82 1.31, 22.58 0.97, 28.95 7.88 C35.32 14.79, 38.58 30.64, 38.22 41.46 C37.86 52.29, 33.14 66.41, 26.77 72.83 C20.4 79.26, 4.46 78.81, 0 80 M0 0 C4.82 1.31, 22.58 0.97, 28.95 7.88 C35.32 14.79, 38.58 30.64, 38.22 41.46 C37.86 52.29, 33.14 66.41, 26.77 72.83 C20.4 79.26, 4.46 78.81, 0 80" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(711.1403634857982 958.016504298007) rotate(539.7709207102338 15.103182884515519 0)">
+			<path d="M0 0 C5.03 0, 25.17 0, 30.21 0 M0 0 C5.03 0, 25.17 0, 30.21 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(711.1404842016484 942.9737066149853) rotate(539.7709207102338 0 15.103182884515533)">
+			<path d="M0 0 C0 5.03, 0 25.17, 0 30.21 M0 0 C0 5.03, 0 25.17, 0 30.21" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(680.9644317492146 958.1372143430694) rotate(539.7709207102338 15.103182884515547 7.5515914422577595)">
+			<path d="M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1 M0 0 C5.03 2.52, 25.17 12.59, 30.21 15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(680.7549504762044 958.0994905337004) rotate(539.7709207102338 15.103182884515547 -7.5515914422577595)">
+			<path d="M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1 M0 0 C5.03 -2.52, 25.17 -12.59, 30.21 -15.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(658.2797056991274 958.2577678448253) rotate(539.7709207102338 7.620937832510663 0)">
+			<path d="M0 0 C2.54 0, 12.7 0, 15.24 0 M0 0 C2.54 0, 12.7 0, 15.24 0" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-opacity="0.9" fill-opacity="0.9" stroke-linecap="round" transform="translate(673.8199712372868 954.7348869277132) rotate(539.7709207102338 3.4773147568352556 3.477314756835284)">
+		<path d="M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07 M3.48 0 C4.19 -0.04, 5.14 0.33, 5.71 0.81 C6.28 1.29, 6.77 2.14, 6.9 2.87 C7.03 3.61, 6.86 4.57, 6.49 5.22 C6.12 5.86, 5.37 6.49, 4.67 6.74 C3.97 7, 2.99 7, 2.29 6.74 C1.59 6.49, 0.84 5.86, 0.47 5.22 C0.09 4.57, -0.08 3.61, 0.05 2.87 C0.18 2.14, 0.67 1.29, 1.24 0.81 C1.81 0.33, 3.1 0.12, 3.48 0 C3.85 -0.12, 3.48 0.01, 3.48 0.07" stroke="#000000" stroke-width="2" fill="none"></path>
+	</g>
+	<g transform="translate(755.2053670642854 935.457472852127) rotate(0 12.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">E</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(879.4799317165025 1103.001483438335) rotate(0 -97.67718505859375 -16.431640625)">
+			<path d="M0 0 C-32.56 -5.48, -162.8 -27.39, -195.35 -32.86 M0 0 C-32.56 -5.48, -162.8 -27.39, -195.35 -32.86" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(879.4799317165025 1103.001483438335) rotate(0 -97.67718505859375 -16.431640625)">
+			<path d="M-165.85 -38.31 C-173.8 -36.84, -181.74 -35.37, -195.35 -32.86 M-165.85 -38.31 C-172.51 -37.08, -179.16 -35.85, -195.35 -32.86" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(879.4799317165025 1103.001483438335) rotate(0 -97.67718505859375 -16.431640625)">
+			<path d="M-169.26 -18.07 C-176.28 -22.05, -183.31 -26.04, -195.35 -32.86 M-169.26 -18.07 C-175.14 -21.41, -181.03 -24.74, -195.35 -32.86" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(952.4511231227525 1092.75661039146) rotate(0 432 68.5)"><text x="0" y="31.666666666666664" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Emergency überschreibt mit einem und das Signal </text><text x="0" y="77.33333333333333" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">von unserer-Vergleich Logik, damit der Motor </text><text x="0" y="123" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">sich sofort aufhört zu bewegen</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(987.198803786815 873.3130075917051) rotate(0 -160.665283203125 10.776977181127506)">
+			<path d="M0 0 C-53.56 3.59, -267.78 17.96, -321.33 21.55 M0 0 C-53.56 3.59, -267.78 17.96, -321.33 21.55" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(987.198803786815 873.3130075917051) rotate(0 -160.665283203125 10.776977181127506)">
+			<path d="M-293.89 9.43 C-304.6 14.16, -315.31 18.89, -321.33 21.55 M-293.89 9.43 C-303.4 13.63, -312.91 17.83, -321.33 21.55" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(987.198803786815 873.3130075917051) rotate(0 -160.665283203125 10.776977181127506)">
+			<path d="M-292.52 29.9 C-303.76 26.65, -315.01 23.39, -321.33 21.55 M-292.52 29.9 C-302.5 27.01, -312.49 24.12, -321.33 21.55" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(1000.2016114040025 833.1882510164601) rotate(0 341.5 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Das Signal von C können wir mit einem </text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder in unsere Logik einarbeiten</text></g>
 </svg>
 ```
 %%
