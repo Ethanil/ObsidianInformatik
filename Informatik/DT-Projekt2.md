@@ -198,10 +198,6 @@ $S'_2=s_2\overline{D_{in}}\text{ }\overline{R}+s_1\overline{D_{in}}+s_2\overline
 $S'_1=\overline{s_2}\overline{s_1}s_0+s_1D_{in}$
 $S'_0=\overline{s_0}D_{in}R+s_2\overline{D_{in}}\text{ }\overline{R}+\overline{s_1}\overline{s_0}D_{in}+s_1s_0D_{in}+s_2D_{in}+s_2\overline{s_0}$
 
-$S'_0=s_0\overline{s_2}+s_1\overline{D_{in}}$
-$S'_1=s_1D_{in}+\overline{s_0}\overline{s_1}s_2$
-$S'_2=s_1D_{in}+s_0\overline{s_2}+\overline{s_2}D_{in}+s_0\overline{R}$
-
 Für die Outputs:
 ```
 .i 3
