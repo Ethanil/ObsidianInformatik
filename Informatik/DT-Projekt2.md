@@ -84,9 +84,9 @@ Damit generiert Espresso:
 .e
 ```
 Daraus erhalten wir:
-$S'_0=s_0s_1+s_0s_2\overline{S}+s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}$
+$S'_2=s_0s_1+s_0s_2\overline{S}+s_1s_2\overline{S}+s_0\overline{s_1}\overline{s_2}\overline{S}$
 $S'_1=s_0s_1+s_0s_2\overline{S}+\overline{s_0}s_2S+\overline{s_0}s_1S$
-$S'_2=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overline{s_1}S+\overline{s_1}\overline{s_2}S$
+$S'_0=\overline{s_0}s_2S+s_0\overline{s_1}\overline{s_2}\overline{S}+s_0\overline{s_1}S+\overline{s_1}\overline{s_2}S$
 
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 exakt dann 1 ausgibt, wenn wir in Zustand $S_6$ sind)
 ```
