@@ -230,6 +230,13 @@ Damit erhalten wir folgende digitale Schaltung:
 #### c) 
 Abschließend sollen Sie eine digitale Schaltung für den Motorcontrol-Chipbaustein entwerfen, den Sie in Ihrer Schaltung aus Teilaufgabe b) verwendet haben. Dieser Chipbaustein soll die Motoren steuern, um die Tür zu öffnen und zu schließen. Verwenden Sie dazu einen Motor-Chipbaustein, der die beiden Eingänge S und $D_{in}$ hat (vgl. Abbildung 1). Der Schrittmotor hat insgesamt 512 Positionen, wobei die Tür sich bei Position 0 im geschlossenen und bei Position 511 im offenen Zustand befindet (für beide Türen). Wenn der Eingang S des Motor-Chipbausteins 1 ist, dann bewegt sich der Motor innerhalb eines Taktes in die an $D_{in}$ angegebene Richtung. Bezeichnen Sie den Motor-Chipbaustein für die linke Tür mit $Motor_L$ und den für die rechte Tür mit $Motor_R$. Achten Sie darauf, dass der Motor niemals über die angegeben Schrittstufen hinaus angesteuert wird. Sie können davon ausgehen, dass sich die Motoren initial an Position 0 (Tür geschlossen) befinden. Zusätzlich zu den genannten Eingängen hat der Motorcontrol-Chipbaustein einen EMERGENCY-Eingang E, der bei einem Notfall auf 1 gesetzt ist und die Tür sofort anhält. Der Betrieb geht erst weiter, sobald E wieder auf 0 gesetzt ist. (5 PP)
 
+Zuerst brauchen wir eine Schaltung, die abhängig von $D_{in}$ hoch bzw runterzählt, dies können wir mit 9 D-FF und 9 Full-Addern implementieren. Unser $D_{in}$ muss dafür entweder $00000001$ sein und wir haben kein extra Übertrag, wenn wir 1 zu unserer gespeicherten Zahl in den D-FF addieren möchten und wenn $D_{in}$ $11111110$ ist und wir einen Übertrag von 1 haben, subtrahieren wir 1 von dieser Zahl.
+
+![[DT-Projekt2_07.01.2022 12-03-32.excalidraw.md]]
+
+Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511) oder wir durch C ein "Anstoßsignal" erhalten haben.
+
+
 
 
 | Getränk                     | Rezept                                                                                                                         |
