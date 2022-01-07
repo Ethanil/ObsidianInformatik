@@ -121,6 +121,8 @@ Der C-Eingang wird auf 1 gesetzt, wenn die Schiebetür die am Eingang $D_{in}$ a
 Wir fangen wieder an, indem wir einen Automaten entwerfen, allerdings dieses mal einen Moore-Automaten, da sich dieser eher anbietet:
 
 ![[DT-Projekt2_06.01.2022 15-44-49.excalidraw.md|600]]
+Der Output $D_{out}$ vom Motorcontrol-Bauteil ist redundant, da wir den $D_{out}$ Output von dem Bauteil Schiebetür mithilfe von $D_{in}$ und $R$ erhalten können. Hier könnte man einen Vergleich einbauen, der bei Ungleichheit einen Fehler ausgibt.
+Da bei nicht-Endzuständen (also nicht $s_0$ oder $s_3$) nicht klar und auch nicht wichtig ist welchen Wert $D_{out}$ hat, können wir diesen mit Don't Cares markieren.
 Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und eine Zustandsübergangstabelle und Ausgabetabelle aufstellen:
 
 | Zustand | $D_{in}$ | $R$ | Nächster Zustand |
@@ -128,11 +130,13 @@ Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und ein
 | $S_0$   | 0        | -   | $s_0$            |
 | $S_0$   | 1        | -   | $s_1$            |
 | $S_1$   | -        | -   | $s_2$            |
-| $S_2$   | 0        | 0   | $s_4$            |
+| $S_2$   | 0        | -   | $s_4$            |
+| $S_2$   | 1        | 0   | $s_2$            |
 | $S_2$   | 1        | 1   | $s_3$            |
 | $S_3$   | 0        | -   | $s_4$            |
 | $S_3$   | 1        | -   | $s_3$            |
 | $S_4$   | -        | -   | $s_5$            |
+| $S_5$   | 0        | 0   | $s_5$            |
 | $S_5$   | 0        | 1   | $s_0$            |
 | $S_5$   | 1        | 0   | $s_1$            |
 
