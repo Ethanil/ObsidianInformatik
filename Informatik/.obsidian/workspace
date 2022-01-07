@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "DT-Projekt2.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.95306396484375
+    "width": 312.95306396484375,
+    "collapsed": true
   },
   "active": "caeb0ad904e8a155",
   "lastOpenFiles": [
