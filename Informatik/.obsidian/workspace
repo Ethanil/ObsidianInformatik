@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "30a5c97ec8d02c8e",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "DT-Projekt2_07.01.2022 14-18-52.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2.md",
+                "file": "DT-Projekt2_07.01.2022 14-18-52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +129,9 @@
     "direction": "horizontal",
     "width": 312.95306396484375
   },
-  "active": "caeb0ad904e8a155",
+  "active": "30a5c97ec8d02c8e",
   "lastOpenFiles": [
+    "DT-Projekt2_07.01.2022 14-18-52.excalidraw.md",
     "DT-Projekt2.md",
     "DT-Projekt2_07.01.2022 13-28-02.excalidraw.md",
     "DT-Projekt2_07.01.2022 12-57-03.excalidraw.md",
@@ -129,7 +140,6 @@
     "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
     "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
     "DT-Projekt2_06.01.2022 14-40-55.excalidraw.md",
-    "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
-    "circuit-20220106-1439.png"
+    "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md"
   ]
 }
