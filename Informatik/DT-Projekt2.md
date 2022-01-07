@@ -109,9 +109,7 @@ Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da m
 ```
 Das heißt:
 $O=s_2s_1\overline{s_0}$
-
-![[DT-Projekt2_06.01.2022 14-40-55.excalidraw.md]]
-![[DT-Projekt2_07.01.2022 18-11-37.excalidraw.md]]
+![[DT-Projekt2_07.01.2022 18-11-37.excalidraw.md|700]]
 
 
 #### b) 
