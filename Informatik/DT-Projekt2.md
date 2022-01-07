@@ -138,7 +138,7 @@ Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und ein
 | $S_4$   | -        | -   | $s_5$            |
 | $S_5$   | 0        | 0   | $s_5$            |
 | $S_5$   | 0        | 1   | $s_0$            |
-| $S_5$   | 1        | 0   | $s_1$            |
+| $S_5$   | 1        | -   | $s_1$            |
 
 | Zustand | $s_2$ | $s_1$ | $s_0$ |
 | ------- | ----- | ----- | ----- |
@@ -166,33 +166,38 @@ Für die Inputs:
 0000- 000
 0001- 001
 001-- 010
-01000 100
-01001 ---
-01010 ---
+0100- 100
+01010 010
 01011 011
 0110- 100
 0111- 011
 100-- 101
-10100 ---
+10100 101
 10101 000
-10110 001
-10111 ---
+1011- 001
 11--- ---
 ```
 Espresso-Output für die Inputs:
 ```
 .i 5
 .o 3
-.p 6
--1-1- 011
-1-0-- 101
---01- 001
--1-0- 100
+.p 9
 001-- 010
-1---0 001
+--011 001
+1--00 101
+-001- 001
+-111- 001
+-1-0- 100
+-1-1- 010
+1--1- 001
+1-0-- 101
 .e
 ```
 Das heißt:
+$S'_2=s_2\overline{D_{in}}\overline{R}+s_1\overline{D_{in}}+s_2\overline{s_0}$
+$S'_1=\overline{s_2}\overline{s_1}s_0+s_1D_{in}$
+$S'_0=\overline{s_0}D_{in}R+s_2\overline{D_{in}}\text{ }\overline{R}+\overline{s_1}\overline{s_0}D_{in}+s_1s_0D_{in}+s_2D_{in}+s_2\overline{s_0}$
+
 $S'_0=s_0\overline{s_2}+s_1\overline{D_{in}}$
 $S'_1=s_1D_{in}+\overline{s_0}\overline{s_1}s_2$
 $S'_2=s_1D_{in}+s_0\overline{s_2}+\overline{s_2}D_{in}+s_0\overline{R}$
@@ -222,10 +227,10 @@ Espresso-Output für die Outputs:
 .e
 ```
 Das heißt:
-$R=\overline{s_0}\overline{s_1}\overline{s_2}+s_1s_2$
+$R=\overline{s_2}\overline{s_1}\overline{s_0}+s_1s_0$
 $D_{out}=s_1$
-$C=s_0\overline{s_2}+\overline{s_0}\overline{s_1}s_2$
-$D_{in}=\overline{s_0}\overline{s_1}s_2+s_1$
+$C=s_2\overline{s_0}+\overline{s_2}\overline{s_1}s_0$
+$D_{in}=\overline{s_2}\overline{s_1}s_0+s_1$
 
 Damit erhalten wir folgende digitale Schaltung:
 ![[DT-Projekt2_06.01.2022 16-39-41.excalidraw.md|700]]
