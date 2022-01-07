@@ -234,7 +234,7 @@ Zuerst brauchen wir eine Schaltung, die abhängig von $D_{in}$ hoch bzw runterz�
 
 ![[DT-Projekt2_07.01.2022 12-03-32.excalidraw.md|700]]
 
-Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511).
+Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511). (Anstatt der Vergleicher-Gatter könnte man auch und-Gates für 511 und nor-Gates für 0 verwenden)
 ![[DT-Projekt2_07.01.2022 12-30-51.excalidraw.md|700]]
 
 Jetzt fehlt noch das "anstoßen" des Motors, also dass wir den Wert ändern und S auf 1 setzen, sobald wir C erhalten (einfach mit einem oder umzusetzen) und wir dürfen unser Notaus E nicht vergessen (ein weiteres und, um den Wert zu überschreiben):
@@ -272,6 +272,7 @@ Cappuchino mit Zucker: 11010
 Zuckerfreie Zitronenlimo ohne Eis: 01100
 
 Natürlich gibt es ein paar Schwachsinnige Kodierungen wie bspw. Zuckerfreier Tee mit Eiswürfeln, also 11101, dieser und die 4 anderen Codes (alle heißen Getränke mit Eiswürfeln und Wasser mit Zucker) könnten verwendet werden um Statusmeldungen
+
 #### b) 
 In dieser Aufgabe sollen Sie eine zweistufige Pipeline mit maximal möglicher Taktfrequenz entwerfen. Die Pipeline nimmt als Input die Getränkekodierung aus Teilaufgabe a) an und gibt ein einzelnes Signal mit Wert 1 aus, wenn das Getränk fertiggestellt ist. Achten Sie darauf, dass das Wasser für heiße Getränke aufgeheizt wird und das Wasser für kalte Getränke abgekühlt ist. Für den Entwurf der Pipeline stehen Ihnen alle in Tabelle 2 gelisteten Komponenten zur Verfügung. Verwenden Sie die Komponenten so sparsam wie möglich. Die R-Ausgänge der Komponenten werden nach jedem Takt wieder auf 0 zurückgesetzt. Sobald der S t Eingang einer Komponente gesetzt wurde, müssen Sie nicht dafür sorgen, dass der S t Eingang nach Fertigstellung wieder auf eine 0 zurückgesetzt wird. Gehen Sie zur Vereinfachung außerdem davon aus, dass die Wasser-/Sirup-/Milchtänke jederzeit gefüllt sind und Becherstau oder sonstigen Störungen in Ihrer Lösung nicht abgefangen werden müssen. (8 PP) 
 Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszeit haben und leiten Sie daraus ab, welche Komponenten Sie in welchen Pipelinestufen verwenden. Es kann sinnvoll sein, einen Dekodierer (ähnlich zu Projektaufgabe 1.3) zu entwerfen (inklusive Schaltung), der am Anfang der ersten Pipelinestufen die Getränkekodierung nimmt und daraus verschiedene Flags berechnet, die die Kontrolle der Getränkezubereitung vereinfachen (z.B. könnte man einen Ausgang des Dekodierers auf 1 setzen, sofern ein heißes Getränk zubereitet wird). Für eine korrekte Lösung benötigen Sie neben den in Tabelle 2 gelisteten Komponenten in jedem Fall kombinatorische Logik, um nur die tatsächlich benötigten Komponenten anzusprechen, sowie um auf die Fertigstellung vorheriger Komponenten zu warten (jeweils gesetzter R Ausgang der Komponente).
