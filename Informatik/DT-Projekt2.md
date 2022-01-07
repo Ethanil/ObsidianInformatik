@@ -235,7 +235,7 @@ Zuerst brauchen wir eine Schaltung, die abhängig von $D_{in}$ hoch bzw runterz�
 ![[DT-Projekt2_07.01.2022 12-03-32.excalidraw.md]]
 
 Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511) oder wir durch C ein "Anstoßsignal" erhalten haben.
-
+![[DT-Projekt2_07.01.2022 12-30-51.excalidraw.md]]
 
 
 
