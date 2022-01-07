@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8d675677d955e52e",
+        "id": "532f3b5864b29a52",
         "type": "split",
         "children": [
           {
             "id": "caeb0ad904e8a155",
             "type": "leaf",
-            "dimension": 31.50337837837838,
+            "dimension": 41.97635135135135,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "7e88b18bce08b2ac",
+            "id": "f6ceb9a9d1ea13a5",
             "type": "leaf",
-            "dimension": 68.49662162162163,
+            "dimension": 58.02364864864865,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DT-Projekt2_07.01.2022 12-30-51.excalidraw.md"
+                "file": "DT-Projekt2_07.01.2022 12-57-03.excalidraw.md"
               }
             }
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_07.01.2022 12-30-51.excalidraw.md",
+                "file": "DT-Projekt2_07.01.2022 12-57-03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 312.95306396484375
   },
-  "active": "7e88b18bce08b2ac",
+  "active": "f6ceb9a9d1ea13a5",
   "lastOpenFiles": [
-    "DT-Projekt2_07.01.2022 12-30-51.excalidraw.md",
+    "DT-Projekt2_07.01.2022 12-57-03.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_07.01.2022 12-30-51.excalidraw.md",
     "DT-Projekt2_07.01.2022 12-03-32.excalidraw.md",
     "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
     "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
     "DT-Projekt2_06.01.2022 14-40-55.excalidraw.md",
     "DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
     "circuit-20220106-1439.png",
-    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
-    "DT-Projekt1.md"
+    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md"
   ]
 }
