@@ -4,25 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "caeb0ad904e8a155",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DT-Projekt2.md",
-            "mode": "source"
+        "id": "9bc2b5ccf577ea38",
+        "type": "split",
+        "children": [
+          {
+            "id": "caeb0ad904e8a155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT-Projekt2.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "30a5c97ec8d02c8e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DT-Projekt2_07.01.2022 14-18-52.excalidraw.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "30a5c97ec8d02c8e",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "DT-Projekt2_07.01.2022 14-18-52.excalidraw.md"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
