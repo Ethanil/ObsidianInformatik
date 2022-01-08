@@ -360,12 +360,17 @@ Wassermenge400 = $\overline{s_4}s_2+\overline{s_4}s_3$
 Wassermenge250 = $s_4(s_3 \oplus s_2)$
 Zucker = $s_1$
 Eis = $s_0$
-Sirup = $\overline{s_4}\text{ }\overline{s_3}\text{ }\overline{s_2}$
+Sirup = $\overline{s_4}\text{ }\overline{s_3}\text{ }\overline{s_2}=\overline{s_4+s_3+s_2}$
 Sirupsorte_Bit1 = $s_3$
 Sirupsorte_Bit0 = $s_2$
-Milchkaffee = $s_4(s_3 \oplus s_2)$
+Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 
-![[DT-Projekt2_08.01.2022 01-18-46.excalidraw.md]]
+![[DT-Projekt2_08.01.2022 01-18-46.excalidraw.md|700]]
+
+Jetzt müssen wir nur alles zusammen setzen:
+
+![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md]]
+
 
 ## Zentrale Kontrolleinheit (9 PP)  
 In dieser Aufgabe entwerfen Sie die zentrale Kontrolleinheit für das System. Diese ist am Bus mittels der Eingänge $X_0, X_1$ und Ausgänge $Y_0, \dotso , Y_{n−1}$ angeschlossen. Von der zentralen Kontrolleinheit erhält der Bus für jede Komponente, an die er angeschlossen ist, bis zu zwei weitere Steuersignale, die nicht auf dem Schaltplan im Prolog eingezeichnet sind und angeben, ob die jeweilige Komponente senden oder empfangen soll (oder nichts von beidem, wenn beide Signale aus sind). Benennen Sie diese Ausgänge $C_{in}, C_{out}$ für die Kontrolleinheit, $A_{in}$ für das Display, $S_{in}, S_{out}$ für die Schiebetür,  

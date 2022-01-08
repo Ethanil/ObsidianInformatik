@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "53f3b02f91e1fd1d",
+        "id": "fe09c4d8372b1705",
         "type": "split",
         "children": [
           {
             "id": "caeb0ad904e8a155",
             "type": "leaf",
-            "dimension": 45.815722738799664,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DT-Projekt2.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           },
           {
-            "id": "b9a2f444cfd75006",
+            "id": "9f60ea8f39062850",
             "type": "leaf",
-            "dimension": 54.18427726120034,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DT-Projekt2_08.01.2022 01-18-46.excalidraw.md"
+                "file": "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md"
               }
             }
           }
@@ -58,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theore",
+                "query": "nor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_08.01.2022 01-18-46.excalidraw.md",
+                "file": "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +138,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "b9a2f444cfd75006",
+  "active": "9f60ea8f39062850",
   "lastOpenFiles": [
-    "DT-Projekt2_08.01.2022 01-18-46.excalidraw.md",
+    "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
+    "DT-Projekt2_08.01.2022 01-18-46.excalidraw.md",
+    "DT Vorlesung 2 27.10.2021.md",
+    "NOR.md",
     "Boolsche Algebra.md",
     "Theoreme der Boolschen Algebra.md",
     "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
-    "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
-    "DT-Projekt2_06.01.2022 14-40-55.excalidraw.md",
-    "DT-Projekt2_07.01.2022 18-11-37.excalidraw.md",
-    "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
-    "DT-Projekt1.md"
+    "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md"
   ]
 }
