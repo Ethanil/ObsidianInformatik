@@ -390,6 +390,8 @@ Sie müssen für alle Komponenten die korrekten Eingänge/Ausgänge am Bus setze
 Entwerfen Sie das **FSM-Diagramm eines Moore-Automaten**, der das zentrale Kontrollsystem wie oben  
 beschrieben umsetzt. Die Ausgänge des Automaten sind die Steuersignale zum Bus (hier genügt es, nur die Ausgänge aufzulisten, die auf 1 gesetzt sind) sowie die Nachricht Y , die in den Bus geschickt wird. Stellen Sie den Zustand “System fährt herunter” mit einem Fehlerzustand dar, der alle Ausgänge auf 0 setzt und keine Folgezustände besitzt. Sie dürfen eine Kette von Zuständen mit Punkten abkürzen, wenn alle Zustände in der Kette dieselben Zustandsübergänge und ähnliche Ausgänge haben (vgl. Abbildung 2). Die Zustände, die den Anfang und das Ende der Kette bilden, müssen in jedem Fall gezeichnet werden. Geben Sie auch die Anzahl der Zustände an, die sie abkürzen. Weiterhin dürfen Sie alle Methoden zur Umsetzung von Zustandsautomaten verwenden, die Sie in der Vorlesung gelernt haben.
 
+![[DT-Projekt2_08.01.2022 19-56-51.excalidraw.md]]
+
 ## Bus (3 PP)  
 In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, der das Display, die Schiebetür, den Getränkeautomaten, die Lichtschranke und die zentrale Kontrolleinheit verbindet.  
 #### a) 

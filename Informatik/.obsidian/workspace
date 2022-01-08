@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "f50c2b623769164f",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2.md",
+                "file": "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +131,9 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "caeb0ad904e8a155",
+  "active": "f50c2b623769164f",
   "lastOpenFiles": [
+    "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
     "DT-Projekt2.md",
     "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
     "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
@@ -131,7 +142,6 @@
     "NOR.md",
     "Boolsche Algebra.md",
     "Theoreme der Boolschen Algebra.md",
-    "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
-    "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md"
+    "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md"
   ]
 }
