@@ -390,7 +390,7 @@ Sie müssen für alle Komponenten die korrekten Eingänge/Ausgänge am Bus setze
 Entwerfen Sie das **FSM-Diagramm eines Moore-Automaten**, der das zentrale Kontrollsystem wie oben  
 beschrieben umsetzt. Die Ausgänge des Automaten sind die Steuersignale zum Bus (hier genügt es, nur die Ausgänge aufzulisten, die auf 1 gesetzt sind) sowie die Nachricht Y , die in den Bus geschickt wird. Stellen Sie den Zustand “System fährt herunter” mit einem Fehlerzustand dar, der alle Ausgänge auf 0 setzt und keine Folgezustände besitzt. Sie dürfen eine Kette von Zuständen mit Punkten abkürzen, wenn alle Zustände in der Kette dieselben Zustandsübergänge und ähnliche Ausgänge haben (vgl. Abbildung 2). Die Zustände, die den Anfang und das Ende der Kette bilden, müssen in jedem Fall gezeichnet werden. Geben Sie auch die Anzahl der Zustände an, die sie abkürzen. Weiterhin dürfen Sie alle Methoden zur Umsetzung von Zustandsautomaten verwenden, die Sie in der Vorlesung gelernt haben.
 
-![[DT-Projekt2_08.01.2022 19-56-51.excalidraw.md]]
+![[DT-Projekt2_08.01.2022 19-56-51.excalidraw.md|700]]
 
 ## Bus (3 PP)  
 In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, der das Display, die Schiebetür, den Getränkeautomaten, die Lichtschranke und die zentrale Kontrolleinheit verbindet.  
@@ -398,8 +398,10 @@ In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, 
 Entwerfen Sie einen digitalen Schaltplan für den Bus. Orientieren Sie sich an den Interfaces aus dem Prolog. Achten Sie darauf, dass keine Komponente unnötige Wires erhält (z.B. benötigt die Lichtschranke weniger  
 Daten vom Bus als der Getränkeautomat). Beachten Sie außerdem die zusätzlichen Eingänge, die in Projekt 2.3 beschrieben sind und die bestimmen, welche Komponente empfängt und sendet. (2PP)  
 
-![[DT-Projekt2_09.01.2022 00-23-07.excalidraw.md]]
+![[DT-Projekt2_09.01.2022 00-23-07.excalidraw.md|700]]
 #### b) 
 Ihr Schaltplan benötigt jeweils bis zu 2 Signale, um zu steuern, welche Komponente sendet und empfängt. Beschreiben Sie, wie man die Anzahl dieser Kontroll-Bits reduzieren kann. (1PP)
+Wir haben insgesamt 3 "out"- und 5 "in"- Bits, die steuern welche Komponenten senden bzw. empfangen.
+$C_{in}$ können wir weg lassen, da alle Komponenten ihre Daten nur der Zentralen Kontrolleinheit senden und wir deshalb wissen, sobald ein "out"-Bit an ist, soll die Zentrale Kontrolleinheit empfangen(also können wir entweder die Zentrale Kontrolleinheit dauerhaft empfangen lassen, oder immer dann wenn irgendeiner der "out) 
 
 # Ich hoffe Sie hatten eine besinnliche und erfrischende Weihnachtszeit! 🙂
