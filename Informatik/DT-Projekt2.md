@@ -275,7 +275,7 @@ Wasser mit Eiswürfel erhält also bspw den Code 00001, aufgeschlüsselt:
 Cappuchino mit Zucker: 11010
 Zuckerfreie Zitronenlimo ohne Eis: 01100
 
-Natürlich gibt es ein paar Schwachsinnige Kodierungen wie bspw. Zuckerfreier Tee mit Eiswürfeln, also 11101, dieser und die 4 anderen Codes (alle heißen Getränke mit Eiswürfeln und Wasser mit Zucker) könnten verwendet werden um Statusmeldungen
+Natürlich gibt es ein paar Schwachsinnige Kodierungen wie bspw. Zuckerfreier Tee mit Eiswürfeln, also 11101, dieser und die 4 anderen Codes (alle heißen Getränke mit Eiswürfeln und Wasser mit Zucker) könnten verwendet werden um Statusmeldungen anzeigen zu lassen
 
 #### b) 
 In dieser Aufgabe sollen Sie eine zweistufige Pipeline mit maximal möglicher Taktfrequenz entwerfen. Die Pipeline nimmt als Input die Getränkekodierung aus Teilaufgabe a) an und gibt ein einzelnes Signal mit Wert 1 aus, wenn das Getränk fertiggestellt ist. Achten Sie darauf, dass das Wasser für heiße Getränke aufgeheizt wird und das Wasser für kalte Getränke abgekühlt ist. Für den Entwurf der Pipeline stehen Ihnen alle in Tabelle 2 gelisteten Komponenten zur Verfügung. Verwenden Sie die Komponenten so sparsam wie möglich. Die R-Ausgänge der Komponenten werden nach jedem Takt wieder auf 0 zurückgesetzt. Sobald der S t Eingang einer Komponente gesetzt wurde, müssen Sie nicht dafür sorgen, dass der S t Eingang nach Fertigstellung wieder auf eine 0 zurückgesetzt wird. Gehen Sie zur Vereinfachung außerdem davon aus, dass die Wasser-/Sirup-/Milchtänke jederzeit gefüllt sind und Becherstau oder sonstigen Störungen in Ihrer Lösung nicht abgefangen werden müssen. (8 PP) 
