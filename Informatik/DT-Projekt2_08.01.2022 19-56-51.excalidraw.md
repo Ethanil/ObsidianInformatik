@@ -323,7 +323,7 @@ X ^TgZMsOli
 
 0 ^tFrr1J9X
 
-Y=49 ^EEeetU0m
+Y=48 ^EEeetU0m
 
 s ^o3nKegcr
 
@@ -397,7 +397,7 @@ Y=000000 ^OoXz9ztX
 
 s ^H7q6oKNG
 
-48.0 ^NDuUolYs
+0.0 ^NDuUolYs
 
 V ^W1xIvZ2Q
 
@@ -8008,8 +8008,8 @@ in ^SvcTapcL
 		},
 		{
 			"type": "text",
-			"version": 862,
-			"versionNonce": 768726833,
+			"version": 863,
+			"versionNonce": 1808936223,
 			"isDeleted": false,
 			"id": "EEeetU0m",
 			"fillStyle": "hachure",
@@ -8022,7 +8022,7 @@ in ^SvcTapcL
 			"y": 867.1650282309059,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 47,
+			"width": 51,
 			"height": 25,
 			"seed": 1332566911,
 			"groupIds": [
@@ -8032,8 +8032,8 @@ in ^SvcTapcL
 			"boundElementIds": [],
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Y=49",
-			"rawText": "Y=49",
+			"text": "Y=48",
+			"rawText": "Y=48",
 			"baseline": 17,
 			"textAlign": "left",
 			"verticalAlign": "top"
@@ -10041,8 +10041,8 @@ in ^SvcTapcL
 		},
 		{
 			"type": "text",
-			"version": 1386,
-			"versionNonce": 1174070577,
+			"version": 1387,
+			"versionNonce": 1559635633,
 			"isDeleted": false,
 			"id": "NDuUolYs",
 			"fillStyle": "hachure",
@@ -10055,7 +10055,7 @@ in ^SvcTapcL
 			"y": 2108.950771152726,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 58,
+			"width": 40,
 			"height": 31,
 			"seed": 547906015,
 			"groupIds": [
@@ -10067,8 +10067,8 @@ in ^SvcTapcL
 			"boundElementIds": [],
 			"fontSize": 24.232822496062862,
 			"fontFamily": 1,
-			"text": "48.0",
-			"rawText": "48.0",
+			"text": "0.0",
+			"rawText": "0.0",
 			"baseline": 22,
 			"textAlign": "left",
 			"verticalAlign": "top"
@@ -14453,7 +14453,7 @@ in ^SvcTapcL
 			<path d="M-0.2 -0.41 C55.33 -0.81, 278.02 -2.27, 333.46 -2.76 M-1.76 -1.67 C53.6 -2.37, 276.53 -4.38, 332.65 -4.42" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(4492.597320788714 2157.105506140346) rotate(0 23.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=49</text></g>
+	<g transform="translate(4492.597320788714 2157.105506140346) rotate(0 25.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=48</text></g>
 	<g transform="translate(4447.386684211296 2004.03124774652) rotate(0 11 24.5)"><text x="0" y="35" font-family="Virgil, Segoe UI Emoji" font-size="39.5480088675219px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
 	<g transform="translate(4469.307476206067 2033.5411598288479) rotate(0 27 15.5)"><text x="0" y="22" font-family="Virgil, Segoe UI Emoji" font-size="24.232822496062862px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">48.7</text></g>
 	<g transform="translate(4387.8182338964225 2159.7631830923506) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">A</text></g>
@@ -14626,7 +14626,7 @@ in ^SvcTapcL
 	</g>
 	<g transform="translate(760.4376326533454 3527.02000780856) rotate(0 52.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=000000</text></g>
 	<g transform="translate(756.3061993636882 3369.381336979838) rotate(0 11 24.5)"><text x="0" y="35" font-family="Virgil, Segoe UI Emoji" font-size="39.5480088675219px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
-	<g transform="translate(777.212722695265 3398.891249062166) rotate(0 29 15.5)"><text x="0" y="22" font-family="Virgil, Segoe UI Emoji" font-size="24.232822496062862px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">48.0</text></g>
+	<g transform="translate(777.212722695265 3398.891249062166) rotate(0 20 15.5)"><text x="0" y="22" font-family="Virgil, Segoe UI Emoji" font-size="24.232822496062862px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0.0</text></g>
 	<g stroke-linecap="round">
 		<g transform="translate(950.5487320155851 3476.65069406759) rotate(0 126.4326171875 0)">
 			<path d="M-0.33 -0.97 C42.04 -0.83, 211.19 1, 253.24 0.99 M1.69 1.13 C44.03 0.95, 210.37 -0.37, 252.48 -0.61" stroke="#000000" stroke-width="1" fill="none"></path>
