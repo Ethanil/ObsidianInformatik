@@ -401,7 +401,22 @@ Daten vom Bus als der Getränkeautomat). Beachten Sie außerdem die zusätzliche
 ![[DT-Projekt2_09.01.2022 00-23-07.excalidraw.md|700]]
 #### b) 
 Ihr Schaltplan benötigt jeweils bis zu 2 Signale, um zu steuern, welche Komponente sendet und empfängt. Beschreiben Sie, wie man die Anzahl dieser Kontroll-Bits reduzieren kann. (1PP)
-Wir haben insgesamt 3 "out"- und 5 "in"- Bits, die steuern welche Komponenten senden bzw. empfangen.
-$C_{in}$ können wir weg lassen, da alle Komponenten ihre Daten nur der Zentralen Kontrolleinheit senden und wir deshalb wissen, sobald ein "out"-Bit an ist, soll die Zentrale Kontrolleinheit empfangen(also können wir entweder die Zentrale Kontrolleinheit dauerhaft empfangen lassen, oder immer dann wenn irgendeiner der "out) 
 
+Wir haben insgesamt 3 "out"- und 5 "in"- Bits, die steuern welche Komponenten senden bzw. empfangen.
+$C_{in}$ können wir weg lassen, da alle Komponenten ihre Daten nur der Zentralen Kontrolleinheit senden und wir deshalb wissen, sobald ein "out"-Bit an ist, soll die Zentrale Kontrolleinheit empfangen (also können wir entweder die Zentrale Kontrolleinheit dauerhaft empfangen lassen, oder immer dann wenn irgendeiner der anderen "out"-Bits sendet, also $C_{in}$ abhängig von $L_{out}$ und $S{out}$ machen, indem wir die Output-Kontroll-Bits mit einem Oder-Gatter verbinden und dies als $C_{in}$ verwenden).
+$C_{out}$ können wir weg lassen, da wir über die "in"-Bits schon steuern wer was empfängt, wir müssen nicht auch noch Steuern, dass über die Y-Drähte nichts gesendet wird, dort kann dauerhaft "sinnlose" Daten gesendet werden, solange keiner der anderen Komponenten diese empfängt.
+damit haben wir noch $S_{out}$ und $L_{out}$, wo wir keine weiteren bits einsparen können, auch wenn wir beide über eine gemeinsame Verbindung laufen lassen brauchen wir immer noch 3 Zustände: Niemand sendet(00), L sendet(01), S sendet(10). Wir haben allerdings 11 frei um eine weitere, sendende Komponente hinzuzufügen.
+Bei den "in"-Bits haben wir noch $D_{in}, G_{in}, L_{in}, S_{in}$ übrig. Um hier Bits, bzw Drähte einzusparen können wir ein 3 Bit breites, gemeinsames Signal verwenden:
+| Signal | Effekt                                 |
+| ------ | -------------------------------------- |
+| 000    | Niemand empfängt                       |
+| 001    | Display empfängt                       |
+| 010    | Getränkeautomat empfängt               |
+| 011    | Schiebetür empfängt                    |
+| 100    | Lichtschranke empfängt                 |
+| 101    | Lichtschranke und Schiebetür empfangen |
+| 110    | Frei                                   |
+| 111    | Frei                                   |
+
+Wir haben also zwei Kontroll-Bits für den Output aller Komponenten und 3 Kontroll-Bits für den Input aller Komponenten, insgesamt also 5 Kontroll-Bits, anstatt 8.
 # Ich hoffe Sie hatten eine besinnliche und erfrischende Weihnachtszeit! 🙂
