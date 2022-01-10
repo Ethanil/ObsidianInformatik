@@ -76,6 +76,26 @@ sich sofort aufhört zu bewegen ^trVfR7Aw
 Das Signal von C können wir mit einem 
 oder in unsere Logik einarbeiten ^r9smJ5bw
 
+Motor ^zYD4Zh9L
+
+Motor ^wy7aiRKG
+
+L ^RJiDXDoV
+
+R ^hoX458cS
+
+S ^Ac3b1MN0
+
+D ^p12k59lc
+
+in ^mng5m4WU
+
+S ^AspqPDiM
+
+D ^UvuemgQh
+
+in ^6IBN1seP
+
 %%
 # Drawing
 ```json
@@ -4771,6 +4791,608 @@ oder in unsere Logik einarbeiten ^r9smJ5bw
 			"baseline": 78,
 			"textAlign": "left",
 			"verticalAlign": "top"
+		},
+		{
+			"id": "suGFh4XqglhxlSvFAu1zf",
+			"type": "rectangle",
+			"x": 179.18069151715144,
+			"y": 51.21897607100618,
+			"width": 228.217529296875,
+			"height": 91.287109375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 1128804336,
+			"version": 119,
+			"versionNonce": 523551504,
+			"isDeleted": false,
+			"boundElementIds": null
+		},
+		{
+			"type": "rectangle",
+			"version": 129,
+			"versionNonce": 767079920,
+			"isDeleted": false,
+			"id": "zxLuHZmh1e4B9p9G-QJkm",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 179.16187234397512,
+			"y": 141.56599726473792,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 228.217529296875,
+			"height": 91.287109375,
+			"seed": 1789878256,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": []
+		},
+		{
+			"id": "zYD4Zh9L",
+			"type": "text",
+			"x": 234.64362283225637,
+			"y": 73.6716084301022,
+			"width": 103,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 1080453392,
+			"version": 112,
+			"versionNonce": 612040464,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Motor",
+			"rawText": "Motor",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"type": "text",
+			"version": 129,
+			"versionNonce": 1161256944,
+			"isDeleted": false,
+			"id": "wy7aiRKG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 232.30693256532913,
+			"y": 162.03461502189953,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 103,
+			"height": 46,
+			"seed": 804437776,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Motor",
+			"rawText": "Motor",
+			"baseline": 32,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"id": "RJiDXDoV",
+			"type": "text",
+			"x": 338.0526397593394,
+			"y": 99.8746113597897,
+			"width": 12,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 971655440,
+			"version": 137,
+			"versionNonce": 872692208,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "L",
+			"rawText": "L",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17
+		},
+		{
+			"id": "hoX458cS",
+			"type": "text",
+			"x": 339.7704742319961,
+			"y": 189.32839757398278,
+			"width": 14,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 1141331440,
+			"version": 134,
+			"versionNonce": 1415763728,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "R",
+			"rawText": "R",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17
+		},
+		{
+			"type": "text",
+			"version": 119,
+			"versionNonce": 342940944,
+			"isDeleted": false,
+			"id": "Ac3b1MN0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 181.72772927756887,
+			"y": 55.69301142489394,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15,
+			"height": 30,
+			"seed": 347213296,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 24.0930096170176,
+			"fontFamily": 1,
+			"text": "S",
+			"rawText": "S",
+			"baseline": 21,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1733,
+			"versionNonce": 1298349040,
+			"isDeleted": false,
+			"id": "p12k59lc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 184.0423636584876,
+			"y": 105.0066035842811,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 30,
+			"seed": 676015088,
+			"groupIds": [
+				"IVzCvsQhv7LIEUqhcTchz",
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 24.168945042323056,
+			"fontFamily": 1,
+			"text": "D",
+			"rawText": "D",
+			"baseline": 21,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1747,
+			"versionNonce": 443726608,
+			"isDeleted": false,
+			"id": "mng5m4WU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 206.49270058118412,
+			"y": 118.80604848868262,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13,
+			"height": 24,
+			"seed": 910281488,
+			"groupIds": [
+				"IVzCvsQhv7LIEUqhcTchz",
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 18.798068366251265,
+			"fontFamily": 1,
+			"text": "in",
+			"rawText": "in",
+			"baseline": 17,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 120,
+			"versionNonce": 125189616,
+			"isDeleted": false,
+			"id": "AspqPDiM",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 186.96011289502545,
+			"y": 143.91579483146995,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 15,
+			"height": 30,
+			"seed": 1362995472,
+			"groupIds": [
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 24.0930096170176,
+			"fontFamily": 1,
+			"text": "S",
+			"rawText": "S",
+			"baseline": 21,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1735,
+			"versionNonce": 8968464,
+			"isDeleted": false,
+			"id": "UvuemgQh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 184.56687152585587,
+			"y": 194.35765054495903,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 19,
+			"height": 30,
+			"seed": 2033686800,
+			"groupIds": [
+				"NW7Zs3MfbeLI24dueCPYN",
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 24.168945042323056,
+			"fontFamily": 1,
+			"text": "D",
+			"rawText": "D",
+			"baseline": 21,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1749,
+			"versionNonce": 1272512496,
+			"isDeleted": false,
+			"id": "6IBN1seP",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 207.0172084485524,
+			"y": 208.15709544936055,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13,
+			"height": 24,
+			"seed": 175521776,
+			"groupIds": [
+				"NW7Zs3MfbeLI24dueCPYN",
+				"cx1QCAenUeY1UJyL3xtdq"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 18.798068366251265,
+			"fontFamily": 1,
+			"text": "in",
+			"rawText": "in",
+			"baseline": 17,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"id": "0w5wvACnzDkp3VqMhhiyh",
+			"type": "line",
+			"x": 179.15137429710012,
+			"y": 156.30989374911292,
+			"width": 34.99338785807322,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 5707536,
+			"version": 64,
+			"versionNonce": 975910672,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-34.99338785807322,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "32EQct5GuQUeGPdkIykEZ",
+			"type": "line",
+			"x": 179.42428856908646,
+			"y": 73.14690009443302,
+			"width": 141.49495442708348,
+			"height": 1.521453857421875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 360644368,
+			"version": 70,
+			"versionNonce": 2078262544,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-141.49495442708348,
+					-1.521453857421875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "CuCbu_DX9WQtYHEJLfewC",
+			"type": "line",
+			"x": 144.1791545409451,
+			"y": 156.89453194010525,
+			"width": 0,
+			"height": 85.0848437344248,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 105049872,
+			"version": 103,
+			"versionNonce": 1888271632,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-85.0848437344248
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "NvRxLmVZ3HCU0yVkS_3cw",
+			"type": "line",
+			"x": 178.50510836371177,
+			"y": 204.58419149159386,
+			"width": 470.36873265316626,
+			"height": 0.9609182257402153,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 199184656,
+			"version": 100,
+			"versionNonce": 850248688,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-470.36873265316626,
+					-0.9609182257402153
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "a2LdXbLcn_xfsJ6ayNJfI",
+			"type": "line",
+			"x": 178.50510836371177,
+			"y": 119.06263001955449,
+			"width": 88.40434827302624,
+			"height": 0.9609182257402153,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1025316112,
+			"version": 60,
+			"versionNonce": 1794421520,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-88.40434827302624,
+					-0.9609182257402153
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "4dREh3_0RW7m0DDP9N-fo",
+			"type": "line",
+			"x": 90.10076009068553,
+			"y": 118.10171179381427,
+			"width": 0.48044305098665063,
+			"height": 86.96295487253292,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1603862800,
+			"version": 91,
+			"versionNonce": 1915733488,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.48044305098665063,
+					86.96295487253292
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -4784,12 +5406,12 @@ oder in unsere Logik einarbeiten ^r9smJ5bw
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 36,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"currentItemLinearStrokeSharpness": "round",
+		"currentItemLinearStrokeSharpness": "sharp",
 		"gridSize": null
 	},
 	"files": {}
@@ -5329,6 +5951,52 @@ oder in unsere Logik einarbeiten ^r9smJ5bw
 		</g>
 	</g>
 	<g transform="translate(1000.2016114040025 833.1882510164601) rotate(0 341.5 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Das Signal von C können wir mit einem </text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">oder in unsere Logik einarbeiten</text></g>
+	<g stroke-linecap="round" transform="translate(1427.3425308874625 1252.4000376546865) rotate(0 114.1087646484375 45.6435546875)">
+		<path d="M0 0 C54.39 0, 108.78 0, 228.22 0 M0 0 C68.73 0, 137.46 0, 228.22 0 M228.22 0 C228.22 22.93, 228.22 45.85, 228.22 91.29 M228.22 0 C228.22 33.66, 228.22 67.33, 228.22 91.29 M228.22 91.29 C176.83 91.29, 125.45 91.29, 0 91.29 M228.22 91.29 C180.16 91.29, 132.09 91.29, 0 91.29 M0 91.29 C0 55.12, 0 18.96, 0 0 M0 91.29 C0 55.11, 0 18.93, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+	</g>
+	<g stroke-linecap="round" transform="translate(1427.3237117142862 1342.7470588484182) rotate(0 114.1087646484375 45.6435546875)">
+		<path d="M0 0 C80.74 0, 161.48 0, 228.22 0 M0 0 C78.81 0, 157.62 0, 228.22 0 M228.22 0 C228.22 26.62, 228.22 53.24, 228.22 91.29 M228.22 0 C228.22 27.19, 228.22 54.38, 228.22 91.29 M228.22 91.29 C160.02 91.29, 91.82 91.29, 0 91.29 M228.22 91.29 C180.25 91.29, 132.28 91.29, 0 91.29 M0 91.29 C0 61.73, 0 32.18, 0 0 M0 91.29 C0 60.3, 0 29.31, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+	</g>
+	<g transform="translate(1482.8054622025675 1274.8526700137825) rotate(0 51.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Motor</text></g>
+	<g transform="translate(1480.4687719356402 1363.2156766055798) rotate(0 51.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Motor</text></g>
+	<g transform="translate(1586.2144791296505 1301.05567294347) rotate(0 6 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">L</text></g>
+	<g transform="translate(1587.9323136023072 1390.509459157663) rotate(0 7 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g transform="translate(1429.88956864788 1256.8740730085742) rotate(0 7.5 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="24.0930096170176px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(1432.2042030287987 1306.1876651679613) rotate(0 9.5 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="24.168945042323056px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
+	<g transform="translate(1454.6545399514953 1319.9871100723628) rotate(0 6.5 12)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="18.798068366251265px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g transform="translate(1435.1219522653366 1345.0968564151503) rotate(0 7.5 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="24.0930096170176px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(1432.728710896167 1395.5387121286394) rotate(0 9.5 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="24.168945042323056px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">D</text></g>
+	<g transform="translate(1455.1790478188634 1409.3381570330407) rotate(0 6.5 12)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="18.798068366251265px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(1427.3132136674112 1357.4909553327932) rotate(0 -17.49669392903661 0)">
+			<path d="M0 0 C-9.05 0, -18.11 0, -34.99 0 M0 0 C-10.2 0, -20.39 0, -34.99 0" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1427.5861279393976 1274.3279616781133) rotate(0 -70.74747721354174 -0.7607269287109375)">
+			<path d="M0 0 C-43.61 -0.47, -87.22 -0.94, -141.49 -1.52 M0 0 C-48.33 -0.52, -96.66 -1.04, -141.49 -1.52" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1392.3409939112562 1358.0755935237855) rotate(0 0 -42.5424218672124)">
+			<path d="M0 0 C0 -22.2, 0 -44.39, 0 -85.08 M0 0 C0 -26.01, 0 -52.02, 0 -85.08" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1426.6669477340229 1405.7652530752741) rotate(0 -235.18436632658313 -0.4804591128701077)">
+			<path d="M0 0 C-118.53 -0.24, -237.06 -0.48, -470.37 -0.96 M0 0 C-109.56 -0.22, -219.13 -0.45, -470.37 -0.96" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1426.6669477340229 1320.2436916032348) rotate(0 -44.20217413651312 -0.4804591128701077)">
+			<path d="M0 0 C-35.18 -0.38, -70.37 -0.76, -88.4 -0.96 M0 0 C-29.59 -0.32, -59.17 -0.64, -88.4 -0.96" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(1338.2625994609966 1319.2827733774946) rotate(0 0.24022152549332532 43.48147743626646)">
+			<path d="M0 0 C0.15 26.53, 0.29 53.06, 0.48 86.96 M0 0 C0.12 21.44, 0.24 42.88, 0.48 86.96" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
 </svg>
 ```
 %%

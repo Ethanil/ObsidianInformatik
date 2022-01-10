@@ -13,6 +13,9 @@ Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstel
 ![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|700]]
 
 
+<div style="page-break-after: always;"></div>
+
+
 | Zustand | Sensor | Nächster Zustand |
 | ------- | ------ | ---------------- |
 | $S_0$   | 0      | $s_0$            |
@@ -49,7 +52,10 @@ Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstel
 | $S_5$   | -      | 0   |
 | $S_6$   | -      | 1   |
 
+<div style="page-break-after: always;"></div>
+
 Als input für die Zustände haben wir:
+
 ```
 .i   4
 .o   3
@@ -88,6 +94,8 @@ $S'_2=s_2s_1+s_2s_0\overline{S}+s_1s_0\overline{S}+s_2\overline{s_1}\overline{s_
 $S'_1=s_2s_1+s_2s_0\overline{S}+\overline{s_2}s_0S+\overline{s_2}s_1S$
 $S'_0=\overline{s_2}s_1S+s_2\overline{s_1}\overline{s_0}\overline{S}+s_2\overline{s_1}S+\overline{s_1}\overline{s_0}S$
 
+<div style="page-break-after: always;"></div>
+
 Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da man sofort sieht, dass 0 exakt dann 1 ausgibt, wenn wir in Zustand $S_6$ sind)
 ```
 .i   4
@@ -109,6 +117,9 @@ Für die Outputs haben wir: (Wobei hierfür Espresso ziemlich overkill ist, da m
 ```
 Das heißt:
 $O=s_2s_1\overline{s_0}$
+
+Zu guter letzt müssen wir damit nur noch einen Schaltplan entwerfen.
+
 ![[DT-Projekt2_07.01.2022 18-11-37.excalidraw.md|700]]
 
 
@@ -127,6 +138,8 @@ Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und ein
 
 
 	
+<div style="page-break-after: always;"></div>
+
 | Zustand | $D_{in}$ | $R$ | Nächster Zustand |
 | ------- | -------- | --- | ---------------- |
 | $S_0$   | 0        | -   | $s_0$            |
@@ -161,6 +174,9 @@ Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und ein
 | $S_5$   | 0   | -         | 0   | 0        |
 
 Jetzt können wir wieder Espresso benutzen, um die Tabellen zu minimieren und um eine bool'sche Gleichung aufzustellen:
+
+<div style="page-break-after: always;"></div>
+
 Für die Inputs:
 ```
 .i 5
@@ -199,6 +215,8 @@ Das heißt:
 $S'_2=s_2\overline{D_{in}}\text{ }\overline{R}+s_1\overline{D_{in}}+s_2\overline{s_0}$
 $S'_1=\overline{s_2}\overline{s_1}s_0+s_1D_{in}$
 $S'_0=\overline{s_0}D_{in}R+s_2\overline{D_{in}}\text{ }\overline{R}+\overline{s_1}\overline{s_0}D_{in}+s_1s_0D_{in}+s_2D_{in}+s_2\overline{s_0}$
+
+<div style="page-break-after: always;"></div>
 
 Für die Outputs:
 ```
@@ -240,12 +258,19 @@ Zuerst brauchen wir eine Schaltung, die abhängig von $D_{in}$ hoch bzw runterz�
 
 ![[DT-Projekt2_07.01.2022 12-03-32.excalidraw.md|700]]
 
-Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511). (Anstatt der Vergleicher-Gatter könnte man auch und-Gates für 511 und nor-Gates für 0 verwenden)
+<div style="page-break-after: always;"></div>
+
+Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511).
 ![[DT-Projekt2_07.01.2022 12-30-51.excalidraw.md|700]]
 
+<div style="page-break-after: always;"></div>
+
 Jetzt fehlt noch das "anstoßen" des Motors, also dass wir den Wert ändern und S auf 1 setzen, sobald wir C erhalten (einfach mit einem oder umzusetzen) und wir dürfen unser Notaus E nicht vergessen (ein weiteres und, um den Wert zu überschreiben):
+Und die Motor-Bausteine $Motor_L$ und $Motor_R$ die identisch sind.
 ![[DT-Projekt2_07.01.2022 12-57-03.excalidraw.md|700]]
 
+
+<div style="page-break-after: always;"></div>
 
 
 | Getränk                     | Rezept                                                                                                                         |
@@ -265,6 +290,8 @@ Der Getränkeautomat bietet 0,5 l Getränke in verschiedenen Varianten an, deren
 Neben kalten Getränken bietet der Automat auch Kaffee, Latte Macchiato, Cappuccino und Tee an. Latte Macchiato und Cappuccino enthalten von der Rezeptur her 50 % aufgeschäumte Milch. Zur Vereinfachung nehmen Sie an, dass zunächst der Kaffee und im Anschluss die aufgeschäumte Milch ausgelassen wird. Auf Wunsch kann ein heißes Getränk mit Zucker angereichert werden.  
 Definieren Sie eine Kodierung, die alle Getränkekonfigurationen abdeckt. Existieren in Ihrer Lösung Codes, die ein ungültiges Getränk kodieren. Wenn ja, nennen Sie diese und beschreiben Sie, wofür sie alternativ sinnvoll verwendet werden könnten. (2 PP)
 
+<div style="page-break-after: always;"></div>
+
 Für eine Kodierung können wir uns eine Art Baum vorstellen, bei der jeweils andere Verzweigungen haben:
 ![[DT-Projekt2_07.01.2022 13-28-02.excalidraw.md|700]]
 Wir kodieren also alle Getränke in 5 Bits.
@@ -276,8 +303,10 @@ Wasser mit Eiswürfel erhält also bspw den Code 00001, aufgeschlüsselt:
 1 - mit Eiswürfel
 Cappuchino mit Zucker: 11010
 Zuckerfreie Zitronenlimo ohne Eis: 01100
+(In der nächsten Aufgabe gibt es eine vollständige Auflistung aller möglichen Kombinationen, allerdings ohne den Klartext für was sie stehen)
+Natürlich gibt es ein paar Schwachsinnige Kodierungen nämlich alle heißen Getränke mit Eiswürfeln und Wasser mit Zucker, also 100X1;101X1;110X1;111X1;0001X. Diese könnten verwendet werden um bspw. Statusmeldungen an der Maschine anzeigen zu lassen wie den Füllstand der Tanks. 
 
-Natürlich gibt es ein paar Schwachsinnige Kodierungen wie bspw. Zuckerfreier Tee mit Eiswürfeln, also 11101, dieser und die 4 anderen Codes (alle heißen Getränke mit Eiswürfeln und Wasser mit Zucker) könnten verwendet werden um Statusmeldungen anzeigen zu lassen
+<div style="page-break-after: always;"></div>
 
 #### b) 
 In dieser Aufgabe sollen Sie eine zweistufige Pipeline mit maximal möglicher Taktfrequenz entwerfen. Die Pipeline nimmt als Input die Getränkekodierung aus Teilaufgabe a) an und gibt ein einzelnes Signal mit Wert 1 aus, wenn das Getränk fertiggestellt ist. Achten Sie darauf, dass das Wasser für heiße Getränke aufgeheizt wird und das Wasser für kalte Getränke abgekühlt ist. Für den Entwurf der Pipeline stehen Ihnen alle in Tabelle 2 gelisteten Komponenten zur Verfügung. Verwenden Sie die Komponenten so sparsam wie möglich. Die R-Ausgänge der Komponenten werden nach jedem Takt wieder auf 0 zurückgesetzt. Sobald der S t Eingang einer Komponente gesetzt wurde, müssen Sie nicht dafür sorgen, dass der S t Eingang nach Fertigstellung wieder auf eine 0 zurückgesetzt wird. Gehen Sie zur Vereinfachung außerdem davon aus, dass die Wasser-/Sirup-/Milchtänke jederzeit gefüllt sind und Becherstau oder sonstigen Störungen in Ihrer Lösung nicht abgefangen werden müssen. (8 PP) 
@@ -300,6 +329,9 @@ Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszei
 
 Zuerst können wir uns der Übersichtshalber alle Bauteile in der richtigen Ebene darstellen um eine Parallelität zu gewährleisten.
 ![[DT-Projekt2_07.01.2022 14-18-52.excalidraw.md|700]]
+
+<div style="page-break-after: always;"></div>
+
 Danach können wir erste Logik implementieren:
 ![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md|700]]
 
