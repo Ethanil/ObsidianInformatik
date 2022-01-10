@@ -437,6 +437,9 @@ Entwerfen Sie einen digitalen Schaltplan für den Bus. Orientieren Sie sich an d
 Daten vom Bus als der Getränkeautomat). Beachten Sie außerdem die zusätzlichen Eingänge, die in Projekt 2.3 beschrieben sind und die bestimmen, welche Komponente empfängt und sendet. (2PP)  
 
 ![[DT-Projekt2_09.01.2022 00-23-07.excalidraw.md|700]]
+
+<div style="page-break-after: always;"></div>
+
 #### b) 
 Ihr Schaltplan benötigt jeweils bis zu 2 Signale, um zu steuern, welche Komponente sendet und empfängt. Beschreiben Sie, wie man die Anzahl dieser Kontroll-Bits reduzieren kann. (1PP)
 
@@ -445,6 +448,7 @@ $C_{in}$ können wir weg lassen, da alle Komponenten ihre Daten nur der Zentrale
 $C_{out}$ können wir weg lassen, da wir über die "in"-Bits schon steuern wer was empfängt, wir müssen nicht auch noch Steuern, dass über die Y-Drähte nichts gesendet wird, dort kann dauerhaft "sinnlose" Daten gesendet werden, solange keiner der anderen Komponenten diese empfängt.
 damit haben wir noch $S_{out}$ und $L_{out}$, wo wir keine weiteren bits einsparen können, auch wenn wir beide über eine gemeinsame Verbindung laufen lassen brauchen wir immer noch 3 Zustände: Niemand sendet(00), L sendet(01), S sendet(10). Wir haben allerdings 11 frei um eine weitere, sendende Komponente hinzuzufügen.
 Bei den "in"-Bits haben wir noch $D_{in}, G_{in}, L_{in}, S_{in}$ übrig. Um hier Bits, bzw Drähte einzusparen können wir ein 3 Bit breites, gemeinsames Signal verwenden:
+
 | Signal | Effekt                                 |
 | ------ | -------------------------------------- |
 | 000    | Niemand empfängt                       |
