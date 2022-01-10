@@ -7,9 +7,10 @@
         "id": "caeb0ad904e8a155",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md"
+            "file": "DT-Projekt2.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
+                "file": "DT-Projekt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +121,8 @@
   },
   "active": "caeb0ad904e8a155",
   "lastOpenFiles": [
-    "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
     "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
     "DT-Projekt2_06.01.2022 16-39-41.excalidraw.md",
     "DT-Projekt2_06.01.2022 15-44-49.excalidraw.md",
