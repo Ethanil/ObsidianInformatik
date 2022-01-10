@@ -10,7 +10,7 @@ Falls das Lichtschranken-Kontrollsystem ein gültiges Passieren entdeckt, soll s
 
 Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstellen, der die Lichtschranke darstellt. Diesen können wir dann in seine Zustands- und Ausgabetabellen verwandeln und diese mithilfe von Espresso minimieren.
 
-![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|1500]]
+![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|700]]
 
 
 | Zustand | Sensor | Nächster Zustand |
@@ -125,6 +125,8 @@ Der Output $D_{out}$ vom Motorcontrol-Bauteil ist redundant, da wir den $D_{out}
 Da bei nicht-Endzuständen (also nicht $s_0$ oder $s_3$) nicht klar und auch nicht wichtig ist welchen Wert $D_{out}$ hat, können wir diesen mit Don't Cares markieren.
 Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und eine Zustandsübergangstabelle und Ausgabetabelle aufstellen:
 
+
+	
 | Zustand | $D_{in}$ | $R$ | Nächster Zustand |
 | ------- | -------- | --- | ---------------- |
 | $S_0$   | 0        | -   | $s_0$            |
@@ -303,54 +305,54 @@ Danach können wir erste Logik implementieren:
 
 Jetzt brauchen wir nur noch die Logik des Decoders aufschreiben und wir sind fertig.
 Folgende Werte muss der Decoder erzeugen:
-- Kalt(0) / Heißgetränk(1)
-- Kein Kaffeegetränk(0) / Kaffeegetränk(1)
+- Kalt(0) / Heißgetränk(1) [Tmp]
+- Kein Kaffeegetränk(0) / Kaffeegetränk(1) [Kf]
 - Wassermenge für das erste mal pumpen - Um das in die Tabelle aufnehmen zu können teilen wir das auf in:
-	- Wassermenge500
-	- Wassermenge400
-	- Wassermenge250
--  Kein Zucker(0) / Zucker(1)
-- Kein Eis(0) / Eis(1)
-- Kein Sirup(0) / Sirup(1)
+	- Wassermenge500 [500]
+	- Wassermenge400[400]
+	- Wassermenge250[250]
+-  Kein Zucker(0) / Zucker(1) [Zkr]
+- Kein Eis(0) / Eis(1) [Eis]
+- Kein Sirup(0) / Sirup(1) [Srp]
 - Welchen Sirup (Cola/Orange/Zitrone) - Auch hier müssen wir aufteilen:
-	- Sirupsorte_Bit1
-	- Sirupsorte_Bit0
-- Kein Milchkaffee(0) / Milchkaffee(1)
+	- Sirupsorte_Bit1 [Bt1]
+	- Sirupsorte_Bit0[Bt2]
+- Kein Milchkaffee(0) / Milchkaffee(1) [MKf]
 
-| Getränkecode | Temperatur | Kaffeegetränk | Wassermenge500 | Wassermenge400 | Wassermenge250 | Zucker | Eis | Sirup | Sirupsorte_Bit1 | Sirupsorte_Bit0 | Milchkaffee |
-| ------------ | ---------- | ------------- | -------------- | -------------- | -------------- | ------ | --- | ----- | --------------- | --------------- | ----------- |
-| 00000        | 0          | 0             | 1              | 0              | 0              | 0      | 0   | 0     | -               | -               | 0           |
-| 00001        | 0          | 0             | 1              | 0              | 0              | 0      | 1   | 0     | -               | -               | 0           |
-| 00010        | 0          | 0             | 1              | 0              | 0              | 1      | 0   | 0     | -               | -               | 0           |
-| 00011        | 0          | 0             | 1              | 0              | 0              | 1      | 1   | 0     | -               | -               | 0           |
-| 00100        | 0          | 0             | 0              | 1              | 0              | 0      | 0   | 1     | 0               | 1               | 0           |
-| 00101        | 0          | 0             | 0              | 1              | 0              | 0      | 1   | 1     | 0               | 1               | 0           |
-| 00110        | 0          | 0             | 0              | 1              | 0              | 1      | 0   | 1     | 0               | 1               | 0           |
-| 00111        | 0          | 0             | 0              | 1              | 0              | 1      | 1   | 1     | 0               | 1               | 0           |
-| 01000        | 0          | 0             | 0              | 1              | 0              | 0      | 0   | 1     | 1               | 0               | 0           |
-| 01001        | 0          | 0             | 0              | 1              | 0              | 0      | 1   | 1     | 1               | 0               | 0           |
-| 01010        | 0          | 0             | 0              | 1              | 0              | 1      | 0   | 1     | 1               | 0               | 0           |
-| 01011        | 0          | 0             | 0              | 1              | 0              | 1      | 1   | 1     | 1               | 0               | 0           |
-| 01100        | 0          | 0             | 0              | 1              | 0              | 0      | 0   | 1     | 1               | 1               | 0           |
-| 01101        | 0          | 0             | 0              | 1              | 0              | 0      | 1   | 1     | 1               | 1               | 0           |
-| 01110        | 0          | 0             | 0              | 1              | 0              | 1      | 0   | 1     | 1               | 1               | 0           |
-| 01111        | 0          | 0             | 0              | 1              | 0              | 1      | 1   | 1     | 1               | 1               | 0           |
-| 10000        | 1          | 1             | 1              | 0              | 0              | 0      | 0   | 0     | -               | -               | 0           |
-| 10001        | 1          | 1             | 1              | 0              | 0              | 0      | 1   | 0     | -               | -               | 0           |
-| 10010        | 1          | 1             | 1              | 0              | 0              | 1      | 0   | 0     | -               | -               | 0           |
-| 10011        | 1          | 1             | 1              | 0              | 0              | 1      | 1   | 0     | -               | -               | 0           |
-| 10100        | 1          | 1             | 0              | 0              | 1              | 0      | 0   | 0     | -               | -               | 1           |
-| 10101        | 1          | 1             | 0              | 0              | 1              | 0      | 1   | 0     | -               | -               | 1           |
-| 10110        | 1          | 1             | 0              | 0              | 1              | 1      | 0   | 0     | -               | -               | 1           |
-| 10111        | 1          | 1             | 0              | 0              | 1              | 1      | 1   | 0     | -               | -               | 1           |
-| 11000        | 1          | 1             | 0              | 0              | 1              | 0      | 0   | 0     | -               | -               | 1           |
-| 11001        | 1          | 1             | 0              | 0              | 1              | 0      | 1   | 0     | -               | -               | 1           |
-| 11010        | 1          | 1             | 0              | 0              | 1              | 1      | 0   | 0     | -               | -               | 1           |
-| 11011        | 1          | 1             | 0              | 0              | 1              | 1      | 1   | 0     | -               | -               | 1           |
-| 11100        | 1          | 0             | 1              | 0              | 0              | 0      | 0   | 0     | -               | -               | 0           |
-| 11101        | 1          | 0             | 1              | 0              | 0              | 0      | 1   | 0     | -               | -               | 0           |
-| 11110        | 1          | 0             | 1              | 0              | 0              | 1      | 0   | 0     | -               | -               | 0           |
-| 11111        | 1          | 0             | 1              | 0              | 0              | 1      | 1   | 0     | -               | -               | 0           |
+| Getränkecode | Tmp | Kf  | 500 | 400 | 250 | zKR | Eis | Srp | Bt1 | Bt2 | MKf |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 00000        | 0   | 0   | 1   | 0   | 0   | 0   | 0   | 0   | -   | -   | 0   |
+| 00001        | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 0   | -   | -   | 0   |
+| 00010        | 0   | 0   | 1   | 0   | 0   | 1   | 0   | 0   | -   | -   | 0   |
+| 00011        | 0   | 0   | 1   | 0   | 0   | 1   | 1   | 0   | -   | -   | 0   |
+| 00100        | 0   | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 0   | 1   | 0   |
+| 00101        | 0   | 0   | 0   | 1   | 0   | 0   | 1   | 1   | 0   | 1   | 0   |
+| 00110        | 0   | 0   | 0   | 1   | 0   | 1   | 0   | 1   | 0   | 1   | 0   |
+| 00111        | 0   | 0   | 0   | 1   | 0   | 1   | 1   | 1   | 0   | 1   | 0   |
+| 01000        | 0   | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 1   | 0   | 0   |
+| 01001        | 0   | 0   | 0   | 1   | 0   | 0   | 1   | 1   | 1   | 0   | 0   |
+| 01010        | 0   | 0   | 0   | 1   | 0   | 1   | 0   | 1   | 1   | 0   | 0   |
+| 01011        | 0   | 0   | 0   | 1   | 0   | 1   | 1   | 1   | 1   | 0   | 0   |
+| 01100        | 0   | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 1   | 1   | 0   |
+| 01101        | 0   | 0   | 0   | 1   | 0   | 0   | 1   | 1   | 1   | 1   | 0   |
+| 01110        | 0   | 0   | 0   | 1   | 0   | 1   | 0   | 1   | 1   | 1   | 0   |
+| 01111        | 0   | 0   | 0   | 1   | 0   | 1   | 1   | 1   | 1   | 1   | 0   |
+| 10000        | 1   | 1   | 1   | 0   | 0   | 0   | 0   | 0   | -   | -   | 0   |
+| 10001        | 1   | 1   | 1   | 0   | 0   | 0   | 1   | 0   | -   | -   | 0   |
+| 10010        | 1   | 1   | 1   | 0   | 0   | 1   | 0   | 0   | -   | -   | 0   |
+| 10011        | 1   | 1   | 1   | 0   | 0   | 1   | 1   | 0   | -   | -   | 0   |
+| 10100        | 1   | 1   | 0   | 0   | 1   | 0   | 0   | 0   | -   | -   | 1   |
+| 10101        | 1   | 1   | 0   | 0   | 1   | 0   | 1   | 0   | -   | -   | 1   |
+| 10110        | 1   | 1   | 0   | 0   | 1   | 1   | 0   | 0   | -   | -   | 1   |
+| 10111        | 1   | 1   | 0   | 0   | 1   | 1   | 1   | 0   | -   | -   | 1   |
+| 11000        | 1   | 1   | 0   | 0   | 1   | 0   | 0   | 0   | -   | -   | 1   |
+| 11001        | 1   | 1   | 0   | 0   | 1   | 0   | 1   | 0   | -   | -   | 1   |
+| 11010        | 1   | 1   | 0   | 0   | 1   | 1   | 0   | 0   | -   | -   | 1   |
+| 11011        | 1   | 1   | 0   | 0   | 1   | 1   | 1   | 0   | -   | -   | 1   |
+| 11100        | 1   | 0   | 1   | 0   | 0   | 0   | 0   | 0   | -   | -   | 0   |
+| 11101        | 1   | 0   | 1   | 0   | 0   | 0   | 1   | 0   | -   | -   | 0   |
+| 11110        | 1   | 0   | 1   | 0   | 0   | 1   | 0   | 0   | -   | -   | 0   |
+| 11111        | 1   | 0   | 1   | 0   | 0   | 1   | 1   | 0   | -   | -   | 0   |
 
 Die 5 Bits können wir in $s_4-s_0$ zerlegen und erhalten damit folgendes (Da wir die Codierung schlau gewählt haben, fällt uns das Decodieren einfach):
 Temperatur = $s_4$
@@ -369,7 +371,7 @@ Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 
 Jetzt müssen wir nur alles zusammen setzen:
 
-![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md]]
+![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
 
 
 ## Zentrale Kontrolleinheit (9 PP)  

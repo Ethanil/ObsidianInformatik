@@ -2183,38 +2183,38 @@ least significant bit ^HZS0Zm3E
 			"verticalAlign": "top"
 		},
 		{
-			"id": "Yyhjpqfx",
 			"type": "text",
-			"x": -200.74931184622773,
-			"y": 205.56285275766186,
-			"width": 23,
-			"height": 46,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 886321302,
+			"isDeleted": false,
+			"id": "Yyhjpqfx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -200.74931184622773,
+			"y": 205.56285275766186,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 46,
+			"seed": 1868103882,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1868103882,
-			"version": 6,
-			"versionNonce": 886321302,
-			"isDeleted": false,
-			"boundElementIds": null,
-			"text": "+",
-			"rawText": "+",
+			"boundElementIds": [],
 			"fontSize": 36,
 			"fontFamily": 1,
+			"text": "+",
+			"rawText": "+",
+			"baseline": 32,
 			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 32
+			"verticalAlign": "middle"
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -2239,7 +2239,7 @@ least significant bit ^HZS0Zm3E
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125.1146812714194 699.8092928799721" width="1125.1146812714194" height="699.8092928799721" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125.1146812714194 699.8092928799721" width="1125.1146812714194" height="699.8092928799721">
 	<!-- svg-source:excalidraw -->
 
 	<defs>

@@ -4774,7 +4774,7 @@ oder in unsere Logik einarbeiten ^r9smJ5bw
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -4799,7 +4799,7 @@ oder in unsere Logik einarbeiten ^r9smJ5bw
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1826.4511231227525 1921.1872777897563" width="1826.4511231227525" height="1921.1872777897563" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1826.4511231227525 1921.1872777897563" width="1826.4511231227525" height="1921.1872777897563">
 	<!-- svg-source:excalidraw -->
 
 	<defs>

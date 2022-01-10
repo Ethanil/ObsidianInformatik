@@ -14388,7 +14388,7 @@ out ^pptgsU2m
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -14413,7 +14413,7 @@ out ^pptgsU2m
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5202.698402041483 4019.2064077592813" width="5202.698402041483" height="4019.2064077592813" filter="invert(93%) hue-rotate(180deg)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5202.698402041483 4019.2064077592813" width="5202.698402041483" height="4019.2064077592813">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
