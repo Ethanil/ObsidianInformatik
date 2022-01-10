@@ -335,6 +335,8 @@ Zuerst können wir uns der Übersichtshalber alle Bauteile in der richtigen Eben
 Danach können wir erste Logik implementieren:
 ![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md|700]]
 
+<div style="page-break-after: always;"></div>
+
 Jetzt brauchen wir nur noch die Logik des Decoders aufschreiben und wir sind fertig.
 Folgende Werte muss der Decoder erzeugen:
 - Kalt(0) / Heißgetränk(1) [Tmp]
