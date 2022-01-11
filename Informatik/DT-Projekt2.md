@@ -403,7 +403,7 @@ Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 
 ![[DT-Projekt2_08.01.2022 01-18-46.excalidraw.md|700]]
 
-Jetzt müssen wir nur alles zusammen setzen:
+Jetzt müssen wir nur alles zusammen setzen und die Register für die Pipelines hinzufügen:
 
 ![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
 

@@ -169,15 +169,25 @@ CLK ^CKNqZWw6
 
 CLK ^ab1raAdU
 
-9s ^04WoLykt
+9s ^6SOj2Vsg
 
-Wasser mit Eis: ^a1MYaPjP
+Wasser mit Eis: ^nB7Uw6Tq
 
-Sirup mit Zucker und Eis: ^TbbDFm5Q
+Sirup mit Zucker und Eis: ^yPBa0rYh
 
-Milchkaffee: ^oeHyXffi
+Milchkaffee: ^22rE51qa
 
-Kaltgetränk ^iSbn2tmx
+Kaltgetränk: ^dPswZPHs
+
+Heißgetränk: ^uC199CRS
+
+3,5s ^NyylX9H2
+
+7s ^9MF2I6Qk
+
+5,6s+0,37s+1,4s=7,37s ^R4PIGISd
+
+3,5s+0,31s+4,5s=8,31s ^7Yxhgng7
 
 %%
 # Drawing
@@ -10845,10 +10855,10 @@ Kaltgetränk ^iSbn2tmx
 			"endArrowhead": null
 		},
 		{
-			"id": "04WoLykt",
+			"id": "6SOj2Vsg",
 			"type": "text",
-			"x": 256.1892022043885,
-			"y": -835.5114543864938,
+			"x": 526.6271294504822,
+			"y": -931.362932963154,
 			"width": 41,
 			"height": 46,
 			"angle": 0,
@@ -10862,8 +10872,8 @@ Kaltgetränk ^iSbn2tmx
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 159750413,
-			"version": 47,
-			"versionNonce": 703872269,
+			"version": 84,
+			"versionNonce": 426266659,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "9s",
@@ -10875,7 +10885,7 @@ Kaltgetränk ^iSbn2tmx
 			"baseline": 32
 		},
 		{
-			"id": "a1MYaPjP",
+			"id": "nB7Uw6Tq",
 			"type": "text",
 			"x": 310.52096896872354,
 			"y": -307.81879945892433,
@@ -10905,7 +10915,7 @@ Kaltgetränk ^iSbn2tmx
 			"baseline": 32
 		},
 		{
-			"id": "TbbDFm5Q",
+			"id": "yPBa0rYh",
 			"type": "text",
 			"x": 312.53345065817666,
 			"y": -247.87075563568214,
@@ -10935,7 +10945,7 @@ Kaltgetränk ^iSbn2tmx
 			"baseline": 32
 		},
 		{
-			"id": "oeHyXffi",
+			"id": "22rE51qa",
 			"type": "text",
 			"x": 316.00863986716104,
 			"y": -176.45988985199074,
@@ -10965,11 +10975,11 @@ Kaltgetränk ^iSbn2tmx
 			"baseline": 32
 		},
 		{
-			"id": "iSbn2tmx",
+			"id": "dPswZPHs",
 			"type": "text",
 			"x": 280.5481296132548,
 			"y": -928.939748250428,
-			"width": 208,
+			"width": 216,
 			"height": 46,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -10982,12 +10992,162 @@ Kaltgetränk ^iSbn2tmx
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1780213219,
-			"version": 13,
-			"versionNonce": 1294786467,
+			"version": 14,
+			"versionNonce": 273457165,
 			"isDeleted": false,
 			"boundElementIds": null,
-			"text": "Kaltgetränk",
-			"rawText": "Kaltgetränk",
+			"text": "Kaltgetränk:",
+			"rawText": "Kaltgetränk:",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "uC199CRS",
+			"type": "text",
+			"x": 274.0852695058329,
+			"y": -863.939748250428,
+			"width": 211,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1306656237,
+			"version": 29,
+			"versionNonce": 1190608269,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Heißgetränk:",
+			"rawText": "Heißgetränk:",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "NyylX9H2",
+			"type": "text",
+			"x": 521.3104587148173,
+			"y": -865.6253866781624,
+			"width": 76,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1912929869,
+			"version": 15,
+			"versionNonce": 1452810573,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "3,5s",
+			"rawText": "3,5s",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "9MF2I6Qk",
+			"type": "text",
+			"x": 793.1174045155985,
+			"y": -309.9573187460335,
+			"width": 39,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1443885581,
+			"version": 56,
+			"versionNonce": 1636508067,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "7s",
+			"rawText": "7s",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "R4PIGISd",
+			"type": "text",
+			"x": 799.9885898183329,
+			"y": -251.11813112396317,
+			"width": 393,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 930305251,
+			"version": 23,
+			"versionNonce": 830922819,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "5,6s+0,37s+1,4s=7,37s",
+			"rawText": "5,6s+0,37s+1,4s=7,37s",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "7Yxhgng7",
+			"type": "text",
+			"x": 791.0800509999735,
+			"y": -188.25924440521317,
+			"width": 395,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 273275523,
+			"version": 69,
+			"versionNonce": 1304242531,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "3,5s+0,31s+4,5s=8,31s",
+			"rawText": "3,5s+0,31s+4,5s=8,31s",
 			"fontSize": 36,
 			"fontFamily": 1,
 			"textAlign": "left",
@@ -11021,7 +11181,7 @@ Kaltgetränk ^iSbn2tmx
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2166.1901441853065 2354.9839313010466" width="2166.1901441853065" height="2354.9839313010466">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2601.6452833454628 2354.9839313010466" width="2601.6452833454628" height="2354.9839313010466">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -12125,11 +12285,16 @@ Kaltgetränk ^iSbn2tmx
 			<path d="M0 0 C0.57 51.84, 1.14 103.68, 1.52 138.45 M0 0 C0.47 42.32, 0.93 84.64, 1.52 138.45" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(1654.8458957315183 789.8772953642708) rotate(0 20.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">9s</text></g>
+	<g transform="translate(1925.283822977612 694.0258167876107) rotate(0 20.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">9s</text></g>
 	<g transform="translate(1709.1776624958534 1317.5699502918403) rotate(0 136 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wasser mit Eis:</text></g>
 	<g transform="translate(1711.1901441853065 1377.5179941150825) rotate(0 222.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Sirup mit Zucker und Eis:</text></g>
 	<g transform="translate(1714.6653333942909 1448.928859898774) rotate(0 102.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Milchkaffee:</text></g>
-	<g transform="translate(1679.2048231403846 696.4490015003366) rotate(0 104 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kaltgetränk</text></g>
+	<g transform="translate(1679.2048231403846 696.4490015003366) rotate(0 108 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Kaltgetränk:</text></g>
+	<g transform="translate(1672.7419630329628 761.4490015003366) rotate(0 105.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Heißgetränk:</text></g>
+	<g transform="translate(1919.9671522419471 759.7633630726023) rotate(0 38 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3,5s</text></g>
+	<g transform="translate(2191.7740980427284 1315.4314310047312) rotate(0 19.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">7s</text></g>
+	<g transform="translate(2198.6452833454628 1374.2706186268015) rotate(0 196.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">5,6s+0,37s+1,4s=7,37s</text></g>
+	<g transform="translate(2189.7367445271034 1437.1295053455515) rotate(0 197.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">3,5s+0,31s+4,5s=8,31s</text></g>
 </svg>
 ```
 %%
