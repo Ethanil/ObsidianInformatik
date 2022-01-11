@@ -292,7 +292,7 @@ Definieren Sie eine Kodierung, die alle Getränkekonfigurationen abdeckt. Existi
 
 <div style="page-break-after: always;"></div>
 
-Für eine Kodierung können wir uns eine Art Baum vorstellen, bei der jeweils andere Verzweigungen haben:
+Für eine Kodierung können wir uns eine Art Baum vorstellen:
 ![[DT-Projekt2_07.01.2022 13-28-02.excalidraw.md|700]]
 Wir kodieren also alle Getränke in 5 Bits.
 Ein paar Beispiele:
@@ -407,6 +407,8 @@ Jetzt müssen wir nur alles zusammen setzen und die Register für die Pipelines 
 
 ![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
 
+Wenn wir die Verzögerung der Gatter unbeachtet lassen(da diese um ein Vielfaches kleiner sind als die hier verwendeten Bausteine) können wir $f_{CLK}$ ausrechnen mit
+$f_{CLK}\leq min(\frac{1}{9}s,\frac{1}{8,31}s)=0,111Hz$, also haben wir eine Maximale Frequenz von $0,111Hz$ und eine Latenz von $2*9s=18s$, also können wir 1 Getränk alle 9 Sekunden erzeugen und es dauert 18 Sekunden bis ein angefordetes Getränk von der Maschine bearbeitet wurde.
 
 ## Zentrale Kontrolleinheit (9 PP)  
 In dieser Aufgabe entwerfen Sie die zentrale Kontrolleinheit für das System. Diese ist am Bus mittels der Eingänge $X_0, X_1$ und Ausgänge $Y_0, \dotso , Y_{n−1}$ angeschlossen. Von der zentralen Kontrolleinheit erhält der Bus für jede Komponente, an die er angeschlossen ist, bis zu zwei weitere Steuersignale, die nicht auf dem Schaltplan im Prolog eingezeichnet sind und angeben, ob die jeweilige Komponente senden oder empfangen soll (oder nichts von beidem, wenn beide Signale aus sind). Benennen Sie diese Ausgänge $C_{in}, C_{out}$ für die Kontrolleinheit, $A_{in}$ für das Display, $S_{in}, S_{out}$ für die Schiebetür,  
