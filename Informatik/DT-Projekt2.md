@@ -406,6 +406,7 @@ Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 Jetzt müssen wir nur alles zusammen setzen und die Register für die Pipelines hinzufügen:
 
 ![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
+![[DT-Projekt2_12.01.2022 12-15-01.excalidraw.md]]
 
 Wenn wir die Verzögerung der Gatter unbeachtet lassen(da diese um ein Vielfaches kleiner sind als die hier verwendeten Bausteine) können wir $f_{CLK}$ ausrechnen mit
 $f_{CLK}\leq min(\frac{1}{9}s,\frac{1}{8,31}s)=0,111Hz$, also haben wir eine Maximale Frequenz von $0,111Hz$ und eine Latenz von $2*9s=18s$, also können wir 1 Getränk alle 9 Sekunden erzeugen und es dauert 18 Sekunden bis ein angefordetes Getränk von der Maschine bearbeitet wurde.
