@@ -100,6 +100,8 @@ also angefangen mit Y ^I8wYoRtY
 Wenn mehrere Drähte aus und-Gattern herausgehen, sind es auch immer so viele
 und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^Szlz9oFW
 
+0 ^5IaExHkf
+
 %%
 # Drawing
 ```json
@@ -110,8 +112,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 	"elements": [
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 672731377,
+			"version": 298,
+			"versionNonce": 1513463509,
 			"isDeleted": false,
 			"id": "Eq8o3e5V",
 			"fillStyle": "hachure",
@@ -142,8 +144,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 1316057759,
+			"version": 200,
+			"versionNonce": 1150821627,
 			"isDeleted": false,
 			"id": "TbqwX4z9",
 			"fillStyle": "hachure",
@@ -174,8 +176,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 562809553,
+			"version": 187,
+			"versionNonce": 203750453,
 			"isDeleted": false,
 			"id": "exyxlDES",
 			"fillStyle": "hachure",
@@ -206,8 +208,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "rectangle",
-			"version": 223,
-			"versionNonce": 1711785663,
+			"version": 240,
+			"versionNonce": 1910492571,
 			"isDeleted": false,
 			"id": "8RTWzRQayX6dQeoYZYIAC",
 			"fillStyle": "hachure",
@@ -234,8 +236,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 877414577,
+			"version": 256,
+			"versionNonce": 1996598677,
 			"isDeleted": false,
 			"id": "6m7MzbUX",
 			"fillStyle": "hachure",
@@ -266,8 +268,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 1006540511,
+			"version": 194,
+			"versionNonce": 896098875,
 			"isDeleted": false,
 			"id": "6kcQzdlM",
 			"fillStyle": "hachure",
@@ -298,8 +300,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 2046954129,
+			"version": 179,
+			"versionNonce": 973157109,
 			"isDeleted": false,
 			"id": "wDjGnmap",
 			"fillStyle": "hachure",
@@ -330,8 +332,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 652632831,
+			"version": 195,
+			"versionNonce": 1209492187,
 			"isDeleted": false,
 			"id": "Op2KgJhs",
 			"fillStyle": "hachure",
@@ -362,8 +364,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 1801752689,
+			"version": 239,
+			"versionNonce": 1906904149,
 			"isDeleted": false,
 			"id": "ZDovLWZC",
 			"fillStyle": "hachure",
@@ -394,8 +396,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 1463790367,
+			"version": 222,
+			"versionNonce": 578572155,
 			"isDeleted": false,
 			"id": "3dciXFif",
 			"fillStyle": "hachure",
@@ -426,8 +428,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "rectangle",
-			"version": 207,
-			"versionNonce": 2117818961,
+			"version": 224,
+			"versionNonce": 231651765,
 			"isDeleted": false,
 			"id": "T7XnphdVx4TM-sm3OhRzk",
 			"fillStyle": "hachure",
@@ -451,8 +453,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 186,
-			"versionNonce": 427487039,
+			"version": 203,
+			"versionNonce": 114993179,
 			"isDeleted": false,
 			"id": "l4UMxBgR",
 			"fillStyle": "hachure",
@@ -483,8 +485,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 56485937,
+			"version": 165,
+			"versionNonce": 1737997077,
 			"isDeleted": false,
 			"id": "6unaynyr",
 			"fillStyle": "hachure",
@@ -515,8 +517,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "rectangle",
-			"version": 226,
-			"versionNonce": 1475915615,
+			"version": 243,
+			"versionNonce": 1260711099,
 			"isDeleted": false,
 			"id": "nbV67E1bpRsT0Dyr-V6X2",
 			"fillStyle": "hachure",
@@ -543,8 +545,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 1152629265,
+			"version": 468,
+			"versionNonce": 393842805,
 			"isDeleted": false,
 			"id": "chsrPaw5",
 			"fillStyle": "hachure",
@@ -575,8 +577,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 352,
-			"versionNonce": 1560898431,
+			"version": 369,
+			"versionNonce": 1660788059,
 			"isDeleted": false,
 			"id": "tkC8VDTo",
 			"fillStyle": "hachure",
@@ -607,8 +609,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "rectangle",
-			"version": 417,
-			"versionNonce": 1664372721,
+			"version": 434,
+			"versionNonce": 188332501,
 			"isDeleted": false,
 			"id": "K8w3X53J9udRapoHeLdg8",
 			"fillStyle": "hachure",
@@ -635,8 +637,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 257,
-			"versionNonce": 1424860063,
+			"version": 274,
+			"versionNonce": 699873787,
 			"isDeleted": false,
 			"id": "EYfOoq8z",
 			"fillStyle": "hachure",
@@ -667,8 +669,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 462,
-			"versionNonce": 1961306577,
+			"version": 479,
+			"versionNonce": 1542305589,
 			"isDeleted": false,
 			"id": "wOvP7S3x",
 			"fillStyle": "hachure",
@@ -700,8 +702,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 496,
-			"versionNonce": 265672639,
+			"version": 513,
+			"versionNonce": 1817461403,
 			"isDeleted": false,
 			"id": "rXyn35uq",
 			"fillStyle": "hachure",
@@ -733,8 +735,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 352,
-			"versionNonce": 1659094961,
+			"version": 369,
+			"versionNonce": 1677396117,
 			"isDeleted": false,
 			"id": "rrOHp1SY",
 			"fillStyle": "hachure",
@@ -766,8 +768,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 425,
-			"versionNonce": 65177567,
+			"version": 442,
+			"versionNonce": 864499515,
 			"isDeleted": false,
 			"id": "8OmjgEg3",
 			"fillStyle": "hachure",
@@ -799,8 +801,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 369,
-			"versionNonce": 122792337,
+			"version": 386,
+			"versionNonce": 353840629,
 			"isDeleted": false,
 			"id": "ukT1THNo",
 			"fillStyle": "hachure",
@@ -832,8 +834,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 446,
-			"versionNonce": 254030847,
+			"version": 463,
+			"versionNonce": 1303549915,
 			"isDeleted": false,
 			"id": "O1WN0OCC",
 			"fillStyle": "hachure",
@@ -865,8 +867,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 405,
-			"versionNonce": 191385457,
+			"version": 422,
+			"versionNonce": 239576917,
 			"isDeleted": false,
 			"id": "xy6XwkaJ",
 			"fillStyle": "hachure",
@@ -898,8 +900,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 472,
-			"versionNonce": 2040224799,
+			"version": 489,
+			"versionNonce": 417916027,
 			"isDeleted": false,
 			"id": "PG6YoP2B",
 			"fillStyle": "hachure",
@@ -931,8 +933,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 91175249,
+			"version": 398,
+			"versionNonce": 1910633653,
 			"isDeleted": false,
 			"id": "oTtMsI17",
 			"fillStyle": "hachure",
@@ -964,8 +966,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 452,
-			"versionNonce": 926449727,
+			"version": 469,
+			"versionNonce": 216833307,
 			"isDeleted": false,
 			"id": "3gBNb8Mk",
 			"fillStyle": "hachure",
@@ -997,8 +999,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 1455286065,
+			"version": 423,
+			"versionNonce": 2072745493,
 			"isDeleted": false,
 			"id": "88qGOyPo",
 			"fillStyle": "hachure",
@@ -1030,8 +1032,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 464,
-			"versionNonce": 1776033887,
+			"version": 481,
+			"versionNonce": 87048635,
 			"isDeleted": false,
 			"id": "Spl4BbZt",
 			"fillStyle": "hachure",
@@ -1063,8 +1065,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 337,
-			"versionNonce": 1237047569,
+			"version": 354,
+			"versionNonce": 1446644597,
 			"isDeleted": false,
 			"id": "0LelZ2yc",
 			"fillStyle": "hachure",
@@ -1096,8 +1098,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 389,
-			"versionNonce": 592886911,
+			"version": 406,
+			"versionNonce": 1255559771,
 			"isDeleted": false,
 			"id": "ANAol7en",
 			"fillStyle": "hachure",
@@ -1129,8 +1131,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 465,
-			"versionNonce": 1876987633,
+			"version": 482,
+			"versionNonce": 842192085,
 			"isDeleted": false,
 			"id": "DZ3nTJrZ",
 			"fillStyle": "hachure",
@@ -1162,8 +1164,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 473,
-			"versionNonce": 1734923423,
+			"version": 490,
+			"versionNonce": 1588678395,
 			"isDeleted": false,
 			"id": "Wi1wjMaw",
 			"fillStyle": "hachure",
@@ -1195,8 +1197,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 461,
-			"versionNonce": 1068730577,
+			"version": 478,
+			"versionNonce": 453734965,
 			"isDeleted": false,
 			"id": "doz8Eact",
 			"fillStyle": "hachure",
@@ -1228,8 +1230,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 449,
-			"versionNonce": 1841490111,
+			"version": 466,
+			"versionNonce": 54769563,
 			"isDeleted": false,
 			"id": "u58uWMjX",
 			"fillStyle": "hachure",
@@ -1261,8 +1263,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 417,
-			"versionNonce": 1925990065,
+			"version": 434,
+			"versionNonce": 229204885,
 			"isDeleted": false,
 			"id": "ZKH8SDy4",
 			"fillStyle": "hachure",
@@ -1294,8 +1296,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 479,
-			"versionNonce": 604338399,
+			"version": 496,
+			"versionNonce": 113249339,
 			"isDeleted": false,
 			"id": "Rw1vlofv",
 			"fillStyle": "hachure",
@@ -1327,8 +1329,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 342,
-			"versionNonce": 600983697,
+			"version": 359,
+			"versionNonce": 1312958709,
 			"isDeleted": false,
 			"id": "gX4uHkRX",
 			"fillStyle": "hachure",
@@ -1360,8 +1362,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1874920703,
+			"version": 438,
+			"versionNonce": 1292422363,
 			"isDeleted": false,
 			"id": "MBw3Btij",
 			"fillStyle": "hachure",
@@ -1393,8 +1395,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "rectangle",
-			"version": 288,
-			"versionNonce": 746393201,
+			"version": 310,
+			"versionNonce": 2119909973,
 			"isDeleted": false,
 			"id": "zY6mCIL6Gw06a91bWEw5l",
 			"fillStyle": "hachure",
@@ -1417,7 +1419,6 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"boundElementIds": [
 				"u-_ZmPsH4mw-r5aTddPHc",
 				"lrhqZ4mOPlUP9-tM1Y-Wy",
-				"TZLP9NlPDx0GtRWMjfQyx",
 				"hRP1Ta3cSpuaaO08DpX_4",
 				"Kv0HVQ-yLmmjDvPjxYQG9",
 				"B4Sj6F1uPt40XMlorT-vh",
@@ -1425,889 +1426,14 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 				"Qzw4MdauldqTU7cQysxJS",
 				"qWfECpGIPdRxNRw20aBVP",
 				"TL8QUXVsPfxsZsYe1bztF",
-				"Q02atn0B4Z9nNVxB0pu1q"
+				"Q02atn0B4Z9nNVxB0pu1q",
+				"TZLP9NlPDx0GtRWMjfQyx"
 			]
 		},
 		{
 			"type": "line",
-			"version": 573,
-			"versionNonce": 813042975,
-			"isDeleted": false,
-			"id": "FUkwwwBH_aI8Ie5rzl_1Q",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -819.4456829670899,
-			"y": -568.9548316131842,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40.55561020687034,
-			"height": 0,
-			"seed": 532105297,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40.55561020687034,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 584,
-			"versionNonce": 1133779025,
-			"isDeleted": false,
-			"id": "qkzFY--NOIQK6WCfD5Ebm",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -927.4514968191866,
-			"y": -582.2989007274779,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 1350361407,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 586,
-			"versionNonce": 26546495,
-			"isDeleted": false,
-			"id": "_pcg7WHq96gNS9hXugfDo",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -927.3819231688224,
-			"y": -555.2916628790723,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 724309553,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 636,
-			"versionNonce": 1525605937,
-			"isDeleted": false,
-			"id": "N7KFXC6z-GF-5LuLa5Fwp",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -873.1295745192972,
-			"y": -595.9521975466554,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 54.07414694249377,
-			"seed": 2112643423,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 700,
-			"versionNonce": 1014927711,
-			"isDeleted": false,
-			"id": "JWxeHN-HfcrIs7Yp9z_bf",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -873.1231257278605,
-			"y": -596.2077157333705,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 1854679057,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 641,
-			"versionNonce": 1031075857,
-			"isDeleted": false,
-			"id": "n-PXIM_Xiin1iMzIbThOu",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -873.1878919695582,
-			"y": -541.8420865041431,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 766958975,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 1369,
-			"versionNonce": 981667199,
-			"isDeleted": false,
-			"id": "XrOLom_A0jjW93aDlaDQ2",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -845.8277965909192,
-			"y": -595.9297919531273,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25.832248833663908,
-			"height": 54.07414694249377,
-			"seed": 1406074353,
-			"groupIds": [
-				"0_FbOk7I5i3QeqPnLI3j3"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					19.566976282772497,
-					5.32546468078114
-				],
-				[
-					25.832248833663908,
-					28.025065105087346
-				],
-				[
-					18.097001404686747,
-					49.23061697031058
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 479,
-			"versionNonce": 1830669809,
-			"isDeleted": false,
-			"id": "m5W8XU_Mm4wsJ3d_oKQQU",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -822.2575268108902,
-			"y": -119.24821115026509,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40.55561020687034,
-			"height": 0,
-			"seed": 1715031263,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40.55561020687034,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 490,
-			"versionNonce": 1457718687,
-			"isDeleted": false,
-			"id": "uLeNbA7Wy3pPEM8Exd9MR",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -930.2633406629869,
-			"y": -132.59228026455878,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 779465873,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 492,
-			"versionNonce": 1089529809,
-			"isDeleted": false,
-			"id": "Egklymmj7mu5WiRJ60bhv",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -930.1937670126227,
-			"y": -105.58504241615321,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 1683642623,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 542,
-			"versionNonce": 818870719,
-			"isDeleted": false,
-			"id": "pCSQv-ppRL2x1NIweajyO",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -875.9414183630976,
-			"y": -146.2455770837363,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 54.07414694249377,
-			"seed": 1741879921,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 606,
-			"versionNonce": 1124451761,
-			"isDeleted": false,
-			"id": "CchbR1mI7jT2GqFJCpkOh",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -875.9349695716609,
-			"y": -146.5010952704514,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 1858396447,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 547,
-			"versionNonce": 761752031,
-			"isDeleted": false,
-			"id": "6trzOBXYrKeoUTkLPPTnv",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -875.9997358133588,
-			"y": -92.13546604122405,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 1967948881,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 1275,
-			"versionNonce": 1317267345,
-			"isDeleted": false,
-			"id": "4diBOYpah8bDmjqIt6obv",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -848.6396404347196,
-			"y": -146.2231714902082,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25.832248833663908,
-			"height": 54.07414694249377,
-			"seed": 921265471,
-			"groupIds": [
-				"zBv_7LBT_X0qBF691Ufig"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					19.566976282772497,
-					5.32546468078114
-				],
-				[
-					25.832248833663908,
-					28.025065105087346
-				],
-				[
-					18.097001404686747,
-					49.23061697031058
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 440,
-			"versionNonce": 968676863,
-			"isDeleted": false,
-			"id": "0826bp7us4kfsp1cZBmE4",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -823.7095531780778,
-			"y": -37.50550485143697,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 40.55561020687034,
-			"height": 0,
-			"seed": 230328721,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40.55561020687034,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 451,
-			"versionNonce": 1839385969,
-			"isDeleted": false,
-			"id": "vzUHr5xdeHiyo7oioNI_t",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -931.7153670301745,
-			"y": -50.849573965730656,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 674845695,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 453,
-			"versionNonce": 1288683039,
-			"isDeleted": false,
-			"id": "R8X7pTABrGZIiNtOKnhX6",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -931.6457933798104,
-			"y": -23.84233611732509,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 54.07414694249377,
-			"height": 0,
-			"seed": 297086833,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					54.07414694249377,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 503,
-			"versionNonce": 2007627601,
-			"isDeleted": false,
-			"id": "JPaw87TdS11Qrpz7_TZ72",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -877.393444730285,
-			"y": -64.50287078490817,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 54.07414694249377,
-			"seed": 1930198047,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 567,
-			"versionNonce": 697344575,
-			"isDeleted": false,
-			"id": "08XnmYYtEXDieZU0Ti6Kp",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -877.3869959388485,
-			"y": -64.75838897162328,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 1864374609,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 508,
-			"versionNonce": 1861281073,
-			"isDeleted": false,
-			"id": "KOWP-yf7QHnNKZPCdW04z",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -877.4517621805462,
-			"y": -10.392759742395924,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 27.037073471246885,
-			"height": 0,
-			"seed": 629514303,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.037073471246885,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 1236,
-			"versionNonce": 1625293407,
-			"isDeleted": false,
-			"id": "jy4afYHIF4DWq2NIeV4SX",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 90,
-			"angle": 0,
-			"x": -850.0916668019072,
-			"y": -64.48046519138006,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 25.832248833663908,
-			"height": 54.07414694249377,
-			"seed": 391300913,
-			"groupIds": [
-				"g1fBDzxu2h6oigHsJbLKj"
-			],
-			"strokeSharpness": "round",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					19.566976282772497,
-					5.32546468078114
-				],
-				[
-					25.832248833663908,
-					28.025065105087346
-				],
-				[
-					18.097001404686747,
-					49.23061697031058
-				],
-				[
-					0,
-					54.07414694249377
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 387,
-			"versionNonce": 517936913,
+			"version": 404,
+			"versionNonce": 830079349,
 			"isDeleted": false,
 			"id": "mQjtAnG85t4RlMf92TnUq",
 			"fillStyle": "hachure",
@@ -2346,8 +1472,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 398,
-			"versionNonce": 328097407,
+			"version": 415,
+			"versionNonce": 1010351195,
 			"isDeleted": false,
 			"id": "270MP60KOlM3jV_C2oD8B",
 			"fillStyle": "hachure",
@@ -2386,8 +1512,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 400,
-			"versionNonce": 2045512945,
+			"version": 417,
+			"versionNonce": 1308887765,
 			"isDeleted": false,
 			"id": "wmxFUVSI5uwiIr5ar-KPF",
 			"fillStyle": "hachure",
@@ -2426,8 +1552,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 450,
-			"versionNonce": 1952200351,
+			"version": 467,
+			"versionNonce": 204896507,
 			"isDeleted": false,
 			"id": "nyO5qDsey_ur1ie4SvdcY",
 			"fillStyle": "hachure",
@@ -2466,8 +1592,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 514,
-			"versionNonce": 933185233,
+			"version": 531,
+			"versionNonce": 1397090357,
 			"isDeleted": false,
 			"id": "jDbLkn_a_5bbOm1J_16N-",
 			"fillStyle": "hachure",
@@ -2506,8 +1632,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 455,
-			"versionNonce": 167381695,
+			"version": 472,
+			"versionNonce": 1519624603,
 			"isDeleted": false,
 			"id": "CnqODEt_jfv5APJ_1jgJI",
 			"fillStyle": "hachure",
@@ -2546,8 +1672,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1183,
-			"versionNonce": 848315569,
+			"version": 1200,
+			"versionNonce": 52763029,
 			"isDeleted": false,
 			"id": "kuy3gxv_D-WGNQCpeu8MU",
 			"fillStyle": "hachure",
@@ -2598,8 +1724,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 370,
-			"versionNonce": 822631135,
+			"version": 387,
+			"versionNonce": 8566331,
 			"isDeleted": false,
 			"id": "_K3C_9GueXMJeNbboX4vF",
 			"fillStyle": "hachure",
@@ -2638,8 +1764,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 381,
-			"versionNonce": 107382417,
+			"version": 398,
+			"versionNonce": 1188503285,
 			"isDeleted": false,
 			"id": "ZY4ZxJNq664y-O651yiIs",
 			"fillStyle": "hachure",
@@ -2678,8 +1804,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 383,
-			"versionNonce": 1578608383,
+			"version": 400,
+			"versionNonce": 216413915,
 			"isDeleted": false,
 			"id": "1m3VnFHYqK-mhb8IY9QeV",
 			"fillStyle": "hachure",
@@ -2718,8 +1844,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 433,
-			"versionNonce": 1842973809,
+			"version": 450,
+			"versionNonce": 1155627093,
 			"isDeleted": false,
 			"id": "3jM3qrv5AEnpD8SAKBM7J",
 			"fillStyle": "hachure",
@@ -2758,8 +1884,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 497,
-			"versionNonce": 531132191,
+			"version": 514,
+			"versionNonce": 240165755,
 			"isDeleted": false,
 			"id": "ujv6n5DeQLWMbljked8M1",
 			"fillStyle": "hachure",
@@ -2798,8 +1924,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 438,
-			"versionNonce": 1622201937,
+			"version": 455,
+			"versionNonce": 924427701,
 			"isDeleted": false,
 			"id": "gtAhzQhFAhO0tFQyifKH1",
 			"fillStyle": "hachure",
@@ -2838,8 +1964,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1166,
-			"versionNonce": 1613443903,
+			"version": 1183,
+			"versionNonce": 486833179,
 			"isDeleted": false,
 			"id": "0QLnxNH9Wtlv7d0QKXqys",
 			"fillStyle": "hachure",
@@ -2890,8 +2016,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 596,
-			"versionNonce": 1908663345,
+			"version": 736,
+			"versionNonce": 818577083,
 			"isDeleted": false,
 			"id": "915mPFwYBLnkLNnGi6a57",
 			"fillStyle": "hachure",
@@ -2900,8 +2026,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -934.4738554675426,
-			"y": -201.2387513218939,
+			"x": -942.2984753057125,
+			"y": -200.58667787044314,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 40.55561020687034,
@@ -2930,8 +2056,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 607,
-			"versionNonce": 1744859999,
+			"version": 747,
+			"versionNonce": 1982733941,
 			"isDeleted": false,
 			"id": "EYsdBGa_J0oeMtMIcCNUK",
 			"fillStyle": "hachure",
@@ -2940,8 +2066,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -838.2048532335159,
-			"y": -188.04349496526083,
+			"x": -846.0294730716856,
+			"y": -187.39142151381012,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 54.07414694249377,
@@ -2970,8 +2096,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 609,
-			"versionNonce": 1828337169,
+			"version": 749,
+			"versionNonce": 1646325595,
 			"isDeleted": false,
 			"id": "VYNcCqa2idLh7GfJfdeO2",
 			"fillStyle": "hachure",
@@ -2980,8 +2106,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -839.9522706755915,
-			"y": -215.55091088995684,
+			"x": -847.7768905137613,
+			"y": -214.8988374385061,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 54.07414694249377,
@@ -3010,8 +2136,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 659,
-			"versionNonce": 528002943,
+			"version": 799,
+			"versionNonce": 2918357,
 			"isDeleted": false,
 			"id": "AB_EjvxmfP1U9lEcJkb_p",
 			"fillStyle": "hachure",
@@ -3020,8 +2146,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -840.4394199949439,
-			"y": -229.50430368887217,
+			"x": -848.2640398331137,
+			"y": -228.85223023742142,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0,
@@ -3050,8 +2176,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 723,
-			"versionNonce": 894127089,
+			"version": 863,
+			"versionNonce": 1285573627,
 			"isDeleted": false,
 			"id": "RvXIR20p_PoGPprop6Pah",
 			"fillStyle": "hachure",
@@ -3060,8 +2186,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -866.8504265149605,
-			"y": -175.29366963258173,
+			"x": -874.6750463531303,
+			"y": -174.641596181131,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 27.037073471246885,
@@ -3090,8 +2216,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 664,
-			"versionNonce": 282355615,
+			"version": 804,
+			"versionNonce": 89572661,
 			"isDeleted": false,
 			"id": "_BTbDyVNicropBEplFcCv",
 			"fillStyle": "hachure",
@@ -3100,8 +2226,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -866.5777284368581,
-			"y": -230.59464464343094,
+			"x": -874.4023482750279,
+			"y": -229.9425711919802,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 27.037073471246885,
@@ -3130,8 +2256,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1392,
-			"versionNonce": 1656661457,
+			"version": 1532,
+			"versionNonce": 877335707,
 			"isDeleted": false,
 			"id": "StrmxVH6lDo1UWWQGzbny",
 			"fillStyle": "hachure",
@@ -3140,8 +2266,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 90,
 			"angle": 3.125254598176612,
-			"x": -892.0619947568324,
-			"y": -227.94875954086214,
+			"x": -899.8866145950021,
+			"y": -227.29668608941145,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 25.832248833663908,
@@ -3182,8 +2308,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 638,
-			"versionNonce": 709106623,
+			"version": 786,
+			"versionNonce": 1156847259,
 			"isDeleted": false,
 			"id": "6lb0t8EhVFNs67eCHLpMr",
 			"fillStyle": "hachure",
@@ -3222,8 +2348,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 649,
-			"versionNonce": 543933361,
+			"version": 797,
+			"versionNonce": 1156740245,
 			"isDeleted": false,
 			"id": "1KyFOAKk1YPk86zMWDCGQ",
 			"fillStyle": "hachure",
@@ -3262,8 +2388,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 651,
-			"versionNonce": 1072188383,
+			"version": 799,
+			"versionNonce": 286034747,
 			"isDeleted": false,
 			"id": "rDSFE_R4uXN99Ybl5YL8S",
 			"fillStyle": "hachure",
@@ -3302,8 +2428,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 701,
-			"versionNonce": 1249518993,
+			"version": 849,
+			"versionNonce": 1010899445,
 			"isDeleted": false,
 			"id": "hjqDLoValekJ5UU0-xe-W",
 			"fillStyle": "hachure",
@@ -3342,8 +2468,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 765,
-			"versionNonce": 1305573375,
+			"version": 913,
+			"versionNonce": 2003659739,
 			"isDeleted": false,
 			"id": "8W6Pq2aULmYNkPFbKttP3",
 			"fillStyle": "hachure",
@@ -3382,8 +2508,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 706,
-			"versionNonce": 1277250417,
+			"version": 854,
+			"versionNonce": 290722645,
 			"isDeleted": false,
 			"id": "hDcuZULUiHfeRJ-lubLQA",
 			"fillStyle": "hachure",
@@ -3422,8 +2548,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1434,
-			"versionNonce": 2046828575,
+			"version": 1582,
+			"versionNonce": 1814640763,
 			"isDeleted": false,
 			"id": "s0jjcwlAtY8z2F8MelkvM",
 			"fillStyle": "hachure",
@@ -3474,8 +2600,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 258,
-			"versionNonce": 1034466641,
+			"version": 313,
+			"versionNonce": 813752501,
 			"isDeleted": false,
 			"id": "lrhqZ4mOPlUP9-tM1Y-Wy",
 			"fillStyle": "hachure",
@@ -3488,8 +2614,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"y": 242.84382920356768,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 222.13190714518225,
-			"height": 317.22259521484375,
+			"width": 143.2337661016553,
+			"height": 316.4618937174479,
 			"seed": 1398289567,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -3513,15 +2639,15 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					-316.4618937174479
 				],
 				[
-					-222.13190714518225,
-					-317.22259521484375
+					-143.2337661016553,
+					-315.26641845703125
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 65,
-			"versionNonce": 1449444415,
+			"version": 133,
+			"versionNonce": 1023570203,
 			"isDeleted": false,
 			"id": "V2gr8f4qH7fFA8GU4IVv0",
 			"fillStyle": "hachure",
@@ -3530,12 +2656,12 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -931.6075099540333,
-			"y": -50.79630751518232,
+			"x": -852.7094125070466,
+			"y": -39.711451209378765,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.521453857421875,
-			"height": 56.293690999348996,
+			"width": 0.434722900390625,
+			"height": 59.553971063523136,
 			"seed": 1782766257,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -3551,15 +2677,15 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					0
 				],
 				[
-					1.521453857421875,
-					-56.293690999348996
+					-0.434722900390625,
+					-59.553971063523136
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 138,
-			"versionNonce": 1114104625,
+			"version": 155,
+			"versionNonce": 1600979477,
 			"isDeleted": false,
 			"id": "eH64E1RPacPSk5LFYKJLw",
 			"fillStyle": "hachure",
@@ -3604,54 +2730,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 149,
-			"versionNonce": 1658840159,
-			"isDeleted": false,
-			"id": "jmiJty6yhBRzEWWWoX2-R",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -930.0860560966114,
-			"y": -133.715415588099,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 57.054443359375,
-			"height": 12.171630859375057,
-			"seed": 1978272063,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-36.514841715494754,
-					0
-				],
-				[
-					-34.99338785807288,
-					12.171630859375057
-				],
-				[
-					-57.054443359375,
-					11.410929361979186
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 77,
-			"versionNonce": 100204767,
+			"version": 94,
+			"versionNonce": 1533777339,
 			"isDeleted": false,
 			"id": "1KWJbShkTsXetJ-hlzw8H",
 			"fillStyle": "hachure",
@@ -3692,8 +2772,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 315,
-			"versionNonce": 1329725567,
+			"version": 638,
+			"versionNonce": 2583387,
 			"isDeleted": false,
 			"id": "TZLP9NlPDx0GtRWMjfQyx",
 			"fillStyle": "hachure",
@@ -3702,12 +2782,12 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -787.0696478121064,
-			"y": -189.248379658737,
+			"x": -792.2859738444726,
+			"y": -215.3304239876992,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 166.5989685058595,
-			"height": 432.8529612223307,
+			"width": 180.9440176827569,
+			"height": 458.71761140369233,
 			"seed": 209678993,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -3715,8 +2795,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "zY6mCIL6Gw06a91bWEw5l",
-				"focus": -0.5971616014031398,
-				"gap": 2.427082848927853
+				"focus": -0.5831755658375674,
+				"gap": 3.0791563003787132
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3727,19 +2807,19 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					0
 				],
 				[
-					166.5989685058595,
-					1.521453857421875
+					177.03175136021252,
+					-0.4346793038503165
 				],
 				[
-					166.5989685058595,
-					432.8529612223307
+					180.9440176827569,
+					458.282932099842
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 774,
-			"versionNonce": 1044089585,
+			"version": 791,
+			"versionNonce": 1720133211,
 			"isDeleted": false,
 			"id": "U7Hwsuz3SMrd_laL9-YTW",
 			"fillStyle": "hachure",
@@ -3778,8 +2858,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 864,
-			"versionNonce": 2102106271,
+			"version": 881,
+			"versionNonce": 94978261,
 			"isDeleted": false,
 			"id": "bgRjga3pfawZgAH0yWtMO",
 			"fillStyle": "hachure",
@@ -3818,8 +2898,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 787,
-			"versionNonce": 21955793,
+			"version": 804,
+			"versionNonce": 1965531899,
 			"isDeleted": false,
 			"id": "CveFdgKYN5D02DALx1sjW",
 			"fillStyle": "hachure",
@@ -3858,8 +2938,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 837,
-			"versionNonce": 1118645439,
+			"version": 854,
+			"versionNonce": 215244341,
 			"isDeleted": false,
 			"id": "7Dn0vLhRSRfcT_akLnwCZ",
 			"fillStyle": "hachure",
@@ -3898,8 +2978,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 901,
-			"versionNonce": 1805140657,
+			"version": 918,
+			"versionNonce": 533695387,
 			"isDeleted": false,
 			"id": "QPyPdvRG7fW2N91BWlZ9t",
 			"fillStyle": "hachure",
@@ -3938,8 +3018,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 843,
-			"versionNonce": 1795636447,
+			"version": 860,
+			"versionNonce": 796184469,
 			"isDeleted": false,
 			"id": "8EmdWjfzNQ8oYl3etOSCH",
 			"fillStyle": "hachure",
@@ -3978,8 +3058,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1570,
-			"versionNonce": 431932561,
+			"version": 1587,
+			"versionNonce": 1253138491,
 			"isDeleted": false,
 			"id": "-Y58QVZUURUFNfW2F51L_",
 			"fillStyle": "hachure",
@@ -4030,8 +3110,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 797,
-			"versionNonce": 2045397247,
+			"version": 814,
+			"versionNonce": 2076185845,
 			"isDeleted": false,
 			"id": "ouy-3SdACGt2h1HPYmxPR",
 			"fillStyle": "hachure",
@@ -4070,8 +3150,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 809,
-			"versionNonce": 662309489,
+			"version": 826,
+			"versionNonce": 800039131,
 			"isDeleted": false,
 			"id": "pINtUSQFiMVswnqEXTUIp",
 			"fillStyle": "hachure",
@@ -4110,8 +3190,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 872,
-			"versionNonce": 752275743,
+			"version": 889,
+			"versionNonce": 490450517,
 			"isDeleted": false,
 			"id": "LWW090R1f-31hGR9Xywy0",
 			"fillStyle": "hachure",
@@ -4150,8 +3230,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 860,
-			"versionNonce": 1301386321,
+			"version": 877,
+			"versionNonce": 677170555,
 			"isDeleted": false,
 			"id": "PybkmYBiRW_Gx_NL65DhM",
 			"fillStyle": "hachure",
@@ -4190,8 +3270,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 924,
-			"versionNonce": 1027429695,
+			"version": 941,
+			"versionNonce": 851254197,
 			"isDeleted": false,
 			"id": "hvlVuGD811Zrk4jXbMyx2",
 			"fillStyle": "hachure",
@@ -4230,8 +3310,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 866,
-			"versionNonce": 1071440433,
+			"version": 883,
+			"versionNonce": 939222555,
 			"isDeleted": false,
 			"id": "xmhh62pdaByKp0gh7FxRT",
 			"fillStyle": "hachure",
@@ -4270,8 +3350,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1593,
-			"versionNonce": 1652446559,
+			"version": 1610,
+			"versionNonce": 1684659477,
 			"isDeleted": false,
 			"id": "RHE-8YiiAaT7n751pZI30",
 			"fillStyle": "hachure",
@@ -4322,8 +3402,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 938,
-			"versionNonce": 1262711825,
+			"version": 955,
+			"versionNonce": 1434315451,
 			"isDeleted": false,
 			"id": "7olMFFPIo7dbzIfH12ECQ",
 			"fillStyle": "hachure",
@@ -4362,8 +3442,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 948,
-			"versionNonce": 334123391,
+			"version": 965,
+			"versionNonce": 968323701,
 			"isDeleted": false,
 			"id": "tc58pvWZQoW9pF5xyYmYB",
 			"fillStyle": "hachure",
@@ -4402,8 +3482,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 951,
-			"versionNonce": 868010481,
+			"version": 968,
+			"versionNonce": 1971772251,
 			"isDeleted": false,
 			"id": "oXselzzm6JVO0uQS07zBO",
 			"fillStyle": "hachure",
@@ -4442,8 +3522,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 998,
-			"versionNonce": 180472223,
+			"version": 1015,
+			"versionNonce": 795565013,
 			"isDeleted": false,
 			"id": "7R5ku6KXo47vkQfMtGzq_",
 			"fillStyle": "hachure",
@@ -4482,8 +3562,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1062,
-			"versionNonce": 1381000145,
+			"version": 1079,
+			"versionNonce": 1416148987,
 			"isDeleted": false,
 			"id": "zvQ7UIlRY0vgg2ERSGVib",
 			"fillStyle": "hachure",
@@ -4522,8 +3602,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1005,
-			"versionNonce": 70598079,
+			"version": 1022,
+			"versionNonce": 228268341,
 			"isDeleted": false,
 			"id": "47mDGnPJJG3u48Xsj0xqQ",
 			"fillStyle": "hachure",
@@ -4562,8 +3642,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "line",
-			"version": 1731,
-			"versionNonce": 1930805681,
+			"version": 1748,
+			"versionNonce": 2490523,
 			"isDeleted": false,
 			"id": "gHPSsZySuCKPQZrX5F0rY",
 			"fillStyle": "hachure",
@@ -4614,8 +3694,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 241,
-			"versionNonce": 1130704351,
+			"version": 258,
+			"versionNonce": 2108435093,
 			"isDeleted": false,
 			"id": "hRP1Ta3cSpuaaO08DpX_4",
 			"fillStyle": "hachure",
@@ -4668,8 +3748,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 251,
-			"versionNonce": 1932813201,
+			"version": 268,
+			"versionNonce": 577844539,
 			"isDeleted": false,
 			"id": "Kv0HVQ-yLmmjDvPjxYQG9",
 			"fillStyle": "hachure",
@@ -4722,8 +3802,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 106,
-			"versionNonce": 1398938111,
+			"version": 123,
+			"versionNonce": 1616121845,
 			"isDeleted": false,
 			"id": "B4Sj6F1uPt40XMlorT-vh",
 			"fillStyle": "hachure",
@@ -4764,8 +3844,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 111,
-			"versionNonce": 518244721,
+			"version": 128,
+			"versionNonce": 179099099,
 			"isDeleted": false,
 			"id": "kvz2RKr8gQr-CX0FOB1oj",
 			"fillStyle": "hachure",
@@ -4806,8 +3886,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 153911839,
+			"version": 424,
+			"versionNonce": 1670924629,
 			"isDeleted": false,
 			"id": "Qzw4MdauldqTU7cQysxJS",
 			"fillStyle": "hachure",
@@ -4852,8 +3932,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 314,
-			"versionNonce": 1332441937,
+			"version": 454,
+			"versionNonce": 2011914875,
 			"isDeleted": false,
 			"id": "qWfECpGIPdRxNRw20aBVP",
 			"fillStyle": "hachure",
@@ -4866,8 +3946,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"y": 244.05261409796117,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 433.1892621945109,
-			"height": 798.5564335973271,
+			"width": 375.8088039076807,
+			"height": 818.7700130476619,
 			"seed": 416110865,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -4891,19 +3971,19 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					-766.8115539550781
 				],
 				[
-					-429.96221923828125,
-					-768.6372985839844
+					-371.9296875,
+					-767.3331952776228
 				],
 				[
-					-430.4507368038859,
-					-798.5564335973271
+					-373.0702785170557,
+					-818.7700130476619
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 181,
-			"versionNonce": 1169483327,
+			"version": 256,
+			"versionNonce": 1489917621,
 			"isDeleted": false,
 			"id": "tas14HRiK0JTk71_3HZt-",
 			"fillStyle": "hachure",
@@ -4944,54 +4024,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 141,
-			"versionNonce": 1227022641,
-			"isDeleted": false,
-			"id": "uENkuOl1MTy6IDVRzEJBe",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -968.4705018046749,
-			"y": -594.0335350268255,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 41.872983186141255,
-			"height": 12.899262801460623,
-			"seed": 1295600689,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					26.592327615489125,
-					0.5953581436821196
-				],
-				[
-					26.989215353260875,
-					12.899262801460623
-				],
-				[
-					41.872983186141255,
-					11.311658776324748
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 47,
-			"versionNonce": 2010891871,
+			"version": 64,
+			"versionNonce": 1251719189,
 			"isDeleted": false,
 			"id": "0njNG7xXLgMuqfaECCb2J",
 			"fillStyle": "hachure",
@@ -5032,8 +4066,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 43,
-			"versionNonce": 1436976881,
+			"version": 60,
+			"versionNonce": 137052091,
 			"isDeleted": false,
 			"id": "XcifbS-Q2LB_E7WImlqeX",
 			"fillStyle": "hachure",
@@ -5078,8 +4112,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 299,
-			"versionNonce": 1584505471,
+			"version": 316,
+			"versionNonce": 1391848821,
 			"isDeleted": false,
 			"id": "6I-K53BAldZYOxKZ4unqN",
 			"fillStyle": "hachure",
@@ -5120,8 +4154,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 205,
-			"versionNonce": 885983473,
+			"version": 222,
+			"versionNonce": 1908510811,
 			"isDeleted": false,
 			"id": "TL8QUXVsPfxsZsYe1bztF",
 			"fillStyle": "hachure",
@@ -5166,8 +4200,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 222,
-			"versionNonce": 171375263,
+			"version": 239,
+			"versionNonce": 824342229,
 			"isDeleted": false,
 			"id": "Q02atn0B4Z9nNVxB0pu1q",
 			"fillStyle": "hachure",
@@ -5212,8 +4246,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 48,
-			"versionNonce": 348308177,
+			"version": 65,
+			"versionNonce": 1099222267,
 			"isDeleted": false,
 			"id": "dxobpfEdG0qTje20nHheC",
 			"fillStyle": "hachure",
@@ -5254,8 +4288,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 43,
-			"versionNonce": 534531775,
+			"version": 60,
+			"versionNonce": 532075573,
 			"isDeleted": false,
 			"id": "2sS-ZpzJio9tzHZykzq-c",
 			"fillStyle": "hachure",
@@ -5296,8 +4330,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 239,
-			"versionNonce": 367280305,
+			"version": 256,
+			"versionNonce": 2063037851,
 			"isDeleted": false,
 			"id": "V3Vr3VFm9Y7xHLRz_64wE",
 			"fillStyle": "hachure",
@@ -5338,8 +4372,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 56,
-			"versionNonce": 1510088415,
+			"version": 73,
+			"versionNonce": 1788380565,
 			"isDeleted": false,
 			"id": "-ua2clHzOu9XBg7dm1Bwy",
 			"fillStyle": "hachure",
@@ -5380,8 +4414,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 40,
-			"versionNonce": 1440416401,
+			"version": 57,
+			"versionNonce": 223087163,
 			"isDeleted": false,
 			"id": "XvUtYQ220yioPbztt6QxE",
 			"fillStyle": "hachure",
@@ -5418,8 +4452,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 32,
-			"versionNonce": 1262021375,
+			"version": 49,
+			"versionNonce": 1157434101,
 			"isDeleted": false,
 			"id": "2wjb6avLtWxbMhSoMFkCo",
 			"fillStyle": "hachure",
@@ -5464,8 +4498,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 18,
-			"versionNonce": 619852113,
+			"version": 35,
+			"versionNonce": 1566903003,
 			"isDeleted": false,
 			"id": "Ldotvp9v",
 			"fillStyle": "hachure",
@@ -5496,8 +4530,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 695484081,
+			"version": 42,
+			"versionNonce": 1600775253,
 			"isDeleted": false,
 			"id": "eJyRyiD2",
 			"fillStyle": "hachure",
@@ -5529,8 +4563,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 77,
-			"versionNonce": 37114449,
+			"version": 94,
+			"versionNonce": 265615227,
 			"isDeleted": false,
 			"id": "oZEozUfn",
 			"fillStyle": "hachure",
@@ -5562,8 +4596,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 550205247,
+			"version": 46,
+			"versionNonce": 1035243957,
 			"isDeleted": false,
 			"id": "qUetwgyB",
 			"fillStyle": "hachure",
@@ -5595,8 +4629,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 1027203121,
+			"version": 151,
+			"versionNonce": 316559387,
 			"isDeleted": false,
 			"id": "PmJFdE5X",
 			"fillStyle": "hachure",
@@ -5627,8 +4661,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 786485521,
+			"version": 62,
+			"versionNonce": 1292014357,
 			"isDeleted": false,
 			"id": "ce69oW4f",
 			"fillStyle": "hachure",
@@ -5660,8 +4694,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 234,
-			"versionNonce": 1347465745,
+			"version": 319,
+			"versionNonce": 1752405179,
 			"isDeleted": false,
 			"id": "O5ubxC7WBfPIeAA2Cqj-n",
 			"fillStyle": "hachure",
@@ -5702,8 +4736,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 90,
-			"versionNonce": 534246271,
+			"version": 107,
+			"versionNonce": 969500789,
 			"isDeleted": false,
 			"id": "ZU9ov21eABDv9lbEHKLYm",
 			"fillStyle": "hachure",
@@ -5740,8 +4774,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 87,
-			"versionNonce": 1618102257,
+			"version": 104,
+			"versionNonce": 808928603,
 			"isDeleted": false,
 			"id": "wwxM1m3zlTwMobTaScBwq",
 			"fillStyle": "hachure",
@@ -5778,8 +4812,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 152,
-			"versionNonce": 1286286239,
+			"version": 244,
+			"versionNonce": 1848797077,
 			"isDeleted": false,
 			"id": "oTQ-KXfBkTzCoSBWtde9F",
 			"fillStyle": "hachure",
@@ -5788,8 +4822,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -787.7940267252546,
-			"y": -216.05646384771808,
+			"x": -793.010439950701,
+			"y": -188.67033801066464,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 717.2951993075286,
@@ -5816,8 +4850,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 206,
-			"versionNonce": 128328145,
+			"version": 260,
+			"versionNonce": 1903944187,
 			"isDeleted": false,
 			"id": "U9Miy-bZWkInBBB_SwVlP",
 			"fillStyle": "hachure",
@@ -5830,8 +4864,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"y": 69.13551483806577,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 3.0428738064241543,
-			"height": 641.5453592936198,
+			"width": 3.907863499993482,
+			"height": 666.2990122872626,
 			"seed": 340542591,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -5847,15 +4881,15 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					0
 				],
 				[
-					-3.0428738064241543,
-					-641.5453592936198
+					-3.907863499993482,
+					-666.2990122872626
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 89,
-			"versionNonce": 1185046463,
+			"version": 178,
+			"versionNonce": 7518869,
 			"isDeleted": false,
 			"id": "pekVxbQzUeRimU58X3_id",
 			"fillStyle": "hachure",
@@ -5868,8 +4902,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"y": 75.72849426921806,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 7.607218424480152,
-			"height": 650.1669141981336,
+			"width": 6.9551013764892105,
+			"height": 559.5318651956222,
 			"seed": 388851007,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -5885,15 +4919,15 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					0
 				],
 				[
-					-7.607218424480152,
-					-650.1669141981336
+					-6.9551013764892105,
+					-559.5318651956222
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 70,
-			"versionNonce": 855883697,
+			"version": 159,
+			"versionNonce": 625207963,
 			"isDeleted": false,
 			"id": "apXIap3cQsCp8lsauGgMh",
 			"fillStyle": "hachure",
@@ -5902,12 +4936,12 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -781.8171097281365,
-			"y": -568.8597727392454,
+			"x": -793.5539958888507,
+			"y": -594.2897436167566,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 504.1075642903646,
-			"height": 2.0286051432291288,
+			"width": 514.848204766764,
+			"height": 2.039930227434297,
 			"seed": 1367682769,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -5923,15 +4957,15 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 					0
 				],
 				[
-					504.1075642903646,
-					-2.0286051432291288
+					514.848204766764,
+					-2.039930227434297
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 94,
-			"versionNonce": 1071517663,
+			"version": 134,
+			"versionNonce": 825876629,
 			"isDeleted": false,
 			"id": "RpvwEAIdxSXdVW-3EGoDP",
 			"fillStyle": "hachure",
@@ -5940,8 +4974,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -783.8456809629467,
-			"y": -37.87322420951489,
+			"x": -787.1059174305808,
+			"y": -23.528131436077278,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 508.6719767252605,
@@ -5968,8 +5002,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "arrow",
-			"version": 96,
-			"versionNonce": 1085448593,
+			"version": 113,
+			"versionNonce": 4316987,
 			"isDeleted": false,
 			"id": "NAhZoG7Um80hWxYGJH3Tc",
 			"fillStyle": "hachure",
@@ -6006,8 +5040,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 289,
-			"versionNonce": 775996721,
+			"version": 306,
+			"versionNonce": 79365621,
 			"isDeleted": false,
 			"id": "I8wYoRtY",
 			"fillStyle": "hachure",
@@ -6036,8 +5070,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 149,
-			"versionNonce": 1726458929,
+			"version": 166,
+			"versionNonce": 2094546907,
 			"isDeleted": false,
 			"id": "4AezgIe6",
 			"fillStyle": "hachure",
@@ -6066,8 +5100,8 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		},
 		{
 			"type": "text",
-			"version": 340,
-			"versionNonce": 112551775,
+			"version": 357,
+			"versionNonce": 196116309,
 			"isDeleted": false,
 			"id": "Szlz9oFW",
 			"fillStyle": "hachure",
@@ -6093,6 +5127,988 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 			"baseline": 78,
 			"textAlign": "left",
 			"verticalAlign": "top"
+		},
+		{
+			"type": "line",
+			"version": 626,
+			"versionNonce": 171862683,
+			"isDeleted": false,
+			"id": "-TqjhVDLO2mkiCf_YTatY",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -948.1250365705711,
+			"y": -479.1971250832956,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 0,
+			"seed": 1733825909,
+			"groupIds": [
+				"fOhUODyiDsNDbo6HQ_MnQ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 622,
+			"versionNonce": 254238869,
+			"isDeleted": false,
+			"id": "xj3TcBw7wq9I7aLrDUyCJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -894.9830094007588,
+			"y": -506.08476257287833,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 52.91458087215781,
+			"seed": 1777723483,
+			"groupIds": [
+				"fOhUODyiDsNDbo6HQ_MnQ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					52.91458087215781
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 706,
+			"versionNonce": 1642880827,
+			"isDeleted": false,
+			"id": "h1ZJHmhp3FqFb7py8rtjy",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -895.273346917406,
+			"y": -506.2247354246114,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1191157461,
+			"groupIds": [
+				"fOhUODyiDsNDbo6HQ_MnQ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 626,
+			"versionNonce": 1224246773,
+			"isDeleted": false,
+			"id": "nWF9FsjLD10jUNsZI09ul",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -895.1524050110346,
+			"y": -453.06991321257584,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1634608379,
+			"groupIds": [
+				"fOhUODyiDsNDbo6HQ_MnQ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					-26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 685,
+			"versionNonce": 1160953819,
+			"isDeleted": false,
+			"id": "s33VC8nzH0iz75IQgQCiL",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -842.0000993486136,
+			"y": -479.162100038804,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 39.68593565411837,
+			"height": 0,
+			"seed": 1336867893,
+			"groupIds": [
+				"fOhUODyiDsNDbo6HQ_MnQ"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.68593565411837,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 577,
+			"versionNonce": 210779029,
+			"isDeleted": false,
+			"id": "lP9vRG4SVCoyfDnVYxx4G",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -935.2608746704587,
+			"y": -24.577635685974144,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 0,
+			"seed": 215079483,
+			"groupIds": [
+				"2MWUKsQBWWs7Wex1Se_LG"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 573,
+			"versionNonce": 1884468283,
+			"isDeleted": false,
+			"id": "x7if6Pme6vhpqR-snrIwK",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -882.1188475006462,
+			"y": -51.46527317555689,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 52.91458087215781,
+			"seed": 1165769461,
+			"groupIds": [
+				"2MWUKsQBWWs7Wex1Se_LG"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					52.91458087215781
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 657,
+			"versionNonce": 2056126709,
+			"isDeleted": false,
+			"id": "D6k2fXULlKQVFh2o7aXkE",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -882.4091850172937,
+			"y": -51.60524602728998,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 196139739,
+			"groupIds": [
+				"2MWUKsQBWWs7Wex1Se_LG"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 577,
+			"versionNonce": 1040610523,
+			"isDeleted": false,
+			"id": "LrhiTJ6y6XTIOrNrvy52M",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -882.288243110922,
+			"y": 1.5495761847456038,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1753420885,
+			"groupIds": [
+				"2MWUKsQBWWs7Wex1Se_LG"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					-26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 636,
+			"versionNonce": 1668029013,
+			"isDeleted": false,
+			"id": "PKZddSucqpHMe3yTED0Sp",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -829.1359374485011,
+			"y": -24.542610641482554,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 39.68593565411837,
+			"height": 0,
+			"seed": 606521211,
+			"groupIds": [
+				"2MWUKsQBWWs7Wex1Se_LG"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.68593565411837,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 562,
+			"versionNonce": 1824072059,
+			"isDeleted": false,
+			"id": "Qopdf8QpiTJuJWCpGjlX6",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -925.1010061576234,
+			"y": -118.80963903418848,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 0,
+			"seed": 1481757621,
+			"groupIds": [
+				"UryHnk7iRb7zeYGcgLl3E"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 558,
+			"versionNonce": 805308341,
+			"isDeleted": false,
+			"id": "1uU9fx6wuicLutzu2c5Uu",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -871.9589789878113,
+			"y": -145.69727652377122,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 52.91458087215781,
+			"seed": 1831743003,
+			"groupIds": [
+				"UryHnk7iRb7zeYGcgLl3E"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					52.91458087215781
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 642,
+			"versionNonce": 1437415963,
+			"isDeleted": false,
+			"id": "VZ6_XYWjHLQPZdiRYKUGr",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -872.2493165044583,
+			"y": -145.8372493755043,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1722258709,
+			"groupIds": [
+				"UryHnk7iRb7zeYGcgLl3E"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 562,
+			"versionNonce": 309283093,
+			"isDeleted": false,
+			"id": "J6J3kqh2VMGE3kmeEum7N",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -872.1283745980871,
+			"y": -92.68242716346873,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1763160763,
+			"groupIds": [
+				"UryHnk7iRb7zeYGcgLl3E"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					-26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 621,
+			"versionNonce": 97861307,
+			"isDeleted": false,
+			"id": "9Qhpu9yQerVZymF7O8f5c",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -818.9760689356661,
+			"y": -118.77461398969689,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 39.68593565411837,
+			"height": 0,
+			"seed": 461253237,
+			"groupIds": [
+				"UryHnk7iRb7zeYGcgLl3E"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.68593565411837,
+					0
+				]
+			]
+		},
+		{
+			"id": "LEyp9Xd_H3c60PQvDldrs",
+			"type": "line",
+			"x": -924.1066676548535,
+			"y": -118.4622395669196,
+			"width": 61.94479806082586,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1440394427,
+			"version": 67,
+			"versionNonce": 1546608245,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-61.94479806082586,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 565,
+			"versionNonce": 1205055323,
+			"isDeleted": false,
+			"id": "aMMxNu3eI9r4-VCw0qTuV",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -939.8025878401041,
+			"y": -592.5490886714665,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 0,
+			"seed": 1147425723,
+			"groupIds": [
+				"iKGQypwlOG6EDscKWmW3R"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 561,
+			"versionNonce": 335923157,
+			"isDeleted": false,
+			"id": "PYTwSvKno7jfqYc1JfvWw",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -886.6605606702916,
+			"y": -619.4367261610491,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 52.91458087215781,
+			"seed": 1636309365,
+			"groupIds": [
+				"iKGQypwlOG6EDscKWmW3R"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					52.91458087215781
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 645,
+			"versionNonce": 1845169147,
+			"isDeleted": false,
+			"id": "8-gHYunKnzvcOqEjZuwTq",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -886.9508981869391,
+			"y": -619.5766990127822,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 1840784475,
+			"groupIds": [
+				"iKGQypwlOG6EDscKWmW3R"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 565,
+			"versionNonce": 1275594037,
+			"isDeleted": false,
+			"id": "AjdJhxXOrFQOWydMRYlw_",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -886.8299562805674,
+			"y": -566.4218768007466,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.91458087215781,
+			"height": 26.457290436078907,
+			"seed": 76489429,
+			"groupIds": [
+				"iKGQypwlOG6EDscKWmW3R"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					52.91458087215781,
+					-26.457290436078907
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 624,
+			"versionNonce": 1548604571,
+			"isDeleted": false,
+			"id": "jc92PuPqBo6hJumsaFom3",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 90,
+			"angle": 0,
+			"x": -833.6776506181465,
+			"y": -592.5140636269748,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 39.68593565411837,
+			"height": 0,
+			"seed": 696836347,
+			"groupIds": [
+				"iKGQypwlOG6EDscKWmW3R"
+			],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					39.68593565411837,
+					0
+				]
+			]
+		},
+		{
+			"id": "T_g141z-DxAraAIrZe5uK",
+			"type": "line",
+			"x": -939.1038774762847,
+			"y": -593.1550583448222,
+			"width": 28.69022914341531,
+			"height": 1.3041033063616396,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2073698651,
+			"version": 44,
+			"versionNonce": 932943509,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-28.69022914341531,
+					1.3041033063616396
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "2qUWzNRSGWpgDHIaNCjLG",
+			"type": "line",
+			"x": -870.6386936732688,
+			"y": -494.69547669722954,
+			"width": 0.6520298549105519,
+			"height": 28.690229143415195,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 353966997,
+			"version": 31,
+			"versionNonce": 2078056501,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6520298549105519,
+					-28.690229143415195
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "5IaExHkf",
+			"type": "text",
+			"x": -977.1858040945856,
+			"y": -497.48315282725184,
+			"width": 25,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1182432827,
+			"version": 28,
+			"versionNonce": 1425741365,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "0",
+			"rawText": "0",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "iyGHfwa2ZAS4X0oMCZm0r",
+			"type": "line",
+			"x": -803.4774823869966,
+			"y": -479.6983104723412,
+			"width": 616.1878313337056,
+			"height": 1.304103306361526,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 839157653,
+			"version": 69,
+			"versionNonce": 311284309,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					616.1878313337056,
+					-1.304103306361526
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -6189,111 +6205,6 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		<path d="M-0.49 -0.68 C444.3 0.04, 887.83 -0.03, 1305.23 0.73 M-0.15 -0.22 C380.3 -2.69, 760.23 -2.41, 1305.36 -0.07 M1304.52 -1.15 C1304.14 125.32, 1304.16 249.32, 1304.56 322.03 M1304.97 -0.07 C1307.01 69.75, 1307.25 139.21, 1304.83 321.07 M1304.92 322.08 C990.51 316.95, 675.18 316.53, -0.16 321.94 M1305.48 321.63 C897.29 324.31, 489.29 323.93, -0.27 321.25 M-1.36 321.43 C1.03 254.59, -0.46 184.72, 0.04 -0.54 M-0.38 321.12 C2.28 198.13, 1.69 75.48, -0.01 0.52" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(514.0392947550781 439.9669851073535) rotate(0 20.277805103435185 0)">
-			<path d="M1.16 0.87 C7.81 1, 33.59 0.64, 40.21 0.37 M0.31 0.29 C6.75 0.07, 32.41 -1.55, 39.08 -1.56" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(406.0334809029814 426.6229159930598) rotate(0 27.037073471246913 0)">
-			<path d="M0.87 -0.34 C10.01 -0.48, 45.7 0.38, 54.45 0.36 M-0.13 -1.57 C8.92 -1.57, 44.36 -1.93, 53.69 -1.58" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(406.1030545533456 453.63015384146536) rotate(0 27.037073471246913 0)">
-			<path d="M-0.34 0.37 C8.54 0.11, 45.45 -0.61, 54.43 -0.71 M1.68 -0.48 C10.33 -0.68, 45.19 0.21, 53.67 0.45" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(460.3554032028708 412.9696191738823) rotate(0 0 27.037073471246856)">
-			<path d="M0.37 0.36 C0.11 9.34, -0.61 44.72, -0.71 53.57 M-0.89 -0.5 C-0.84 8.68, 1.66 45.68, 1.62 54.85" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(460.3618519943075 412.71410098716717) rotate(0 13.518536735623456 0)">
-			<path d="M0.36 -0.71 C4.84 -0.81, 22.19 -0.47, 26.54 -0.24 M-0.91 1.53 C3.4 1.58, 20.94 1.65, 25.33 1.17" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(460.29708575260975 467.0797302163945) rotate(0 13.518536735623456 0)">
-			<path d="M-0.71 -0.5 C3.69 -0.66, 22.06 -0.7, 26.8 -0.57 M1.11 -1.81 C5.31 -1.84, 21.36 0.08, 25.72 0.66" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(487.65718113124876 412.9920247674104) rotate(0 12.916124416831963 27.037073471246913)">
-			<path d="M-0.5 -0.24 C2.61 0.87, 14.57 1.38, 18.99 5.97 C23.42 10.57, 26.25 20.23, 26.07 27.32 C25.89 34.41, 22.27 44.02, 17.9 48.51 C13.53 53, 2.64 53.25, -0.16 54.28 M1.44 -1.41 C4.3 -0.58, 13.75 -0.76, 17.74 4.19 C21.74 9.14, 25.37 20.75, 25.42 28.26 C25.48 35.77, 22.57 44.82, 18.05 49.24 C13.53 53.66, 1.39 53.99, -1.71 54.78" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(511.22745091127774 889.6736055702726) rotate(0 20.277805103435185 0)">
-			<path d="M0.75 0.88 C7.73 0.73, 35.06 -0.16, 41.55 -0.17 M-0.32 0.29 C6.62 0.28, 34.05 1.51, 41.13 1.28" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(403.22163705918103 876.3295364559789) rotate(0 27.037073471246856 0)">
-			<path d="M0.88 1 C9.75 0.73, 44.9 -0.55, 53.9 -0.85 M-0.12 0.48 C8.52 0.28, 43.75 0.31, 52.87 0.24" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(403.2912107095452 903.3367743043844) rotate(0 27.037073471246856 0)">
-			<path d="M1 -0.17 C9.75 -0.18, 44.51 0.61, 53.23 0.83 M0.06 -1.31 C9.12 -1.72, 46.21 -0.98, 55.49 -0.86" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(457.5435593590704 862.6762396368014) rotate(0 0 27.037073471246885)">
-			<path d="M-0.17 -0.85 C-0.18 7.86, 0.61 44.09, 0.83 53.27 M-1.72 1.32 C-1.89 10.69, -0.14 45.33, 0.31 54.38" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(457.5500081505071 862.4207214500863) rotate(0 13.518536735623456 0)">
-			<path d="M-0.85 0.83 C3.36 1.05, 21.56 1.41, 26.23 1.16 M0.91 0.22 C5.41 0.15, 24.25 -0.37, 28.52 -0.35" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(457.48524190880914 916.7863506793136) rotate(0 13.518536735623456 0)">
-			<path d="M0.83 -0.81 C5.56 -0.64, 23.94 0.18, 28.2 0.15 M-0.2 1.39 C4.49 1.84, 23.61 2.02, 27.86 1.77" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(484.8453372874484 862.6986452303295) rotate(0 12.916124416831963 27.037073471246885)">
-			<path d="M-0.81 1.16 C2.62 1.8, 15.44 0, 19.72 4.67 C24 9.35, 25.17 21.69, 24.88 29.21 C24.58 36.74, 22.15 45.68, 17.95 49.82 C13.74 53.97, 2.64 53.23, -0.34 54.09 M0.97 0.72 C4.33 1.44, 14.47 1.4, 18.85 5.87 C23.23 10.33, 27.39 20.54, 27.27 27.49 C27.15 34.45, 22.38 43.08, 18.11 47.58 C13.85 52.07, 4.44 53.35, 1.67 54.49" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(509.77542454409013 971.4163118691007) rotate(0 20.277805103435185 0)">
-			<path d="M0.96 0.88 C7.71 0.9, 33.4 -0.73, 40.06 -0.76 M0 0.3 C6.59 0.53, 32.14 0.64, 38.85 0.37" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(401.7696106919934 958.072242754807) rotate(0 27.037073471246913 0)">
-			<path d="M0.88 -0.5 C9.91 -0.6, 44.33 0.07, 53.31 0.33 M-0.11 -1.8 C9.38 -2.37, 46.54 -1.8, 55.62 -1.62" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(401.8391843423576 985.0794806032126) rotate(0 27.037073471246913 0)">
-			<path d="M-0.5 -0.76 C8.41 -0.8, 45.13 0.38, 54.4 0.69 M1.44 1.45 C10.14 1, 44.71 -0.71, 53.63 -1.07" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(456.091532991883 944.4189459356295) rotate(0 0 27.037073471246885)">
-			<path d="M-0.76 0.33 C-0.8 9.6, 0.38 46.33, 0.69 55.14 M1.04 -0.54 C0.83 8.46, 0.13 44.49, 0.1 53.58" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(456.0979817833195 944.1634277489144) rotate(0 13.518536735623456 0)">
-			<path d="M0.33 0.69 C5.1 0.99, 23.8 1.1, 28.1 1.06 M-0.96 0 C3.79 0.06, 22.8 -0.23, 27.71 -0.5" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(456.03321554162176 998.5290569781417) rotate(0 13.518536735623456 0)">
-			<path d="M0.69 1.07 C5.5 0.86, 23.63 -0.72, 28.1 -0.91 M-0.41 0.58 C4.4 0.47, 23.14 0.04, 27.71 0.14" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(483.3933109202608 944.4413515291576) rotate(0 12.916124416831963 27.037073471246885)">
-			<path d="M1.07 1.06 C4.12 1.92, 14.54 1.26, 18.65 5.81 C22.77 10.36, 25.77 21.29, 25.77 28.36 C25.77 35.43, 22.93 43.81, 18.66 48.24 C14.4 52.68, 3.25 53.98, 0.18 54.97 M0.17 0.58 C3.56 1.01, 16.75 -0.32, 20.89 3.95 C25.02 8.21, 25.25 18.71, 24.97 26.2 C24.69 33.68, 23.57 43.89, 19.21 48.83 C14.85 53.77, 2.31 55.1, -1.19 55.83" stroke="#000000" stroke-width="2" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
 		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(1637.5344679197415 418.2693392128506) rotate(0 20.277805103435185 0)">
 			<path d="M0.93 0.33 C7.53 0.3, 33.91 -0.28, 40.55 -0.42 M-0.04 -0.55 C6.31 -0.38, 32.91 0.72, 39.6 0.9" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
@@ -6364,37 +6275,37 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(399.0111222546253 807.6830653986437) rotate(179.06389837937388 20.277805103435185 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(391.1865024164555 808.3351388500945) rotate(179.06389837937388 20.277805103435185 0)">
 			<path d="M-0.42 -0.02 C6.48 -0.11, 34.26 0.21, 41.15 0.1 M1.55 -1.08 C8.38 -1.01, 34.05 1.46, 40.52 1.69" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(495.28012448865206 820.8783217552768) rotate(179.06389837937388 27.037073471246913 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(487.45550465048234 821.5303952067276) rotate(179.06389837937388 27.037073471246856 0)">
 			<path d="M-0.02 0.6 C8.9 0.73, 45.27 0.31, 54.17 0.39 M-1.49 -0.13 C7.23 -0.33, 44.32 -1.43, 53.28 -1.53" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(493.53270704657643 793.3709058305808) rotate(179.06389837937388 27.037073471246913 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(485.7080872084067 794.0229792820315) rotate(179.06389837937388 27.037073471246856 0)">
 			<path d="M0.6 0.1 C9.75 -0.01, 45.37 -0.62, 54.46 -0.68 M-0.55 -0.89 C8.51 -0.86, 44.48 0.19, 53.72 0.5" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(493.04555772722404 779.4175130316655) rotate(179.06389837937388 0 27.037073471246885)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(485.2209378890543 780.0695864831163) rotate(179.06389837937388 0 27.037073471246885)">
 			<path d="M0.1 0.39 C-0.01 9.48, -0.62 46.15, -0.68 55.12 M-1.31 -0.45 C-1.02 8.27, 1.65 44.21, 1.67 53.55" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(466.63455120720744 833.628147087956) rotate(179.06389837937388 13.518536735623456 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(458.8099313690377 834.2802205394066) rotate(179.06389837937388 13.518536735623456 0)">
 			<path d="M0.39 -0.68 C4.97 -0.74, 23.62 -0.18, 28.09 -0.24 M-0.87 1.58 C3.6 1.69, 23.13 1.48, 27.69 1.17" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(466.90724928530983 778.3271720771068) rotate(179.06389837937388 13.518536735623456 0)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(459.0826294471401 778.9792455285575) rotate(179.06389837937388 13.518536735623456 0)">
 			<path d="M-0.68 1.05 C3.77 1.01, 22.35 0.37, 26.79 0.13 M1.16 0.55 C5.42 0.69, 21.19 1.71, 25.72 1.73" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(441.42298296533556 780.9730571796755) rotate(179.06389837937388 12.916124416831963 27.037073471246885)">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(433.59836312716584 781.6251306311262) rotate(179.06389837937388 12.916124416831963 27.037073471246885)">
 			<path d="M1.05 -0.24 C4.27 0.58, 15.63 -0.35, 19.7 4.28 C23.76 8.91, 25.83 19.92, 25.42 27.54 C25.01 35.16, 21.4 45.37, 17.24 49.97 C13.08 54.58, 3.25 54.58, 0.46 55.15 M0.14 -1.42 C3.18 -0.42, 14.77 0.27, 18.81 5.27 C22.86 10.27, 24.73 21.51, 24.43 28.6 C24.14 35.69, 21.24 43.83, 17.04 47.81 C12.84 51.78, 2.32 51.14, -0.76 52.45" stroke="#000000" stroke-width="2" fill="none"></path>
 		</g>
 	</g>
@@ -6434,13 +6345,13 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(624.009374913317 1251.7656459241052) rotate(0 -111.06595357259113 -158.61129760742188)">
-			<path d="M-0.63 -0.97 C-1.92 -104.53, -1.53 -210.72, -2.73 -316.59 M0.35 0.24 C-1.66 -65.54, -2.24 -132.37, -2.13 -316.75 M-2.21 -317.51 C-70.26 -318.35, -138.07 -316.9, -221.11 -317.34 M-2.43 -316.45 C-79.36 -315.41, -154.48 -315.76, -222.9 -317.14" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(624.009374913317 1251.7656459241052) rotate(0 -71.61688305082765 -158.23094685872394)">
+			<path d="M-0.63 -0.97 C-1.92 -104.53, -1.53 -210.72, -2.73 -316.59 M0.35 0.24 C-1.66 -65.54, -2.24 -132.37, -2.13 -316.75 M-2.2 -317.67 C-45.8 -317.65, -89.12 -315.33, -142.06 -315.4 M-2.45 -316.45 C-52.07 -314.99, -99.61 -314.68, -144.12 -315.17" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(401.8774677681347 958.1255092053553) rotate(0 0.7607269287109375 -28.146845499674498)">
-			<path d="M-0.05 0.69 C1.32 -20.59, 0.78 -42.59, 2.16 -57.14 M-0.16 -0.32 C-0.31 -17.83, 0.9 -35.76, 1.1 -55.53" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(480.77556521512133 969.2103655111589) rotate(0 -0.2173614501953125 -29.776985531761568)">
+			<path d="M-0.05 0.69 C0.59 -21.82, -0.69 -45.06, 0.2 -60.4 M-0.16 -0.32 C-0.91 -18.86, -0.31 -37.81, -0.86 -58.79" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -6449,18 +6360,13 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(403.39892162555657 875.2064011324387) rotate(0 -28.5272216796875 6.085815429687528)">
-			<path d="M1.25 -0.48 C-11.42 -0.51, -21.8 -1.99, -34.84 -0.22 M0.08 -0.01 C-11.64 -0.35, -25.26 -0.35, -35.6 0.86 M-37.02 -0.29 C-35.78 1.92, -35.49 5.38, -35.92 11.28 M-35.95 -0.06 C-36.34 4.31, -35.71 8.17, -35.02 11.82 M-36.26 10.57 C-38.3 11.6, -46.21 12.45, -56.91 10.5 M-34.55 11.46 C-38.93 11.41, -45.07 10.86, -57.1 10.47" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
 		<g transform="translate(392.9463807642511 808.0131672207128) rotate(0 -22.54022432032383 1.265786063935792)">
 			<path d="M1.27 -0.52 C-13.03 2.4, -26.1 1.98, -46 3.48 M0.07 -0.62 C-8.61 -0.04, -18.55 1.28, -44.41 1.68" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(546.4153299100616 819.6734370618007) rotate(0 83.29948425292974 216.42648061116535)">
-			<path d="M0.45 1.48 C38.56 -2.23, 75.48 1.65, 166.17 2.59 M-0.09 -0.13 C64.26 2.05, 127.33 2.52, 166.64 1.76 M165.8 1.57 C168.97 157.08, 167.46 313.5, 167.02 433.16 M166.81 1.91 C167.28 169.23, 167.92 337.49, 166.29 432.34" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(541.1990038776954 793.5913927328385) rotate(0 90.47200884137845 228.92412639799585)">
+			<path d="M0.45 1.48 C40.97 -2.74, 80.3 0.68, 176.6 0.63 M-0.09 -0.13 C68.22 1.38, 135.27 1.1, 177.07 -0.19 M176.3 -0.39 C180.7 165.09, 180.74 331.4, 181.33 458.56 M177.23 -0.08 C179.23 177.95, 181.34 356.85, 180.66 457.82" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -6594,18 +6500,13 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(835.3763534302345 1252.9744308184988) rotate(0 -213.85610570663044 -399.27821679866355)">
-			<path d="M-0.5 0.24 C-0.93 -201.81, -0.55 -403.28, 3.15 -766.3 M-0.24 0.02 C-0.54 -296.53, 0.61 -593.22, 2.59 -766.71 M2.87 -767.72 C-92.39 -768.17, -185.81 -768.46, -429.53 -767.69 M2.37 -767.28 C-121.14 -767.06, -245.42 -767.58, -429.74 -768.62 M-428.98 -766.86 C-429.3 -777.25, -428.3 -789.56, -430.62 -797.53 M-430.1 -767.81 C-430.23 -777.26, -430.42 -784.12, -431.04 -798.41" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(835.3763534302345 1252.9744308184988) rotate(0 -185.16587656321536 -409.38500652383095)">
+			<path d="M-0.5 0.24 C-0.93 -201.81, -0.55 -403.28, 3.15 -766.3 M-0.24 0.02 C-0.54 -296.53, 0.61 -593.22, 2.59 -766.71 M2.9 -767.9 C-79.95 -767.85, -160.61 -767.84, -371.42 -766.2 M2.3 -767.36 C-104.4 -766.62, -212.02 -766.76, -371.67 -767.32 M-370.94 -765.56 C-371.47 -783.52, -370.7 -803.4, -373.24 -817.75 M-372.07 -766.5 C-372.21 -781.61, -372.57 -794.13, -373.66 -818.63" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
 		<g transform="translate(538.7445409371085 354.7066147997383) rotate(0 184.60276285807288 450.3496297200521)">
 			<path d="M0.8 1.08 C113.12 -1.51, 226.7 -0.09, 364.72 0.45 M-0.05 -0.6 C116.41 -1.48, 233.41 -0.07, 364.57 1.35 M365.46 0.9 C368.6 221.96, 370.1 442.96, 368.41 900.34 M365.45 1.13 C363.37 311.79, 365.19 622.68, 369.37 900.92" stroke="#000000" stroke-width="1" fill="none"></path>
-		</g>
-	</g>
-	<g stroke-linecap="round">
-		<g transform="translate(365.0144759174931 414.8882816937122) rotate(0 20.936491593070627 6.449631400730311)">
-			<path d="M1.52 0.23 C9.17 1.91, 13.26 0.59, 26.83 -0.14 M-0.62 0.06 C9.8 0.51, 21.47 1.1, 27.11 0.81 M27.48 -0.11 C25.63 4.14, 28.02 8.51, 27.29 12.13 M26.48 0.63 C26.89 3.87, 26.67 5.65, 27.17 12.57 M27.34 13.02 C31.1 12.14, 36.77 10.71, 40.83 12.39 M27 13.13 C30.99 12.71, 35.24 11.71, 41.69 11.75" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
@@ -6685,27 +6586,27 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(545.6909509969133 792.8653528728196) rotate(0 358.6475996537643 -0.8298792983545695)">
+		<g transform="translate(540.474537771467 820.251478709873) rotate(0 358.6475996537643 -0.8298792983545695)">
 			<path d="M0.25 -0.54 C219.19 2.62, 437.11 1.74, 717.12 -2.02 M0.39 0.19 C144.12 0.88, 287.6 0.53, 717.55 -1.42" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1059.3255082392589 1078.0573315586034) rotate(0 -1.5214369032120771 -320.7726796468099)">
-			<path d="M-0.14 -0.59 C-0.26 -218, -1.97 -434.87, -3.26 -641.33 M0.17 -0.05 C-1.31 -239.06, -1.9 -478.44, -2.75 -641.52" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1059.3255082392589 1078.0573315586034) rotate(0 -1.953931749996741 -333.1495061436313)">
+			<path d="M-0.14 -0.59 C-0.53 -226.39, -2.53 -451.65, -4.12 -666.08 M0.17 -0.05 C-1.64 -248.29, -2.55 -496.91, -3.62 -666.27" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(1152.1340070456813 1084.6503109897558) rotate(0 -3.803609212240076 -325.0834570990668)">
-			<path d="M-0.44 -0.21 C-1.4 -204.05, -4.06 -408.41, -8.14 -650.49 M0.22 -0.18 C-2.44 -160.37, -4.48 -320.81, -7.51 -649.99" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(1152.1340070456813 1084.6503109897558) rotate(0 -3.4775506882446052 -279.7659325978111)">
+			<path d="M-0.44 -0.21 C-1.35 -175.63, -3.81 -351.56, -7.49 -559.85 M0.22 -0.18 C-2.21 -137.99, -4.09 -276.05, -6.85 -559.35" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(551.6678679940314 440.0620439812923) rotate(0 252.0537821451823 -1.0143025716145644)">
-			<path d="M0.77 0.45 C170.3 -0.48, 339.17 -0.98, 503.59 -2.69 M0.15 0.06 C185.65 -2.37, 370.43 -3.36, 504.42 -1.94" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(539.9309818333172 414.63207310378107) rotate(0 257.424102383382 -1.0199651137171486)">
+			<path d="M0.77 0.45 C173.92 -0.49, 346.41 -0.99, 514.34 -2.7 M0.15 0.06 C189.6 -2.41, 378.33 -3.4, 515.16 -1.95" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(549.6392967592212 971.0485925110228) rotate(0 254.33598836263025 0.2535841200086679)">
+		<g transform="translate(546.3790602915872 985.3936852844604) rotate(0 254.33598836263025 0.2535841200086679)">
 			<path d="M-0.45 0.29 C171.33 -0.49, 343.71 1.16, 508.45 0.79 M0.29 -0.11 C144.45 0.26, 288.74 0.19, 508.83 0.47" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
@@ -6717,6 +6618,127 @@ und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird. ^S
 	<g transform="translate(474.0273375311133 10) rotate(0 584.5 68.5)"><text x="0" y="31.666666666666664" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn ein Draht von 6 auf weniger Bits an den Eingängen</text><text x="0" y="77.33333333333333" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">reduziert wird, werden immer die most important bits weggenommen,</text><text x="0" y="123" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">also angefangen mit Y</text></g>
 	<g transform="translate(859.788039028509 122.63357162475609) rotate(0 6.5 12.5)"><text x="0" y="17" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">5</text></g>
 	<g transform="translate(465.56916865361745 164.32988866170263) rotate(0 710.5 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wenn mehrere Drähte aus und-Gattern herausgehen, sind es auch immer so viele</text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">und-Gatter verwendet, damit jeder Y-Draht mit dem "in"-Draht verglichen wird.</text></g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(385.3599411515969 529.7246916372421) rotate(0 26.457290436078893 0)">
+			<path d="M0.63 0.29 C9.13 0.25, 43.21 0.01, 51.79 -0.13 M-0.5 -0.6 C8.28 -0.46, 44.73 1.16, 53.91 1.35" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(438.5019683214092 502.83705414765933) rotate(0 0 26.45729043607892)">
+			<path d="M0.29 -1.13 C0.25 7.45, 0.01 43.06, -0.13 52.1 M-1.01 0.9 C-1.23 9.56, -1.04 44.27, -1.14 53.22" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(438.21163080476197 502.69708129592624) rotate(0 26.457290436078893 13.228645218039446)">
+			<path d="M-1.13 -0.13 C7.45 4.14, 43.06 21.55, 52.1 25.91 M0.48 -1.24 C9.39 3.16, 45.72 22.44, 54.39 27.17" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(438.33257271113337 555.8519035079619) rotate(0 26.457290436078893 -13.228645218039446)">
+			<path d="M-0.13 -0.81 C8.55 -4.99, 43.6 -21.86, 52.37 -26.22 M-1.65 1.38 C6.8 -3.09, 42.28 -23.67, 51.14 -28.22" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(491.48487837355435 529.7597166817336) rotate(0 19.84296782705917 0)">
+			<path d="M-0.81 -0.54 C6.03 -0.59, 33.26 -0.5, 39.92 -0.42 M0.96 1.79 C7.77 1.92, 32.91 0.99, 39.1 0.89" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(398.2241030517092 984.3441810345635) rotate(0 26.457290436078893 0)">
+			<path d="M0.76 -0.52 C9.5 -0.27, 43.73 0.4, 52.54 0.53 M-0.3 1.82 C8.24 1.8, 42.48 -1.29, 51.4 -1.31" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(451.36613022152176 957.4565435449808) rotate(0 0 26.457290436078907)">
+			<path d="M-0.52 -0.37 C-0.27 8.44, 0.4 44.81, 0.53 53.62 M1.4 -1.61 C1.63 6.79, 0.16 42.67, -0.13 51.87" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(451.0757927048743 957.3165706932477) rotate(0 26.457290436078893 13.228645218039453)">
+			<path d="M-0.37 0.53 C8.44 5.08, 44.81 22.45, 53.62 26.73 M1.63 -0.23 C10.28 3.97, 44.73 20.15, 53.04 24.75" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(451.1967346112459 1010.4713929052832) rotate(0 26.457290436078893 -13.228645218039453)">
+			<path d="M0.53 0.7 C9.49 -3.71, 44.5 -22.46, 53.19 -26.88 M-0.65 0.03 C8.22 -4.19, 43.65 -20.92, 52.38 -25.57" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(504.3490402736669 984.3792060790552) rotate(0 19.84296782705917 0)">
+			<path d="M0.7 0.27 C7.31 0.14, 32.66 -0.13, 39.26 -0.26 M-0.39 -0.63 C6.06 -0.63, 31.38 0.94, 38.09 1.14" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(408.3839715645446 890.1121776863492) rotate(0 26.457290436078893 0)">
+			<path d="M0.77 -0.68 C9.26 -0.93, 43.22 -0.89, 51.76 -0.76 M-0.28 1.57 C8.48 1.4, 44.74 0.39, 53.87 0.38" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(461.5259987343567 863.2245401967664) rotate(0 0 26.457290436078907)">
+			<path d="M-0.68 -1.15 C-0.93 7.4, -0.89 43.04, -0.76 52.06 M1.16 0.86 C1.23 9.47, 1.84 44.24, 1.56 53.14" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(461.23566121770966 863.0845673450333) rotate(0 26.457290436078893 13.228645218039453)">
+			<path d="M-1.15 -0.76 C7.4 3.79, 43.04 21.88, 52.06 26.59 M0.45 1.46 C9.3 6.28, 45.69 24.16, 54.32 28.2" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(461.35660312408083 916.239389557069) rotate(0 26.457290436078893 -13.228645218039453)">
+			<path d="M-0.76 -0.86 C8.2 -5.07, 43.93 -22.23, 53.05 -26.43 M1.05 1.3 C9.91 -2.6, 43.39 -19.96, 52.17 -24.87" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(514.5089087865018 890.1472027308407) rotate(0 19.84296782705917 0)">
+			<path d="M-0.86 0.13 C5.95 0.43, 32.89 1.12, 39.72 1.04 M0.89 -0.84 C7.65 -0.79, 32.34 -0.81, 38.79 -0.54" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(409.3783100673145 890.459577153618) rotate(0 -30.97239903041293 0)">
+			<path d="M0.56 -1.38 C-15.37 -0.32, -26.43 1.22, -62.48 -0.78 M-0.22 -0.28 C-14.21 -0.21, -27.28 -1.12, -61.81 0.55" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(393.68238988206383 416.37272804907116) rotate(0 26.457290436078893 0)">
+			<path d="M-1.11 -0.42 C7.58 -0.41, 43.81 0.72, 52.78 0.93 M0.5 -1.69 C8.97 -2.08, 43.21 -0.8, 51.76 -0.71" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(446.82441705187637 389.4850905594885) rotate(0 0 26.457290436078893)">
+			<path d="M-0.42 -0.14 C-0.41 8.83, 0.72 43.78, 0.93 52.69 M1.56 -1.25 C1.42 7.99, 0.65 45.37, 0.46 54.1" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(446.5340795352289 389.34511770775543) rotate(0 26.457290436078893 13.228645218039446)">
+			<path d="M-0.14 0.93 C8.83 5.54, 43.78 22.85, 52.69 27.25 M-1.67 0.37 C7.22 4.68, 42.56 21.36, 51.62 25.55" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(446.6550214416005 442.499939919791) rotate(0 26.457290436078893 -13.228645218039446)">
+			<path d="M0.93 -0.23 C9.95 -4.56, 44.9 -21.68, 53.71 -26.1 M-0.05 -1.39 C8.92 -6.08, 44.25 -24.01, 53.18 -28.03" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(499.8073271040215 416.40775309356286) rotate(0 19.84296782705917 0)">
+			<path d="M-0.23 0.79 C6.47 0.79, 33.44 0.94, 40.04 0.89 M-1.81 0.17 C4.77 -0.25, 32.57 -0.48, 39.28 -0.77" stroke="#000000" stroke-width="2" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(394.3811002458833 415.7667583757154) rotate(0 -14.345114571707654 0.6520516531808198)">
+			<path d="M-0.92 -0.59 C-9.49 0.41, -16.77 2.32, -29.34 -0.57 M0.63 0.43 C-9.87 0.61, -18.2 1.17, -27.7 0.35" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(462.8462840488992 514.2263400233081) rotate(0 0.32601492745527594 -14.345114571707597)">
+			<path d="M0.23 -1.41 C-0.6 -6.52, -0.63 -17.77, -0.75 -29.08 M0.54 -0.98 C1.36 -6.29, 1.2 -13.69, 1.32 -28.7" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(356.2991736275824 511.4386638932858) rotate(0 12.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(530.0074953351714 529.2235062481965) rotate(0 308.0939156668528 -0.652051653180763)">
+			<path d="M-0.48 -0.19 C188.68 0, 377.28 -1.02, 615.63 -1.54 M0.16 -0.13 C155.04 0.28, 309.88 -0.05, 616.14 -1.53" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
 </svg>
 ```
 %%
