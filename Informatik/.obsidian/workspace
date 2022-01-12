@@ -13,16 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "f7ba623e91ca38bb",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "DT-Projekt2_12.01.2022 12-15-01.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -80,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DT-Projekt2_12.01.2022 12-15-01.excalidraw.md",
+                "file": "DT-Projekt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +119,10 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "f7ba623e91ca38bb",
+  "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
-    "DT-Projekt2_12.01.2022 12-15-01.excalidraw.md",
     "DT-Projekt2.md",
+    "DT-Projekt2_12.01.2022 12-15-01.excalidraw.md",
     "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
     "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
     "DT-Projekt2_09.01.2022 00-23-07.excalidraw.md",
