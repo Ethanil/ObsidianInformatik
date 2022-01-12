@@ -278,8 +278,6 @@ s ^baFqHrz4
 
 48.3 ^tuC4wcf2
 
-S ^StimebjR
-
 in ^xuqRW2xk
 
 L ^PB6E9JL8
@@ -531,10 +529,6 @@ out ^s62AmkEw
 C ^jZlcPZ25
 
 out ^lNNebJQP
-
-C ^b2It3CoL
-
-out ^SHzQNJZa
 
 C ^hUNfGlZ7
 
@@ -5474,38 +5468,8 @@ out ^EvHorynw
 		},
 		{
 			"type": "text",
-			"version": 785,
-			"versionNonce": 1807226069,
-			"isDeleted": false,
-			"id": "StimebjR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1133.9947767532055,
-			"y": 877.2387433643815,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 28,
-			"height": 58,
-			"seed": 133331921,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 46.63048112692149,
-			"fontFamily": 1,
-			"text": "S",
-			"rawText": "S",
-			"baseline": 41,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
-			"version": 835,
-			"versionNonce": 1528827643,
+			"version": 836,
+			"versionNonce": 1576966037,
 			"isDeleted": false,
 			"id": "xuqRW2xk",
 			"fillStyle": "hachure",
@@ -5514,8 +5478,8 @@ out ^EvHorynw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1162.6012159119257,
-			"y": 904.760551341429,
+			"x": 1153.4724927673944,
+			"y": 895.6318281968978,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -12737,70 +12701,6 @@ out ^EvHorynw
 		},
 		{
 			"type": "text",
-			"version": 1274,
-			"versionNonce": 194404693,
-			"isDeleted": false,
-			"id": "b2It3CoL",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1195.911572009727,
-			"y": 919.4846220374957,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 29,
-			"height": 58,
-			"seed": 734558143,
-			"groupIds": [
-				"u-rX4dP8dPgl8NcRSd8xn"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 45.221314343646874,
-			"fontFamily": 1,
-			"text": "C",
-			"rawText": "C",
-			"baseline": 40,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
-			"version": 1389,
-			"versionNonce": 1752877691,
-			"isDeleted": false,
-			"id": "SHzQNJZa",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1218.881044989148,
-			"y": 946.9281805672322,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 47,
-			"height": 35,
-			"seed": 753608625,
-			"groupIds": [
-				"u-rX4dP8dPgl8NcRSd8xn"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 27.709108875723835,
-			"fontFamily": 1,
-			"text": "out",
-			"rawText": "out",
-			"baseline": 25,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
 			"version": 1352,
 			"versionNonce": 155807413,
 			"isDeleted": false,
@@ -15508,8 +15408,7 @@ out ^EvHorynw
 	<g transform="translate(1964.2460405264642 2134.517230239664) rotate(0 96.5 25)"><text x="0" y="36" font-family="Virgil, Segoe UI Emoji" font-size="39.686268682065226px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=000001</text></g>
 	<g transform="translate(1942.4524704402147 1979.0615392711097) rotate(0 22.5 51)"><text x="0" y="72" font-family="Virgil, Segoe UI Emoji" font-size="81.5717563104269px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
 	<g transform="translate(1987.6663144220674 2039.928708720407) rotate(0 59 31.5)"><text x="0" y="45" font-family="Virgil, Segoe UI Emoji" font-size="49.98264003591879px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">48.3</text></g>
-	<g transform="translate(1883.4172379868712 2167.1792212738214) rotate(0 14 29)"><text x="0" y="41" font-family="Virgil, Segoe UI Emoji" font-size="46.63048112692149px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
-	<g transform="translate(1912.0236771455914 2194.701029250869) rotate(0 9.5 18.5)"><text x="0" y="26" font-family="Virgil, Segoe UI Emoji" font-size="28.572567985405716px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g transform="translate(1902.8949540010601 2185.5723061063377) rotate(0 9.5 18.5)"><text x="0" y="26" font-family="Virgil, Segoe UI Emoji" font-size="28.572567985405716px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
 	<g stroke-linecap="round" transform="translate(2334.923503313983 1956.523958942369) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M106.08 10.37 C119.92 2.39, 139.78 2.01, 156.43 1.12 C173.07 0.23, 189.58 1.3, 205.94 5.03 C222.3 8.75, 240.2 14.85, 254.59 23.47 C268.97 32.09, 281.42 44.45, 292.25 56.77 C303.08 69.09, 312.64 82.48, 319.56 97.41 C326.47 112.35, 331.78 129.86, 333.73 146.36 C335.68 162.87, 334.63 180.37, 331.27 196.45 C327.9 212.52, 321.88 228.49, 313.53 242.81 C305.19 257.13, 293.53 271.13, 281.2 282.38 C268.87 293.63, 254.64 303.15, 239.57 310.3 C224.5 317.46, 207.23 323.03, 190.78 325.32 C174.33 327.61, 157.36 326.58, 140.88 324.04 C124.4 321.5, 106.9 317.41, 91.9 310.09 C76.9 302.78, 62.88 291.7, 50.88 280.17 C38.88 268.65, 27.85 255.5, 19.91 240.92 C11.97 226.34, 6.3 208.81, 3.22 192.71 C0.15 176.61, -0.5 160.67, 1.43 144.32 C3.37 127.97, 7.76 109.81, 14.83 94.59 C21.9 79.37, 32.54 64.88, 43.84 52.98 C55.14 41.08, 70.5 30.81, 82.63 23.21 C94.75 15.61, 109.02 10.01, 116.61 7.39 C124.19 4.76, 127.37 4.98, 128.14 7.47 M121.04 6.05 C135.62 -0.92, 153.7 0.56, 170.22 1.02 C186.75 1.48, 204.24 3.89, 220.16 8.83 C236.07 13.76, 252 20.87, 265.71 30.62 C279.42 40.37, 292.72 53.84, 302.42 67.31 C312.12 80.78, 318.85 95.71, 323.9 111.46 C328.95 127.21, 331.94 145.49, 332.73 161.81 C333.53 178.13, 333.41 193.83, 328.68 209.37 C323.95 224.9, 313.77 241.13, 304.35 255.02 C294.92 268.91, 285.09 282.71, 272.13 292.69 C259.18 302.66, 242.42 309.37, 226.61 314.89 C210.8 320.41, 194.1 324.51, 177.28 325.8 C160.45 327.09, 141.88 326.53, 125.69 322.64 C109.49 318.75, 94.12 311.18, 80.1 302.46 C66.08 293.75, 52.82 282.77, 41.57 270.35 C30.32 257.93, 19.3 243.27, 12.59 227.92 C5.87 212.57, 2.84 194.71, 1.28 178.26 C-0.27 161.81, -0.03 145.05, 3.26 129.23 C6.55 113.4, 12.39 97.54, 21.01 83.3 C29.64 69.06, 42.44 54.9, 55.01 43.79 C67.57 32.68, 85.46 22.78, 96.4 16.66 C107.33 10.53, 116.65 8.36, 120.59 7.05 C124.54 5.74, 119.49 6.01, 120.06 8.8" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
@@ -16084,8 +15983,6 @@ out ^EvHorynw
 	<g transform="translate(873.041757299224 2260.808061841115) rotate(0 23.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.812710633304512px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(1363.820358800295 2184.256059101149) rotate(0 15.5 30.5)"><text x="0" y="43" font-family="Virgil, Segoe UI Emoji" font-size="47.92944505704349px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(1388.1653852360673 2213.343106875238) rotate(0 24.5 18.5)"><text x="0" y="27" font-family="Virgil, Segoe UI Emoji" font-size="29.368500909687153px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
-	<g transform="translate(1945.3340332433927 2209.425099946936) rotate(0 14.5 29)"><text x="0" y="40" font-family="Virgil, Segoe UI Emoji" font-size="45.221314343646874px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
-	<g transform="translate(1968.3035062228137 2236.868658476672) rotate(0 23.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.709108875723835px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(2016.3104065600896 2201.407404545408) rotate(0 17.5 34)"><text x="0" y="48" font-family="Virgil, Segoe UI Emoji" font-size="54.332275198117614px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(2051.107504653456 2237.5800506318383) rotate(0 11.5 21)"><text x="0" y="29" font-family="Virgil, Segoe UI Emoji" font-size="33.291799470705534px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
 	<g transform="translate(2454.534156820324 2199.3815796548424) rotate(0 17 32.5)"><text x="0" y="46" font-family="Virgil, Segoe UI Emoji" font-size="51.87904868865172px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
