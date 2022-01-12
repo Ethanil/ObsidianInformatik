@@ -79,11 +79,8 @@ s ^xB0HeG42
 Getränkeinput erhalten 
 und weitergeben ^LThWqrsT
 
-Der Schiebetür befehlen, 
-sie soll aufgehen und 
-auf das Signal von ihr 
-warten, dass sie ganz 
-auf ist ^Ga2qFCkS
+Wir warten auf Signal von ihr, 
+dass sie ganz auf ist ^Ga2qFCkS
 
 Ist mit O von der 
 Lichtschranke verdrahtet ^qGTl6HYA
@@ -97,10 +94,6 @@ s ^JpyI8dDD
 S ^YUwVhrhZ
 
 in ^1v1pBGuM
-
-S ^C57dfMyd
-
-in ^1HdUvs9N
 
 S ^YaoLKuNO
 
@@ -145,8 +138,7 @@ R ^m4iTUQPI
 
 0 ^PzLqexD1
 
-Schiebetür soll weiter 
-aufbleiben. Jetzt 
+Jetzt 
 warten wir bis die Lichtschranke
 ein Signal zurückgibt ^sp4pvesi
 
@@ -213,10 +205,6 @@ out ^dBXVetRO
 C ^ECtncSpj
 
 in ^6krxrknY
-
-C ^SiqItZPo
-
-out ^jGfDFwU6
 
 C ^g0Mq2u53
 
@@ -632,6 +620,23 @@ X ^vlwD4DWk
 
 1 ^hVNW0YSF
 
+Y=49 ^Z7VHO6MM
+
+s ^lVI37kDF
+
+49.7 ^aozZlQRP
+
+Wir warten, bis sie
+ganz zu ist ^xWxJMESg
+
+C ^tL08fhbY
+
+in ^WHerZkWU
+
+S ^pN09fZ6y
+
+out ^EvHorynw
+
 %%
 # Drawing
 ```json
@@ -642,8 +647,8 @@ X ^vlwD4DWk
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 1125,
-			"versionNonce": 1578579349,
+			"version": 1129,
+			"versionNonce": 1349611669,
 			"isDeleted": false,
 			"id": "PgIfefvzZo4LCOoPJU16W",
 			"fillStyle": "hachure",
@@ -667,8 +672,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 940,
-			"versionNonce": 441473595,
+			"version": 944,
+			"versionNonce": 1040928571,
 			"isDeleted": false,
 			"id": "2nFB8-9goFB1eOy2ptJIY",
 			"fillStyle": "hachure",
@@ -705,8 +710,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 984,
-			"versionNonce": 891665141,
+			"version": 988,
+			"versionNonce": 1988138485,
 			"isDeleted": false,
 			"id": "YDDs6nmj",
 			"fillStyle": "hachure",
@@ -735,8 +740,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 688,
-			"versionNonce": 1700747995,
+			"version": 692,
+			"versionNonce": 536063963,
 			"isDeleted": false,
 			"id": "gv5TCmpu",
 			"fillStyle": "hachure",
@@ -767,8 +772,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1282,
-			"versionNonce": 654087253,
+			"version": 1286,
+			"versionNonce": 1313083221,
 			"isDeleted": false,
 			"id": "bJMCFr5U",
 			"fillStyle": "hachure",
@@ -801,8 +806,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 890,
-			"versionNonce": 1141196667,
+			"version": 894,
+			"versionNonce": 860290171,
 			"isDeleted": false,
 			"id": "GTLZn0REEsE25PoaZdgl1",
 			"fillStyle": "hachure",
@@ -847,8 +852,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 294,
-			"versionNonce": 1601257909,
+			"version": 298,
+			"versionNonce": 1175542965,
 			"isDeleted": false,
 			"id": "EirD2qe7",
 			"fillStyle": "hachure",
@@ -877,8 +882,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 1420,
-			"versionNonce": 2089066523,
+			"version": 1424,
+			"versionNonce": 1674032411,
 			"isDeleted": false,
 			"id": "afzYbpXvkp0yAMjTRjgpc",
 			"fillStyle": "hachure",
@@ -923,8 +928,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 412,
-			"versionNonce": 1940472597,
+			"version": 416,
+			"versionNonce": 1703804437,
 			"isDeleted": false,
 			"id": "BRaEzBuK_v5Q-_kD_LEGz",
 			"fillStyle": "hachure",
@@ -973,8 +978,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 213,
-			"versionNonce": 1758454971,
+			"version": 217,
+			"versionNonce": 15227323,
 			"isDeleted": false,
 			"id": "wybAKdsUhvPjW6VPGRaiX",
 			"fillStyle": "hachure",
@@ -1019,8 +1024,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 941234293,
+			"version": 213,
+			"versionNonce": 598700917,
 			"isDeleted": false,
 			"id": "wUh6wKox",
 			"fillStyle": "hachure",
@@ -1051,8 +1056,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 494,
-			"versionNonce": 9016667,
+			"version": 498,
+			"versionNonce": 1204513371,
 			"isDeleted": false,
 			"id": "kfMJcrVOzmJORUJb0gZrb",
 			"fillStyle": "hachure",
@@ -1097,8 +1102,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 1451835861,
+			"version": 33,
+			"versionNonce": 2092645589,
 			"isDeleted": false,
 			"id": "fgLGPj53",
 			"fillStyle": "hachure",
@@ -1129,8 +1134,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1161,
-			"versionNonce": 587477499,
+			"version": 1165,
+			"versionNonce": 759391995,
 			"isDeleted": false,
 			"id": "ULc5RedZ",
 			"fillStyle": "hachure",
@@ -1161,8 +1166,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 61,
-			"versionNonce": 604782389,
+			"version": 65,
+			"versionNonce": 1212602933,
 			"isDeleted": false,
 			"id": "m9_dEKWgItfy6bEiz2uA-",
 			"fillStyle": "hachure",
@@ -1199,8 +1204,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 557988507,
+			"version": 184,
+			"versionNonce": 1741868955,
 			"isDeleted": false,
 			"id": "KvJN8NozKTnOVHT7NQn19",
 			"fillStyle": "hachure",
@@ -1245,8 +1250,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 923308181,
+			"version": 72,
+			"versionNonce": 1329056661,
 			"isDeleted": false,
 			"id": "I0ywQ3Fu",
 			"fillStyle": "hachure",
@@ -1277,8 +1282,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1201,
-			"versionNonce": 133574459,
+			"version": 1205,
+			"versionNonce": 967582779,
 			"isDeleted": false,
 			"id": "YRBXAJzs",
 			"fillStyle": "hachure",
@@ -1309,8 +1314,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 475,
-			"versionNonce": 1026799093,
+			"version": 479,
+			"versionNonce": 566464757,
 			"isDeleted": false,
 			"id": "o1GEPnDaUwmR6RKSS7o9Z",
 			"fillStyle": "hachure",
@@ -1359,8 +1364,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 696422363,
+			"version": 93,
+			"versionNonce": 2058478811,
 			"isDeleted": false,
 			"id": "ifLvUz3I",
 			"fillStyle": "hachure",
@@ -1391,8 +1396,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1222,
-			"versionNonce": 294858581,
+			"version": 1226,
+			"versionNonce": 762292821,
 			"isDeleted": false,
 			"id": "EawZY3Oa",
 			"fillStyle": "hachure",
@@ -1423,8 +1428,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 122,
-			"versionNonce": 1744428155,
+			"version": 126,
+			"versionNonce": 1651937659,
 			"isDeleted": false,
 			"id": "49S28DkVA1EBAQy9mfDwc",
 			"fillStyle": "hachure",
@@ -1461,8 +1466,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 96,
-			"versionNonce": 310148277,
+			"version": 100,
+			"versionNonce": 319920053,
 			"isDeleted": false,
 			"id": "KPZG3lLj",
 			"fillStyle": "hachure",
@@ -1493,8 +1498,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1228,
-			"versionNonce": 1058968859,
+			"version": 1232,
+			"versionNonce": 305965595,
 			"isDeleted": false,
 			"id": "pNeV1JrO",
 			"fillStyle": "hachure",
@@ -1525,8 +1530,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 98,
-			"versionNonce": 932519445,
+			"version": 102,
+			"versionNonce": 1020188949,
 			"isDeleted": false,
 			"id": "yz8MNAfijCl76keEXbZp-",
 			"fillStyle": "hachure",
@@ -1571,8 +1576,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 397,
-			"versionNonce": 241383867,
+			"version": 401,
+			"versionNonce": 1593224891,
 			"isDeleted": false,
 			"id": "LThWqrsT",
 			"fillStyle": "hachure",
@@ -1601,8 +1606,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 217,
-			"versionNonce": 1741853557,
+			"version": 245,
+			"versionNonce": 387631637,
 			"isDeleted": false,
 			"id": "Ga2qFCkS",
 			"fillStyle": "hachure",
@@ -1611,28 +1616,28 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1050.147513653238,
-			"y": -33.563939788889854,
+			"x": 1041.018851543863,
+			"y": -28.086766937327354,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 353,
-			"height": 183,
+			"width": 433,
+			"height": 73,
 			"seed": 546894289,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
 			"fontSize": 28.747402631679932,
 			"fontFamily": 1,
-			"text": "Der Schiebetür befehlen, \nsie soll aufgehen und \nauf das Signal von ihr \nwarten, dass sie ganz \nauf ist",
-			"rawText": "Der Schiebetür befehlen, \nsie soll aufgehen und \nauf das Signal von ihr \nwarten, dass sie ganz \nauf ist",
-			"baseline": 172,
+			"text": "Wir warten auf Signal von ihr, \ndass sie ganz auf ist",
+			"rawText": "Wir warten auf Signal von ihr, \ndass sie ganz auf ist",
+			"baseline": 62,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		},
 		{
 			"type": "text",
-			"version": 275,
-			"versionNonce": 585779803,
+			"version": 279,
+			"versionNonce": 1531387739,
 			"isDeleted": false,
 			"id": "qGTl6HYA",
 			"fillStyle": "hachure",
@@ -1664,8 +1669,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 849,
-			"versionNonce": 259677397,
+			"version": 853,
+			"versionNonce": 935417813,
 			"isDeleted": false,
 			"id": "40Upo4RPXhV3-tqmzcE9v",
 			"fillStyle": "hachure",
@@ -1695,8 +1700,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 658,
-			"versionNonce": 25577211,
+			"version": 662,
+			"versionNonce": 562068475,
 			"isDeleted": false,
 			"id": "u9E8SCvu-yck7vo25AvQ3",
 			"fillStyle": "hachure",
@@ -1733,8 +1738,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 630,
-			"versionNonce": 1981938229,
+			"version": 634,
+			"versionNonce": 298947893,
 			"isDeleted": false,
 			"id": "lM1qIzP1",
 			"fillStyle": "hachure",
@@ -1765,8 +1770,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 681,
-			"versionNonce": 1891217307,
+			"version": 685,
+			"versionNonce": 1571112091,
 			"isDeleted": false,
 			"id": "EzE3GrKr",
 			"fillStyle": "hachure",
@@ -1797,8 +1802,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 634,
-			"versionNonce": 1420749717,
+			"version": 638,
+			"versionNonce": 766715541,
 			"isDeleted": false,
 			"id": "pcvv5ZKO",
 			"fillStyle": "hachure",
@@ -1827,8 +1832,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 406,
-			"versionNonce": 1119290427,
+			"version": 410,
+			"versionNonce": 392689979,
 			"isDeleted": false,
 			"id": "jpNaXYI5",
 			"fillStyle": "hachure",
@@ -1859,8 +1864,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1004,
-			"versionNonce": 727101685,
+			"version": 1008,
+			"versionNonce": 1847299061,
 			"isDeleted": false,
 			"id": "SI9So0UN",
 			"fillStyle": "hachure",
@@ -1893,8 +1898,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 922,
-			"versionNonce": 239694203,
+			"version": 926,
+			"versionNonce": 1009457627,
 			"isDeleted": false,
 			"id": "lWY6U4VIrgxdbEfJoHI9e",
 			"fillStyle": "hachure",
@@ -1921,8 +1926,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 734,
-			"versionNonce": 1784461237,
+			"version": 738,
+			"versionNonce": 1125139797,
 			"isDeleted": false,
 			"id": "_TO7LVVR8iH9fBVX9kSDJ",
 			"fillStyle": "hachure",
@@ -1959,8 +1964,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 679,
-			"versionNonce": 11766299,
+			"version": 683,
+			"versionNonce": 1761683067,
 			"isDeleted": false,
 			"id": "zd9dd1Wk",
 			"fillStyle": "hachure",
@@ -1991,8 +1996,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 731,
-			"versionNonce": 1035335957,
+			"version": 735,
+			"versionNonce": 2145833653,
 			"isDeleted": false,
 			"id": "IGfkSCS8",
 			"fillStyle": "hachure",
@@ -2023,8 +2028,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 714,
-			"versionNonce": 462524091,
+			"version": 718,
+			"versionNonce": 1957469979,
 			"isDeleted": false,
 			"id": "IEmeyD98",
 			"fillStyle": "hachure",
@@ -2053,8 +2058,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 489,
-			"versionNonce": 1260392053,
+			"version": 493,
+			"versionNonce": 1900327957,
 			"isDeleted": false,
 			"id": "OYVQ1zGd",
 			"fillStyle": "hachure",
@@ -2083,8 +2088,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1086,
-			"versionNonce": 25558875,
+			"version": 1090,
+			"versionNonce": 966788027,
 			"isDeleted": false,
 			"id": "5uKA6oBL",
 			"fillStyle": "hachure",
@@ -2115,73 +2120,9 @@ X ^vlwD4DWk
 			"verticalAlign": "top"
 		},
 		{
-			"type": "text",
-			"version": 681,
-			"versionNonce": 1096841173,
-			"isDeleted": false,
-			"id": "C57dfMyd",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1598.954502308664,
-			"y": -147.10594837093504,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 26,
-			"height": 55,
-			"seed": 857895647,
-			"groupIds": [
-				"mcTrkRxfw8AOFJNRdMxne"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 43.6443514746612,
-			"fontFamily": 1,
-			"text": "S",
-			"rawText": "S",
-			"baseline": 38,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
-			"version": 731,
-			"versionNonce": 1558404091,
-			"isDeleted": false,
-			"id": "1HdUvs9N",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1625.7290380824488,
-			"y": -121.34658600666987,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 18,
-			"height": 34,
-			"seed": 1553591953,
-			"groupIds": [
-				"mcTrkRxfw8AOFJNRdMxne"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 26.742833647683348,
-			"fontFamily": 1,
-			"text": "in",
-			"rawText": "in",
-			"baseline": 24,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
 			"type": "ellipse",
-			"version": 879,
-			"versionNonce": 1519170869,
+			"version": 883,
+			"versionNonce": 857696629,
 			"isDeleted": false,
 			"id": "yF01Kg3m-VW35-oX-_kvJ",
 			"fillStyle": "hachure",
@@ -2207,8 +2148,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 693,
-			"versionNonce": 1772889243,
+			"version": 697,
+			"versionNonce": 536728667,
 			"isDeleted": false,
 			"id": "LY7blQVuZU9tZKZJwNjjB",
 			"fillStyle": "hachure",
@@ -2245,8 +2186,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 727,
-			"versionNonce": 1913276053,
+			"version": 731,
+			"versionNonce": 1186755285,
 			"isDeleted": false,
 			"id": "6K4ji0N9",
 			"fillStyle": "hachure",
@@ -2277,8 +2218,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 778,
-			"versionNonce": 1066588475,
+			"version": 782,
+			"versionNonce": 1738051835,
 			"isDeleted": false,
 			"id": "gD7NAYXX",
 			"fillStyle": "hachure",
@@ -2309,8 +2250,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 668,
-			"versionNonce": 1519299573,
+			"version": 672,
+			"versionNonce": 1756450869,
 			"isDeleted": false,
 			"id": "LUkHP1M8",
 			"fillStyle": "hachure",
@@ -2339,8 +2280,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1543109083,
+			"version": 425,
+			"versionNonce": 837990811,
 			"isDeleted": false,
 			"id": "xB0HeG42",
 			"fillStyle": "hachure",
@@ -2369,8 +2310,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1018,
-			"versionNonce": 1948214613,
+			"version": 1022,
+			"versionNonce": 652444053,
 			"isDeleted": false,
 			"id": "z98mocd2",
 			"fillStyle": "hachure",
@@ -2404,8 +2345,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 701,
-			"versionNonce": 1811154555,
+			"version": 705,
+			"versionNonce": 1279184443,
 			"isDeleted": false,
 			"id": "YaoLKuNO",
 			"fillStyle": "hachure",
@@ -2436,8 +2377,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 751,
-			"versionNonce": 34730677,
+			"version": 755,
+			"versionNonce": 914917109,
 			"isDeleted": false,
 			"id": "HELhKULJ",
 			"fillStyle": "hachure",
@@ -2468,8 +2409,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 105,
-			"versionNonce": 1447264027,
+			"version": 109,
+			"versionNonce": 962547419,
 			"isDeleted": false,
 			"id": "KtQ9eX6UM89HEUYKhM35W",
 			"fillStyle": "hachure",
@@ -2514,8 +2455,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 440,
-			"versionNonce": 1091294229,
+			"version": 456,
+			"versionNonce": 170254421,
 			"isDeleted": false,
 			"id": "AdKDbRuWrvqeGqwN3o6Q_",
 			"fillStyle": "hachure",
@@ -2524,8 +2465,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2634.1881713328044,
-			"y": -358.69392466773616,
+			"x": 3185.562072699992,
+			"y": -360.51960826148616,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 49.207995710022715,
@@ -2535,9 +2476,9 @@ X ^vlwD4DWk
 			"strokeSharpness": "round",
 			"boundElementIds": [],
 			"startBinding": {
-				"elementId": "3_aFcyh5a6yVFg_uH8cLi",
-				"focus": -0.5353611460228062,
-				"gap": 13.698079061176145
+				"elementId": "CgBi9-Jyed8bUJBSeIXkO",
+				"focus": -0.2615470454300206,
+				"gap": 3.2644928016054564
 			},
 			"endBinding": {
 				"focus": 0.28207854571165153,
@@ -2564,8 +2505,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 312,
-			"versionNonce": 89842619,
+			"version": 341,
+			"versionNonce": 2078718843,
 			"isDeleted": false,
 			"id": "5jzv8jO5SNYmmbc8qbzSC",
 			"fillStyle": "hachure",
@@ -2574,8 +2515,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2739.19975565625,
-			"y": -570.1176806381516,
+			"x": 3290.5736570234376,
+			"y": -571.9433642319016,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 92.13582992150714,
@@ -2586,13 +2527,13 @@ X ^vlwD4DWk
 			"boundElementIds": [],
 			"startBinding": {
 				"elementId": "DBKaeXta",
-				"focus": -0.24363614036602407,
-				"gap": 8.60769492701479
+				"focus": 0.5793389684213278,
+				"gap": 13.425478827684628
 			},
 			"endBinding": {
 				"elementId": "D1uieOqV",
-				"focus": -0.14598136985384527,
-				"gap": 10.756469805186498
+				"focus": -0.1459813698538471,
+				"gap": 10.668055148387793
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2610,8 +2551,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 262,
-			"versionNonce": 1023576437,
+			"version": 288,
+			"versionNonce": 663817653,
 			"isDeleted": false,
 			"id": "DBKaeXta",
 			"fillStyle": "hachure",
@@ -2620,8 +2561,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2551.096334111443,
-			"y": -664.2401809502112,
+			"x": 3303.301900517693,
+			"y": -673.3688430595862,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 376,
@@ -2642,8 +2583,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 1901900891,
+			"version": 76,
+			"versionNonce": 538416155,
 			"isDeleted": false,
 			"id": "D1uieOqV",
 			"fillStyle": "hachure",
@@ -2652,8 +2593,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2614.395870586355,
-			"y": -485.53298724573534,
+			"x": 3165.7697719535427,
+			"y": -487.35867083948534,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 22,
@@ -2674,8 +2615,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1190,
-			"versionNonce": 1731957461,
+			"version": 1205,
+			"versionNonce": 1039109909,
 			"isDeleted": false,
 			"id": "SCwj9eBs",
 			"fillStyle": "hachure",
@@ -2684,8 +2625,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2637.8286580298172,
-			"y": -459.9261516294728,
+			"x": 3189.2025593970047,
+			"y": -461.7518352232228,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 11,
@@ -2706,8 +2647,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 86,
-			"versionNonce": 1780183291,
+			"version": 101,
+			"versionNonce": 98851003,
 			"isDeleted": false,
 			"id": "U5YKaN1Zsx60TjJMtEf-n",
 			"fillStyle": "hachure",
@@ -2716,8 +2657,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2610.9124410869763,
-			"y": -477.2071464758901,
+			"x": 3162.286342454164,
+			"y": -479.0328300696401,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 34.232635498046875,
@@ -2744,8 +2685,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 1816948789,
+			"version": 79,
+			"versionNonce": 2075583605,
 			"isDeleted": false,
 			"id": "Ypur62dy",
 			"fillStyle": "hachure",
@@ -2754,8 +2695,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2907.663466129109,
-			"y": -269.6169624425164,
+			"x": 3427.9997698400466,
+			"y": -265.9655952550164,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 22,
@@ -2776,8 +2717,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1201,
-			"versionNonce": 555325851,
+			"version": 1211,
+			"versionNonce": 1794083163,
 			"isDeleted": false,
 			"id": "U8ByMC0n",
 			"fillStyle": "hachure",
@@ -2786,8 +2727,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2931.096253572571,
-			"y": -244.01012682625395,
+			"x": 3451.4325572835087,
+			"y": -240.35875963875395,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 11,
@@ -2808,8 +2749,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1037,
-			"versionNonce": 1243259285,
+			"version": 1051,
+			"versionNonce": 615288277,
 			"isDeleted": false,
 			"id": "VQROoDEm07YNpXdvk3O93",
 			"fillStyle": "hachure",
@@ -2818,8 +2759,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3029.2719681657563,
-			"y": -364.16893709043984,
+			"x": 3516.7451126970063,
+			"y": -362.34313142637734,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 334.1107177734375,
@@ -2832,13 +2773,14 @@ X ^vlwD4DWk
 				"KtQ9eX6UM89HEUYKhM35W",
 				"AdKDbRuWrvqeGqwN3o6Q_",
 				"Gmfvmyz-B84UCXpkNlfor",
-				"EIR422z1eAaeAjoMsAXdD"
+				"EIR422z1eAaeAjoMsAXdD",
+				"_q1I1CHT3iUdgUPA0CyJH"
 			]
 		},
 		{
 			"type": "line",
-			"version": 845,
-			"versionNonce": 1938402875,
+			"version": 857,
+			"versionNonce": 881567227,
 			"isDeleted": false,
 			"id": "8Nb8TTleAguLqyEjtZe_f",
 			"fillStyle": "hachure",
@@ -2847,8 +2789,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3029.2719681657563,
-			"y": -199.85219514708047,
+			"x": 3516.7451126970063,
+			"y": -198.02638948301797,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 333.1978759765625,
@@ -2875,8 +2817,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 820,
-			"versionNonce": 635152117,
+			"version": 832,
+			"versionNonce": 1743129397,
 			"isDeleted": false,
 			"id": "hDBUYUuV",
 			"fillStyle": "hachure",
@@ -2885,8 +2827,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3195.268987496551,
-			"y": -193.2111884943265,
+			"x": 3682.742132027801,
+			"y": -191.385382830264,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 120,
@@ -2905,8 +2847,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 569,
-			"versionNonce": 1951280859,
+			"version": 581,
+			"versionNonce": 2042310299,
 			"isDeleted": false,
 			"id": "CEtL6pVi",
 			"fillStyle": "hachure",
@@ -2915,8 +2857,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3146.3404284620055,
-			"y": -329.73973155612134,
+			"x": 3633.8135729932555,
+			"y": -327.91392589205884,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 33,
@@ -2935,8 +2877,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1172,
-			"versionNonce": 1645543509,
+			"version": 1184,
+			"versionNonce": 1976097941,
 			"isDeleted": false,
 			"id": "C3CwGzmw",
 			"fillStyle": "hachure",
@@ -2945,8 +2887,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3181.43501320373,
-			"y": -284.3839147928297,
+			"x": 3668.90815773498,
+			"y": -282.5581091287672,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 77,
@@ -2970,8 +2912,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 825,
-			"versionNonce": 905550715,
+			"version": 837,
+			"versionNonce": 1295033147,
 			"isDeleted": false,
 			"id": "jC51YO5Z",
 			"fillStyle": "hachure",
@@ -2980,8 +2922,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3075.085161224377,
-			"y": -192.83573047542723,
+			"x": 3562.558305755627,
+			"y": -191.00992481136473,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 30,
@@ -3002,8 +2944,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 872,
-			"versionNonce": 1956392373,
+			"version": 884,
+			"versionNonce": 1443529205,
 			"isDeleted": false,
 			"id": "gi2ZfEEO",
 			"fillStyle": "hachure",
@@ -3012,8 +2954,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3104.7791920165982,
-			"y": -166.00360052937287,
+			"x": 3592.2523365478482,
+			"y": -164.17779486531037,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -3034,8 +2976,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 1422816283,
+			"version": 250,
+			"versionNonce": 1196327899,
 			"isDeleted": false,
 			"id": "Gmfvmyz-B84UCXpkNlfor",
 			"fillStyle": "hachure",
@@ -3044,25 +2986,25 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2860.900725146824,
-			"y": -195.22906834384247,
+			"x": 2877.502643770066,
+			"y": -196.89584284305838,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 164.1759996008136,
-			"height": 0.33951871528211086,
+			"width": 130.01377370713953,
+			"height": 1.7888625847411959,
 			"seed": 370003089,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
 			"startBinding": {
 				"elementId": "3_aFcyh5a6yVFg_uH8cLi",
-				"focus": -0.028789209089381044,
-				"gap": 1.5756906868720364
+				"focus": -0.020471227588594768,
+				"gap": 18.21981933854488
 			},
 			"endBinding": {
-				"elementId": "VQROoDEm07YNpXdvk3O93",
-				"focus": -0.038124171695444804,
-				"gap": 4.300440490803169
+				"elementId": "CgBi9-Jyed8bUJBSeIXkO",
+				"focus": 0.04309754323206413,
+				"gap": 22.882473197284924
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3073,15 +3015,15 @@ X ^vlwD4DWk
 					0
 				],
 				[
-					164.1759996008136,
-					0.33951871528211086
+					130.01377370713953,
+					-1.7888625847411959
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 467,
-			"versionNonce": 2090250005,
+			"version": 501,
+			"versionNonce": 2108717909,
 			"isDeleted": false,
 			"id": "2niny9mbMUIRFT-fl_DEP",
 			"fillStyle": "hachure",
@@ -3090,25 +3032,25 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2613.326198588712,
-			"y": -362.3397063861711,
+			"x": 3046.112938020406,
+			"y": -318.7055160700454,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 626.5501620424504,
-			"height": 611.5933193652867,
+			"width": 1061.1625850678945,
+			"height": 655.2275096814124,
 			"seed": 1062461457,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElementIds": [],
 			"startBinding": {
-				"elementId": "3_aFcyh5a6yVFg_uH8cLi",
-				"focus": 0.40813353480486564,
-				"gap": 24.643296542044226
+				"elementId": "CgBi9-Jyed8bUJBSeIXkO",
+				"focus": 0.16061492808387276,
+				"gap": 30.339519476735575
 			},
 			"endBinding": {
 				"elementId": "9I5mD4BcqIg8pO06Rna9x",
-				"focus": 0.13126624789600963,
-				"gap": 18.407992148946732
+				"focus": 0.3761876785691476,
+				"gap": 17.29406926986391
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3119,15 +3061,15 @@ X ^vlwD4DWk
 					0
 				],
 				[
-					-626.5501620424504,
-					-611.5933193652867
+					-1061.1625850678945,
+					-655.2275096814124
 				]
 			]
 		},
 		{
 			"type": "ellipse",
-			"version": 1135,
-			"versionNonce": 1086273723,
+			"version": 1150,
+			"versionNonce": 1344753787,
 			"isDeleted": false,
 			"id": "Yed4zQXYgviBPK5peO39s",
 			"fillStyle": "hachure",
@@ -3136,8 +3078,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3540.3161736764832,
-			"y": -370.6907666473956,
+			"x": 4027.7893182077332,
+			"y": -368.8649609833331,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 334.1107177734375,
@@ -3156,8 +3098,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 940,
-			"versionNonce": 410649717,
+			"version": 952,
+			"versionNonce": 621824181,
 			"isDeleted": false,
 			"id": "HUf9Uh0vee7N1NUUMxu-C",
 			"fillStyle": "hachure",
@@ -3166,8 +3108,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3540.3161736764832,
-			"y": -206.37402470403623,
+			"x": 4027.7893182077332,
+			"y": -204.54821903997373,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 333.1978759765625,
@@ -3194,8 +3136,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 947,
-			"versionNonce": 1198418267,
+			"version": 959,
+			"versionNonce": 696092955,
 			"isDeleted": false,
 			"id": "MjS8O6Jb",
 			"fillStyle": "hachure",
@@ -3204,8 +3146,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3653.252508803176,
-			"y": -194.0276042329229,
+			"x": 4140.725653334426,
+			"y": -192.2017985688604,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 187,
@@ -3224,8 +3166,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 660,
-			"versionNonce": 2081140181,
+			"version": 672,
+			"versionNonce": 1573874197,
 			"isDeleted": false,
 			"id": "AMNAuTAo",
 			"fillStyle": "hachure",
@@ -3234,8 +3176,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3651.061067782399,
-			"y": -335.34865828104586,
+			"x": 4138.534212313649,
+			"y": -333.52285261698336,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 36,
@@ -3254,8 +3196,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1265,
-			"versionNonce": 1580107259,
+			"version": 1277,
+			"versionNonce": 952348091,
 			"isDeleted": false,
 			"id": "vcYPlqi4",
 			"fillStyle": "hachure",
@@ -3264,8 +3206,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3687.20213078244,
-			"y": -286.69532531992485,
+			"x": 4174.67527531369,
+			"y": -284.86951965586235,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 91,
@@ -3289,8 +3231,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 939,
-			"versionNonce": 1180773173,
+			"version": 951,
+			"versionNonce": 1759731573,
 			"isDeleted": false,
 			"id": "m4iTUQPI",
 			"fillStyle": "hachure",
@@ -3299,8 +3241,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3584.254737305695,
-			"y": -201.31371499192545,
+			"x": 4071.727881836945,
+			"y": -199.48790932786295,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 41,
@@ -3319,8 +3261,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 253,
-			"versionNonce": 738332315,
+			"version": 285,
+			"versionNonce": 287063643,
 			"isDeleted": false,
 			"id": "EIR422z1eAaeAjoMsAXdD",
 			"fillStyle": "hachure",
@@ -3329,8 +3271,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3367.1740039297897,
-			"y": -204.62053229322788,
+			"x": 3854.6471484610397,
+			"y": -202.79472662916538,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 162.954018955244,
@@ -3341,13 +3283,13 @@ X ^vlwD4DWk
 			"boundElementIds": [],
 			"startBinding": {
 				"elementId": "VQROoDEm07YNpXdvk3O93",
-				"focus": -0.04892689252857767,
-				"gap": 3.8367354755417296
+				"focus": -0.04759380812232671,
+				"gap": 3.836734978636059
 			},
 			"endBinding": {
 				"elementId": "Yed4zQXYgviBPK5peO39s",
-				"focus": -0.0641139085317144,
-				"gap": 10.308895685042529
+				"focus": -0.06411390853171411,
+				"gap": 10.308892398660845
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3365,8 +3307,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1228,
-			"versionNonce": 400555157,
+			"version": 1232,
+			"versionNonce": 1284614357,
 			"isDeleted": false,
 			"id": "H17q12PM5wI74Cq2D6JOj",
 			"fillStyle": "hachure",
@@ -3391,8 +3333,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1034,
-			"versionNonce": 1402700603,
+			"version": 1038,
+			"versionNonce": 1029290747,
 			"isDeleted": false,
 			"id": "-HnxIfDAbsqis5wMXEliw",
 			"fillStyle": "hachure",
@@ -3429,8 +3371,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1140,
-			"versionNonce": 1748869621,
+			"version": 1144,
+			"versionNonce": 711968309,
 			"isDeleted": false,
 			"id": "TzuuJIxw",
 			"fillStyle": "hachure",
@@ -3461,8 +3403,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1236,
-			"versionNonce": 2103272411,
+			"version": 1240,
+			"versionNonce": 1241424795,
 			"isDeleted": false,
 			"id": "J1tlxCkI",
 			"fillStyle": "hachure",
@@ -3493,8 +3435,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 782,
-			"versionNonce": 478124885,
+			"version": 786,
+			"versionNonce": 1432565653,
 			"isDeleted": false,
 			"id": "SdzI3gWt",
 			"fillStyle": "hachure",
@@ -3525,8 +3467,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1381,
-			"versionNonce": 559558779,
+			"version": 1385,
+			"versionNonce": 255686715,
 			"isDeleted": false,
 			"id": "sZlMO7cx",
 			"fillStyle": "hachure",
@@ -3559,8 +3501,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1256,
-			"versionNonce": 1559980213,
+			"version": 1260,
+			"versionNonce": 664894709,
 			"isDeleted": false,
 			"id": "wNxLey3Q",
 			"fillStyle": "hachure",
@@ -3591,8 +3533,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1298,
-			"versionNonce": 290744603,
+			"version": 1302,
+			"versionNonce": 989378779,
 			"isDeleted": false,
 			"id": "JmzlQIv1",
 			"fillStyle": "hachure",
@@ -3625,8 +3567,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1331,
-			"versionNonce": 727091733,
+			"version": 1335,
+			"versionNonce": 414193237,
 			"isDeleted": false,
 			"id": "SFs8TcjE",
 			"fillStyle": "hachure",
@@ -3659,8 +3601,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1325,
-			"versionNonce": 1119784379,
+			"version": 1329,
+			"versionNonce": 448980347,
 			"isDeleted": false,
 			"id": "zftr8qPZ",
 			"fillStyle": "hachure",
@@ -3693,8 +3635,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1354,
-			"versionNonce": 948338549,
+			"version": 1358,
+			"versionNonce": 325354421,
 			"isDeleted": false,
 			"id": "iKhGmjg9",
 			"fillStyle": "hachure",
@@ -3727,8 +3669,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1379,
-			"versionNonce": 1488658011,
+			"version": 1383,
+			"versionNonce": 635338267,
 			"isDeleted": false,
 			"id": "PzLqexD1",
 			"fillStyle": "hachure",
@@ -3761,8 +3703,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 2060503253,
+			"version": 232,
+			"versionNonce": 1482374939,
 			"isDeleted": false,
 			"id": "sp4pvesi",
 			"fillStyle": "hachure",
@@ -3776,23 +3718,23 @@ X ^vlwD4DWk
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 474,
-			"height": 150,
+			"height": 112,
 			"seed": 1854869791,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
 			"fontSize": 30.275811069544424,
 			"fontFamily": 1,
-			"text": "Schiebetür soll weiter \naufbleiben. Jetzt \nwarten wir bis die Lichtschranke\nein Signal zurückgibt",
-			"rawText": "Schiebetür soll weiter \naufbleiben. Jetzt \nwarten wir bis die Lichtschranke\nein Signal zurückgibt",
-			"baseline": 139,
+			"text": "Jetzt \nwarten wir bis die Lichtschranke\nein Signal zurückgibt",
+			"rawText": "Jetzt \nwarten wir bis die Lichtschranke\nein Signal zurückgibt",
+			"baseline": 101,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 1847368443,
+			"version": 322,
+			"versionNonce": 1195246267,
 			"isDeleted": false,
 			"id": "YmPdCzmc",
 			"fillStyle": "hachure",
@@ -3821,8 +3763,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 63628853,
+			"version": 84,
+			"versionNonce": 1436867189,
 			"isDeleted": false,
 			"id": "1ElY6owA",
 			"fillStyle": "hachure",
@@ -3851,8 +3793,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 526746523,
+			"version": 103,
+			"versionNonce": 1736700763,
 			"isDeleted": false,
 			"id": "P6Fw2jvz",
 			"fillStyle": "hachure",
@@ -3861,8 +3803,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2992.9928785455727,
-			"y": -26.951561796861338,
+			"x": 3480.4660230768227,
+			"y": -25.12575613279884,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 399,
@@ -3881,8 +3823,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 142,
-			"versionNonce": 375019413,
+			"version": 154,
+			"versionNonce": 963363797,
 			"isDeleted": false,
 			"id": "gG3Cdd5d",
 			"fillStyle": "hachure",
@@ -3891,8 +3833,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3548.277163657426,
-			"y": -37.57043516185866,
+			"x": 4035.750308188676,
+			"y": -35.74462949779616,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 443,
@@ -3911,8 +3853,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 928,
-			"versionNonce": 1422415931,
+			"version": 937,
+			"versionNonce": 922931195,
 			"isDeleted": false,
 			"id": "3_aFcyh5a6yVFg_uH8cLi",
 			"fillStyle": "hachure",
@@ -3940,8 +3882,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 738,
-			"versionNonce": 2092211445,
+			"version": 742,
+			"versionNonce": 1263436085,
 			"isDeleted": false,
 			"id": "TdzAJi8lp14X_YdalqAP5",
 			"fillStyle": "hachure",
@@ -3978,8 +3920,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 699,
-			"versionNonce": 1277663451,
+			"version": 703,
+			"versionNonce": 935139483,
 			"isDeleted": false,
 			"id": "cxBIBlkr",
 			"fillStyle": "hachure",
@@ -4008,8 +3950,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 459,
-			"versionNonce": 509556309,
+			"version": 463,
+			"versionNonce": 11702933,
 			"isDeleted": false,
 			"id": "JpyI8dDD",
 			"fillStyle": "hachure",
@@ -4038,8 +3980,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1061,
-			"versionNonce": 1662371195,
+			"version": 1065,
+			"versionNonce": 124079419,
 			"isDeleted": false,
 			"id": "mTlDly0m",
 			"fillStyle": "hachure",
@@ -4073,8 +4015,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 744,
-			"versionNonce": 1445962677,
+			"version": 748,
+			"versionNonce": 105740277,
 			"isDeleted": false,
 			"id": "YUwVhrhZ",
 			"fillStyle": "hachure",
@@ -4105,8 +4047,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 794,
-			"versionNonce": 550854171,
+			"version": 798,
+			"versionNonce": 1767763419,
 			"isDeleted": false,
 			"id": "1v1pBGuM",
 			"fillStyle": "hachure",
@@ -4137,8 +4079,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 676,
-			"versionNonce": 139158805,
+			"version": 680,
+			"versionNonce": 1445245269,
 			"isDeleted": false,
 			"id": "cg9ZIbjp",
 			"fillStyle": "hachure",
@@ -4169,8 +4111,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 727,
-			"versionNonce": 5825211,
+			"version": 731,
+			"versionNonce": 280590971,
 			"isDeleted": false,
 			"id": "sUxyh1Ml",
 			"fillStyle": "hachure",
@@ -4201,8 +4143,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1135,
-			"versionNonce": 2015885941,
+			"version": 1139,
+			"versionNonce": 227393205,
 			"isDeleted": false,
 			"id": "MuHFSZWZM3V_ks-DdLiyJ",
 			"fillStyle": "hachure",
@@ -4232,8 +4174,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 936,
-			"versionNonce": 2051199835,
+			"version": 940,
+			"versionNonce": 708473627,
 			"isDeleted": false,
 			"id": "ZFc2_WiYM4I1F3XSRpZC5",
 			"fillStyle": "hachure",
@@ -4270,8 +4212,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 933,
-			"versionNonce": 1586160597,
+			"version": 937,
+			"versionNonce": 53354517,
 			"isDeleted": false,
 			"id": "otw7dpr8",
 			"fillStyle": "hachure",
@@ -4300,8 +4242,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 682,
-			"versionNonce": 1323675643,
+			"version": 686,
+			"versionNonce": 642996155,
 			"isDeleted": false,
 			"id": "ZqW9yfpI",
 			"fillStyle": "hachure",
@@ -4332,8 +4274,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1281,
-			"versionNonce": 1065984309,
+			"version": 1285,
+			"versionNonce": 486233461,
 			"isDeleted": false,
 			"id": "WMgpuUKT",
 			"fillStyle": "hachure",
@@ -4366,8 +4308,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1068,
-			"versionNonce": 272890011,
+			"version": 1072,
+			"versionNonce": 1126606939,
 			"isDeleted": false,
 			"id": "H87FjrMk",
 			"fillStyle": "hachure",
@@ -4398,8 +4340,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1103,
-			"versionNonce": 9024149,
+			"version": 1107,
+			"versionNonce": 1715134165,
 			"isDeleted": false,
 			"id": "gmk58AE1",
 			"fillStyle": "hachure",
@@ -4430,8 +4372,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 110,
-			"versionNonce": 1812999483,
+			"version": 114,
+			"versionNonce": 1451681019,
 			"isDeleted": false,
 			"id": "vJplRPb_B0HFyHhcREkIH",
 			"fillStyle": "hachure",
@@ -4476,8 +4418,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 133,
-			"versionNonce": 1044420597,
+			"version": 137,
+			"versionNonce": 1703033909,
 			"isDeleted": false,
 			"id": "Tx72g70Z",
 			"fillStyle": "hachure",
@@ -4506,8 +4448,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1232,
-			"versionNonce": 900517339,
+			"version": 1236,
+			"versionNonce": 1475775899,
 			"isDeleted": false,
 			"id": "DrvvMHVktFFFJI6oDvQw_",
 			"fillStyle": "hachure",
@@ -4532,8 +4474,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1042,
-			"versionNonce": 1655951701,
+			"version": 1046,
+			"versionNonce": 850849173,
 			"isDeleted": false,
 			"id": "OfH6hXrXEHpb-GPW51bpA",
 			"fillStyle": "hachure",
@@ -4570,8 +4512,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1064,
-			"versionNonce": 808213115,
+			"version": 1068,
+			"versionNonce": 715661883,
 			"isDeleted": false,
 			"id": "ErK9zP6z",
 			"fillStyle": "hachure",
@@ -4600,8 +4542,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 795,
-			"versionNonce": 2067324597,
+			"version": 799,
+			"versionNonce": 1292792565,
 			"isDeleted": false,
 			"id": "69rhLWQg",
 			"fillStyle": "hachure",
@@ -4630,8 +4572,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1393,
-			"versionNonce": 407982875,
+			"version": 1397,
+			"versionNonce": 662577883,
 			"isDeleted": false,
 			"id": "pjWVFuUX",
 			"fillStyle": "hachure",
@@ -4663,8 +4605,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 1220,
-			"versionNonce": 1316306965,
+			"version": 1224,
+			"versionNonce": 823020629,
 			"isDeleted": false,
 			"id": "nP80xC_7B_i0GE9gQ_R9z",
 			"fillStyle": "hachure",
@@ -4709,8 +4651,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 396,
-			"versionNonce": 1854814139,
+			"version": 400,
+			"versionNonce": 1728778107,
 			"isDeleted": false,
 			"id": "19ECFXJ0",
 			"fillStyle": "hachure",
@@ -4739,8 +4681,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 1749,
-			"versionNonce": 845051253,
+			"version": 1753,
+			"versionNonce": 780925365,
 			"isDeleted": false,
 			"id": "VTkBLSr6YpzQQHzZPowiv",
 			"fillStyle": "hachure",
@@ -4785,8 +4727,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 628,
-			"versionNonce": 17139803,
+			"version": 632,
+			"versionNonce": 1267820571,
 			"isDeleted": false,
 			"id": "zXoM-gWhTpvioCaNlwf2s",
 			"fillStyle": "hachure",
@@ -4835,8 +4777,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 574226133,
+			"version": 134,
+			"versionNonce": 2125265685,
 			"isDeleted": false,
 			"id": "2EDfEQni",
 			"fillStyle": "hachure",
@@ -4867,8 +4809,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1263,
-			"versionNonce": 898221307,
+			"version": 1267,
+			"versionNonce": 1258532027,
 			"isDeleted": false,
 			"id": "xyPwUEWU",
 			"fillStyle": "hachure",
@@ -4899,8 +4841,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 163,
-			"versionNonce": 345857077,
+			"version": 167,
+			"versionNonce": 434557045,
 			"isDeleted": false,
 			"id": "j-yxRc6ykDLfIn3vONTDC",
 			"fillStyle": "hachure",
@@ -4937,8 +4879,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 509,
-			"versionNonce": 329084315,
+			"version": 513,
+			"versionNonce": 2030329179,
 			"isDeleted": false,
 			"id": "Vs_MwPppAbxDg6ghBimyM",
 			"fillStyle": "hachure",
@@ -4983,8 +4925,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 171,
-			"versionNonce": 292425109,
+			"version": 175,
+			"versionNonce": 1308555733,
 			"isDeleted": false,
 			"id": "z35oW5g1",
 			"fillStyle": "hachure",
@@ -5015,8 +4957,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1303,
-			"versionNonce": 242418235,
+			"version": 1307,
+			"versionNonce": 1357249019,
 			"isDeleted": false,
 			"id": "hbEkdNza",
 			"fillStyle": "hachure",
@@ -5047,8 +4989,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 691,
-			"versionNonce": 132223733,
+			"version": 695,
+			"versionNonce": 336262965,
 			"isDeleted": false,
 			"id": "g5SRS5CAbMTGL_KAkzKMd",
 			"fillStyle": "hachure",
@@ -5097,8 +5039,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 250413787,
+			"version": 196,
+			"versionNonce": 1068171931,
 			"isDeleted": false,
 			"id": "nSXDsmit",
 			"fillStyle": "hachure",
@@ -5129,8 +5071,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1324,
-			"versionNonce": 1685941333,
+			"version": 1328,
+			"versionNonce": 644892821,
 			"isDeleted": false,
 			"id": "3JDUupXc",
 			"fillStyle": "hachure",
@@ -5161,8 +5103,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 224,
-			"versionNonce": 1033760635,
+			"version": 228,
+			"versionNonce": 1845884731,
 			"isDeleted": false,
 			"id": "NS16PQbdueIuqKwq7-R5K",
 			"fillStyle": "hachure",
@@ -5199,8 +5141,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 199,
-			"versionNonce": 1729567157,
+			"version": 203,
+			"versionNonce": 1457810933,
 			"isDeleted": false,
 			"id": "fJJMCk03",
 			"fillStyle": "hachure",
@@ -5231,8 +5173,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1330,
-			"versionNonce": 214452251,
+			"version": 1334,
+			"versionNonce": 1247369179,
 			"isDeleted": false,
 			"id": "sVbgwmHu",
 			"fillStyle": "hachure",
@@ -5263,8 +5205,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 427,
-			"versionNonce": 953424661,
+			"version": 431,
+			"versionNonce": 611116885,
 			"isDeleted": false,
 			"id": "09lN5U28Xa-0WpblI7hLg",
 			"fillStyle": "hachure",
@@ -5309,8 +5251,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 959,
-			"versionNonce": 39750843,
+			"version": 963,
+			"versionNonce": 1387766907,
 			"isDeleted": false,
 			"id": "ymf5PmHrx91wYDUsTzLNw",
 			"fillStyle": "hachure",
@@ -5341,8 +5283,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 760,
-			"versionNonce": 1110044789,
+			"version": 764,
+			"versionNonce": 291452085,
 			"isDeleted": false,
 			"id": "vWDKiWAEVYCKR6ZUEEtv6",
 			"fillStyle": "hachure",
@@ -5379,8 +5321,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 733,
-			"versionNonce": 1107508571,
+			"version": 737,
+			"versionNonce": 518216987,
 			"isDeleted": false,
 			"id": "UJaY9mtM",
 			"fillStyle": "hachure",
@@ -5409,8 +5351,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 784,
-			"versionNonce": 1088297429,
+			"version": 788,
+			"versionNonce": 962647573,
 			"isDeleted": false,
 			"id": "mWsdjLgN",
 			"fillStyle": "hachure",
@@ -5439,8 +5381,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 744,
-			"versionNonce": 1460197883,
+			"version": 748,
+			"versionNonce": 709820859,
 			"isDeleted": false,
 			"id": "CCAeapoZ",
 			"fillStyle": "hachure",
@@ -5469,8 +5411,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 524,
-			"versionNonce": 503715637,
+			"version": 528,
+			"versionNonce": 661080949,
 			"isDeleted": false,
 			"id": "baFqHrz4",
 			"fillStyle": "hachure",
@@ -5499,8 +5441,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1123,
-			"versionNonce": 1047650971,
+			"version": 1127,
+			"versionNonce": 1578963547,
 			"isDeleted": false,
 			"id": "tuC4wcf2",
 			"fillStyle": "hachure",
@@ -5532,8 +5474,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 781,
-			"versionNonce": 67594389,
+			"version": 785,
+			"versionNonce": 1807226069,
 			"isDeleted": false,
 			"id": "StimebjR",
 			"fillStyle": "hachure",
@@ -5562,8 +5504,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 831,
-			"versionNonce": 821090107,
+			"version": 835,
+			"versionNonce": 1528827643,
 			"isDeleted": false,
 			"id": "xuqRW2xk",
 			"fillStyle": "hachure",
@@ -5592,8 +5534,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1032,
-			"versionNonce": 882347509,
+			"version": 1036,
+			"versionNonce": 1911075381,
 			"isDeleted": false,
 			"id": "krhP5bqO4u_ktLbSnQGZE",
 			"fillStyle": "hachure",
@@ -5621,8 +5563,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 836,
-			"versionNonce": 753416155,
+			"version": 840,
+			"versionNonce": 64649115,
 			"isDeleted": false,
 			"id": "LXTMOs3WsmrhaF7tEfhDm",
 			"fillStyle": "hachure",
@@ -5659,8 +5601,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 807,
-			"versionNonce": 515639125,
+			"version": 811,
+			"versionNonce": 383689621,
 			"isDeleted": false,
 			"id": "PB6E9JL8",
 			"fillStyle": "hachure",
@@ -5689,8 +5631,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 859,
-			"versionNonce": 1080722555,
+			"version": 863,
+			"versionNonce": 1182714939,
 			"isDeleted": false,
 			"id": "a0ZLjRJk",
 			"fillStyle": "hachure",
@@ -5719,8 +5661,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 843,
-			"versionNonce": 885675189,
+			"version": 847,
+			"versionNonce": 2127522037,
 			"isDeleted": false,
 			"id": "DgMniLiI",
 			"fillStyle": "hachure",
@@ -5749,8 +5691,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 590,
-			"versionNonce": 322583835,
+			"version": 594,
+			"versionNonce": 653233371,
 			"isDeleted": false,
 			"id": "RTBsiSB8",
 			"fillStyle": "hachure",
@@ -5779,8 +5721,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1188,
-			"versionNonce": 40367637,
+			"version": 1192,
+			"versionNonce": 725647957,
 			"isDeleted": false,
 			"id": "qeKT2Nuc",
 			"fillStyle": "hachure",
@@ -5812,8 +5754,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 794,
-			"versionNonce": 818536891,
+			"version": 798,
+			"versionNonce": 146749819,
 			"isDeleted": false,
 			"id": "N3rUT8pl",
 			"fillStyle": "hachure",
@@ -5842,8 +5784,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 844,
-			"versionNonce": 42625909,
+			"version": 848,
+			"versionNonce": 1359441845,
 			"isDeleted": false,
 			"id": "XPlye2xT",
 			"fillStyle": "hachure",
@@ -5872,8 +5814,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 987,
-			"versionNonce": 305918555,
+			"version": 991,
+			"versionNonce": 959468059,
 			"isDeleted": false,
 			"id": "XTb_uURn-r2-JzhYgpmef",
 			"fillStyle": "hachure",
@@ -5900,8 +5842,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 795,
-			"versionNonce": 897004757,
+			"version": 799,
+			"versionNonce": 1850323221,
 			"isDeleted": false,
 			"id": "ticbeY9KAox2s--u5Rj0g",
 			"fillStyle": "hachure",
@@ -5938,8 +5880,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 818,
-			"versionNonce": 1751314171,
+			"version": 822,
+			"versionNonce": 959796923,
 			"isDeleted": false,
 			"id": "w5lONT2l",
 			"fillStyle": "hachure",
@@ -5968,8 +5910,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 868,
-			"versionNonce": 1992544821,
+			"version": 872,
+			"versionNonce": 545048181,
 			"isDeleted": false,
 			"id": "BuOua4UB",
 			"fillStyle": "hachure",
@@ -5998,8 +5940,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 757,
-			"versionNonce": 633427867,
+			"version": 761,
+			"versionNonce": 1198573403,
 			"isDeleted": false,
 			"id": "uEBRGihc",
 			"fillStyle": "hachure",
@@ -6028,8 +5970,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 542,
-			"versionNonce": 324387733,
+			"version": 546,
+			"versionNonce": 979775445,
 			"isDeleted": false,
 			"id": "GtwnhVrZ",
 			"fillStyle": "hachure",
@@ -6058,8 +6000,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1142,
-			"versionNonce": 1216982075,
+			"version": 1146,
+			"versionNonce": 708125691,
 			"isDeleted": false,
 			"id": "Wo56lIDq",
 			"fillStyle": "hachure",
@@ -6093,8 +6035,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 808,
-			"versionNonce": 526551285,
+			"version": 812,
+			"versionNonce": 438005045,
 			"isDeleted": false,
 			"id": "hCtyb0NX",
 			"fillStyle": "hachure",
@@ -6123,8 +6065,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 858,
-			"versionNonce": 1688104155,
+			"version": 862,
+			"versionNonce": 965012635,
 			"isDeleted": false,
 			"id": "8gf6bsvb",
 			"fillStyle": "hachure",
@@ -6153,8 +6095,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 436,
-			"versionNonce": 208642645,
+			"version": 440,
+			"versionNonce": 1057095317,
 			"isDeleted": false,
 			"id": "9DqXF2CaEdUoGApuc2uT_",
 			"fillStyle": "hachure",
@@ -6199,8 +6141,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 657,
-			"versionNonce": 1838291323,
+			"version": 661,
+			"versionNonce": 689086779,
 			"isDeleted": false,
 			"id": "vyaYMA7lSY_Ep3JzkXlhk",
 			"fillStyle": "hachure",
@@ -6249,8 +6191,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 162,
-			"versionNonce": 2136117173,
+			"version": 166,
+			"versionNonce": 533685237,
 			"isDeleted": false,
 			"id": "JF60eInB",
 			"fillStyle": "hachure",
@@ -6281,8 +6223,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1292,
-			"versionNonce": 1084699163,
+			"version": 1296,
+			"versionNonce": 306233819,
 			"isDeleted": false,
 			"id": "CY9csxb9",
 			"fillStyle": "hachure",
@@ -6313,8 +6255,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 188,
-			"versionNonce": 1714475285,
+			"version": 192,
+			"versionNonce": 1082727765,
 			"isDeleted": false,
 			"id": "jNLobY_ocyxMe2YJfIe8x",
 			"fillStyle": "hachure",
@@ -6351,8 +6293,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 172,
-			"versionNonce": 1859139259,
+			"version": 176,
+			"versionNonce": 1042402939,
 			"isDeleted": false,
 			"id": "TgZMsOli",
 			"fillStyle": "hachure",
@@ -6383,8 +6325,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1303,
-			"versionNonce": 1317004917,
+			"version": 1307,
+			"versionNonce": 142912181,
 			"isDeleted": false,
 			"id": "tFrr1J9X",
 			"fillStyle": "hachure",
@@ -6415,8 +6357,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1144,
-			"versionNonce": 1185916763,
+			"version": 1148,
+			"versionNonce": 796411675,
 			"isDeleted": false,
 			"id": "erfGtDCosoUTBP2n4c-NF",
 			"fillStyle": "hachure",
@@ -6444,8 +6386,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 947,
-			"versionNonce": 2063945685,
+			"version": 951,
+			"versionNonce": 1483181077,
 			"isDeleted": false,
 			"id": "YYw4btGtLz01NyDs6rbyT",
 			"fillStyle": "hachure",
@@ -6482,8 +6424,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 932,
-			"versionNonce": 513278971,
+			"version": 936,
+			"versionNonce": 1823910843,
 			"isDeleted": false,
 			"id": "EEeetU0m",
 			"fillStyle": "hachure",
@@ -6512,8 +6454,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 683,
-			"versionNonce": 970362165,
+			"version": 687,
+			"versionNonce": 1613185397,
 			"isDeleted": false,
 			"id": "o3nKegcr",
 			"fillStyle": "hachure",
@@ -6542,8 +6484,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1287,
-			"versionNonce": 1586220187,
+			"version": 1291,
+			"versionNonce": 167738459,
 			"isDeleted": false,
 			"id": "0wUDkCD2",
 			"fillStyle": "hachure",
@@ -6577,8 +6519,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 910,
-			"versionNonce": 2052660885,
+			"version": 914,
+			"versionNonce": 889801429,
 			"isDeleted": false,
 			"id": "vkuddNHn",
 			"fillStyle": "hachure",
@@ -6607,8 +6549,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 957,
-			"versionNonce": 1245544763,
+			"version": 961,
+			"versionNonce": 1931819259,
 			"isDeleted": false,
 			"id": "T5N9lhxQ",
 			"fillStyle": "hachure",
@@ -6637,8 +6579,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 477,
-			"versionNonce": 591561717,
+			"version": 481,
+			"versionNonce": 665004085,
 			"isDeleted": false,
 			"id": "i7j_wYx8vmqyRUd64m5Sp",
 			"fillStyle": "hachure",
@@ -6683,8 +6625,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1240,
-			"versionNonce": 185573851,
+			"version": 1244,
+			"versionNonce": 1974100379,
 			"isDeleted": false,
 			"id": "aJ0JFsSP9uf_4BEEqUZpp",
 			"fillStyle": "hachure",
@@ -6713,8 +6655,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1042,
-			"versionNonce": 681065813,
+			"version": 1046,
+			"versionNonce": 1507482005,
 			"isDeleted": false,
 			"id": "pRs1sPc3zzNHKJZqPxeIh",
 			"fillStyle": "hachure",
@@ -6751,8 +6693,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1042,
-			"versionNonce": 2048175739,
+			"version": 1046,
+			"versionNonce": 180450875,
 			"isDeleted": false,
 			"id": "2SQzDa11",
 			"fillStyle": "hachure",
@@ -6781,8 +6723,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 789,
-			"versionNonce": 1638910645,
+			"version": 793,
+			"versionNonce": 350510837,
 			"isDeleted": false,
 			"id": "rKyc0hj4",
 			"fillStyle": "hachure",
@@ -6811,8 +6753,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1396,
-			"versionNonce": 705636123,
+			"version": 1400,
+			"versionNonce": 1632433883,
 			"isDeleted": false,
 			"id": "er1gKeYo",
 			"fillStyle": "hachure",
@@ -6846,8 +6788,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1034,
-			"versionNonce": 523152405,
+			"version": 1038,
+			"versionNonce": 1598470229,
 			"isDeleted": false,
 			"id": "FIDfY5T0",
 			"fillStyle": "hachure",
@@ -6876,8 +6818,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 582,
-			"versionNonce": 829524923,
+			"version": 586,
+			"versionNonce": 668951419,
 			"isDeleted": false,
 			"id": "cJSiDJJGZHDcfwTsShIi1",
 			"fillStyle": "hachure",
@@ -6922,8 +6864,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1335,
-			"versionNonce": 17457525,
+			"version": 1339,
+			"versionNonce": 1389815221,
 			"isDeleted": false,
 			"id": "g3wts8xpBdH6TvviQiHSK",
 			"fillStyle": "hachure",
@@ -6948,8 +6890,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1136,
-			"versionNonce": 878599259,
+			"version": 1140,
+			"versionNonce": 381369371,
 			"isDeleted": false,
 			"id": "C7xKuTi6FuY_RY2zmp0vJ",
 			"fillStyle": "hachure",
@@ -6986,8 +6928,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1220,
-			"versionNonce": 210266837,
+			"version": 1224,
+			"versionNonce": 851076885,
 			"isDeleted": false,
 			"id": "wN4V0CfA",
 			"fillStyle": "hachure",
@@ -7018,8 +6960,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1316,
-			"versionNonce": 782768379,
+			"version": 1320,
+			"versionNonce": 970129595,
 			"isDeleted": false,
 			"id": "7Dt7dzZe",
 			"fillStyle": "hachure",
@@ -7050,8 +6992,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1348,
-			"versionNonce": 37636149,
+			"version": 1352,
+			"versionNonce": 1097251957,
 			"isDeleted": false,
 			"id": "6h0AeV6d",
 			"fillStyle": "hachure",
@@ -7080,8 +7022,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 882,
-			"versionNonce": 2110865819,
+			"version": 886,
+			"versionNonce": 2060005723,
 			"isDeleted": false,
 			"id": "Xvjop2mB",
 			"fillStyle": "hachure",
@@ -7110,8 +7052,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1482,
-			"versionNonce": 1947302293,
+			"version": 1486,
+			"versionNonce": 1453417941,
 			"isDeleted": false,
 			"id": "rvokPT3m",
 			"fillStyle": "hachure",
@@ -7143,8 +7085,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1401,
-			"versionNonce": 722228795,
+			"version": 1405,
+			"versionNonce": 1794133499,
 			"isDeleted": false,
 			"id": "0uRGJhPs",
 			"fillStyle": "hachure",
@@ -7176,8 +7118,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1434,
-			"versionNonce": 456621813,
+			"version": 1438,
+			"versionNonce": 897573685,
 			"isDeleted": false,
 			"id": "xA0lclgU",
 			"fillStyle": "hachure",
@@ -7209,8 +7151,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1428,
-			"versionNonce": 1966855899,
+			"version": 1432,
+			"versionNonce": 1296750235,
 			"isDeleted": false,
 			"id": "2QqIB7Q5",
 			"fillStyle": "hachure",
@@ -7242,8 +7184,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1457,
-			"versionNonce": 1849022549,
+			"version": 1461,
+			"versionNonce": 577221781,
 			"isDeleted": false,
 			"id": "Dhc0Z9lp",
 			"fillStyle": "hachure",
@@ -7275,8 +7217,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1482,
-			"versionNonce": 452084603,
+			"version": 1486,
+			"versionNonce": 1619741499,
 			"isDeleted": false,
 			"id": "21YSinYR",
 			"fillStyle": "hachure",
@@ -7308,8 +7250,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1039,
-			"versionNonce": 1994524085,
+			"version": 1043,
+			"versionNonce": 957241845,
 			"isDeleted": false,
 			"id": "YJHv6FvLM47rkoz2SJesK",
 			"fillStyle": "hachure",
@@ -7338,8 +7280,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 841,
-			"versionNonce": 1685199899,
+			"version": 845,
+			"versionNonce": 1762929627,
 			"isDeleted": false,
 			"id": "OrCc9QJYed0LjV3rfG4yf",
 			"fillStyle": "hachure",
@@ -7376,8 +7318,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 806,
-			"versionNonce": 1751222037,
+			"version": 810,
+			"versionNonce": 41505621,
 			"isDeleted": false,
 			"id": "0TYDQzch",
 			"fillStyle": "hachure",
@@ -7406,8 +7348,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 587,
-			"versionNonce": 1840111803,
+			"version": 591,
+			"versionNonce": 2063071355,
 			"isDeleted": false,
 			"id": "MFBrHyD3",
 			"fillStyle": "hachure",
@@ -7436,8 +7378,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1191,
-			"versionNonce": 1965677685,
+			"version": 1195,
+			"versionNonce": 1258168501,
 			"isDeleted": false,
 			"id": "6LWeHC8y",
 			"fillStyle": "hachure",
@@ -7471,8 +7413,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 796,
-			"versionNonce": 810029403,
+			"version": 800,
+			"versionNonce": 66662683,
 			"isDeleted": false,
 			"id": "631NEb2f",
 			"fillStyle": "hachure",
@@ -7501,8 +7443,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 846,
-			"versionNonce": 1694533077,
+			"version": 850,
+			"versionNonce": 943866389,
 			"isDeleted": false,
 			"id": "Woe05TRI",
 			"fillStyle": "hachure",
@@ -7531,8 +7473,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 741,
-			"versionNonce": 1301491195,
+			"version": 745,
+			"versionNonce": 361387451,
 			"isDeleted": false,
 			"id": "D3GGANTS",
 			"fillStyle": "hachure",
@@ -7563,8 +7505,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 792,
-			"versionNonce": 1794835253,
+			"version": 796,
+			"versionNonce": 523974517,
 			"isDeleted": false,
 			"id": "XaW4b12f",
 			"fillStyle": "hachure",
@@ -7595,8 +7537,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1242,
-			"versionNonce": 412202651,
+			"version": 1246,
+			"versionNonce": 1858987611,
 			"isDeleted": false,
 			"id": "R74DVUrC1Ur0ePc7r907P",
 			"fillStyle": "hachure",
@@ -7626,8 +7568,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1038,
-			"versionNonce": 998167701,
+			"version": 1042,
+			"versionNonce": 439255253,
 			"isDeleted": false,
 			"id": "C_vwiByNHF1kztBBWenSZ",
 			"fillStyle": "hachure",
@@ -7664,8 +7606,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1025,
-			"versionNonce": 1609968443,
+			"version": 1029,
+			"versionNonce": 1184260859,
 			"isDeleted": false,
 			"id": "RqZGtTHq",
 			"fillStyle": "hachure",
@@ -7694,8 +7636,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 802,
-			"versionNonce": 1648458229,
+			"version": 806,
+			"versionNonce": 1588698677,
 			"isDeleted": false,
 			"id": "RfAUpxQi",
 			"fillStyle": "hachure",
@@ -7724,8 +7666,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1402,
-			"versionNonce": 2015562715,
+			"version": 1406,
+			"versionNonce": 1432767387,
 			"isDeleted": false,
 			"id": "uYqQl0LX",
 			"fillStyle": "hachure",
@@ -7757,8 +7699,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1069,
-			"versionNonce": 1481143125,
+			"version": 1073,
+			"versionNonce": 1403654037,
 			"isDeleted": false,
 			"id": "ko1I0hjs",
 			"fillStyle": "hachure",
@@ -7787,8 +7729,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1119,
-			"versionNonce": 86694011,
+			"version": 1123,
+			"versionNonce": 527441979,
 			"isDeleted": false,
 			"id": "rRNhT7HB",
 			"fillStyle": "hachure",
@@ -7817,8 +7759,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 1508458677,
+			"version": 443,
+			"versionNonce": 1733121269,
 			"isDeleted": false,
 			"id": "ThEaDqSEhvBcfAIU_BUiO",
 			"fillStyle": "hachure",
@@ -7863,8 +7805,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 124,
-			"versionNonce": 80744731,
+			"version": 128,
+			"versionNonce": 2123784411,
 			"isDeleted": false,
 			"id": "uIYPQYyvSRm2zn6NDe-Ko",
 			"fillStyle": "hachure",
@@ -7909,8 +7851,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 179,
-			"versionNonce": 2093572629,
+			"version": 183,
+			"versionNonce": 622915157,
 			"isDeleted": false,
 			"id": "GnMA9jx--TMxJIVEK4dO7",
 			"fillStyle": "hachure",
@@ -7955,8 +7897,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 333,
-			"versionNonce": 411383227,
+			"version": 380,
+			"versionNonce": 1818987899,
 			"isDeleted": false,
 			"id": "VMY17yk45jVKxULniv6Ao",
 			"fillStyle": "hachure",
@@ -7965,20 +7907,20 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3703.2844089509285,
-			"y": -34.73320601434898,
+			"x": 4192.732571451503,
+			"y": -28.941470282482328,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 4188.555806477865,
-			"height": 712.039235432943,
+			"width": 4679.680318196614,
+			"height": 706.2474997010763,
 			"seed": 544871697,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElementIds": [],
 			"startBinding": {
 				"elementId": "Yed4zQXYgviBPK5peO39s",
-				"focus": 0.03385416544675263,
-				"gap": 9.196202669641792
+				"focus": 0.027873252279557923,
+				"gap": 13.127849116444082
 			},
 			"endBinding": {
 				"elementId": "DrvvMHVktFFFJI6oDvQw_",
@@ -7994,23 +7936,23 @@ X ^vlwD4DWk
 					0
 				],
 				[
-					1.521402994791515,
-					167.35967000325513
+					3.197752212967316,
+					221.81732391982598
 				],
 				[
-					-4187.034403483073,
-					211.4817810058595
+					-4676.482565983647,
+					205.69004527399284
 				],
 				[
-					-4168.776957194011,
-					712.039235432943
+					-4658.2251196945845,
+					706.2474997010763
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 98457461,
+			"version": 132,
+			"versionNonce": 200956853,
 			"isDeleted": false,
 			"id": "9R3IR5kU",
 			"fillStyle": "hachure",
@@ -8039,8 +7981,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 258786907,
+			"version": 102,
+			"versionNonce": 204613147,
 			"isDeleted": false,
 			"id": "cyCVIJN4",
 			"fillStyle": "hachure",
@@ -8071,8 +8013,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 2137891029,
+			"version": 178,
+			"versionNonce": 603921685,
 			"isDeleted": false,
 			"id": "ac1on7UK",
 			"fillStyle": "hachure",
@@ -8103,8 +8045,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1282,
-			"versionNonce": 811156219,
+			"version": 1286,
+			"versionNonce": 1960618683,
 			"isDeleted": false,
 			"id": "7kAjcagWQnfTyXJWlJCdq",
 			"fillStyle": "hachure",
@@ -8130,8 +8072,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1088,
-			"versionNonce": 252493365,
+			"version": 1092,
+			"versionNonce": 1420079733,
 			"isDeleted": false,
 			"id": "6P3uPfkVSaP3AmDglr26a",
 			"fillStyle": "hachure",
@@ -8168,8 +8110,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1116,
-			"versionNonce": 1137519515,
+			"version": 1120,
+			"versionNonce": 990747483,
 			"isDeleted": false,
 			"id": "OoXz9ztX",
 			"fillStyle": "hachure",
@@ -8198,8 +8140,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 840,
-			"versionNonce": 195112853,
+			"version": 844,
+			"versionNonce": 2058394581,
 			"isDeleted": false,
 			"id": "H7q6oKNG",
 			"fillStyle": "hachure",
@@ -8228,8 +8170,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1438,
-			"versionNonce": 1576730683,
+			"version": 1442,
+			"versionNonce": 991393787,
 			"isDeleted": false,
 			"id": "NDuUolYs",
 			"fillStyle": "hachure",
@@ -8261,8 +8203,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 1404,
-			"versionNonce": 1398830325,
+			"version": 1408,
+			"versionNonce": 1043880245,
 			"isDeleted": false,
 			"id": "qxa5DC76Yc6V2X9JDjJz8",
 			"fillStyle": "hachure",
@@ -8307,8 +8249,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 442,
-			"versionNonce": 1757757659,
+			"version": 446,
+			"versionNonce": 586989723,
 			"isDeleted": false,
 			"id": "W1xIvZ2Q",
 			"fillStyle": "hachure",
@@ -8337,8 +8279,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 1933,
-			"versionNonce": 1641025109,
+			"version": 1937,
+			"versionNonce": 681667221,
 			"isDeleted": false,
 			"id": "f_Av72AZYsGxgRA-LQ0mq",
 			"fillStyle": "hachure",
@@ -8383,8 +8325,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 725,
-			"versionNonce": 1841196411,
+			"version": 729,
+			"versionNonce": 1013970235,
 			"isDeleted": false,
 			"id": "SMCzD-mICfTZ6t2ywoPl8",
 			"fillStyle": "hachure",
@@ -8433,8 +8375,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 177,
-			"versionNonce": 633699253,
+			"version": 181,
+			"versionNonce": 2057392117,
 			"isDeleted": false,
 			"id": "OpfRjBZ7",
 			"fillStyle": "hachure",
@@ -8465,8 +8407,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1309,
-			"versionNonce": 539559451,
+			"version": 1313,
+			"versionNonce": 1993577947,
 			"isDeleted": false,
 			"id": "CiIt8oUh",
 			"fillStyle": "hachure",
@@ -8497,8 +8439,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 209,
-			"versionNonce": 392576277,
+			"version": 213,
+			"versionNonce": 1111329109,
 			"isDeleted": false,
 			"id": "9rEqRQCwNcXVyHRPob35r",
 			"fillStyle": "hachure",
@@ -8535,8 +8477,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 656,
-			"versionNonce": 653757115,
+			"version": 660,
+			"versionNonce": 825893499,
 			"isDeleted": false,
 			"id": "H0tcukmox7NQKiNNEMLiz",
 			"fillStyle": "hachure",
@@ -8581,8 +8523,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 218,
-			"versionNonce": 237490805,
+			"version": 222,
+			"versionNonce": 818648757,
 			"isDeleted": false,
 			"id": "ES9P0FZQ",
 			"fillStyle": "hachure",
@@ -8613,8 +8555,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1349,
-			"versionNonce": 650935131,
+			"version": 1353,
+			"versionNonce": 1147542299,
 			"isDeleted": false,
 			"id": "R6MKf37G",
 			"fillStyle": "hachure",
@@ -8645,8 +8587,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 788,
-			"versionNonce": 1456454613,
+			"version": 792,
+			"versionNonce": 821098517,
 			"isDeleted": false,
 			"id": "raPI41a6x9lX1z9kXGRqT",
 			"fillStyle": "hachure",
@@ -8695,8 +8637,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 239,
-			"versionNonce": 200955899,
+			"version": 243,
+			"versionNonce": 1288306619,
 			"isDeleted": false,
 			"id": "GsaTeC4E",
 			"fillStyle": "hachure",
@@ -8727,8 +8669,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1370,
-			"versionNonce": 158562613,
+			"version": 1374,
+			"versionNonce": 1017326965,
 			"isDeleted": false,
 			"id": "E8mDBszt",
 			"fillStyle": "hachure",
@@ -8759,8 +8701,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 270,
-			"versionNonce": 344170651,
+			"version": 274,
+			"versionNonce": 881348699,
 			"isDeleted": false,
 			"id": "zswS1qw7lyKbLzH0kqe2z",
 			"fillStyle": "hachure",
@@ -8797,8 +8739,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 246,
-			"versionNonce": 527993493,
+			"version": 250,
+			"versionNonce": 1931982549,
 			"isDeleted": false,
 			"id": "U9k80wWG",
 			"fillStyle": "hachure",
@@ -8829,8 +8771,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1376,
-			"versionNonce": 437966139,
+			"version": 1380,
+			"versionNonce": 2104724731,
 			"isDeleted": false,
 			"id": "Lq4jNdGR",
 			"fillStyle": "hachure",
@@ -8861,8 +8803,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 574,
-			"versionNonce": 1234464757,
+			"version": 578,
+			"versionNonce": 1863586869,
 			"isDeleted": false,
 			"id": "fQ0FC3sE01_c6RYyZSsmu",
 			"fillStyle": "hachure",
@@ -8907,8 +8849,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1010,
-			"versionNonce": 472020443,
+			"version": 1014,
+			"versionNonce": 1259222427,
 			"isDeleted": false,
 			"id": "UIKScHq0Ry9krILJwF2Z1",
 			"fillStyle": "hachure",
@@ -8939,8 +8881,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 806,
-			"versionNonce": 97298773,
+			"version": 810,
+			"versionNonce": 1548600725,
 			"isDeleted": false,
 			"id": "Sjsqrh2sUJ7YQuRNMVA5s",
 			"fillStyle": "hachure",
@@ -8977,8 +8919,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 766,
-			"versionNonce": 162333307,
+			"version": 770,
+			"versionNonce": 747293243,
 			"isDeleted": false,
 			"id": "YKTZpCx5",
 			"fillStyle": "hachure",
@@ -9007,8 +8949,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 817,
-			"versionNonce": 1970714293,
+			"version": 821,
+			"versionNonce": 1309297397,
 			"isDeleted": false,
 			"id": "zdlWe8D5",
 			"fillStyle": "hachure",
@@ -9037,8 +8979,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 774,
-			"versionNonce": 1266481947,
+			"version": 778,
+			"versionNonce": 650889947,
 			"isDeleted": false,
 			"id": "a5vKU4gF",
 			"fillStyle": "hachure",
@@ -9067,8 +9009,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 565,
-			"versionNonce": 1933056021,
+			"version": 569,
+			"versionNonce": 1422861397,
 			"isDeleted": false,
 			"id": "FHPk3FGR",
 			"fillStyle": "hachure",
@@ -9097,8 +9039,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1165,
-			"versionNonce": 235200443,
+			"version": 1169,
+			"versionNonce": 2120464251,
 			"isDeleted": false,
 			"id": "mEyiGY9D",
 			"fillStyle": "hachure",
@@ -9130,8 +9072,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 792,
-			"versionNonce": 1762020725,
+			"version": 796,
+			"versionNonce": 1416745397,
 			"isDeleted": false,
 			"id": "ztHP97DD",
 			"fillStyle": "hachure",
@@ -9160,8 +9102,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 842,
-			"versionNonce": 1265053787,
+			"version": 846,
+			"versionNonce": 1100288027,
 			"isDeleted": false,
 			"id": "A6OQHNo1",
 			"fillStyle": "hachure",
@@ -9190,8 +9132,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1083,
-			"versionNonce": 1713821397,
+			"version": 1087,
+			"versionNonce": 437768981,
 			"isDeleted": false,
 			"id": "a959nLiN7jefxjtK8gkBq",
 			"fillStyle": "hachure",
@@ -9219,8 +9161,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 882,
-			"versionNonce": 360082683,
+			"version": 886,
+			"versionNonce": 307385531,
 			"isDeleted": false,
 			"id": "P2OjTky-MGwVkaF_zUDLQ",
 			"fillStyle": "hachure",
@@ -9257,8 +9199,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 827,
-			"versionNonce": 1966027829,
+			"version": 831,
+			"versionNonce": 842442869,
 			"isDeleted": false,
 			"id": "xmZYEeuj",
 			"fillStyle": "hachure",
@@ -9287,8 +9229,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 879,
-			"versionNonce": 531961243,
+			"version": 883,
+			"versionNonce": 809370971,
 			"isDeleted": false,
 			"id": "zh9zGScb",
 			"fillStyle": "hachure",
@@ -9317,8 +9259,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 858,
-			"versionNonce": 839181717,
+			"version": 862,
+			"versionNonce": 2123616725,
 			"isDeleted": false,
 			"id": "NwhCbXVP",
 			"fillStyle": "hachure",
@@ -9347,8 +9289,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 625,
-			"versionNonce": 156609083,
+			"version": 629,
+			"versionNonce": 1118478843,
 			"isDeleted": false,
 			"id": "QRmbcx9O",
 			"fillStyle": "hachure",
@@ -9377,8 +9319,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1224,
-			"versionNonce": 534604533,
+			"version": 1228,
+			"versionNonce": 205836085,
 			"isDeleted": false,
 			"id": "nFEOOJkv",
 			"fillStyle": "hachure",
@@ -9410,8 +9352,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 818,
-			"versionNonce": 1731898075,
+			"version": 822,
+			"versionNonce": 1654303387,
 			"isDeleted": false,
 			"id": "0ZeqOzQP",
 			"fillStyle": "hachure",
@@ -9440,8 +9382,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 868,
-			"versionNonce": 1061045333,
+			"version": 872,
+			"versionNonce": 699342997,
 			"isDeleted": false,
 			"id": "5cVt2CUB",
 			"fillStyle": "hachure",
@@ -9470,8 +9412,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1037,
-			"versionNonce": 234264443,
+			"version": 1041,
+			"versionNonce": 1690345275,
 			"isDeleted": false,
 			"id": "qwZDQ-q4WZMK1FMqgOF65",
 			"fillStyle": "hachure",
@@ -9498,8 +9440,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 841,
-			"versionNonce": 1677521333,
+			"version": 845,
+			"versionNonce": 1015563765,
 			"isDeleted": false,
 			"id": "lXTVUw3EuV11NL-OPou9U",
 			"fillStyle": "hachure",
@@ -9536,8 +9478,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 866,
-			"versionNonce": 466350107,
+			"version": 870,
+			"versionNonce": 1669267419,
 			"isDeleted": false,
 			"id": "obXcpjDU",
 			"fillStyle": "hachure",
@@ -9566,8 +9508,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 917,
-			"versionNonce": 1262416661,
+			"version": 921,
+			"versionNonce": 1473625941,
 			"isDeleted": false,
 			"id": "5oFk0rib",
 			"fillStyle": "hachure",
@@ -9596,8 +9538,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 806,
-			"versionNonce": 1118647483,
+			"version": 810,
+			"versionNonce": 149441659,
 			"isDeleted": false,
 			"id": "iBcfWfxe",
 			"fillStyle": "hachure",
@@ -9626,8 +9568,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 575,
-			"versionNonce": 1903806581,
+			"version": 579,
+			"versionNonce": 300747957,
 			"isDeleted": false,
 			"id": "9XMJIOKx",
 			"fillStyle": "hachure",
@@ -9656,8 +9598,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1177,
-			"versionNonce": 1379722587,
+			"version": 1181,
+			"versionNonce": 415171867,
 			"isDeleted": false,
 			"id": "v3kT0m32",
 			"fillStyle": "hachure",
@@ -9691,8 +9633,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 846,
-			"versionNonce": 678621653,
+			"version": 850,
+			"versionNonce": 443788821,
 			"isDeleted": false,
 			"id": "N1OvzFnH",
 			"fillStyle": "hachure",
@@ -9721,8 +9663,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 896,
-			"versionNonce": 30245371,
+			"version": 900,
+			"versionNonce": 980789691,
 			"isDeleted": false,
 			"id": "2jmhuELF",
 			"fillStyle": "hachure",
@@ -9751,8 +9693,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 579,
-			"versionNonce": 1832906549,
+			"version": 583,
+			"versionNonce": 274670453,
 			"isDeleted": false,
 			"id": "O0EnGTUz5evuw5Zwf3aDo",
 			"fillStyle": "hachure",
@@ -9797,8 +9739,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 752,
-			"versionNonce": 2053212827,
+			"version": 756,
+			"versionNonce": 53394011,
 			"isDeleted": false,
 			"id": "LVWOvZGHy6NWw9D1mzMRN",
 			"fillStyle": "hachure",
@@ -9847,8 +9789,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 2118533269,
+			"version": 213,
+			"versionNonce": 401927381,
 			"isDeleted": false,
 			"id": "zJpsDpBt",
 			"fillStyle": "hachure",
@@ -9879,8 +9821,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1338,
-			"versionNonce": 548110139,
+			"version": 1342,
+			"versionNonce": 1069332219,
 			"isDeleted": false,
 			"id": "bd9GRcUy",
 			"fillStyle": "hachure",
@@ -9911,8 +9853,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 234,
-			"versionNonce": 825976309,
+			"version": 238,
+			"versionNonce": 818580021,
 			"isDeleted": false,
 			"id": "GW6llmQjwpARR82aI01D3",
 			"fillStyle": "hachure",
@@ -9949,8 +9891,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 219,
-			"versionNonce": 521002971,
+			"version": 223,
+			"versionNonce": 2124554139,
 			"isDeleted": false,
 			"id": "sTlwRLuv",
 			"fillStyle": "hachure",
@@ -9981,8 +9923,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1349,
-			"versionNonce": 153411413,
+			"version": 1353,
+			"versionNonce": 1271233429,
 			"isDeleted": false,
 			"id": "MqNhC3te",
 			"fillStyle": "hachure",
@@ -10013,8 +9955,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1193,
-			"versionNonce": 798698619,
+			"version": 1197,
+			"versionNonce": 1511093307,
 			"isDeleted": false,
 			"id": "rL2owimz0dWxYcBVRFxSJ",
 			"fillStyle": "hachure",
@@ -10042,8 +9984,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 993,
-			"versionNonce": 207105205,
+			"version": 997,
+			"versionNonce": 555434229,
 			"isDeleted": false,
 			"id": "LG6he5tUYQhyOWSaghEh8",
 			"fillStyle": "hachure",
@@ -10080,8 +10022,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 985,
-			"versionNonce": 638969115,
+			"version": 989,
+			"versionNonce": 32322779,
 			"isDeleted": false,
 			"id": "dvUfdnSq",
 			"fillStyle": "hachure",
@@ -10110,8 +10052,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 754,
-			"versionNonce": 1517997589,
+			"version": 758,
+			"versionNonce": 1179736661,
 			"isDeleted": false,
 			"id": "suFM7Lhx",
 			"fillStyle": "hachure",
@@ -10140,8 +10082,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1360,
-			"versionNonce": 972065211,
+			"version": 1364,
+			"versionNonce": 96985467,
 			"isDeleted": false,
 			"id": "h0SnXx9Y",
 			"fillStyle": "hachure",
@@ -10175,8 +10117,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 956,
-			"versionNonce": 42091381,
+			"version": 960,
+			"versionNonce": 71124917,
 			"isDeleted": false,
 			"id": "chlhwjLA",
 			"fillStyle": "hachure",
@@ -10205,8 +10147,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1003,
-			"versionNonce": 273521243,
+			"version": 1007,
+			"versionNonce": 1591999003,
 			"isDeleted": false,
 			"id": "9jFE3jKC",
 			"fillStyle": "hachure",
@@ -10235,8 +10177,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 620,
-			"versionNonce": 414452949,
+			"version": 624,
+			"versionNonce": 1829013781,
 			"isDeleted": false,
 			"id": "SsbypTRb8eadWAxYkVD1o",
 			"fillStyle": "hachure",
@@ -10281,8 +10223,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1287,
-			"versionNonce": 100636411,
+			"version": 1291,
+			"versionNonce": 976486075,
 			"isDeleted": false,
 			"id": "-WGrUAaoP8recr-boPlJb",
 			"fillStyle": "hachure",
@@ -10310,8 +10252,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1088,
-			"versionNonce": 212183605,
+			"version": 1092,
+			"versionNonce": 840736373,
 			"isDeleted": false,
 			"id": "dL8fGuwXzU8zp6thJWvO7",
 			"fillStyle": "hachure",
@@ -10348,8 +10290,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1098,
-			"versionNonce": 965279643,
+			"version": 1102,
+			"versionNonce": 39481179,
 			"isDeleted": false,
 			"id": "IWLhkULj",
 			"fillStyle": "hachure",
@@ -10378,8 +10320,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 842,
-			"versionNonce": 1060936597,
+			"version": 846,
+			"versionNonce": 977995733,
 			"isDeleted": false,
 			"id": "DSloUT4J",
 			"fillStyle": "hachure",
@@ -10408,8 +10350,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1451,
-			"versionNonce": 1427919931,
+			"version": 1455,
+			"versionNonce": 698993659,
 			"isDeleted": false,
 			"id": "iSK4IK7S",
 			"fillStyle": "hachure",
@@ -10443,8 +10385,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1057,
-			"versionNonce": 1487823093,
+			"version": 1061,
+			"versionNonce": 2007319861,
 			"isDeleted": false,
 			"id": "VmYlxHZT",
 			"fillStyle": "hachure",
@@ -10473,8 +10415,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 729,
-			"versionNonce": 412882139,
+			"version": 733,
+			"versionNonce": 874812571,
 			"isDeleted": false,
 			"id": "IDb8voVW7YGJ2Nmi_Fo4p",
 			"fillStyle": "hachure",
@@ -10519,8 +10461,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1402,
-			"versionNonce": 1585478229,
+			"version": 1406,
+			"versionNonce": 2106644117,
 			"isDeleted": false,
 			"id": "E2ng9ggWRXdMW9gZiLzKz",
 			"fillStyle": "hachure",
@@ -10545,8 +10487,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1182,
-			"versionNonce": 597344635,
+			"version": 1186,
+			"versionNonce": 24987963,
 			"isDeleted": false,
 			"id": "437l1ZqB1IR0ekNVqDP-p",
 			"fillStyle": "hachure",
@@ -10583,8 +10525,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1300,
-			"versionNonce": 159934389,
+			"version": 1304,
+			"versionNonce": 1455635445,
 			"isDeleted": false,
 			"id": "rQjqXreM",
 			"fillStyle": "hachure",
@@ -10615,8 +10557,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1396,
-			"versionNonce": 2136660507,
+			"version": 1400,
+			"versionNonce": 1461086683,
 			"isDeleted": false,
 			"id": "FgQm5Lh9",
 			"fillStyle": "hachure",
@@ -10647,8 +10589,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1425,
-			"versionNonce": 1542170901,
+			"version": 1429,
+			"versionNonce": 457307477,
 			"isDeleted": false,
 			"id": "9K42E8MD",
 			"fillStyle": "hachure",
@@ -10677,8 +10619,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 938,
-			"versionNonce": 1758387899,
+			"version": 942,
+			"versionNonce": 704804475,
 			"isDeleted": false,
 			"id": "qcpalJUQ",
 			"fillStyle": "hachure",
@@ -10707,8 +10649,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1539,
-			"versionNonce": 1998569077,
+			"version": 1543,
+			"versionNonce": 1180861109,
 			"isDeleted": false,
 			"id": "JBbpsFBI",
 			"fillStyle": "hachure",
@@ -10740,8 +10682,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1478,
-			"versionNonce": 1519996763,
+			"version": 1482,
+			"versionNonce": 688123675,
 			"isDeleted": false,
 			"id": "5CUEc75F",
 			"fillStyle": "hachure",
@@ -10773,8 +10715,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1511,
-			"versionNonce": 837429205,
+			"version": 1515,
+			"versionNonce": 1288332309,
 			"isDeleted": false,
 			"id": "meeqJl20",
 			"fillStyle": "hachure",
@@ -10806,8 +10748,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1505,
-			"versionNonce": 1460448251,
+			"version": 1509,
+			"versionNonce": 109925307,
 			"isDeleted": false,
 			"id": "DLF2z3XP",
 			"fillStyle": "hachure",
@@ -10839,8 +10781,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1534,
-			"versionNonce": 1851811125,
+			"version": 1538,
+			"versionNonce": 1919883637,
 			"isDeleted": false,
 			"id": "fbisGj7Y",
 			"fillStyle": "hachure",
@@ -10872,8 +10814,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1559,
-			"versionNonce": 1915450523,
+			"version": 1563,
+			"versionNonce": 46212187,
 			"isDeleted": false,
 			"id": "faHlyA8X",
 			"fillStyle": "hachure",
@@ -10905,8 +10847,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1088,
-			"versionNonce": 803731093,
+			"version": 1092,
+			"versionNonce": 1620452053,
 			"isDeleted": false,
 			"id": "H9CpuWWomLbJg13NR3n6H",
 			"fillStyle": "hachure",
@@ -10935,8 +10877,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 885,
-			"versionNonce": 464005435,
+			"version": 889,
+			"versionNonce": 896655611,
 			"isDeleted": false,
 			"id": "CC14u8LqKG60vCEmB3_IZ",
 			"fillStyle": "hachure",
@@ -10973,8 +10915,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 850,
-			"versionNonce": 1899387893,
+			"version": 854,
+			"versionNonce": 2077556789,
 			"isDeleted": false,
 			"id": "ExhtQFnV",
 			"fillStyle": "hachure",
@@ -11003,8 +10945,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 636,
-			"versionNonce": 686115291,
+			"version": 640,
+			"versionNonce": 404883867,
 			"isDeleted": false,
 			"id": "rwQZIPai",
 			"fillStyle": "hachure",
@@ -11033,8 +10975,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1242,
-			"versionNonce": 978392405,
+			"version": 1246,
+			"versionNonce": 2047947157,
 			"isDeleted": false,
 			"id": "f1ZobK5z",
 			"fillStyle": "hachure",
@@ -11068,8 +11010,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 874,
-			"versionNonce": 519394939,
+			"version": 878,
+			"versionNonce": 1342447163,
 			"isDeleted": false,
 			"id": "Izp0mhGm",
 			"fillStyle": "hachure",
@@ -11098,8 +11040,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 935,
-			"versionNonce": 1988993717,
+			"version": 939,
+			"versionNonce": 947926773,
 			"isDeleted": false,
 			"id": "IQeAVYjs",
 			"fillStyle": "hachure",
@@ -11128,8 +11070,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 829,
-			"versionNonce": 1016778523,
+			"version": 833,
+			"versionNonce": 939171547,
 			"isDeleted": false,
 			"id": "HoyxagVG",
 			"fillStyle": "hachure",
@@ -11160,8 +11102,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 880,
-			"versionNonce": 177308693,
+			"version": 884,
+			"versionNonce": 1369935957,
 			"isDeleted": false,
 			"id": "ShVL3Bpn",
 			"fillStyle": "hachure",
@@ -11192,8 +11134,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1291,
-			"versionNonce": 1145582523,
+			"version": 1295,
+			"versionNonce": 714607483,
 			"isDeleted": false,
 			"id": "YOiNnTK6E2cgNcxcB4jKZ",
 			"fillStyle": "hachure",
@@ -11223,8 +11165,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 1084,
-			"versionNonce": 710031733,
+			"version": 1088,
+			"versionNonce": 1935457717,
 			"isDeleted": false,
 			"id": "jqoLHSpTb6i9FhPfcCvd0",
 			"fillStyle": "hachure",
@@ -11261,8 +11203,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1079,
-			"versionNonce": 102761563,
+			"version": 1083,
+			"versionNonce": 203351067,
 			"isDeleted": false,
 			"id": "LgwXU4FQ",
 			"fillStyle": "hachure",
@@ -11291,8 +11233,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 841,
-			"versionNonce": 1863664341,
+			"version": 845,
+			"versionNonce": 1959083797,
 			"isDeleted": false,
 			"id": "6KFzi1vw",
 			"fillStyle": "hachure",
@@ -11321,8 +11263,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1442,
-			"versionNonce": 703906043,
+			"version": 1446,
+			"versionNonce": 344041659,
 			"isDeleted": false,
 			"id": "yzimcfLa",
 			"fillStyle": "hachure",
@@ -11354,8 +11296,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1105,
-			"versionNonce": 762322997,
+			"version": 1109,
+			"versionNonce": 743871605,
 			"isDeleted": false,
 			"id": "TYhsFtCP",
 			"fillStyle": "hachure",
@@ -11384,8 +11326,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1155,
-			"versionNonce": 961079707,
+			"version": 1159,
+			"versionNonce": 1499650395,
 			"isDeleted": false,
 			"id": "SvcTapcL",
 			"fillStyle": "hachure",
@@ -11414,8 +11356,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 586,
-			"versionNonce": 189288853,
+			"version": 590,
+			"versionNonce": 97926613,
 			"isDeleted": false,
 			"id": "HOvL-m_hOtfl4p4iGIbiQ",
 			"fillStyle": "hachure",
@@ -11460,8 +11402,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 271,
-			"versionNonce": 1766784571,
+			"version": 275,
+			"versionNonce": 404026875,
 			"isDeleted": false,
 			"id": "dzI3PUNfA8oLtkrNfmlw3",
 			"fillStyle": "hachure",
@@ -11506,8 +11448,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 322,
-			"versionNonce": 1439913717,
+			"version": 326,
+			"versionNonce": 1482275637,
 			"isDeleted": false,
 			"id": "IGVbpLf5XIHtHMNvDYfXI",
 			"fillStyle": "hachure",
@@ -11552,8 +11494,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 619282139,
+			"version": 150,
+			"versionNonce": 1067089563,
 			"isDeleted": false,
 			"id": "MPk2wrMFkgDqoW_WGPuTf",
 			"fillStyle": "hachure",
@@ -11602,8 +11544,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 181,
-			"versionNonce": 395751509,
+			"version": 185,
+			"versionNonce": 2084998293,
 			"isDeleted": false,
 			"id": "w1sUNOe3xNcmEwEZUKxwH",
 			"fillStyle": "hachure",
@@ -11652,8 +11594,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 1454041979,
+			"version": 262,
+			"versionNonce": 983954235,
 			"isDeleted": false,
 			"id": "5arHbQD7",
 			"fillStyle": "hachure",
@@ -11682,8 +11624,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1126,
-			"versionNonce": 1852300725,
+			"version": 1133,
+			"versionNonce": 559034869,
 			"isDeleted": false,
 			"id": "9I5mD4BcqIg8pO06Rna9x",
 			"fillStyle": "hachure",
@@ -11712,8 +11654,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 866,
-			"versionNonce": 1926611995,
+			"version": 870,
+			"versionNonce": 2040124379,
 			"isDeleted": false,
 			"id": "cnUr_LcaClG4UQID2GtjO",
 			"fillStyle": "hachure",
@@ -11752,8 +11694,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 651,
-			"versionNonce": 560750357,
+			"version": 655,
+			"versionNonce": 1686252373,
 			"isDeleted": false,
 			"id": "DuIV1k7Q",
 			"fillStyle": "hachure",
@@ -11784,8 +11726,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 702,
-			"versionNonce": 1096583355,
+			"version": 706,
+			"versionNonce": 1015586939,
 			"isDeleted": false,
 			"id": "uRrNSgiQ",
 			"fillStyle": "hachure",
@@ -11817,8 +11759,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1176,
-			"versionNonce": 1998173301,
+			"version": 1180,
+			"versionNonce": 640415925,
 			"isDeleted": false,
 			"id": "oJxJ-UINdWucAT6-br73Z",
 			"fillStyle": "hachure",
@@ -11851,8 +11793,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 911,
-			"versionNonce": 1742846299,
+			"version": 915,
+			"versionNonce": 490002715,
 			"isDeleted": false,
 			"id": "16rQw5FNfxSgObjzQvbQ1",
 			"fillStyle": "hachure",
@@ -11891,8 +11833,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 685,
-			"versionNonce": 1261788629,
+			"version": 689,
+			"versionNonce": 536156693,
 			"isDeleted": false,
 			"id": "oMtU3MBk",
 			"fillStyle": "hachure",
@@ -11923,8 +11865,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 696,
-			"versionNonce": 867685883,
+			"version": 700,
+			"versionNonce": 1494285755,
 			"isDeleted": false,
 			"id": "TKCJbSl4",
 			"fillStyle": "hachure",
@@ -11956,8 +11898,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "ellipse",
-			"version": 1227,
-			"versionNonce": 1691671349,
+			"version": 1231,
+			"versionNonce": 986910581,
 			"isDeleted": false,
 			"id": "uEHljRqFaWQ75i08NiL7e",
 			"fillStyle": "hachure",
@@ -11990,8 +11932,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 957,
-			"versionNonce": 601972379,
+			"version": 961,
+			"versionNonce": 1530891867,
 			"isDeleted": false,
 			"id": "9KmBW4bUWWyA6UDXiq83n",
 			"fillStyle": "hachure",
@@ -12030,8 +11972,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 725,
-			"versionNonce": 207465621,
+			"version": 729,
+			"versionNonce": 621500629,
 			"isDeleted": false,
 			"id": "JTpJW8Z0",
 			"fillStyle": "hachure",
@@ -12062,8 +12004,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 686,
-			"versionNonce": 856740667,
+			"version": 690,
+			"versionNonce": 110299899,
 			"isDeleted": false,
 			"id": "XYHG9qqy",
 			"fillStyle": "hachure",
@@ -12095,8 +12037,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 113,
-			"versionNonce": 1636127221,
+			"version": 117,
+			"versionNonce": 674461237,
 			"isDeleted": false,
 			"id": "hHAt2Ad5",
 			"fillStyle": "hachure",
@@ -12125,8 +12067,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 481,
-			"versionNonce": 1638446043,
+			"version": 485,
+			"versionNonce": 1066267547,
 			"isDeleted": false,
 			"id": "Y4SwdfN1",
 			"fillStyle": "hachure",
@@ -12155,8 +12097,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1150,
-			"versionNonce": 1901153109,
+			"version": 1154,
+			"versionNonce": 1060169621,
 			"isDeleted": false,
 			"id": "pyfyFfeR",
 			"fillStyle": "hachure",
@@ -12187,8 +12129,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1265,
-			"versionNonce": 2142994555,
+			"version": 1269,
+			"versionNonce": 912443451,
 			"isDeleted": false,
 			"id": "tn4hc5mF",
 			"fillStyle": "hachure",
@@ -12219,8 +12161,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1164,
-			"versionNonce": 202840245,
+			"version": 1168,
+			"versionNonce": 1815686389,
 			"isDeleted": false,
 			"id": "KfOty3ju",
 			"fillStyle": "hachure",
@@ -12251,8 +12193,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1279,
-			"versionNonce": 923515163,
+			"version": 1283,
+			"versionNonce": 1895041243,
 			"isDeleted": false,
 			"id": "dBXVetRO",
 			"fillStyle": "hachure",
@@ -12283,8 +12225,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1245,
-			"versionNonce": 971922395,
+			"version": 1249,
+			"versionNonce": 1322370645,
 			"isDeleted": false,
 			"id": "ECtncSpj",
 			"fillStyle": "hachure",
@@ -12315,8 +12257,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1374,
-			"versionNonce": 1738154837,
+			"version": 1378,
+			"versionNonce": 349451643,
 			"isDeleted": false,
 			"id": "6krxrknY",
 			"fillStyle": "hachure",
@@ -12347,72 +12289,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1216,
-			"versionNonce": 1095399637,
-			"isDeleted": false,
-			"id": "SiqItZPo",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1660.9143927745274,
-			"y": -117.93850091611051,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 29,
-			"height": 56,
-			"seed": 1079211057,
-			"groupIds": [
-				"PvvaIK9bpsISHe0wNx5ui"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 44.73799664544768,
-			"fontFamily": 1,
-			"text": "C",
-			"rawText": "C",
-			"baseline": 39,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
-			"version": 1331,
-			"versionNonce": 693496571,
-			"isDeleted": false,
-			"id": "jGfDFwU6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1683.6383719426688,
-			"y": -90.7882544612551,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 47,
-			"height": 35,
-			"seed": 938599263,
-			"groupIds": [
-				"PvvaIK9bpsISHe0wNx5ui"
-			],
-			"strokeSharpness": "sharp",
-			"boundElementIds": [],
-			"fontSize": 27.412958644016857,
-			"fontFamily": 1,
-			"text": "out",
-			"rawText": "out",
-			"baseline": 25,
-			"textAlign": "left",
-			"verticalAlign": "top"
-		},
-		{
-			"type": "text",
-			"version": 1273,
-			"versionNonce": 797873717,
+			"version": 1289,
+			"versionNonce": 2043687861,
 			"isDeleted": false,
 			"id": "g0Mq2u53",
 			"fillStyle": "hachure",
@@ -12421,8 +12299,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1749.0320021062118,
-			"y": -122.40891264746136,
+			"x": 1619.4043165593368,
+			"y": -142.49204253027386,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 29,
@@ -12443,8 +12321,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1402,
-			"versionNonce": 1190450075,
+			"version": 1418,
+			"versionNonce": 1900400155,
 			"isDeleted": false,
 			"id": "18jZxNUb",
 			"fillStyle": "hachure",
@@ -12453,8 +12331,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1777.6449703098217,
-			"y": -92.6648584296542,
+			"x": 1648.0172847629467,
+			"y": -112.7479883124667,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 19,
@@ -12475,8 +12353,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1172,
-			"versionNonce": 1848117141,
+			"version": 1176,
+			"versionNonce": 156890389,
 			"isDeleted": false,
 			"id": "fmwASb2D",
 			"fillStyle": "hachure",
@@ -12507,8 +12385,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1287,
-			"versionNonce": 1844291643,
+			"version": 1291,
+			"versionNonce": 1228624571,
 			"isDeleted": false,
 			"id": "82M3d6eJ",
 			"fillStyle": "hachure",
@@ -12539,8 +12417,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1177,
-			"versionNonce": 1867271413,
+			"version": 1181,
+			"versionNonce": 2028243573,
 			"isDeleted": false,
 			"id": "TA1G8wEN",
 			"fillStyle": "hachure",
@@ -12571,8 +12449,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1292,
-			"versionNonce": 874703067,
+			"version": 1296,
+			"versionNonce": 1565999963,
 			"isDeleted": false,
 			"id": "teXldixI",
 			"fillStyle": "hachure",
@@ -12603,8 +12481,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1221,
-			"versionNonce": 1115743829,
+			"version": 1226,
+			"versionNonce": 959804373,
 			"isDeleted": false,
 			"id": "TQL02fCt",
 			"fillStyle": "hachure",
@@ -12635,8 +12513,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1350,
-			"versionNonce": 1327961467,
+			"version": 1354,
+			"versionNonce": 904667131,
 			"isDeleted": false,
 			"id": "UQ96TOsQ",
 			"fillStyle": "hachure",
@@ -12667,8 +12545,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1242,
-			"versionNonce": 1788564405,
+			"version": 1254,
+			"versionNonce": 107098421,
 			"isDeleted": false,
 			"id": "JDy3mM01",
 			"fillStyle": "hachure",
@@ -12677,8 +12555,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3163.440807707266,
-			"y": -117.23832430792703,
+			"x": 3650.913952238516,
+			"y": -115.41251864386453,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 31,
@@ -12699,8 +12577,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1357,
-			"versionNonce": 507293211,
+			"version": 1369,
+			"versionNonce": 754739355,
 			"isDeleted": false,
 			"id": "nOecsWZw",
 			"fillStyle": "hachure",
@@ -12709,8 +12587,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3187.8126959381243,
-			"y": -88.11918249117267,
+			"x": 3675.2858404693743,
+			"y": -86.29337682711017,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 49,
@@ -12731,8 +12609,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1196,
-			"versionNonce": 1942033685,
+			"version": 1200,
+			"versionNonce": 2110800533,
 			"isDeleted": false,
 			"id": "CcR3Zrl2",
 			"fillStyle": "hachure",
@@ -12763,8 +12641,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1311,
-			"versionNonce": 1951806139,
+			"version": 1315,
+			"versionNonce": 943365435,
 			"isDeleted": false,
 			"id": "s62AmkEw",
 			"fillStyle": "hachure",
@@ -12795,8 +12673,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1269,
-			"versionNonce": 1231530613,
+			"version": 1273,
+			"versionNonce": 1949640693,
 			"isDeleted": false,
 			"id": "jZlcPZ25",
 			"fillStyle": "hachure",
@@ -12827,8 +12705,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1384,
-			"versionNonce": 571876187,
+			"version": 1388,
+			"versionNonce": 1929985499,
 			"isDeleted": false,
 			"id": "lNNebJQP",
 			"fillStyle": "hachure",
@@ -12859,8 +12737,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1270,
-			"versionNonce": 1280611285,
+			"version": 1274,
+			"versionNonce": 194404693,
 			"isDeleted": false,
 			"id": "b2It3CoL",
 			"fillStyle": "hachure",
@@ -12891,8 +12769,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1385,
-			"versionNonce": 1070530555,
+			"version": 1389,
+			"versionNonce": 1752877691,
 			"isDeleted": false,
 			"id": "SHzQNJZa",
 			"fillStyle": "hachure",
@@ -12923,8 +12801,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1348,
-			"versionNonce": 681398581,
+			"version": 1352,
+			"versionNonce": 155807413,
 			"isDeleted": false,
 			"id": "hUNfGlZ7",
 			"fillStyle": "hachure",
@@ -12955,8 +12833,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1477,
-			"versionNonce": 931350683,
+			"version": 1481,
+			"versionNonce": 491897627,
 			"isDeleted": false,
 			"id": "69EzIRPb",
 			"fillStyle": "hachure",
@@ -12987,8 +12865,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1314,
-			"versionNonce": 1806131861,
+			"version": 1318,
+			"versionNonce": 1811140629,
 			"isDeleted": false,
 			"id": "jIdrBTKF",
 			"fillStyle": "hachure",
@@ -13019,8 +12897,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1429,
-			"versionNonce": 249920827,
+			"version": 1433,
+			"versionNonce": 1509992379,
 			"isDeleted": false,
 			"id": "CcMkf5If",
 			"fillStyle": "hachure",
@@ -13051,8 +12929,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1387,
-			"versionNonce": 1512589301,
+			"version": 1391,
+			"versionNonce": 1099629941,
 			"isDeleted": false,
 			"id": "Aw7Ydyny",
 			"fillStyle": "hachure",
@@ -13083,8 +12961,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1516,
-			"versionNonce": 1901600219,
+			"version": 1520,
+			"versionNonce": 883554395,
 			"isDeleted": false,
 			"id": "CugT5VAh",
 			"fillStyle": "hachure",
@@ -13115,8 +12993,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1264,
-			"versionNonce": 103121237,
+			"version": 1268,
+			"versionNonce": 1028951765,
 			"isDeleted": false,
 			"id": "TgzOyrbu",
 			"fillStyle": "hachure",
@@ -13147,8 +13025,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1379,
-			"versionNonce": 2045618811,
+			"version": 1383,
+			"versionNonce": 1528837371,
 			"isDeleted": false,
 			"id": "o1Lo7sJ5",
 			"fillStyle": "hachure",
@@ -13179,8 +13057,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1266,
-			"versionNonce": 620007093,
+			"version": 1270,
+			"versionNonce": 233172021,
 			"isDeleted": false,
 			"id": "8Mk1fuYV",
 			"fillStyle": "hachure",
@@ -13211,8 +13089,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1381,
-			"versionNonce": 1030267675,
+			"version": 1385,
+			"versionNonce": 484826523,
 			"isDeleted": false,
 			"id": "E813E4is",
 			"fillStyle": "hachure",
@@ -13243,8 +13121,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1324,
-			"versionNonce": 624619541,
+			"version": 1328,
+			"versionNonce": 1931779477,
 			"isDeleted": false,
 			"id": "Cg55iG8u",
 			"fillStyle": "hachure",
@@ -13275,8 +13153,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1453,
-			"versionNonce": 339445691,
+			"version": 1457,
+			"versionNonce": 892170811,
 			"isDeleted": false,
 			"id": "fZhSykqN",
 			"fillStyle": "hachure",
@@ -13307,8 +13185,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1329,
-			"versionNonce": 82716021,
+			"version": 1333,
+			"versionNonce": 340140789,
 			"isDeleted": false,
 			"id": "dAU7cfXl",
 			"fillStyle": "hachure",
@@ -13339,8 +13217,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1444,
-			"versionNonce": 612948059,
+			"version": 1448,
+			"versionNonce": 1423536859,
 			"isDeleted": false,
 			"id": "hJUNzmRq",
 			"fillStyle": "hachure",
@@ -13371,8 +13249,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1215,
-			"versionNonce": 1733537493,
+			"version": 1219,
+			"versionNonce": 365952085,
 			"isDeleted": false,
 			"id": "upM7v9Gr",
 			"fillStyle": "hachure",
@@ -13403,8 +13281,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1330,
-			"versionNonce": 740496635,
+			"version": 1334,
+			"versionNonce": 1820090235,
 			"isDeleted": false,
 			"id": "UZNSPBpP",
 			"fillStyle": "hachure",
@@ -13435,8 +13313,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1274,
-			"versionNonce": 1795230773,
+			"version": 1278,
+			"versionNonce": 1872210357,
 			"isDeleted": false,
 			"id": "LmsSHO4q",
 			"fillStyle": "hachure",
@@ -13467,8 +13345,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1389,
-			"versionNonce": 176995739,
+			"version": 1393,
+			"versionNonce": 911783963,
 			"isDeleted": false,
 			"id": "7znPqd3q",
 			"fillStyle": "hachure",
@@ -13499,8 +13377,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1288,
-			"versionNonce": 1071365525,
+			"version": 1292,
+			"versionNonce": 46312213,
 			"isDeleted": false,
 			"id": "PKWcubbS",
 			"fillStyle": "hachure",
@@ -13531,8 +13409,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1403,
-			"versionNonce": 184046139,
+			"version": 1407,
+			"versionNonce": 6356155,
 			"isDeleted": false,
 			"id": "gVMnkzfi",
 			"fillStyle": "hachure",
@@ -13563,8 +13441,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1359,
-			"versionNonce": 2098807541,
+			"version": 1363,
+			"versionNonce": 1875279989,
 			"isDeleted": false,
 			"id": "HpkWXjBT",
 			"fillStyle": "hachure",
@@ -13595,8 +13473,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1488,
-			"versionNonce": 1850233563,
+			"version": 1492,
+			"versionNonce": 909618523,
 			"isDeleted": false,
 			"id": "mKp7xyvo",
 			"fillStyle": "hachure",
@@ -13627,8 +13505,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1342,
-			"versionNonce": 926882901,
+			"version": 1346,
+			"versionNonce": 745056725,
 			"isDeleted": false,
 			"id": "D2wdxgFO",
 			"fillStyle": "hachure",
@@ -13659,8 +13537,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1457,
-			"versionNonce": 890191739,
+			"version": 1461,
+			"versionNonce": 724519419,
 			"isDeleted": false,
 			"id": "Snv9V5ou",
 			"fillStyle": "hachure",
@@ -13691,8 +13569,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1379,
-			"versionNonce": 1445120437,
+			"version": 1383,
+			"versionNonce": 1505666869,
 			"isDeleted": false,
 			"id": "M6KgjUbg",
 			"fillStyle": "hachure",
@@ -13723,8 +13601,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1508,
-			"versionNonce": 697276443,
+			"version": 1512,
+			"versionNonce": 608850587,
 			"isDeleted": false,
 			"id": "N23CUjo5",
 			"fillStyle": "hachure",
@@ -13755,8 +13633,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1292,
-			"versionNonce": 719964949,
+			"version": 1296,
+			"versionNonce": 1512962197,
 			"isDeleted": false,
 			"id": "ZMUkEZno",
 			"fillStyle": "hachure",
@@ -13787,8 +13665,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1407,
-			"versionNonce": 700177595,
+			"version": 1411,
+			"versionNonce": 574310203,
 			"isDeleted": false,
 			"id": "vPr92Axf",
 			"fillStyle": "hachure",
@@ -13819,8 +13697,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1315,
-			"versionNonce": 1175036021,
+			"version": 1319,
+			"versionNonce": 661396981,
 			"isDeleted": false,
 			"id": "6aydevMy",
 			"fillStyle": "hachure",
@@ -13851,8 +13729,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1430,
-			"versionNonce": 825658715,
+			"version": 1434,
+			"versionNonce": 1801758683,
 			"isDeleted": false,
 			"id": "oHeUhAJc",
 			"fillStyle": "hachure",
@@ -13883,8 +13761,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1382,
-			"versionNonce": 222808533,
+			"version": 1386,
+			"versionNonce": 1753126741,
 			"isDeleted": false,
 			"id": "YAa6ebwX",
 			"fillStyle": "hachure",
@@ -13915,8 +13793,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1511,
-			"versionNonce": 592587259,
+			"version": 1515,
+			"versionNonce": 1440281723,
 			"isDeleted": false,
 			"id": "iImTPQ9q",
 			"fillStyle": "hachure",
@@ -13947,8 +13825,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1348,
-			"versionNonce": 297387829,
+			"version": 1352,
+			"versionNonce": 1203430581,
 			"isDeleted": false,
 			"id": "Xo6moKH3",
 			"fillStyle": "hachure",
@@ -13979,8 +13857,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1463,
-			"versionNonce": 1427190427,
+			"version": 1467,
+			"versionNonce": 1364897051,
 			"isDeleted": false,
 			"id": "pptgsU2m",
 			"fillStyle": "hachure",
@@ -14011,8 +13889,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 633673877,
+			"version": 40,
+			"versionNonce": 147228181,
 			"isDeleted": false,
 			"id": "iosyt7g9",
 			"fillStyle": "hachure",
@@ -14044,8 +13922,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1169,
-			"versionNonce": 1462118203,
+			"version": 1173,
+			"versionNonce": 828133819,
 			"isDeleted": false,
 			"id": "IsJbYiYk",
 			"fillStyle": "hachure",
@@ -14076,8 +13954,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 68,
-			"versionNonce": 857685493,
+			"version": 72,
+			"versionNonce": 1586953077,
 			"isDeleted": false,
 			"id": "2GF4uZ1oAs0c2h4m6DmUU",
 			"fillStyle": "hachure",
@@ -14114,8 +13992,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 857,
-			"versionNonce": 2146666459,
+			"version": 861,
+			"versionNonce": 922772059,
 			"isDeleted": false,
 			"id": "xrA5adFn",
 			"fillStyle": "hachure",
@@ -14146,8 +14024,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 1355659093,
+			"version": 295,
+			"versionNonce": 24233173,
 			"isDeleted": false,
 			"id": "KF4j2lTo",
 			"fillStyle": "hachure",
@@ -14181,8 +14059,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 71,
-			"versionNonce": 898356347,
+			"version": 75,
+			"versionNonce": 1528389371,
 			"isDeleted": false,
 			"id": "p3VFA2GsFFdvHXgB9QuOs",
 			"fillStyle": "hachure",
@@ -14227,8 +14105,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 421921973,
+			"version": 82,
+			"versionNonce": 1947259989,
 			"isDeleted": false,
 			"id": "FhjifdTG",
 			"fillStyle": "hachure",
@@ -14237,8 +14115,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2386.0166161197535,
-			"y": -627.0467033285267,
+			"x": 2526.5986473697535,
+			"y": -714.6823234457142,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 22,
@@ -14261,8 +14139,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1198,
-			"versionNonce": 2008124699,
+			"version": 1211,
+			"versionNonce": 1153525461,
 			"isDeleted": false,
 			"id": "0OUldji4",
 			"fillStyle": "hachure",
@@ -14271,8 +14149,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2409.4494035632156,
-			"y": -601.4398677122645,
+			"x": 2550.0314348132156,
+			"y": -689.075487829452,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 5,
@@ -14293,8 +14171,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 885,
-			"versionNonce": 1070442005,
+			"version": 898,
+			"versionNonce": 1871502587,
 			"isDeleted": false,
 			"id": "HZjy2KBP",
 			"fillStyle": "hachure",
@@ -14303,8 +14181,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2420.5599025660626,
-			"y": -783.6755900766047,
+			"x": 2561.1419338160626,
+			"y": -871.3112101937922,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 35,
@@ -14325,8 +14203,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 321,
-			"versionNonce": 701968827,
+			"version": 335,
+			"versionNonce": 532806389,
 			"isDeleted": false,
 			"id": "fIfmuhFO",
 			"fillStyle": "hachure",
@@ -14335,8 +14213,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2275.86446212943,
-			"y": -804.149828343823,
+			"x": 2416.44649337943,
+			"y": -891.7854484610104,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 353,
@@ -14361,8 +14239,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 1740249973,
+			"version": 178,
+			"versionNonce": 833034971,
 			"isDeleted": false,
 			"id": "xUKltzz5oaZJ48mg3iC0j",
 			"fillStyle": "hachure",
@@ -14371,8 +14249,8 @@ X ^vlwD4DWk
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2431.3068333637575,
-			"y": -713.0079685766952,
+			"x": 2571.8888646137575,
+			"y": -800.6435886938827,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 26.375798056606982,
@@ -14383,13 +14261,13 @@ X ^vlwD4DWk
 			"boundElementIds": [],
 			"startBinding": {
 				"elementId": "fIfmuhFO",
-				"gap": 10.843467607529458,
-				"focus": 0.020033780902945157
+				"focus": 0.023868283293555892,
+				"gap": 9.141859767127698
 			},
 			"endBinding": {
 				"elementId": "FhjifdTG",
-				"gap": 5.916576759992083,
-				"focus": -0.0868721245121372
+				"focus": -0.08687212451210369,
+				"gap": 5.91657675999204
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -14407,8 +14285,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 488587867,
+			"version": 54,
+			"versionNonce": 195747035,
 			"isDeleted": false,
 			"id": "hLzg3NPX",
 			"fillStyle": "hachure",
@@ -14440,8 +14318,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1182,
-			"versionNonce": 959505621,
+			"version": 1186,
+			"versionNonce": 2124558933,
 			"isDeleted": false,
 			"id": "IsvsI8cM",
 			"fillStyle": "hachure",
@@ -14472,8 +14350,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 91,
-			"versionNonce": 1515994875,
+			"version": 95,
+			"versionNonce": 1502644603,
 			"isDeleted": false,
 			"id": "WcL1GeIgAW3mciXrDuEBL",
 			"fillStyle": "hachure",
@@ -14510,8 +14388,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 65,
-			"versionNonce": 935821877,
+			"version": 69,
+			"versionNonce": 749936565,
 			"isDeleted": false,
 			"id": "lEu9wbZR",
 			"fillStyle": "hachure",
@@ -14543,8 +14421,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1196,
-			"versionNonce": 739288987,
+			"version": 1200,
+			"versionNonce": 56074779,
 			"isDeleted": false,
 			"id": "SP5YtdGw",
 			"fillStyle": "hachure",
@@ -14575,8 +14453,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 1482912661,
+			"version": 74,
+			"versionNonce": 956260629,
 			"isDeleted": false,
 			"id": "4VZ75xtk",
 			"fillStyle": "hachure",
@@ -14608,8 +14486,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1200,
-			"versionNonce": 1752103995,
+			"version": 1204,
+			"versionNonce": 1643292347,
 			"isDeleted": false,
 			"id": "gk6dYtDH",
 			"fillStyle": "hachure",
@@ -14640,8 +14518,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 57,
-			"versionNonce": 1463433461,
+			"version": 61,
+			"versionNonce": 1761375861,
 			"isDeleted": false,
 			"id": "vlwD4DWk",
 			"fillStyle": "hachure",
@@ -14673,8 +14551,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "text",
-			"version": 1188,
-			"versionNonce": 2069478619,
+			"version": 1192,
+			"versionNonce": 201594715,
 			"isDeleted": false,
 			"id": "hVNW0YSF",
 			"fillStyle": "hachure",
@@ -14705,8 +14583,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "line",
-			"version": 97,
-			"versionNonce": 1305563733,
+			"version": 101,
+			"versionNonce": 930078677,
 			"isDeleted": false,
 			"id": "s2ML2Kej25j_TSGtqNmXD",
 			"fillStyle": "hachure",
@@ -14743,8 +14621,8 @@ X ^vlwD4DWk
 		},
 		{
 			"type": "arrow",
-			"version": 21,
-			"versionNonce": 811821435,
+			"version": 25,
+			"versionNonce": 534672379,
 			"isDeleted": false,
 			"id": "xwCV2AY2t7U9Myxwy93HR",
 			"fillStyle": "hachure",
@@ -14782,6 +14660,374 @@ X ^vlwD4DWk
 					27.38612583705344
 				]
 			]
+		},
+		{
+			"type": "ellipse",
+			"version": 1076,
+			"versionNonce": 711925045,
+			"isDeleted": false,
+			"id": "CgBi9-Jyed8bUJBSeIXkO",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3030.345170125847,
+			"y": -357.65820761775046,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 334.1107177734375,
+			"height": 326.8077697753906,
+			"seed": 1424018235,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [
+				"yz8MNAfijCl76keEXbZp-",
+				"KtQ9eX6UM89HEUYKhM35W",
+				"AdKDbRuWrvqeGqwN3o6Q_",
+				"Gmfvmyz-B84UCXpkNlfor",
+				"EIR422z1eAaeAjoMsAXdD",
+				"_q1I1CHT3iUdgUPA0CyJH",
+				"2niny9mbMUIRFT-fl_DEP"
+			]
+		},
+		{
+			"type": "line",
+			"version": 880,
+			"versionNonce": 1300511899,
+			"isDeleted": false,
+			"id": "rL7MgctLBgUxPqCsQXu5P",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3030.345170125847,
+			"y": -193.3414656743911,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 333.1978759765625,
+			"height": 3.6514892578125,
+			"seed": 2127616501,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElementIds": [],
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					333.1978759765625,
+					-3.6514892578125
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 850,
+			"versionNonce": 1767878293,
+			"isDeleted": false,
+			"id": "Z7VHO6MM",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3196.3421894566413,
+			"y": -186.70045902163713,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 120,
+			"height": 64,
+			"seed": 918137819,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 50.58114624023438,
+			"fontFamily": 1,
+			"text": "Y=49",
+			"rawText": "Y=49",
+			"baseline": 45,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 599,
+			"versionNonce": 547877179,
+			"isDeleted": false,
+			"id": "lVI37kDF",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3147.413630422097,
+			"y": -323.22900208343196,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 33,
+			"height": 77,
+			"seed": 1810617173,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 60.78405921861519,
+			"fontFamily": 1,
+			"text": "s",
+			"rawText": "s",
+			"baseline": 54,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1203,
+			"versionNonce": 318182389,
+			"isDeleted": false,
+			"id": "aozZlQRP",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3182.508215163821,
+			"y": -277.87318532014035,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 77,
+			"height": 47,
+			"seed": 2012051579,
+			"groupIds": [
+				"9p36PNE_4SOqg-StKjwcP",
+				"ceatjpFn37-aqoiFEfuY6"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [
+				"mUmxtoby63eWFpF39NPUv"
+			],
+			"fontSize": 37.2450942490944,
+			"fontFamily": 1,
+			"text": "49.7",
+			"rawText": "49.7",
+			"baseline": 33,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 145,
+			"versionNonce": 110270779,
+			"isDeleted": false,
+			"id": "xWxJMESg",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2994.0660805056636,
+			"y": -20.440832324171993,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 339,
+			"height": 95,
+			"seed": 1192542741,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 37.61384019161642,
+			"fontFamily": 1,
+			"text": "Wir warten, bis sie\nganz zu ist",
+			"rawText": "Wir warten, bis sie\nganz zu ist",
+			"baseline": 81,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"id": "_q1I1CHT3iUdgUPA0CyJH",
+			"type": "arrow",
+			"x": 3381.8104652712886,
+			"y": -193.32430024439873,
+			"width": 125.976318359375,
+			"height": 1.82568359375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1547684315,
+			"version": 13,
+			"versionNonce": 1396362581,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					125.976318359375,
+					-1.82568359375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CgBi9-Jyed8bUJBSeIXkO",
+				"focus": 0.022044438314567216,
+				"gap": 17.357018117099216
+			},
+			"endBinding": {
+				"elementId": "VQROoDEm07YNpXdvk3O93",
+				"focus": -0.007578080681914114,
+				"gap": 9.000857006642548
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "text",
+			"version": 1229,
+			"versionNonce": 748887675,
+			"isDeleted": false,
+			"id": "tL08fhbY",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3174.9496816023475,
+			"y": -109.38561286966251,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 52,
+			"seed": 1612133493,
+			"groupIds": [
+				"3tcou_1mgROj9ntpq85qo"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 41.38613909271091,
+			"fontFamily": 1,
+			"text": "C",
+			"rawText": "C",
+			"baseline": 37,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 1358,
+			"versionNonce": 964713141,
+			"isDeleted": false,
+			"id": "WHerZkWU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3201.455428627729,
+			"y": -81.83207941600995,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17,
+			"height": 32,
+			"seed": 930888027,
+			"groupIds": [
+				"3tcou_1mgROj9ntpq85qo"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 25.359126569192416,
+			"fontFamily": 1,
+			"text": "in",
+			"rawText": "in",
+			"baseline": 23,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 685,
+			"versionNonce": 1632605979,
+			"isDeleted": false,
+			"id": "pN09fZ6y",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3064.4930978727343,
+			"y": -167.98632897534358,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23,
+			"height": 47,
+			"seed": 1282562869,
+			"groupIds": [
+				"7itTSWTqdiq30kXpx3vzC"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 36.90753721404873,
+			"fontFamily": 1,
+			"text": "S",
+			"rawText": "S",
+			"baseline": 33,
+			"textAlign": "left",
+			"verticalAlign": "top"
+		},
+		{
+			"type": "text",
+			"version": 736,
+			"versionNonce": 1315781653,
+			"isDeleted": false,
+			"id": "EvHorynw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3087.214746732342,
+			"y": -147.09464456032893,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 37,
+			"height": 27,
+			"seed": 786161307,
+			"groupIds": [
+				"7itTSWTqdiq30kXpx3vzC"
+			],
+			"strokeSharpness": "sharp",
+			"boundElementIds": [],
+			"fontSize": 21.62759166272432,
+			"fontFamily": 1,
+			"text": "out",
+			"rawText": "out",
+			"baseline": 19,
+			"textAlign": "left",
+			"verticalAlign": "top"
 		}
 	],
 	"appState": {
@@ -14810,7 +15056,7 @@ X ^vlwD4DWk
 # SVG snapshot
 ==⚠ Remove all linebreaks from SVG string before use. Linebreaks were added to improve markdown view speed. ⚠==
 ```html
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5225.139258975077 4120.513323042484" width="5225.139258975077" height="4120.513323042484">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5238.172769422342 4120.513323042484" width="5238.172769422342" height="4120.513323042484">
 	<!-- svg-source:excalidraw -->
 
 	<defs>
@@ -14946,7 +15192,7 @@ X ^vlwD4DWk
 		</g>
 	</g>
 	<g transform="translate(631.0256741525104 1288.2385003330069) rotate(0 212 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="35.920210857780596px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Getränkeinput erhalten </text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="35.920210857780596px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">und weitergeben</text></g>
-	<g transform="translate(1799.5699748869038 1256.37653812055) rotate(0 176.5 91.5)"><text x="0" y="25.6" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Der Schiebetür befehlen, </text><text x="0" y="62.2" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">sie soll aufgehen und </text><text x="0" y="98.80000000000001" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">auf das Signal von ihr </text><text x="0" y="135.4" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">warten, dass sie ganz </text><text x="0" y="172" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">auf ist</text></g>
+	<g transform="translate(1790.4413127775288 1261.8537109721126) rotate(0 216.5 36.5)"><text x="0" y="25.5" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir warten auf Signal von ihr, </text><text x="0" y="62" font-family="Virgil, Segoe UI Emoji" font-size="28.747402631679932px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">dass sie ganz auf ist</text></g>
 	<g transform="translate(2274.3776840014484 688.3392833029569) rotate(0 206 42)"><text x="0" y="29" font-family="Virgil, Segoe UI Emoji" font-size="33.30715880102041px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Ist mit O von der </text><text x="0" y="71" font-family="Virgil, Segoe UI Emoji" font-size="33.30715880102041px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Lichtschranke verdrahtet</text></g>
 	<g stroke-linecap="round" transform="translate(1815.9322422345267 934.5383780721904) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M129.38 3.78 C144.26 -2.28, 163.69 -0.95, 180.41 0.38 C197.13 1.72, 214.19 5.58, 229.71 11.77 C245.23 17.97, 260.59 27.06, 273.52 37.56 C286.44 48.07, 298.28 61.03, 307.26 74.81 C316.24 88.59, 322.91 104.43, 327.4 120.24 C331.89 136.05, 334.87 153.31, 334.2 169.66 C333.53 186, 328.97 202.85, 323.37 218.3 C317.76 233.75, 310.66 249.17, 300.57 262.36 C290.48 275.54, 276.8 287.83, 262.83 297.4 C248.87 306.97, 232.62 314.85, 216.78 319.79 C200.94 324.73, 184.57 327.17, 167.79 327.04 C151.01 326.9, 132.09 323.83, 116.08 318.98 C100.06 314.12, 85.28 307.48, 71.71 297.91 C58.13 288.34, 44.96 274.72, 34.64 261.54 C24.32 248.36, 15.7 234.31, 9.79 218.84 C3.89 203.37, -0.05 185.25, -0.8 168.75 C-1.55 152.25, 0.61 135.47, 5.27 119.84 C9.93 104.2, 17.98 88.79, 27.16 74.93 C36.33 61.07, 47.32 47.13, 60.3 36.68 C73.28 26.23, 91.78 17.9, 105.05 12.23 C118.32 6.55, 132.32 3.86, 139.92 2.61 C147.51 1.37, 150.09 2.01, 150.62 4.76 M238.48 14.46 C254.15 18.3, 268.8 30.82, 281.05 42.26 C293.31 53.69, 303.93 68.68, 312.03 83.07 C320.12 97.46, 326.2 112.68, 329.64 128.59 C333.08 144.51, 333.91 161.93, 332.67 178.56 C331.43 195.19, 328.87 213.09, 322.18 228.36 C315.49 243.62, 303.92 257.96, 292.54 270.16 C281.16 282.35, 268 293.14, 253.91 301.54 C239.82 309.95, 223.94 316.62, 208.02 320.58 C192.1 324.54, 175.23 325.8, 158.4 325.3 C141.56 324.8, 122.68 323.39, 107 317.56 C91.32 311.73, 77.49 300.71, 64.33 290.32 C51.16 279.92, 37.41 268.83, 28.03 255.2 C18.66 241.57, 12.84 224.11, 8.09 208.53 C3.33 192.95, -0.43 178.13, -0.48 161.71 C-0.53 145.29, 2.08 125.98, 7.78 110 C13.48 94.02, 23.48 79.07, 33.73 65.83 C43.98 52.59, 56.13 39.89, 69.26 30.55 C82.4 21.2, 96.78 14.81, 112.55 9.76 C128.33 4.7, 146.97 0.95, 163.92 0.21 C180.86 -0.53, 202.06 2.67, 214.24 5.3 C226.43 7.93, 233.1 13.95, 237.04 15.98 C240.98 18.02, 238.88 14.91, 237.88 17.52" stroke="#000000" stroke-width="1" fill="none"></path>
@@ -14974,8 +15220,6 @@ X ^vlwD4DWk
 	<g transform="translate(2448.6749259346107 1104.190795073504) rotate(0 84 22)"><text x="0" y="31" font-family="Virgil, Segoe UI Emoji" font-size="34.60595703125001px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=000001</text></g>
 	<g transform="translate(2423.6614481706692 955.3385749487207) rotate(0 19.5 45)"><text x="0" y="64" font-family="Virgil, Segoe UI Emoji" font-size="71.76621524041529px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
 	<g transform="translate(2463.4402466888687 1008.8890510123923) rotate(0 47.5 28)"><text x="0" y="39" font-family="Virgil, Segoe UI Emoji" font-size="43.97434927661878px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.4</text></g>
-	<g transform="translate(2348.3769635423296 1142.834529538505) rotate(0 13 27.5)"><text x="0" y="38" font-family="Virgil, Segoe UI Emoji" font-size="43.6443514746612px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
-	<g transform="translate(2375.1514993161145 1168.59389190277) rotate(0 9 17)"><text x="0" y="24" font-family="Virgil, Segoe UI Emoji" font-size="26.742833647683348px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
 	<g stroke-linecap="round" transform="translate(2816.960164258331 932.2718953106015) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M221.05 9.91 C237.23 12.74, 253.95 23.27, 267.69 33 C281.42 42.73, 293.85 54.92, 303.46 68.29 C313.07 81.67, 320.33 97.83, 325.36 113.25 C330.39 128.66, 333.29 144.37, 333.63 160.79 C333.98 177.21, 332.14 195.83, 327.44 211.76 C322.74 227.68, 315.15 242.87, 305.42 256.34 C295.69 269.8, 282.46 282.66, 269.06 292.54 C255.67 302.42, 240.5 309.98, 225.04 315.62 C209.58 321.26, 193.11 325.57, 176.31 326.39 C159.51 327.2, 140.69 324.48, 124.24 320.51 C107.8 316.55, 91.89 311.15, 77.64 302.6 C63.4 294.04, 49.65 281.85, 38.78 269.18 C27.91 256.51, 18.89 241.83, 12.44 226.59 C5.99 211.34, 1.64 194.2, 0.07 177.69 C-1.5 161.19, -0.78 143.5, 3.02 127.57 C6.83 111.64, 14.23 96.1, 22.9 82.11 C31.58 68.11, 42.68 54.71, 55.08 43.59 C67.47 32.47, 82.23 22.38, 97.3 15.37 C112.36 8.36, 128.93 3.81, 145.44 1.52 C161.96 -0.78, 180.98 -0.6, 196.37 1.62 C211.76 3.85, 228.99 10.96, 237.76 14.86 C246.54 18.75, 250.33 22.53, 249.01 24.98 M104.41 12.32 C118.29 4.1, 137.12 2.6, 153.91 1.23 C170.69 -0.13, 188.58 0.46, 205.14 4.13 C221.7 7.79, 238.72 14.7, 253.26 23.23 C267.81 31.75, 281.18 43, 292.4 55.28 C303.62 67.56, 313.63 81.85, 320.59 96.91 C327.56 111.96, 332.69 129.54, 334.21 145.6 C335.73 161.66, 333.27 177.15, 329.71 193.28 C326.15 209.42, 320.77 227.69, 312.84 242.42 C304.9 257.15, 294.12 270.24, 282.11 281.66 C270.1 293.09, 255.78 303.55, 240.76 310.96 C225.74 318.37, 208.5 323.65, 191.98 326.11 C175.45 328.57, 158.06 328.31, 141.62 325.7 C125.18 323.08, 108.41 317.91, 93.32 310.44 C78.24 302.97, 63.25 292.21, 51.12 280.88 C38.99 269.55, 28.67 256.95, 20.54 242.48 C12.41 228.01, 5.8 210.36, 2.32 194.06 C-1.15 177.75, -2.46 161.02, -0.32 144.64 C1.83 128.26, 7.92 110.67, 15.2 95.78 C22.47 80.89, 32.1 67.5, 43.35 55.31 C54.6 43.12, 72.5 29.68, 82.7 22.64 C92.9 15.6, 100.65 14.47, 104.56 13.06 C108.47 11.65, 105.3 11.87, 106.16 14.2" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
@@ -15003,92 +15247,92 @@ X ^vlwD4DWk
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(3383.61063256647 931.2465532417039) rotate(0 24.603997855011357 -39.28802886503195)">
+		<g transform="translate(3934.9845339336575 929.4208696479539) rotate(0 24.603997855011357 -39.28802886503195)">
 			<path d="M0.07 -0.31 C2.73 -13.2, 8.27 -77.48, 16.39 -78.23 C24.52 -78.98, 43.26 -17.24, 48.83 -4.83 M-1.36 -1.52 C1.2 -14.71, 7.75 -79.74, 15.95 -80.17 C24.15 -80.6, 42.12 -17, 47.86 -4.1" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3383.61063256647 931.2465532417039) rotate(0 24.603997855011357 -39.28802886503195)">
+		<g transform="translate(3934.9845339336575 929.4208696479539) rotate(0 24.603997855011357 -39.28802886503195)">
 			<path d="M28.25 -25.63 C35.54 -20.17, 39.47 -10.79, 47.74 -5.5 M28.09 -26.84 C36.12 -19.61, 42.01 -11.52, 47 -3.72" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3383.61063256647 931.2465532417039) rotate(0 24.603997855011357 -39.28802886503195)">
+		<g transform="translate(3934.9845339336575 929.4208696479539) rotate(0 24.603997855011357 -39.28802886503195)">
 			<path d="M47.59 -32.49 C48.39 -24.73, 45.88 -13.06, 47.74 -5.5 M47.43 -33.7 C48.85 -23.93, 48.07 -13.48, 47 -3.72" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(3488.6222168899158 719.8227972712884) rotate(0 -46.06791496075357 41.604189370291806)">
+		<g transform="translate(4039.9961182571033 717.9971136775384) rotate(0 -46.06791496075357 41.604189370291806)">
 			<path d="M0.35 -0.38 C-15.14 13.43, -77.82 70.04, -93.25 83.83 M-0.93 -1.62 C-16.04 11.75, -75.77 67.89, -91.12 82.04" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3488.6222168899158 719.8227972712884) rotate(0 -46.06791496075357 41.604189370291806)">
+		<g transform="translate(4039.9961182571033 717.9971136775384) rotate(0 -46.06791496075357 41.604189370291806)">
 			<path d="M-78.11 53.47 C-79.96 62.56, -86.14 70.89, -89.81 83.84 M-77.65 55.25 C-80.59 60.74, -83.33 67.9, -91.49 81.18" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3488.6222168899158 719.8227972712884) rotate(0 -46.06791496075357 41.604189370291806)">
+		<g transform="translate(4039.9961182571033 717.9971136775384) rotate(0 -46.06791496075357 41.604189370291806)">
 			<path d="M-64.13 68.49 C-69.93 73.5, -79.94 77.72, -89.81 83.84 M-63.66 70.27 C-69.91 72.36, -75.89 76.04, -91.49 81.18" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(3300.5187953451086 625.7002969592288) rotate(0 188 44)"><text x="0" y="31" font-family="Virgil, Segoe UI Emoji" font-size="34.9040021979775px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Ist mit R von der </text><text x="0" y="75" font-family="Virgil, Segoe UI Emoji" font-size="34.9040021979775px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Schiebetür verdrahtet</text></g>
-	<g transform="translate(3363.818331820021 804.4074906637047) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
-	<g transform="translate(3387.251119263483 830.0143262799672) rotate(0 5.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
+	<g transform="translate(4052.7243617513586 616.5716348498538) rotate(0 188 44)"><text x="0" y="31" font-family="Virgil, Segoe UI Emoji" font-size="34.9040021979775px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Ist mit R von der </text><text x="0" y="75" font-family="Virgil, Segoe UI Emoji" font-size="34.9040021979775px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Schiebetür verdrahtet</text></g>
+	<g transform="translate(3915.1922331872083 802.5818070699547) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
+	<g transform="translate(3938.6250206306704 828.1886426862172) rotate(0 5.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(3360.334902320642 812.7333314335499) rotate(0 17.116317749023438 -0.7607269287109375)">
+		<g transform="translate(3911.7088036878295 810.9076478397999) rotate(0 17.116317749023438 -0.7607269287109375)">
 			<path d="M-1.11 0.62 C4.52 0.29, 28.18 -2.14, 34.16 -2.36 M0.51 -0.09 C5.95 -0.26, 27.54 -0.84, 33.17 -1.27" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(3657.085927362775 1020.3235154669236) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
-	<g transform="translate(3680.518714806237 1045.930351083186) rotate(0 5.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
-	<g stroke-linecap="round" transform="translate(3778.694429399422 925.7715408190002) rotate(0 167.05535888671875 163.4038848876953)">
+	<g transform="translate(4177.422231073712 1023.9748826544236) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
+	<g transform="translate(4200.855018517174 1049.581718270686) rotate(0 5.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
+	<g stroke-linecap="round" transform="translate(4266.167573930672 927.5973464830627) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M193.2 1.29 C209.66 1.12, 227.09 8.99, 241.89 16.34 C256.69 23.7, 270.13 33.95, 282.01 45.4 C293.88 56.84, 304.99 70.65, 313.14 85.02 C321.3 99.39, 327.49 115.33, 330.93 131.62 C334.38 147.91, 335.53 166.43, 333.81 182.78 C332.08 199.13, 327.73 214.72, 320.6 229.73 C313.47 244.73, 302.29 260.43, 291.04 272.78 C279.79 285.13, 267.4 295.67, 253.1 303.81 C238.8 311.95, 221.51 317.88, 205.25 321.63 C188.98 325.37, 172.12 327.51, 155.52 326.28 C138.93 325.05, 121.24 320.21, 105.66 314.26 C90.08 308.31, 75.03 301.01, 62.06 290.58 C49.09 280.15, 37.2 265.57, 27.86 251.68 C18.52 237.79, 10.75 223.04, 6.03 207.25 C1.3 191.46, -1.25 173.48, -0.51 156.94 C0.23 140.41, 4.57 123.52, 10.47 108.02 C16.37 92.52, 24.99 76.95, 34.89 63.93 C44.8 50.92, 56.29 39.3, 69.9 29.93 C83.52 20.56, 100.61 12.84, 116.58 7.72 C132.55 2.61, 152.45 0.1, 165.72 -0.78 C178.99 -1.67, 190.39 1.12, 196.19 2.42 C201.99 3.73, 201.07 4.48, 200.5 7.05 M144.04 0.48 C159.42 -4.37, 178.28 -0.9, 194.8 2.17 C211.31 5.24, 228.24 11.29, 243.11 18.87 C257.98 26.46, 272.17 36.2, 284.01 47.69 C295.85 59.18, 306.12 73.18, 314.15 87.81 C322.18 102.44, 329.28 119.03, 332.19 135.49 C335.09 151.95, 333.81 170.05, 331.59 186.58 C329.36 203.12, 326.11 220.16, 318.84 234.68 C311.57 249.2, 299.36 261.98, 287.98 273.72 C276.59 285.46, 265.06 297.02, 250.52 305.12 C235.99 313.22, 217.28 318.71, 200.78 322.33 C184.27 325.95, 167.96 328.47, 151.51 326.82 C135.07 325.17, 117.51 319.05, 102.12 312.42 C86.74 305.79, 71.95 297.32, 59.21 287.05 C46.48 276.79, 34.49 264.91, 25.72 250.82 C16.94 236.73, 10.7 218.74, 6.58 202.51 C2.47 186.27, 0.22 169.88, 1.03 153.41 C1.83 136.94, 5.62 118.9, 11.39 103.68 C17.17 88.46, 25.3 74.66, 35.68 62.09 C46.06 49.52, 59.67 37.53, 73.68 28.29 C87.68 19.05, 108.02 11.02, 119.71 6.65 C131.39 2.27, 139.62 2.32, 143.79 2.05 C147.97 1.78, 144.4 2.37, 144.75 5.04" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(3778.694429399422 1090.0882827623595) rotate(0 166.59893798828125 -1.82574462890625)">
+		<g transform="translate(4266.167573930672 1091.914088426422) rotate(0 166.59893798828125 -1.82574462890625)">
 			<path d="M-0.91 0.36 C54.54 -0.34, 276.45 -3.79, 332.31 -4.58 M0.82 -0.49 C56.67 -1.05, 279.01 -3.04, 334.56 -3.52" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(3944.6914487302165 1096.7292894151135) rotate(0 60 32)"><text x="0" y="45" font-family="Virgil, Segoe UI Emoji" font-size="50.58114624023438px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=49</text></g>
-	<g transform="translate(3895.762889695671 960.2007463533187) rotate(0 16.5 38.5)"><text x="0" y="54" font-family="Virgil, Segoe UI Emoji" font-size="60.78405921861519px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
-	<g transform="translate(3930.8574744373955 1005.5565631166103) rotate(0 38.5 23.5)"><text x="0" y="33" font-family="Virgil, Segoe UI Emoji" font-size="37.2450942490944px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.7</text></g>
-	<g transform="translate(3824.5076224580425 1097.1047474340128) rotate(0 15 29)"><text x="0" y="40" font-family="Virgil, Segoe UI Emoji" font-size="45.461952575501115px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">A</text></g>
-	<g transform="translate(3854.201653250264 1123.936877380067) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.85655861403618px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g transform="translate(4432.1645932614665 1098.555095079176) rotate(0 60 32)"><text x="0" y="45" font-family="Virgil, Segoe UI Emoji" font-size="50.58114624023438px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=49</text></g>
+	<g transform="translate(4383.236034226921 962.0265520173812) rotate(0 16.5 38.5)"><text x="0" y="54" font-family="Virgil, Segoe UI Emoji" font-size="60.78405921861519px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
+	<g transform="translate(4418.3306189686455 1007.3823687806728) rotate(0 38.5 23.5)"><text x="0" y="33" font-family="Virgil, Segoe UI Emoji" font-size="37.2450942490944px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.7</text></g>
+	<g transform="translate(4311.9807669892925 1098.9305530980753) rotate(0 15 29)"><text x="0" y="40" font-family="Virgil, Segoe UI Emoji" font-size="45.461952575501115px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">A</text></g>
+	<g transform="translate(4341.674797781514 1125.7626830441295) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.85655861403618px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(3610.3231863804895 1094.7114095655975) rotate(0 82.0879998004068 0.16975935764105543)">
-			<path d="M-0.16 -0.15 C26.93 -0.02, 136.24 1.13, 163.54 1.22 M-1.7 -1.28 C25.7 -1.5, 138.54 -0.94, 165.92 -0.43" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3626.9251050037315 1093.0446350663817) rotate(0 65.00688685356977 -0.8944312923705979)">
+			<path d="M-0.16 -0.15 C21.24 -0.37, 107.77 -0.64, 129.38 -0.9 M-1.7 -1.28 C20.01 -1.86, 110.07 -2.72, 131.76 -2.56" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3610.3231863804895 1094.7114095655975) rotate(0 82.0879998004068 0.16975935764105543)">
-			<path d="M137.37 8.48 C149.85 4.89, 159.28 0.08, 167.6 -0.61 M137.51 10.19 C147.59 6.04, 156.8 3.63, 165.14 0.16" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3626.9251050037315 1093.0446350663817) rotate(0 65.00688685356977 -0.8944312923705979)">
+			<path d="M103.34 6.73 C115.77 3, 125.15 -1.96, 133.44 -2.74 M103.49 8.44 C113.52 4.16, 122.68 1.62, 130.98 -1.97" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3610.3231863804895 1094.7114095655975) rotate(0 82.0879998004068 0.16975935764105543)">
-			<path d="M137.58 -12.04 C150.05 -7.81, 159.4 -4.8, 167.6 -0.61 M137.73 -10.33 C147.76 -7.5, 156.9 -2.93, 165.14 0.16" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3626.9251050037315 1093.0446350663817) rotate(0 65.00688685356977 -0.8944312923705979)">
+			<path d="M103.28 -13.8 C115.8 -9.7, 125.21 -6.84, 133.44 -2.74 M103.43 -12.09 C113.51 -9.38, 122.69 -4.94, 130.98 -1.97" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(3362.7486598223777 927.6007715232689) rotate(0 -313.2750810212252 -305.79665968264334)">
-			<path d="M0.09 -0.18 C-104.48 -102.18, -521.8 -510.47, -626.31 -612.5 M-1.33 -1.33 C-106.12 -103.15, -522.7 -509.75, -627.14 -611.44" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3795.5353992540718 971.2349618393946) rotate(0 -530.5812925339472 -327.6137548407062)">
+			<path d="M0.09 -0.18 C-176.91 -109.45, -883.98 -546.83, -1060.92 -656.14 M-1.33 -1.33 C-178.56 -110.42, -884.88 -546.11, -1061.75 -655.08" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3362.7486598223777 927.6007715232689) rotate(0 -313.2750810212252 -305.79665968264334)">
-			<path d="M-600.09 -598.72 C-611.86 -604.57, -622.28 -606.76, -626.16 -609.9 M-599.18 -599.53 C-609.73 -602.36, -617.77 -606.2, -627.19 -611.78" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3795.5353992540718 971.2349618393946) rotate(0 -530.5812925339472 -327.6137548407062)">
+			<path d="M-1032.67 -648.62 C-1045.26 -652.04, -1056.47 -651.79, -1060.77 -653.53 M-1031.75 -649.44 C-1042.9 -650.22, -1051.61 -652.02, -1061.8 -655.41" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3362.7486598223777 927.6007715232689) rotate(0 -313.2750810212252 -305.79665968264334)">
-			<path d="M-614.42 -584.02 C-620.56 -595.59, -625.42 -603.48, -626.16 -609.9 M-613.5 -584.83 C-619.56 -592.54, -622.97 -601.13, -627.19 -611.78" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(3795.5353992540718 971.2349618393946) rotate(0 -530.5812925339472 -327.6137548407062)">
+			<path d="M-1043.44 -631.15 C-1051.77 -641.36, -1058.8 -647.89, -1060.77 -653.53 M-1042.52 -631.97 C-1050.35 -638.5, -1055.57 -645.96, -1061.8 -655.41" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g stroke-linecap="round" transform="translate(4289.738634910149 919.2497112620445) rotate(0 167.05535888671875 163.4038848876953)">
+	<g stroke-linecap="round" transform="translate(4777.211779441399 921.075516926107) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M227.41 10.68 C243.07 13.82, 258.13 24.55, 271.16 34.91 C284.19 45.28, 296.06 59.14, 305.57 72.85 C315.08 86.55, 323.33 101.27, 328.22 117.13 C333.1 132.99, 335.38 151.57, 334.89 168 C334.4 184.43, 330.85 200.37, 325.27 215.7 C319.69 231.02, 311.44 246.5, 301.43 259.94 C291.43 273.39, 278.72 286.7, 265.25 296.37 C251.79 306.04, 236.73 312.8, 220.66 317.96 C204.58 323.13, 185.55 327.01, 168.79 327.38 C152.03 327.75, 136 324.92, 120.09 320.18 C104.17 315.45, 87.39 308.27, 73.3 298.95 C59.21 289.62, 45.86 277.32, 35.53 264.23 C25.2 251.14, 17.11 235.71, 11.31 220.42 C5.51 205.12, 1.83 188.61, 0.73 172.46 C-0.38 156.31, 0.59 139.33, 4.69 123.52 C8.79 107.71, 16.19 91.67, 25.3 77.6 C34.41 63.54, 46.74 49.8, 59.37 39.13 C71.99 28.46, 85.68 19.9, 101.05 13.58 C116.43 7.25, 134.74 2.83, 151.61 1.2 C168.49 -0.43, 187.08 1.2, 202.27 3.81 C217.46 6.41, 234.04 12.84, 242.76 16.84 C251.48 20.85, 255.73 25.33, 254.59 27.83 M183.42 -0.4 C199.46 -1.31, 217.29 6.93, 232.6 13.38 C247.92 19.82, 262.62 27.89, 275.3 38.29 C287.97 48.69, 299.62 61.57, 308.65 75.76 C317.68 89.96, 325.41 107.45, 329.49 123.43 C333.57 139.42, 334.28 155.64, 333.14 171.7 C332 187.76, 328.45 204.51, 322.66 219.81 C316.88 235.11, 308.7 250.29, 298.45 263.52 C288.19 276.74, 274.88 289.7, 261.14 299.18 C247.41 308.65, 232.27 315.58, 216.02 320.35 C199.78 325.12, 180.82 327.88, 163.68 327.8 C146.54 327.71, 128.85 325.12, 113.19 319.85 C97.53 314.59, 83.15 306.18, 69.73 296.21 C56.3 286.24, 42.57 273.49, 32.64 260.03 C22.71 246.58, 15.67 231.06, 10.15 215.49 C4.64 199.92, -0.1 182.92, -0.45 166.61 C-0.79 150.31, 3.44 133.45, 8.07 117.65 C12.69 101.85, 18.09 85.66, 27.31 71.83 C36.53 57.99, 50.33 45, 63.39 34.63 C76.44 24.26, 90.05 15.08, 105.65 9.6 C121.25 4.12, 144.45 3.28, 157 1.75 C169.55 0.21, 176.88 -0.03, 180.95 0.38 C185.01 0.8, 181.5 1.51, 181.4 4.23" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(4289.738634910149 1083.5664532054038) rotate(0 166.59893798828125 -1.82574462890625)">
+		<g transform="translate(4777.211779441399 1085.3922588694663) rotate(0 166.59893798828125 -1.82574462890625)">
 			<path d="M0.55 0.88 C56.17 0.04, 278.76 -3.55, 334.26 -4.36 M-0.63 0.3 C54.89 -0.46, 278.28 -2.67, 333.87 -3.19" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(4402.674970036842 1095.9128736765172) rotate(0 93.5 24.5)"><text x="0" y="35" font-family="Virgil, Segoe UI Emoji" font-size="38.713836669921875px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=000001</text></g>
-	<g transform="translate(4400.4835290160645 954.5918196283942) rotate(0 18 41)"><text x="0" y="58" font-family="Virgil, Segoe UI Emoji" font-size="65.2032590952107px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
-	<g transform="translate(4436.624592016105 1003.2451525895151) rotate(0 45.5 25)"><text x="0" y="36" font-family="Virgil, Segoe UI Emoji" font-size="39.95293439707486px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.8</text></g>
-	<g transform="translate(4333.677198539361 1088.6267629175145) rotate(0 20.5 38)"><text x="0" y="53" font-family="Virgil, Segoe UI Emoji" font-size="59.93813650948661px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
+	<g transform="translate(4890.148114568092 1097.7386793405797) rotate(0 93.5 24.5)"><text x="0" y="35" font-family="Virgil, Segoe UI Emoji" font-size="38.713836669921875px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=000001</text></g>
+	<g transform="translate(4887.9566735473145 956.4176252924567) rotate(0 18 41)"><text x="0" y="58" font-family="Virgil, Segoe UI Emoji" font-size="65.2032590952107px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
+	<g transform="translate(4924.097736547355 1005.0709582535776) rotate(0 45.5 25)"><text x="0" y="36" font-family="Virgil, Segoe UI Emoji" font-size="39.95293439707486px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.8</text></g>
+	<g transform="translate(4821.150343070611 1090.452568581577) rotate(0 20.5 38)"><text x="0" y="53" font-family="Virgil, Segoe UI Emoji" font-size="59.93813650948661px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">R</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(4116.596465163455 1085.3199456162122) rotate(0 81.477009477622 1.8712065405392622)">
+		<g transform="translate(4604.069609694705 1087.1457512802747) rotate(0 81.477009477622 1.8712065405392622)">
 			<path d="M-0.36 -0.56 C26.59 0.39, 135.43 3.9, 162.53 4.69 M1.65 1.76 C28.34 2.48, 134.17 3.01, 161.35 3.06" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(4116.596465163455 1085.3199456162122) rotate(0 81.477009477622 1.8712065405392622)">
+		<g transform="translate(4604.069609694705 1087.1457512802747) rotate(0 81.477009477622 1.8712065405392622)">
 			<path d="M132.19 12.49 C145.11 8.36, 154.62 5.11, 161.07 1.65 M133.06 12.35 C141.76 10.79, 148.67 7.43, 161.84 3.7" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(4116.596465163455 1085.3199456162122) rotate(0 81.477009477622 1.8712065405392622)">
+		<g transform="translate(4604.069609694705 1087.1457512802747) rotate(0 81.477009477622 1.8712065405392622)">
 			<path d="M132.27 -8.03 C144.99 -4.66, 154.47 -0.4, 161.07 1.65 M133.15 -8.17 C141.64 -3.79, 148.53 -1.21, 161.84 3.7" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
@@ -15110,11 +15354,11 @@ X ^vlwD4DWk
 	<g transform="translate(943.8725886290554 1143.690183318185) rotate(0 6 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16.33048863948267px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">2</text></g>
 	<g transform="translate(979.2869249534272 1145.0772390483603) rotate(0 2.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16.330488639482674px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
 	<g transform="translate(1010.1843480989613 1145.959531534284) rotate(0 5.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16.330488639482674px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">0</text></g>
-	<g transform="translate(2276.3113844840163 1262.2522398499632) rotate(0 237 75)"><text x="0" y="26.5" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Schiebetür soll weiter </text><text x="0" y="64" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">aufbleiben. Jetzt </text><text x="0" y="101.5" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">warten wir bis die Lichtschranke</text><text x="0" y="139" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ein Signal zurückgibt</text></g>
+	<g transform="translate(2276.3113844840163 1262.2522398499632) rotate(0 237 56)"><text x="0" y="26.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Jetzt </text><text x="0" y="63.66666666666667" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">warten wir bis die Lichtschranke</text><text x="0" y="101" font-family="Virgil, Segoe UI Emoji" font-size="30.275811069544424px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ein Signal zurückgibt</text></g>
 	<g transform="translate(2840.29628053446 1258.9834710368214) rotate(0 188 45.5)"><text x="0" y="32.5" font-family="Virgil, Segoe UI Emoji" font-size="36.39224766586736px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir resetten zuerst </text><text x="0" y="78" font-family="Virgil, Segoe UI Emoji" font-size="36.39224766586736px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">die Lichtschranke</text></g>
 	<g transform="translate(3280.914096881526 1261.242404364236) rotate(0 148 71)"><text x="0" y="34.333333333333336" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161633px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Dann sagen wir </text><text x="0" y="81.66666666666667" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161633px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">der Tür sie soll</text><text x="0" y="129" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161633px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">zu gehen</text></g>
-	<g transform="translate(3742.4153397792384 1262.9889161125786) rotate(0 199.5 47.5)"><text x="0" y="33.5" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir geben dem </text><text x="0" y="81" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Display die neue Zahl</text></g>
-	<g transform="translate(4297.699624891092 1252.3700427475812) rotate(0 221.5 65.5)"><text x="0" y="31.666666666666664" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Und sagen dem Schalter, </text><text x="0" y="75.33333333333333" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">dass ein neues Ticket </text><text x="0" y="119" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gescannt werden darf</text></g>
+	<g transform="translate(4229.888484310488 1264.8147217766411) rotate(0 199.5 47.5)"><text x="0" y="33.5" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir geben dem </text><text x="0" y="81" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Display die neue Zahl</text></g>
+	<g transform="translate(4785.172769422342 1254.1958484116437) rotate(0 221.5 65.5)"><text x="0" y="31.666666666666664" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Und sagen dem Schalter, </text><text x="0" y="75.33333333333333" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">dass ein neues Ticket </text><text x="0" y="119" font-family="Virgil, Segoe UI Emoji" font-size="35.251905736524876px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">gescannt werden darf</text></g>
 	<g stroke-linecap="round" transform="translate(3274.6921230943344 935.5340225084533) rotate(0 167.05535888671875 163.4038848876953)">
 		<path d="M87.91 18.61 C100.7 8.86, 119.24 5.19, 135.91 2.2 C152.58 -0.78, 171.1 -1.56, 187.93 0.69 C204.76 2.94, 221.74 8.66, 236.9 15.69 C252.06 22.71, 266.53 32.13, 278.87 42.85 C291.2 53.57, 302.4 66.08, 310.91 80.01 C319.43 93.94, 326.36 110.23, 329.97 126.43 C333.59 142.63, 334 160.83, 332.6 177.21 C331.2 193.58, 327.78 209.4, 321.59 224.68 C315.4 239.96, 306.25 256.16, 295.47 268.89 C284.69 281.62, 271.17 292.21, 256.9 301.05 C242.64 309.9, 226.04 317.59, 209.87 321.95 C193.69 326.31, 176.68 327.94, 159.84 327.22 C143.01 326.51, 124.58 323.49, 108.85 317.63 C93.13 311.78, 78.64 302.42, 65.5 292.08 C52.36 281.74, 39.54 268.92, 30 255.59 C20.45 242.27, 13.41 227.68, 8.25 212.13 C3.08 196.58, -0.98 178.65, -0.99 162.29 C-1 145.93, 2.99 129.7, 8.19 113.98 C13.39 98.26, 20.48 81.55, 30.21 68 C39.94 54.44, 55.51 41.42, 66.58 32.64 C77.65 23.86, 90.14 18.4, 96.63 15.3 C103.12 12.21, 104.45 11.65, 105.52 14.09 M231.04 14.27 C246.81 18.11, 262.36 28.38, 275.37 38.84 C288.38 49.31, 299.96 63.17, 309.11 77.05 C318.27 90.92, 326.4 106.15, 330.31 122.08 C334.22 138.01, 333.49 156.23, 332.57 172.61 C331.65 188.99, 330.51 205.25, 324.78 220.37 C319.04 235.48, 308.83 250.16, 298.18 263.28 C287.52 276.4, 274.96 289.57, 260.84 299.1 C246.73 308.64, 229.35 315.92, 213.5 320.49 C197.66 325.05, 182.22 327, 165.76 326.49 C149.3 325.99, 130.66 322.83, 114.73 317.46 C98.8 312.09, 83.78 304.02, 70.18 294.29 C56.57 284.55, 43.31 271.93, 33.09 259.05 C22.87 246.18, 14.21 232.19, 8.87 217.03 C3.52 201.87, 1.41 184.67, 1.02 168.07 C0.63 151.47, 2.07 133.26, 6.54 117.42 C11.02 101.58, 18.55 86.72, 27.87 73.03 C37.19 59.34, 49.43 45.4, 62.47 35.28 C75.51 25.17, 90.24 18.06, 106.1 12.35 C121.96 6.64, 140.73 2.21, 157.63 1.03 C174.53 -0.15, 195.07 3.46, 207.5 5.28 C219.93 7.11, 228.54 10.08, 232.21 11.98 C235.89 13.87, 230.59 14.16, 229.56 16.65" stroke="#000000" stroke-width="1" fill="none"></path>
 	</g>
@@ -15454,14 +15698,14 @@ X ^vlwD4DWk
 		</g>
 	</g>
 	<g stroke-linecap="round">
-		<g transform="translate(4452.706870184595 1255.207271895091) rotate(0 -2092.7565002441406 356.0196177164715)">
-			<path d="M1.53 1.56 C0.19 51.42, 1.13 107.52, 2.3 166.36 M-0.21 -0.92 C2.14 58.81, 1.79 116.62, 1.14 167.81 M2.03 166.66 C-1421.1 182.41, -2845.09 197.11, -4187.59 211.91 M1.86 167.61 C-1585.84 177.37, -3172.71 194.06, -4187.17 211.8 M-4186.9 210.78 C-4180.57 343.46, -4175.91 475.99, -4169.01 711.41 M-4186.88 211.32 C-4185.39 314.11, -4181.75 416.73, -4168.65 712.06" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(4942.155032685168 1260.9990076269578) rotate(0 -2336.64240688534 353.12374985053816)">
+			<path d="M1.32 1.35 C0.85 69, 2.26 142.04, 3.87 220.96 M-0.18 -0.79 C2.72 77.54, 3.07 154.2, 2.86 222.2 M3.7 221.12 C-1586.26 216.32, -3177.12 210.55, -4677.04 206.12 M3.54 222.07 C-1770.44 208.17, -3543.42 202.02, -4676.62 206.01 M-4676.35 204.98 C-4670.02 337.67, -4665.36 470.2, -4658.46 705.62 M-4676.33 205.52 C-4674.84 308.32, -4671.2 410.94, -4658.1 706.27" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(4452.706870184595 1255.207271895091) rotate(0 -2092.7565002441406 356.0196177164715)">
-			<path d="M-4178.58 685.9 C-4177.01 691.32, -4172.91 702.99, -4167.87 711.07 M-4180.32 683.42 C-4175.2 694.89, -4172.11 704.38, -4169.03 712.51" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(4942.155032685168 1260.9990076269578) rotate(0 -2336.64240688534 353.12374985053816)">
+			<path d="M-4668.03 680.11 C-4666.46 685.53, -4662.35 697.19, -4657.32 705.27 M-4669.77 677.63 C-4664.65 689.1, -4661.56 698.58, -4658.48 706.72" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(4452.706870184595 1255.207271895091) rotate(0 -2092.7565002441406 356.0196177164715)">
-			<path d="M-4158.08 685.02 C-4163.03 690.73, -4165.45 702.67, -4167.87 711.07 M-4159.82 682.54 C-4161.79 694.2, -4165.79 703.99, -4169.03 712.51" stroke="#000000" stroke-width="1" fill="none"></path>
+		<g transform="translate(4942.155032685168 1260.9990076269578) rotate(0 -2336.64240688534 353.12374985053816)">
+			<path d="M-4647.53 679.23 C-4652.48 684.94, -4654.9 696.88, -4657.32 705.27 M-4649.27 676.75 C-4651.24 688.41, -4655.24 698.2, -4658.48 706.72" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 	<g transform="translate(2440.0714972164014 2376.0318137883896) rotate(0 14 66)"><text x="0" y="92" font-family="Virgil, Segoe UI Emoji" font-size="104.29187379991545px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">.</text></g>
@@ -15826,18 +16070,16 @@ X ^vlwD4DWk
 	<g transform="translate(1454.755266059219 1204.8435649670228) rotate(0 20 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="23.685566592726577px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(1880.3298521928891 1161.996822229832) rotate(0 13 24.5)"><text x="0" y="35" font-family="Virgil, Segoe UI Emoji" font-size="39.19275661659645px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(1905.4308477165287 1188.0900735997443) rotate(0 8 15)"><text x="0" y="21" font-family="Virgil, Segoe UI Emoji" font-size="24.015143654965183px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
-	<g transform="translate(2410.336854008193 1172.0019769933294) rotate(0 14.5 28)"><text x="0" y="39" font-family="Virgil, Segoe UI Emoji" font-size="44.73799664544768px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
-	<g transform="translate(2433.060833176334 1199.152223448185) rotate(0 23.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.412958644016857px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
-	<g transform="translate(2498.4544633398773 1167.5315652619786) rotate(0 14.5 28)"><text x="0" y="39" font-family="Virgil, Segoe UI Emoji" font-size="44.67635946256902px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
-	<g transform="translate(2527.067431543487 1197.2756194797857) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.37519080298952px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g transform="translate(2368.8267777930023 1147.448435379166) rotate(0 14.5 28)"><text x="0" y="39" font-family="Virgil, Segoe UI Emoji" font-size="44.67635946256902px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
+	<g transform="translate(2397.439745996612 1177.1924895969732) rotate(0 9.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.37519080298952px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
 	<g transform="translate(2962.1305960342397 1193.6005677211067) rotate(0 12 23.5)"><text x="0" y="33" font-family="Virgil, Segoe UI Emoji" font-size="37.438275043530886px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(2981.1467935837773 1216.3208160668705) rotate(0 19 14)"><text x="0" y="20" font-family="Virgil, Segoe UI Emoji" font-size="22.94009482823078px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(3395.662235379471 1184.8421040153705) rotate(0 13.5 27.5)"><text x="0" y="38" font-family="Virgil, Segoe UI Emoji" font-size="43.11583026396863px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(3417.5622600162487 1211.0079027892764) rotate(0 22.5 17)"><text x="0" y="24" font-family="Virgil, Segoe UI Emoji" font-size="26.418985215085392px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(3469.5160049894766 1180.371768577965) rotate(0 13 26)"><text x="0" y="37" font-family="Virgil, Segoe UI Emoji" font-size="41.38613909271091px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(3496.021752014858 1207.9253020316175) rotate(0 8.5 16)"><text x="0" y="23" font-family="Virgil, Segoe UI Emoji" font-size="25.359126569192416px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
-	<g transform="translate(3912.8632689409314 1172.702153601513) rotate(0 15.5 30.5)"><text x="0" y="43" font-family="Virgil, Segoe UI Emoji" font-size="47.98232940840603px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
-	<g transform="translate(3937.23515717179 1201.8212954182673) rotate(0 24.5 18.5)"><text x="0" y="27" font-family="Virgil, Segoe UI Emoji" font-size="29.400905501879922px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
+	<g transform="translate(4400.336413472181 1174.5279592655754) rotate(0 15.5 30.5)"><text x="0" y="43" font-family="Virgil, Segoe UI Emoji" font-size="47.98232940840603px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
+	<g transform="translate(4424.70830170304 1203.6471010823298) rotate(0 24.5 18.5)"><text x="0" y="27" font-family="Virgil, Segoe UI Emoji" font-size="29.400905501879922px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(849.9864036160218 2233.2618944216183) rotate(0 14.5 29)"><text x="0" y="40" font-family="Virgil, Segoe UI Emoji" font-size="45.39039259394797px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
 	<g transform="translate(873.041757299224 2260.808061841115) rotate(0 23.5 17.5)"><text x="0" y="25" font-family="Virgil, Segoe UI Emoji" font-size="27.812710633304512px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 	<g transform="translate(1363.820358800295 2184.256059101149) rotate(0 15.5 30.5)"><text x="0" y="43" font-family="Virgil, Segoe UI Emoji" font-size="47.92944505704349px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
@@ -15898,18 +16140,18 @@ X ^vlwD4DWk
 			<path d="M24.38 19.79 C25.64 26.38, 27.48 33.85, 32.58 46.45 M23.79 19.74 C26.81 29.07, 29.12 39.75, 31.69 46.22" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
-	<g transform="translate(3135.439077353419 662.8937745809133) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
-	<g transform="translate(3158.8718647968813 688.5006101971755) rotate(0 2.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
-	<g transform="translate(3169.9823637997283 506.26488783283526) rotate(0 17.5 13)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20.521008854534962px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
-	<g transform="translate(3025.286923363096 485.79064956561706) rotate(0 176.5 41)"><text x="0" y="29" font-family="Virgil, Segoe UI Emoji" font-size="32.774853942693184px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Ist mit D von der </text><text x="0" y="70" font-family="Virgil, Segoe UI Emoji" font-size="32.774853942693184px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Schiebetür verdrahtet</text></g>
+	<g transform="translate(3276.021108603419 575.2581544637258) rotate(0 11 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">X</text></g>
+	<g transform="translate(3299.4538960468813 600.864990079988) rotate(0 2.5 10.5)"><text x="0" y="15" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">1</text></g>
+	<g transform="translate(3310.5643950497283 418.62926771564776) rotate(0 17.5 13)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20.521008854534962px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
+	<g transform="translate(3165.868954613096 398.15502944842956) rotate(0 176.5 41)"><text x="0" y="29" font-family="Virgil, Segoe UI Emoji" font-size="32.774853942693184px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Ist mit D von der </text><text x="0" y="70" font-family="Virgil, Segoe UI Emoji" font-size="32.774853942693184px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Schiebetür verdrahtet</text></g>
 	<g stroke-linecap="round">
-		<g transform="translate(3180.729294597423 576.9325093327448) rotate(0 -13.187899028303491 40.02234424408823)">
+		<g transform="translate(3321.311325847423 489.29688921555726) rotate(0 -13.187899028303491 40.02234424408823)">
 			<path d="M1.88 0.68 C-8.28 29.59, -16.96 54.47, -28.27 81.98 M0.53 -0.29 C-6.88 23.13, -14.72 45.05, -26.87 80.61" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3180.729294597423 576.9325093327448) rotate(0 -13.187899028303491 40.02234424408823)">
+		<g transform="translate(3321.311325847423 489.29688921555726) rotate(0 -13.187899028303491 40.02234424408823)">
 			<path d="M-25.53 51.29 C-26.52 62.86, -25.81 70.27, -28.77 82.54 M-26.88 50.32 C-26.75 59.46, -26.82 66.93, -27.37 81.17" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
-		<g transform="translate(3180.729294597423 576.9325093327448) rotate(0 -13.187899028303491 40.02234424408823)">
+		<g transform="translate(3321.311325847423 489.29688921555726) rotate(0 -13.187899028303491 40.02234424408823)">
 			<path d="M-6.12 57.97 C-13.92 67.1, -19.99 72.17, -28.77 82.54 M-7.47 56.99 C-12.98 64.1, -18.65 69.64, -27.37 81.17" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
@@ -15942,6 +16184,33 @@ X ^vlwD4DWk
 			<path d="M1.41 16.04 C0.04 18.59, -2.69 21.7, -6.57 26.76 M2.06 15.05 C0.71 17.88, -1.38 20.54, -5.64 25.99" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
+	<g stroke-linecap="round" transform="translate(3779.7676313595125 932.2822702916895) rotate(0 167.05535888671875 163.4038848876953)">
+		<path d="M211.87 5.52 C228.11 7.25, 244.54 18.12, 258.59 26.95 C272.65 35.78, 285.8 46.03, 296.2 58.48 C306.61 70.93, 314.78 86.19, 321.03 101.63 C327.27 117.07, 332.28 134.79, 333.69 151.13 C335.11 167.46, 333.18 183.57, 329.52 199.63 C325.87 215.7, 320.39 233.18, 311.76 247.5 C303.13 261.82, 290.39 274.66, 277.74 285.54 C265.08 296.42, 250.89 306.18, 235.81 312.78 C220.74 319.37, 204.06 323.43, 187.3 325.13 C170.53 326.83, 151.75 325.89, 135.21 322.98 C118.66 320.07, 102.82 315.36, 88.01 307.65 C73.2 299.93, 58.21 288.61, 46.33 276.7 C34.44 264.78, 24.03 250.67, 16.69 236.15 C9.36 221.64, 4.93 205.93, 2.33 189.59 C-0.28 173.24, -1.27 154.48, 1.07 138.09 C3.41 121.69, 8.97 105.74, 16.37 91.2 C23.77 76.67, 33.75 62.68, 45.47 50.86 C57.19 39.04, 71.96 28.1, 86.68 20.28 C101.4 12.47, 117.3 7.22, 133.78 3.98 C150.26 0.74, 169.32 -0.67, 185.55 0.83 C201.78 2.34, 220.54 8.82, 231.18 12.98 C241.82 17.14, 250.37 23.44, 249.42 25.81 M176.23 0.66 C192.67 -1.07, 212.34 4.24, 228.04 9.92 C243.74 15.59, 257.4 24.39, 270.41 34.72 C283.42 45.04, 296.53 58.08, 306.09 71.88 C315.66 85.67, 322.9 101.55, 327.81 117.47 C332.72 133.39, 335.97 150.9, 335.56 167.4 C335.14 183.89, 330.72 201.18, 325.32 216.46 C319.92 231.74, 313.27 246.09, 303.14 259.09 C293.01 272.09, 278.33 284.61, 264.54 294.45 C250.75 304.29, 236.14 312.68, 220.39 318.11 C204.64 323.54, 186.6 326.71, 170.04 327.03 C153.47 327.35, 137 324.61, 120.98 320.04 C104.96 315.47, 88.03 308.61, 73.93 299.62 C59.84 290.63, 46.92 279.01, 36.4 266.1 C25.87 253.19, 17 237.71, 10.79 222.17 C4.57 206.64, -0.13 189.25, -0.88 172.88 C-1.64 156.51, 2.13 139.66, 6.28 123.95 C10.44 108.24, 15.33 92.78, 24.02 78.6 C32.71 64.41, 45.4 49.55, 58.42 38.84 C71.44 28.13, 86.85 20.84, 102.15 14.34 C117.46 7.83, 137.7 1.9, 150.24 -0.22 C162.79 -2.33, 173.06 1.19, 177.43 1.64 C181.8 2.09, 176.71 -0.13, 176.44 2.48" stroke="#000000" stroke-width="1" fill="none"></path>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(3779.7676313595125 1096.599012235049) rotate(0 166.59893798828125 -1.82574462890625)">
+			<path d="M1.05 0.64 C56.63 -0.08, 277.8 -2.75, 333.31 -3.52 M0.14 -0.07 C55.59 -0.65, 276.8 -1.46, 332.43 -1.91" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(3945.764650690307 1103.2400188878028) rotate(0 60 32)"><text x="0" y="45" font-family="Virgil, Segoe UI Emoji" font-size="50.58114624023438px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Y=49</text></g>
+	<g transform="translate(3896.8360916557626 966.711475826008) rotate(0 16.5 38.5)"><text x="0" y="54" font-family="Virgil, Segoe UI Emoji" font-size="60.78405921861519px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">s</text></g>
+	<g transform="translate(3931.930676397487 1012.0672925892997) rotate(0 38.5 23.5)"><text x="0" y="33" font-family="Virgil, Segoe UI Emoji" font-size="37.2450942490944px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">49.7</text></g>
+	<g transform="translate(3743.4885417393293 1269.499645585268) rotate(0 169.5 47.5)"><text x="0" y="33.5" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Wir warten, bis sie</text><text x="0" y="81" font-family="Virgil, Segoe UI Emoji" font-size="37.61384019161642px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">ganz zu ist</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(4131.232926504954 1096.6161776650413) rotate(0 62.9881591796875 -0.912841796875)">
+			<path d="M-0.15 0.34 C42.32 -1.39, 89.91 -1.24, 127.62 -2.5 M0.15 0.84 C39.01 -1.64, 78.03 -2.1, 125.92 -2.54" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(4131.232926504954 1096.6161776650413) rotate(0 62.9881591796875 -0.912841796875)">
+			<path d="M97.7 8.37 C106 2.83, 119.34 -0.09, 127.56 -3.21 M97.99 8.87 C106.52 4.22, 115.13 1.05, 125.85 -3.25" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+		<g transform="translate(4131.232926504954 1096.6161776650413) rotate(0 62.9881591796875 -0.912841796875)">
+			<path d="M97.47 -12.15 C105.66 -10.51, 119.08 -6.25, 127.56 -3.21 M97.76 -11.65 C106.19 -9.93, 114.87 -6.73, 125.85 -3.25" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(3924.372142836013 1180.5548650397775) rotate(0 13 26)"><text x="0" y="37" font-family="Virgil, Segoe UI Emoji" font-size="41.38613909271091px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">C</text></g>
+	<g transform="translate(3950.8778898613946 1208.10839849343) rotate(0 8.5 16)"><text x="0" y="23" font-family="Virgil, Segoe UI Emoji" font-size="25.359126569192416px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">in</text></g>
+	<g transform="translate(3813.9155591064 1121.9541489340963) rotate(0 11.5 23.5)"><text x="0" y="33" font-family="Virgil, Segoe UI Emoji" font-size="36.90753721404873px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">S</text></g>
+	<g transform="translate(3836.6372079660077 1142.845833349111) rotate(0 18.5 13.5)"><text x="0" y="19" font-family="Virgil, Segoe UI Emoji" font-size="21.62759166272432px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">out</text></g>
 </svg>
 ```
 %%
