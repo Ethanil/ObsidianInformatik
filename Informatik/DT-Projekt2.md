@@ -403,9 +403,14 @@ Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 
 ![[DT-Projekt2_08.01.2022 01-18-46.excalidraw.md|700]]
 
+<div style="page-break-after: always;"></div>
+
 Jetzt müssen wir nur alles zusammen setzen und die Register für die Pipelines hinzufügen:
 
 ![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
+
+<div style="page-break-after: always;"></div>
+
 Als letztes müssen wir noch die Outputs verbinden.
 ![[DT-Projekt2_12.01.2022 12-15-01.excalidraw.md|700]]
 
