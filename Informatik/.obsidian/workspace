@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beweis durch Widerspruch.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beweis durch Widerspruch.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +120,7 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
+    "Untitled.md",
     "Beweis durch Widerspruch.md",
     "Beweis durch Kontraposition.md",
     "Injektiv.md",
@@ -129,7 +129,6 @@
     "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md",
     "DT-Projekt2_12.01.2022 12-15-01.excalidraw.md",
     "DT-Projekt2_08.01.2022 03-11-43.excalidraw.md",
-    "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md",
-    "DT-Projekt2_09.01.2022 00-23-07.excalidraw.md"
+    "DT-Projekt2_07.01.2022 14-45-55.excalidraw.md"
   ]
 }
