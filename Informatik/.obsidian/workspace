@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Implikation.md",
+            "file": "Beweis durch Induktion.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "implik",
+                "query": "induktion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implikation.md",
+                "file": "Beweis durch Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
+    "Beweis durch Induktion.md",
     "Implikation.md",
     "Aussagen und ihre Verknüpfungen.md",
     "Beweis durch Widerspruch.md",
@@ -129,7 +130,6 @@
     "Supremum.md",
     "Ordnungsrelation.md",
     "Intervall.md",
-    "Theoreme der Boolschen Algebra.md",
-    "Boolsche Algebra.md"
+    "Theoreme der Boolschen Algebra.md"
   ]
 }
