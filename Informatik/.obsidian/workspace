@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theoreme der Boolschen Algebra.md",
+            "file": "Supremum.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theorem",
+                "query": "supremu",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoreme der Boolschen Algebra.md",
+                "file": "Supremum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
+    "Supremum.md",
+    "Ordnungsrelation.md",
+    "Intervall.md",
     "Theoreme der Boolschen Algebra.md",
     "Boolsche Algebra.md",
     "Axiome der Boolschen Algebra.md",
     "Untitled.md",
     "Beweis durch Widerspruch.md",
     "Beweis durch Kontraposition.md",
-    "Injektiv.md",
-    "Abbildung.md",
-    "DT-Projekt2.md",
-    "DT-Projekt2_08.01.2022 19-56-51.excalidraw.md"
+    "Injektiv.md"
   ]
 }
