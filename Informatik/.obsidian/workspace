@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Supremum.md",
+            "file": "Beweis durch Kontraposition.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supremu",
+                "query": "widersp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supremum.md",
+                "file": "Beweis durch Kontraposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
+    "Beweis durch Kontraposition.md",
+    "Beweisprinzipien.md",
+    "Beweis durch Widerspruch.md",
     "Supremum.md",
     "Ordnungsrelation.md",
     "Intervall.md",
     "Theoreme der Boolschen Algebra.md",
     "Boolsche Algebra.md",
     "Axiome der Boolschen Algebra.md",
-    "Untitled.md",
-    "Beweis durch Widerspruch.md",
-    "Beweis durch Kontraposition.md",
-    "Injektiv.md"
+    "Untitled.md"
   ]
 }
