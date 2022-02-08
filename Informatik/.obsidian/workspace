@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Supremum.md",
+            "file": "Ordnungsrelation.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supremum.md",
+                "file": "Ordnungsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,8 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
-    "Supremum.md",
     "Ordnungsrelation.md",
+    "Supremum.md",
     "Mathe I Hausübung 01.md",
     "Beweis durch Induktion.md",
     "Implikation.md",
