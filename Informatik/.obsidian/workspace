@@ -7,11 +7,8 @@
         "id": "926b92f9b51c0f73",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ordnungsrelation.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supremum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -62,7 +58,6 @@
       {
         "id": "ae7e039420d9d179",
         "type": "tabs",
-        "dimension": 31.17378048780488,
         "children": [
           {
             "id": "66bc0974e99f695d",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,33 +76,10 @@
             }
           },
           {
-            "id": "69e3a2c0362c97f1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "233c4c7d3faa09ae",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b3c44f768bb659c9",
-        "type": "tabs",
-        "dimension": 68.82621951219512,
-        "children": [
-          {
-            "id": "c1e8b5a83dc20153",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
@@ -121,15 +92,15 @@
   },
   "active": "926b92f9b51c0f73",
   "lastOpenFiles": [
+    "Kombinatorische Logik_17.11.2021 12-39-03.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-39-57.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-44-13.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
+    "Kombinatorische Logik_17.11.2021 12-37-46.excalidraw.md",
+    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
+    "Day Planners/Day Planner-20220221.md",
+    "Day Planners/Day Planner-20220208.md",
     "Ordnungsrelation.md",
-    "Supremum.md",
-    "Mathe I Hausübung 01.md",
-    "Beweis durch Induktion.md",
-    "Implikation.md",
-    "Aussagen und ihre Verknüpfungen.md",
-    "Beweis durch Widerspruch.md",
-    "Beweis durch Kontraposition.md",
-    "Beweisprinzipien.md",
-    "Intervall.md"
+    "Supremum.md"
   ]
 }
