@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tristate Buffer.md",
+            "file": "Zeitverhalten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tristate Buffer.md",
+                "file": "Zeitverhalten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Zeitverhalten.md",
+    "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
+    "Tristate Buffer_21.02.2022 15-48-18.excalidraw.md",
     "Tristate Buffer.md",
     "Mehrwertige Logik.md",
-    "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
     "Algorithmische Logikminimierung.md",
     "Espresso.md",
     "Digitaltechnik/Axiome der Boolschen Algebra.md",
     "Digitaltechnik/DT-Projekt2.md",
-    "Quine-McCluskey.md",
-    "Digitaltechnik/Karnaugh Diagramme.md",
-    "DT.md"
+    "Quine-McCluskey.md"
   ]
 }
