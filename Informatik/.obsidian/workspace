@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Sequentielle Schaltungen.md",
+            "file": "Digitaltechnik/JK-Latch.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Sequentielle Schaltungen.md",
+                "file": "Digitaltechnik/JK-Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
-    "Digitaltechnik/Sequentielle Schaltungen.md",
+    "Digitaltechnik/JK-Latch.md",
+    "Digitaltechnik/Halbaddierer.md",
+    "JK-Latch_21.02.2022 18-41-57.excalidraw.md",
+    "Digitaltechnik/Speicherelemente.md",
+    "Digitaltechnik/SR-Latch.md",
+    "SR-Latch_21.02.2022 18-34-51.excalidraw.md",
+    "Digitaltechnik/Bistabile Grundschaltung.md",
+    "Bistabile Grundschaltung_21.02.2022 18-30-20.excalidraw.md",
     "Digitaltechnik/DT Vorlesung 07 01.12.2021.md",
-    "Digitaltechnik/Arithmetische Grundschaltungen.md",
-    "Digitaltechnik/Multiplikator.md",
-    "Digitaltechnik/Vergleicher.md",
-    "Digitaltechnik/Subtrahierer.md",
-    "Digitaltechnik/Carry Lookahead Adder.md",
-    "Digitaltechnik/Conditional Sum Adder.md",
-    "Digitaltechnik/Ripple-Carry-Adder.md",
-    "Digitaltechnik/Volladdierer.md"
+    "Digitaltechnik/Sequentielle Schaltungen.md"
   ]
 }
