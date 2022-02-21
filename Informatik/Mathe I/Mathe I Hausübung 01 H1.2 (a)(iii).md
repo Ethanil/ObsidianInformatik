@@ -1,6 +1,6 @@
 
 # Mathe I Hausübung 01 H1.2 (a)(iii)	
-Bestimmen Sie, ob die folgenden Relationen [[Reflexiv]], [[Symmetrisch]], [[antisymmetrisch]] bzw. [[transitiv]] sind. Welche der Relationen sind [[Äquivalenzrelation]]? Welche sind [[Ordnungsrelation]]
+Bestimmen Sie, ob die folgenden Relationen [[Reflexiv]], [[Symmetrisch]], [[Antisymmetrisch]] bzw. [[Transitiv]] sind. Welche der Relationen sind [[Äquivalenzrelation]]? Welche sind [[Ordnungsrelation]]
 $$R_3=\{(A,B)\in P(\mathbb{N})\times P(\mathbb{N})|A\subseteq B\}$$
 Beispiel:
 $$A=P(\{0,1\})=\{\emptyset,\{0\},\{1\},\{0,1\}\}$$

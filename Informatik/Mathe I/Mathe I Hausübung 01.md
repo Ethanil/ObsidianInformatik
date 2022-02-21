@@ -94,7 +94,7 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 		- $F$ hat ein Maximum, es ist $\{2\}$
 
 ## H1.2
-1. Bestimmen Sie, ob die folgenden Relationen [[Reflexiv]], [[Symmetrisch]], [[antisymmetrisch]] bzw. [[transitiv]] sind. Welche der Relationen sind [[Äquivalenzrelation]]? Welche sind [[Ordnungsrelation]]
+1. Bestimmen Sie, ob die folgenden Relationen [[Reflexiv]], [[Symmetrisch]], [[Antisymmetrisch]] bzw. [[Transitiv]] sind. Welche der Relationen sind [[Äquivalenzrelation]]? Welche sind [[Ordnungsrelation]]
 	- $R_1=\{(x,y)\in\mathbb{N}\times\mathbb{N}|x+y\text{ ist gerade}\}$
 		- In dieser Relation sind nur Tupel enthalten, bei denen x und y entweder BEIDE gerade oder BEIDE ungerade sind.
 		- Reflexiv: Die Relation ist reflexiv, da damit ein Tupel Teil der Relation ist, müssen beide Elemente des Tupels entweder gerade oder beide ungerade sein. Damit sind alle (x,x) in der Relation enthalten.

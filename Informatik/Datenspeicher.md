@@ -1,2 +1,0 @@
-[[GIt-Token]]
-[[Ikea Stores]]

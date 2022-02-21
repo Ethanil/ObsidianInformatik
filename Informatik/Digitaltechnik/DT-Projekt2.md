@@ -10,7 +10,7 @@ Falls das Lichtschranken-Kontrollsystem ein gültiges Passieren entdeckt, soll s
 
 Um die Kontrolleinheit zu bauen, können wir zuerst einen Mealy-Automaten erstellen, der die Lichtschranke darstellt. Diesen können wir dann in seine Zustands- und Ausgabetabellen verwandeln und diese mithilfe von Espresso minimieren.
 
-![[DT-Projekt2_05.01.2022 23-28-46.excalidraw.md|700]]
+![[DT-Projekt2_05.01.2022 23-28-46.excalidraw|700]]
 
 
 <div style="page-break-after: always;"></div>
@@ -120,7 +120,7 @@ $O=s_2s_1\overline{s_0}$
 
 Zu guter letzt müssen wir damit nur noch einen Schaltplan entwerfen.
 
-![[DT-Projekt2_07.01.2022 18-11-37.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 18-11-37.excalidraw|700]]
 
 
 #### b) 
@@ -131,7 +131,7 @@ Der C-Eingang wird auf 1 gesetzt, wenn die Schiebetür die am Eingang $D_{in}$ a
 
 Wir fangen wieder an, indem wir einen Automaten entwerfen, allerdings dieses mal einen Moore-Automaten, da sich dieser eher anbietet:
 
-![[DT-Projekt2_06.01.2022 15-44-49.excalidraw.md|600]]
+![[DT-Projekt2_06.01.2022 15-44-49.excalidraw|600]]
 Der Output $D_{out}$ vom Motorcontrol-Bauteil ist redundant, da wir den $D_{out}$ Output von dem Bauteil Schiebetür mithilfe von $D_{in}$ und $R$ erhalten können. Hier könnte man einen Vergleich einbauen, der bei Ungleichheit einen Fehler ausgibt.
 Da bei nicht-Endzuständen (also nicht $s_0$ oder $s_3$) nicht klar und auch nicht wichtig ist welchen Wert $D_{out}$ hat, können wir diesen mit Don't Cares markieren.
 Wie bei a) machen wir auch hier weiter, indem wir die Zustände kodieren und eine Zustandsübergangstabelle und Ausgabetabelle aufstellen:
@@ -249,25 +249,25 @@ $C=s_2\overline{s_0}+\overline{s_2}\overline{s_1}s_0$
 $D_{in}=\overline{s_2}\overline{s_1}s_0+s_1$
 
 Damit erhalten wir folgende digitale Schaltung:
-![[DT-Projekt2_06.01.2022 16-39-41.excalidraw.md|700]]
+![[DT-Projekt2_06.01.2022 16-39-41.excalidraw|700]]
 
 #### c) 
 Abschließend sollen Sie eine digitale Schaltung für den Motorcontrol-Chipbaustein entwerfen, den Sie in Ihrer Schaltung aus Teilaufgabe b) verwendet haben. Dieser Chipbaustein soll die Motoren steuern, um die Tür zu öffnen und zu schließen. Verwenden Sie dazu einen Motor-Chipbaustein, der die beiden Eingänge S und $D_{in}$ hat (vgl. Abbildung 1). Der Schrittmotor hat insgesamt 512 Positionen, wobei die Tür sich bei Position 0 im geschlossenen und bei Position 511 im offenen Zustand befindet (für beide Türen). Wenn der Eingang S des Motor-Chipbausteins 1 ist, dann bewegt sich der Motor innerhalb eines Taktes in die an $D_{in}$ angegebene Richtung. Bezeichnen Sie den Motor-Chipbaustein für die linke Tür mit $Motor_L$ und den für die rechte Tür mit $Motor_R$. Achten Sie darauf, dass der Motor niemals über die angegeben Schrittstufen hinaus angesteuert wird. Sie können davon ausgehen, dass sich die Motoren initial an Position 0 (Tür geschlossen) befinden. Zusätzlich zu den genannten Eingängen hat der Motorcontrol-Chipbaustein einen EMERGENCY-Eingang E, der bei einem Notfall auf 1 gesetzt ist und die Tür sofort anhält. Der Betrieb geht erst weiter, sobald E wieder auf 0 gesetzt ist. (5 PP)
 
 Zuerst brauchen wir eine Schaltung, die abhängig von $D_{in}$ hoch bzw runterzählt, dies können wir mit 9 D-FF und 9 Full-Addern implementieren. Unser $D_{in}$ muss dafür entweder $00000001$ sein und wir haben kein extra Übertrag, wenn wir 1 zu unserer gespeicherten Zahl in den D-FF addieren möchten und wenn $D_{in}$ $11111110$ ist und wir einen Übertrag von 1 haben, subtrahieren wir 1 von dieser Zahl.
 
-![[DT-Projekt2_07.01.2022 12-03-32.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 12-03-32.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
 Jetzt fehlt noch die Logik, dass wir nur dann die Zahl ändern und dem Motor ein S-Signal geben, wenn die Zahl zwischen 1 und 510 ist (also nicht 0 oder 511).
-![[DT-Projekt2_07.01.2022 12-30-51.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 12-30-51.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
 Jetzt fehlt noch das "anstoßen" des Motors, also dass wir den Wert ändern und S auf 1 setzen, sobald wir C erhalten (einfach mit einem oder umzusetzen) und wir dürfen unser Notaus E nicht vergessen (ein weiteres und, um den Wert zu überschreiben):
 Und die Motor-Bausteine $Motor_L$ und $Motor_R$ die identisch sind.
-![[DT-Projekt2_07.01.2022 12-57-03.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 12-57-03.excalidraw|700]]
 
 
 <div style="page-break-after: always;"></div>
@@ -293,7 +293,7 @@ Definieren Sie eine Kodierung, die alle Getränkekonfigurationen abdeckt. Existi
 <div style="page-break-after: always;"></div>
 
 Für eine Kodierung können wir uns eine Art Baum vorstellen:
-![[DT-Projekt2_07.01.2022 13-28-02.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 13-28-02.excalidraw|700]]
 Wir kodieren also alle Getränke in 5 Bits.
 Ein paar Beispiele:
 Wasser mit Eiswürfel erhält also bspw den Code 00001, aufgeschlüsselt:
@@ -328,12 +328,12 @@ Hinweis: Überlegen Sie zunächst, welche Getränke die längste Zubereitungszei
 **Tabelle 2**: Liste der einzelnen Komponenten des Getränkeautomaten.
 
 Zuerst können wir uns der Übersichtshalber alle Bauteile in der richtigen Ebene darstellen um eine Parallelität zu gewährleisten.
-![[DT-Projekt2_07.01.2022 14-18-52.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 14-18-52.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
 Danach können wir erste Logik implementieren:
-![[DT-Projekt2_07.01.2022 14-45-55.excalidraw.md|700]]
+![[DT-Projekt2_07.01.2022 14-45-55.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
@@ -401,18 +401,18 @@ Sirupsorte_Bit1 = $s_3$
 Sirupsorte_Bit0 = $s_2$
 Milchkaffee = $s_4(s_3 \oplus s_2)$ = Wassermenge250
 
-![[DT-Projekt2_08.01.2022 01-18-46.excalidraw.md|700]]
+![[DT-Projekt2_08.01.2022 01-18-46.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
 Jetzt müssen wir nur alles zusammen setzen und die Register für die Pipelines hinzufügen:
 
-![[DT-Projekt2_08.01.2022 03-11-43.excalidraw.md|700]]
+![[DT-Projekt2_08.01.2022 03-11-43.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 
 Als letztes müssen wir noch die Outputs verbinden.
-![[DT-Projekt2_12.01.2022 12-15-01.excalidraw.md|700]]
+![[DT-Projekt2_12.01.2022 12-15-01.excalidraw|700]]
 
 Wenn wir die Verzögerung der Gatter unbeachtet lassen(da diese um ein Vielfaches kleiner sind als die hier verwendeten Bausteine) können wir $f_{CLK}$ ausrechnen mit
 $f_{CLK}\leq min(\frac{1}{9}s,\frac{1}{8,31}s)=0,111Hz$, also haben wir eine Maximale Frequenz von $0,111Hz$ und eine Latenz von $2*9s=18s$, also können wir 1 Getränk alle 9 Sekunden erzeugen und es dauert 18 Sekunden bis ein angefordetes Getränk von der Maschine bearbeitet wurde.
@@ -437,7 +437,7 @@ beschrieben umsetzt. Die Ausgänge des Automaten sind die Steuersignale zum Bus 
 
 Leider habe ich erst nachdem ich schon fertig war mit allen Aufgaben außer dieser hier, dass $D_{out}$ dauerhaft die Richtung anzeigen soll, in der sich die Tür bewegt. Ich habe es in den Moore-Automaten eingebaut, damit die Bedingung "dass das System herunterfährt, wenn sich die Bewegungsrichtung der Schiebetür unerwartet ändert" erfüllt ist. Bei 2.1 habe ich dies nicht eingebaut, da es nicht in der Aufgabenstellung gefordert war. Dort könnte man allerdings einfach $D_{in}$ direkt mit $D_{out}$ verdrahten und erhält so die Richtung in der die Tür sich bewegt und die finale Position in der sie sich befindet. In einer realen Implementierung wäre dies wahrscheinlich mit einem Sensor in den Motoren verwirklicht, der die "reale" Bewegungsrichtung in Form von Feedback zurückliefert und wenn irgendetwas komisch ist (entweder die reale Bewegungsrichtung anders die gewünschte oder auch die Bewegungsrichtung der beiden Motoren unterschiedlich) würde das System herunterfahren. 
 
-![[DT-Projekt2_08.01.2022 19-56-51.excalidraw.md|700]]
+![[DT-Projekt2_08.01.2022 19-56-51.excalidraw|700]]
 
 ## Bus (3 PP)  
 In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, der das Display, die Schiebetür, den Getränkeautomaten, die Lichtschranke und die zentrale Kontrolleinheit verbindet.  
@@ -445,7 +445,7 @@ In dieser Aufgabe sollen Sie einen digitalen Schaltplan für den Bus erstellen, 
 Entwerfen Sie einen digitalen Schaltplan für den Bus. Orientieren Sie sich an den Interfaces aus dem Prolog. Achten Sie darauf, dass keine Komponente unnötige Wires erhält (z.B. benötigt die Lichtschranke weniger  
 Daten vom Bus als der Getränkeautomat). Beachten Sie außerdem die zusätzlichen Eingänge, die in Projekt 2.3 beschrieben sind und die bestimmen, welche Komponente empfängt und sendet. (2PP)  
 
-![[DT-Projekt2_09.01.2022 00-23-07.excalidraw.md|700]]
+![[DT-Projekt2_09.01.2022 00-23-07.excalidraw|700]]
 
 <div style="page-break-after: always;"></div>
 

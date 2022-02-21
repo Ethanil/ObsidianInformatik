@@ -1,4 +1,4 @@
-[[Fop]]Bot ist ein Git-Repository welches das Lernen von [[Java]] erleichtern soll
+[[FOP]]Bot ist ein Git-Repository welches das Lernen von [[Java]] erleichtern soll
 
 # Robot-Befehle
 ```java

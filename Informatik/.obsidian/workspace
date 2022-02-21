@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "926b92f9b51c0f73",
+        "id": "f2b138a4acc51ff1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -90,17 +90,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "926b92f9b51c0f73",
+  "active": "f2b138a4acc51ff1",
   "lastOpenFiles": [
-    "Kombinatorische Logik_17.11.2021 12-39-03.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-39-57.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-44-13.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-42-09.excalidraw.md",
-    "Kombinatorische Logik_17.11.2021 12-37-46.excalidraw.md",
-    "DT-Projekt2_05.01.2022 20-38-28.excalidraw.md",
-    "Day Planners/Day Planner-20220221.md",
-    "Day Planners/Day Planner-20220208.md",
-    "Ordnungsrelation.md",
-    "Supremum.md"
+    "Digitaltechnik/Digitaltechnik.md",
+    "Excalidraw/test.excalidraw.md",
+    "Mathe I/Zielbereich.md",
+    "FOP/Verzweigungen.md",
+    "Untitled.md",
+    "Mathe I/Totalität.md",
+    "Mathe I/Reflexiv.md",
+    "FOP/Programm.md",
+    "Mathe I/Potenzmenge.md",
+    "Digitaltechnik/Physikalische Realisierung von Logikgattern.md"
   ]
 }
