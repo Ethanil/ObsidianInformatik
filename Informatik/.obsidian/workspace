@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Arithmetische Grundschaltungen.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "3e198dad562a879f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digitaltechnik/Volladdierer.md",
+            "file": "Digitaltechnik/Carry Lookahead Adder.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Volladdierer.md",
+                "file": "Digitaltechnik/Carry Lookahead Adder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +94,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "3e198dad562a879f",
+  "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Digitaltechnik/Carry Lookahead Adder.md",
+    "Digitaltechnik/Arithmetische Grundschaltungen.md",
+    "Digitaltechnik/Conditional Sum Adder.md",
+    "Digitaltechnik/Ripple-Carry-Adder.md",
     "Digitaltechnik/Volladdierer.md",
     "Digitaltechnik/Halbaddierer.md",
-    "Digitaltechnik/Ripple-Carry-Adder.md",
-    "Digitaltechnik/Arithmetische Grundschaltungen.md",
     "Digitaltechnik/Shifter.md",
     "Digitaltechnik/DT Vorlesung 07 01.12.2021.md",
     "Digitaltechnik/Sequentielle Schaltungen.md",
-    "Digitaltechnik/DT-Komplement.md",
-    "Digitaltechnik/Bilder/Tristate Buffer_21.02.2022 15-48-18.excalidraw.md",
-    "Digitaltechnik/Algorithmische Logikminimierung.md"
+    "Digitaltechnik/DT-Komplement.md"
   ]
 }
