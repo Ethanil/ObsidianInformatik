@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
+            "file": "Logik-Realisierung mit Basis-Gattern.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
+                "file": "Logik-Realisierung mit Basis-Gattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "f2b138a4acc51ff1",
   "lastOpenFiles": [
-    "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
-    "Digitaltechnik/DT Vorlesung 3 03.11.2021.md",
-    "Digitaltechnik/Digitaltechnik.md",
-    "Excalidraw/test.excalidraw.md",
-    "Mathe I/Zielbereich.md",
-    "FOP/Verzweigungen.md",
-    "Untitled.md",
-    "Mathe I/Totalität.md",
-    "Mathe I/Reflexiv.md",
-    "FOP/Programm.md"
+    "Logik-Realisierung mit Basis-Gattern.md",
+    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md",
+    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
+    "Digitaltechnik/DT-Projekt1.md",
+    "Digitaltechnik/Digitaltechnik Vorlesung 5 17.11.2021.md",
+    "Bubble Pushing.md",
+    "Bubble Pushing_21.02.2022 13-11-58.excalidraw.md",
+    "Mathe I/Disjunktion(oder).md",
+    "Mathe I/Konjunktion(und).md",
+    "Digitaltechnik/DT Vorlesung 1 20.10.2021.md"
   ]
 }
