@@ -36,5 +36,8 @@ Wir erhalten eine Ausgabedatei die zum Beispiel wie folgt aussieht:
 .e
 ```
 Wir schauen nun bei welchen Aussagen auf der linken Seite eine bestimmte Variable 1 ist.
-Wenn wir die Ausgänge $S_0-S_2$ von links nach rechts nennen gilt für $S_0$ also:
-$S_0=
+Wenn wir die Ausgänge $S_0-S_2$ von links nach rechts nennen und die Eingänge $A,B,C,D$, dann gilt für $S_0$ also:
+$S_0=AB+AC\overline{D}+BC\overline{D}+A\overline{B}\overline{C}\overline{D}$
+## Weitere Einsatzmöglichkeiten
+[[Mehrwertige Logik]]
+[[Zustandsautomaten]]
