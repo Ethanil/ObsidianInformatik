@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
+            "file": "Espresso.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
+                "file": "Espresso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Espresso.md",
+    "Digitaltechnik/DT-Projekt2.md",
+    "Algorithmische Logikminimierung.md",
+    "Quine-McCluskey.md",
     "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
     "Digitaltechnik/Karnaugh Diagramme.md",
     "DT.md",
     "Digitaltechnik/Digitaltechnik.md",
     "Digitaltechnik/DT Vorlesung 05 17.11.2021.md",
-    "Digitaltechnik/DT Vorlesung 04 10.11.2021.md",
-    "Digitaltechnik/DT Vorlesung 03 03.11.2021.md",
-    "Digitaltechnik/DT Vorlesung 01 20.10.2021.md",
-    "Digitaltechnik/DT Vorlesung 02 27.10.2021.md",
-    "Digitaltechnik/Gray Code.md"
+    "Digitaltechnik/DT Vorlesung 04 10.11.2021.md"
   ]
 }
