@@ -4,7 +4,7 @@
     "statusBarQuery": "",
     "statusBarAltQuery": ""
   },
-  "statusBarQuery": "today: {total_word_count} words {total_character_count} characters",
+  "statusBarQuery": "today: {words_today} words {characters_today} characters",
   "statusBarAltQuery": "{file_count} files {total_word_count} words {total_character_count} characters",
   "countComments": false,
   "collectStats": true
