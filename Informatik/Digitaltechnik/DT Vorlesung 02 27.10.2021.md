@@ -1,4 +1,4 @@
-# [[Digitaltechnik]] Vorlesung 2 27.10.2021
+# [[Digitaltechnik]] Vorlesung 02 27.10.2021
 ![[DT_VL_02_V1.pdf]]
 ## Buch: Kapitel 1.4-1.5
 ## Zahlensysteme: Bitfolgen <-> (ganze) Zahlen
