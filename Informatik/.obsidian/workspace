@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mehrwertige Logik.md",
+            "file": "Tristate Buffer.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehrwertige Logik.md",
+                "file": "Tristate Buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Tristate Buffer.md",
     "Mehrwertige Logik.md",
     "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
     "Algorithmische Logikminimierung.md",
@@ -104,7 +105,6 @@
     "Digitaltechnik/DT-Projekt2.md",
     "Quine-McCluskey.md",
     "Digitaltechnik/Karnaugh Diagramme.md",
-    "DT.md",
-    "Digitaltechnik/Digitaltechnik.md"
+    "DT.md"
   ]
 }
