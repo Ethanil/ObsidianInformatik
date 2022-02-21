@@ -8,3 +8,4 @@ aliases:
 ## [[Carry Lookahead Adder]]
 ## [[Subtrahierer]]
 ## [[Vergleicher]]
+## [[Multiplikator]]

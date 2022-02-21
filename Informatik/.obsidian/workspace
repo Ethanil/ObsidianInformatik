@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Arithmetische Grundschaltungen.md",
+            "file": "Digitaltechnik/Sequentielle Schaltungen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Arithmetische Grundschaltungen.md",
+                "file": "Digitaltechnik/Sequentielle Schaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Digitaltechnik/Sequentielle Schaltungen.md",
+    "Digitaltechnik/DT Vorlesung 07 01.12.2021.md",
     "Digitaltechnik/Arithmetische Grundschaltungen.md",
+    "Digitaltechnik/Multiplikator.md",
     "Digitaltechnik/Vergleicher.md",
     "Digitaltechnik/Subtrahierer.md",
-    "Digitaltechnik/DT Vorlesung 07 01.12.2021.md",
     "Digitaltechnik/Carry Lookahead Adder.md",
     "Digitaltechnik/Conditional Sum Adder.md",
     "Digitaltechnik/Ripple-Carry-Adder.md",
-    "Digitaltechnik/Volladdierer.md",
-    "Digitaltechnik/Halbaddierer.md",
-    "Digitaltechnik/Shifter.md"
+    "Digitaltechnik/Volladdierer.md"
   ]
 }
