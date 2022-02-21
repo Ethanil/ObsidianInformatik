@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Multiplexer.md",
-            "mode": "preview"
+            "file": "Dekodierer.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Multiplexer.md",
+                "file": "Dekodierer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "f2b138a4acc51ff1",
   "lastOpenFiles": [
+    "Dekodierer.md",
+    "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
     "Digitaltechnik/Multiplexer.md",
     "Multiplexer_21.02.2022 13-36-09.excalidraw.md",
-    "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
     "Digitaltechnik/DT Vorlesung 5 17.11.2021.md",
     "Digitaltechnik/Buffer.md",
     "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
     "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
     "Mathe I/Negation(nicht).md",
-    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md",
-    "Digitaltechnik/DT-Projekt1.md"
+    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md"
   ]
 }

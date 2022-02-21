@@ -16,3 +16,4 @@ Damit Schaltpläne übersichtlich bleiben, werden
 - 4 armige Kreuzungen gelten nur mit Markierung als verbunden (ein Punkt in der Mitte)
 
 ## [[Multiplexer]]
+## [[Dekodierer]]
