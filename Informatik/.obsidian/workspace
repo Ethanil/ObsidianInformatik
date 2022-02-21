@@ -7,8 +7,11 @@
         "id": "f2b138a4acc51ff1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,8 @@
   },
   "active": "f2b138a4acc51ff1",
   "lastOpenFiles": [
+    "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
+    "Digitaltechnik/DT Vorlesung 3 03.11.2021.md",
     "Digitaltechnik/Digitaltechnik.md",
     "Excalidraw/test.excalidraw.md",
     "Mathe I/Zielbereich.md",
@@ -99,8 +105,6 @@
     "Untitled.md",
     "Mathe I/Totalität.md",
     "Mathe I/Reflexiv.md",
-    "FOP/Programm.md",
-    "Mathe I/Potenzmenge.md",
-    "Digitaltechnik/Physikalische Realisierung von Logikgattern.md"
+    "FOP/Programm.md"
   ]
 }
