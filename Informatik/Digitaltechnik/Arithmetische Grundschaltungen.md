@@ -6,3 +6,5 @@ aliases:
 ## [[Ripple-Carry-Adder]]
 ## [[Conditional Sum Adder]]
 ## [[Carry Lookahead Adder]]
+## [[Subtrahierer]]
+## [[Vergleicher]]
