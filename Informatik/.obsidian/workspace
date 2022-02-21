@@ -7,8 +7,11 @@
         "id": "185b51ce8c7304f7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/Arithmetische Grundschaltungen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/Arithmetische Grundschaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
-    "Zeitverhalten.md",
+    "Digitaltechnik/Arithmetische Grundschaltungen.md",
+    "Digitaltechnik/DT Vorlesung 07 01.12.2021.md",
+    "Digitaltechnik/Sequentielle Schaltungen.md",
+    "Digitaltechnik/DT-Komplement.md",
+    "Digitaltechnik/Bilder/Tristate Buffer_21.02.2022 15-48-18.excalidraw.md",
+    "Digitaltechnik/Algorithmische Logikminimierung.md",
+    "Digitaltechnik/Zeitverhalten.md",
     "Digitaltechnik/DT Vorlesung 06 24.11.2021.md",
-    "Tristate Buffer_21.02.2022 15-48-18.excalidraw.md",
-    "Tristate Buffer.md",
-    "Mehrwertige Logik.md",
-    "Algorithmische Logikminimierung.md",
-    "Espresso.md",
-    "Digitaltechnik/Axiome der Boolschen Algebra.md",
-    "Digitaltechnik/DT-Projekt2.md",
-    "Quine-McCluskey.md"
+    "Digitaltechnik/Tristate Buffer.md",
+    "Digitaltechnik/Mehrwertige Logik.md"
   ]
 }
