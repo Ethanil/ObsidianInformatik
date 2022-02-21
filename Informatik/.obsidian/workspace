@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logik-Realisierung mit Basis-Gattern.md",
-            "mode": "source"
+            "file": "Digitaltechnik/Multiplexer.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logik-Realisierung mit Basis-Gattern.md",
+                "file": "Digitaltechnik/Multiplexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "f2b138a4acc51ff1",
   "lastOpenFiles": [
-    "Logik-Realisierung mit Basis-Gattern.md",
+    "Digitaltechnik/Multiplexer.md",
+    "Multiplexer_21.02.2022 13-36-09.excalidraw.md",
+    "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
+    "Digitaltechnik/DT Vorlesung 5 17.11.2021.md",
+    "Digitaltechnik/Buffer.md",
+    "Digitaltechnik/DT Vorlesung 4 10.11.2021.md",
+    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761.md",
+    "Mathe I/Negation(nicht).md",
     "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 16-57-35.excalidraw 2.md",
-    "Digitaltechnik/Projekt-Bilder/DT-Projekt1_23.11.2021 17-38-20.excalidraw6761 1.md",
-    "Digitaltechnik/DT-Projekt1.md",
-    "Digitaltechnik/Digitaltechnik Vorlesung 5 17.11.2021.md",
-    "Bubble Pushing.md",
-    "Bubble Pushing_21.02.2022 13-11-58.excalidraw.md",
-    "Mathe I/Disjunktion(oder).md",
-    "Mathe I/Konjunktion(und).md",
-    "Digitaltechnik/DT Vorlesung 1 20.10.2021.md"
+    "Digitaltechnik/DT-Projekt1.md"
   ]
 }
