@@ -7,8 +7,11 @@
         "id": "185b51ce8c7304f7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/DT-Projekt2.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/DT-Projekt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Digitaltechnik/DT-Projekt2.md",
     "Digitaltechnik/D-Flip-Flop.md",
     "Digitaltechnik/D-Latch.md",
     "D-Flip-Flop_21.02.2022 18-55-56.excalidraw.md",
@@ -100,7 +105,6 @@
     "Digitaltechnik/JK-Latch.md",
     "JK-Latch_21.02.2022 18-41-57.excalidraw.md",
     "Digitaltechnik/Halbaddierer.md",
-    "Digitaltechnik/SR-Latch.md",
-    "SR-Latch_21.02.2022 18-34-51.excalidraw.md"
+    "Digitaltechnik/SR-Latch.md"
   ]
 }
