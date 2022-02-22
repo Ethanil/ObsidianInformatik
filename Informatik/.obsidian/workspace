@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT-Projekt2.md",
-            "mode": "preview"
+            "file": "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT-Projekt2.md",
+                "file": "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
     "Digitaltechnik/DT-Projekt2.md",
     "Digitaltechnik/D-Flip-Flop.md",
     "Digitaltechnik/D-Latch.md",
@@ -104,7 +105,6 @@
     "D-Latch_21.02.2022 18-49-23.excalidraw.md",
     "Digitaltechnik/JK-Latch.md",
     "JK-Latch_21.02.2022 18-41-57.excalidraw.md",
-    "Digitaltechnik/Halbaddierer.md",
-    "Digitaltechnik/SR-Latch.md"
+    "Digitaltechnik/Halbaddierer.md"
   ]
 }
