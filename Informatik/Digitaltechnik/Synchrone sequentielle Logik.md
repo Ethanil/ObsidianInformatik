@@ -9,3 +9,8 @@ Im Vergleich zu den komb. Schaltungen erlauben die sequentiellen eine Rückkoppl
 - Jedes Schaltungselement ist entweder Register oder kombinatorische Schaltung
 - mindestens ein Schaltungselement ist ein Register
 - alle Registern werden durch ein **gleiches** Taktsignal gesteuert
+- jeder zyklische Pfad enthält midnestens ein Register
+
+## Anwendungsbeispiele
+- [[Pipelines]]
+- [[Zustandsautomaten]]
