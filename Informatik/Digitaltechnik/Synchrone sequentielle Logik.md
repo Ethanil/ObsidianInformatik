@@ -1,0 +1,4 @@
+---
+aliases: 
+---
+# Synchrone sequentielle Logik

@@ -9,3 +9,4 @@ aliases:
 ## [[D-Flip-Flop]]
 ## [[Flip-Flop mit Taktfreigabe]]
 ## [[Zurücksetzbare Flip-Flops]]
+## [[Shift-Register]]
