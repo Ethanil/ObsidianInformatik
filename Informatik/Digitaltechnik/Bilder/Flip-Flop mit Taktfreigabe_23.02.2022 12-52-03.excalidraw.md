@@ -23,6 +23,8 @@ D ^toxolq2K
 
 0 ^FGaKnGdP
 
+CLK ^JHdXuoTJ
+
 %%
 # Drawing
 ```json
@@ -803,6 +805,150 @@ D ^toxolq2K
 					-210.87319946289062
 				]
 			]
+		},
+		{
+			"id": "JHdXuoTJ",
+			"type": "text",
+			"x": 19.727345784505303,
+			"y": -385.02945073445636,
+			"width": 67,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1380578517,
+			"version": 20,
+			"versionNonce": 1315356987,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "CLK",
+			"rawText": "CLK",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 32
+		},
+		{
+			"id": "CXe3eUlLHKvbyEPmPVTpI",
+			"type": "line",
+			"x": 50.501017252604186,
+			"y": -348.88441594441736,
+			"width": 0.7607014973958144,
+			"height": 48.68644714355469,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1095582709,
+			"version": 32,
+			"versionNonce": 1235184443,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.7607014973958144,
+					48.68644714355469
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "_hLS8gcNdh3m_0ByxZ0Vm",
+			"type": "line",
+			"x": 39.09008789062506,
+			"y": -299.43724187215173,
+			"width": 12.932383219401004,
+			"height": 26.62541707356769,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 852244981,
+			"version": 28,
+			"versionNonce": 947099643,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					12.932383219401004,
+					26.62541707356769
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ujBrSTBwj11lJKWVhc75u",
+			"type": "line",
+			"x": 52.02247111002606,
+			"y": -272.81182479858404,
+			"width": 16.735941569010436,
+			"height": 25.103963216145814,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1814968629,
+			"version": 23,
+			"versionNonce": 607192149,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					16.735941569010436,
+					-25.103963216145814
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -816,7 +962,7 @@ D ^toxolq2K
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
@@ -921,6 +1067,22 @@ D ^toxolq2K
 	<g stroke-linecap="round">
 		<g transform="translate(92.76809692382812 370.0067138671875) rotate(0 0.4564208984375 -105.43659973144531)">
 			<path d="M-1.05 -1.06 C-1.08 -36.03, -0.37 -175.68, 0 -210.53 M0.61 1 C0.93 -34.29, 2.25 -176.96, 2.24 -212.47" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g transform="translate(329.5233357747397 20.579184214274107) rotate(0 33.5 23)"><text x="0" y="32" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">CLK</text></g>
+	<g stroke-linecap="round">
+		<g transform="translate(360.29700724283856 56.72421900431311) rotate(0 0.3803507486979072 24.343223571777344)">
+			<path d="M0.99 -0.97 C1.32 7.12, 1.87 40, 1.81 48.39 M0.05 1.13 C0.33 9.41, 1.46 42.07, 1.41 49.77" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(348.88607788085943 106.17139307657874) rotate(0 6.466191609700502 13.312708536783845)">
+			<path d="M-1.1 -0.77 C0.9 3.69, 10.13 22.28, 12.48 26.93 M0.53 1.44 C2.28 5.5, 9.34 21.03, 11.3 24.97" stroke="#000000" stroke-width="1" fill="none"></path>
+		</g>
+	</g>
+	<g stroke-linecap="round">
+		<g transform="translate(361.81846110026044 132.79681015014643) rotate(0 8.367970784505218 -12.551981608072907)">
+			<path d="M0.77 0.24 C3.43 -3.96, 14 -20.42, 16.51 -24.63 M-0.28 -0.68 C2.14 -5.29, 12.36 -22.67, 15.45 -26.5" stroke="#000000" stroke-width="1" fill="none"></path>
 		</g>
 	</g>
 </svg>
