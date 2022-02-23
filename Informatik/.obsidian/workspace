@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+            "file": "Digitaltechnik/Parallelität.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+                "file": "Digitaltechnik/Parallelität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "19dc1c5c4e019f7d",
   "lastOpenFiles": [
-    "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
-    "Digitaltechnik/Zeitverhalten.md",
-    "Digitaltechnik/Metastabilität.md",
+    "Digitaltechnik/Parallelität.md",
     "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
+    "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+    "Digitaltechnik/Metastabilität.md",
+    "Digitaltechnik/D-Flip-Flop.md",
+    "Digitaltechnik/Zeitverhalten.md",
     "Digitaltechnik/Synchrone sequentielle Logik.md",
     "Digitaltechnik/Zustandsautomaten.md",
     "Digitaltechnik/DT-Projekt2.md",
-    "Digitaltechnik/Bilder/DT-Projekt2_07.01.2022 18-11-37.excalidraw.md",
-    "Digitaltechnik/Bilder/DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
-    "Excalidraw/Drawing 23.02.2022 14-39-34.excalidraw.md"
+    "Digitaltechnik/Bilder/DT-Projekt2_07.01.2022 18-11-37.excalidraw.md"
   ]
 }

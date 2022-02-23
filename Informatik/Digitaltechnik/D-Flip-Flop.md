@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: [Flip-Flop]
 ---
 # D-Flip-Flop
 Ein D-Flip-Flop sind zwei [[D-Latch|D-Latches]], welche hintereinader geschaltet werden, wobei eines davon das "Master"-D-Latch($M$) ist und eines davon das "Slave"-D-Latch($S$)
