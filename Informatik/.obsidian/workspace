@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
+            "file": "Digitaltechnik/Zurücksetzbare Flip-Flops.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
+                "file": "Digitaltechnik/Zurücksetzbare Flip-Flops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "185b51ce8c7304f7",
   "lastOpenFiles": [
+    "Digitaltechnik/Zurücksetzbare Flip-Flops.md",
+    "Digitaltechnik/Speicherelemente.md",
+    "Digitaltechnik/Flip-Flop mit Taktfreigabe.md",
+    "Flip-Flop mit Taktfreigabe_23.02.2022 12-52-03.excalidraw.md",
+    "Digitaltechnik/D-Flip-Flop.md",
     "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
     "Digitaltechnik/DT-Projekt2.md",
-    "Digitaltechnik/D-Flip-Flop.md",
     "Digitaltechnik/D-Latch.md",
     "D-Flip-Flop_21.02.2022 18-55-56.excalidraw.md",
-    "Digitaltechnik/Speicherelemente.md",
-    "D-Latch_21.02.2022 18-49-23.excalidraw.md",
-    "Digitaltechnik/JK-Latch.md",
-    "JK-Latch_21.02.2022 18-41-57.excalidraw.md",
-    "Digitaltechnik/Halbaddierer.md"
+    "D-Latch_21.02.2022 18-49-23.excalidraw.md"
   ]
 }
