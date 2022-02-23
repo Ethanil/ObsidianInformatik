@@ -7,8 +7,11 @@
         "id": "19dc1c5c4e019f7d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/Synchrone sequentielle Logik.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/Synchrone sequentielle Logik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +96,15 @@
   },
   "active": "19dc1c5c4e019f7d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 23.02.2022 14-39-34.excalidraw.md",
-    "Digitaltechnik/DT-Projekt2.md",
-    "Digitaltechnik/Bilder/DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
     "Digitaltechnik/Synchrone sequentielle Logik.md",
-    "Mathe I/Mathe I Hausübung 01.md",
     "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
+    "Digitaltechnik/DT-Projekt2.md",
+    "Digitaltechnik/Bilder/DT-Projekt2_07.01.2022 18-11-37.excalidraw.md",
+    "Digitaltechnik/Bilder/DT-Projekt2_05.01.2022 23-28-46.excalidraw.md",
+    "Excalidraw/Drawing 23.02.2022 14-39-34.excalidraw.md",
+    "Mathe I/Mathe I Hausübung 01.md",
     "Digitaltechnik/Speicherelemente.md",
     "Digitaltechnik/Shift-Register.md",
-    "Digitaltechnik/Bilder/Bistabile Grundschaltung_21.02.2022 18-30-20.excalidraw.md",
-    "Digitaltechnik/Flip-Flop mit Taktfreigabe.md"
+    "Digitaltechnik/Bilder/Bistabile Grundschaltung_21.02.2022 18-30-20.excalidraw.md"
   ]
 }
