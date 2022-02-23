@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Pipelines.md",
+            "file": "Digitaltechnik/Zustandsautomaten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Pipelines.md",
+                "file": "Digitaltechnik/Zustandsautomaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "19dc1c5c4e019f7d",
   "lastOpenFiles": [
+    "Digitaltechnik/Zustandsautomaten.md",
+    "Digitaltechnik/DT Vorlesung 09 15.12.2021.md",
+    "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
     "Digitaltechnik/Pipelines.md",
     "Digitaltechnik/Parallelität.md",
-    "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
     "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
     "Digitaltechnik/Metastabilität.md",
     "Digitaltechnik/D-Flip-Flop.md",
     "Digitaltechnik/Zeitverhalten.md",
-    "Digitaltechnik/Synchrone sequentielle Logik.md",
-    "Digitaltechnik/Zustandsautomaten.md",
-    "Digitaltechnik/DT-Projekt2.md"
+    "Digitaltechnik/Synchrone sequentielle Logik.md"
   ]
 }
