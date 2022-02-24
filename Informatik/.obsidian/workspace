@@ -9,18 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Moore Automat.md",
+            "file": "Digitaltechnik/Zustandsautomaten.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5b773232b181b6ad",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Moore Automat_24.02.2022 15-29-18.excalidraw.md"
           }
         }
       }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moore Automat_24.02.2022 15-29-18.excalidraw.md",
+                "file": "Digitaltechnik/Zustandsautomaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +94,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "5b773232b181b6ad",
+  "active": "19dc1c5c4e019f7d",
   "lastOpenFiles": [
-    "Moore Automat_24.02.2022 15-29-18.excalidraw.md",
-    "Digitaltechnik/Moore Automat.md",
     "Digitaltechnik/Zustandsautomaten.md",
+    "Digitaltechnik/Hardware.md",
     "Digitaltechnik/DT Vorlesung 09 15.12.2021.md",
+    "Digitaltechnik/Mealy Automat.md",
+    "Mealy Automat_24.02.2022 15-35-07.excalidraw.md",
+    "Digitaltechnik/Moore Automat.md",
+    "Moore Automat_24.02.2022 15-29-18.excalidraw.md",
     "Digitaltechnik/DT Vorlesung 08 08.12.2021.md",
     "Digitaltechnik/Pipelines.md",
-    "Digitaltechnik/Parallelität.md",
-    "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
-    "Digitaltechnik/Metastabilität.md",
-    "Digitaltechnik/D-Flip-Flop.md"
+    "Digitaltechnik/Parallelität.md"
   ]
 }
