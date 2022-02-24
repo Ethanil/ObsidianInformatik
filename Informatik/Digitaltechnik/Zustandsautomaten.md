@@ -31,8 +31,10 @@ Der folgende [[Moore Automat]] würde wie folgt als Tabelle dargestellt werden:
 | $S$ | $a_A$ | $a_B$ | $S'$ |
 | --- | ----- | ----- | ---- |
 | A   | 0     | X     | AB   |
+| A   | 1     | x     | A    |
 | AB  | X     | X     | B    |
 | B   | X     | 0     | BA   |
+| B   | x     | 1     | B    |
 | BA  | X     | X     | A    |
 
 ##### Ausgabetabelle:
@@ -48,5 +50,27 @@ Der folgende [[Mealy Automat]] würde wie folgt als Tabelle dargestellt werden:
 ##### Zustandsübergangstabelle
 | $S$ | $a_A$ | $a_B$ | $S`$ |
 | --- | ----- | ----- | ---- |
-|     |       |       |      |
+| A   | 1     | X     | A    |
+| A   | 0     | X     | AB   |
+| AB  | X     | X     | B    |
+| B   | X     | 1     | B    |
+| B   | X     | 0     | BA   |
+| BA  | X     | X     | A    |
 ##### Ausgabetabelle
+| $S$ | $a_A$ | $a_B$ | $y_A$ | $y_B$ |
+| --- | ----- | ----- | ----- | ----- |
+| A   | 1     | X     | grün  | rot   |
+| A   | 0     | X     | gelb  | rot   |
+| AB  | X     | X     | rot   | grün  |
+| B   | X     | 1     | rot   | grün  |
+| B   | X     | 0     | rot   | gelb  |
+| BA  | X     | X     | grün  | rot   |
+
+Wie man eindeutig sieht ist bei einem [[Mealy Automat]] der Output auch vom Input abhängig, bei einem [[Moore Automat]] nicht.
+### FSM als [[Synchrone sequentielle Logik|synchrone sequentielle Schaltung]]
+Um eine FSM als Schaltung zu realisieren benötigen wir immer ein Zustandsregister, welches den aktuellen Zustand $S$ speichert und in der nächsten Taktflanke den Zustand $S'$ übernimmt.
+Wir benötigen außerdem kombinatorische Logik, die sowohl den nächsten Zustand (next state logic) als auch den Output (output Logic) bestimmen, welche wir aus den Zustandsübergangstabellen und Ausgabetabellen ableiten können.
+Für das Umsetzen benötigen wir eine binäre Kodierung der Zustände und Ein-/Ausgaben
+![[Pasted image 20220224174427.png]]
+#### Zustandskodierung
+Bei der Zustandskodierung weisen wir jedem Zustand einen $m$ Bit breiten Wert zu, welcher idR frei gewählt werden kann. Das simpelste ist das einfache Durchnummerieren, also bei 4 Zuständen diese einfach $00,01,10,11$ zu nennen.
