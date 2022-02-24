@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Moore Automat.md",
+            "file": "Digitaltechnik/Zerlegung von Zustandsautomaten.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Moore Automat.md",
+                "file": "Digitaltechnik/Zerlegung von Zustandsautomaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "19dc1c5c4e019f7d",
   "lastOpenFiles": [
-    "Digitaltechnik/Moore Automat.md",
+    "Digitaltechnik/Zerlegung von Zustandsautomaten.md",
     "Digitaltechnik/DT Vorlesung 09 15.12.2021.md",
+    "Digitaltechnik/Mealy Automat.md",
+    "Digitaltechnik/Moore Automat.md",
     "Digitaltechnik/Don't Care.md",
     "Digitaltechnik/Espresso.md",
     "Digitaltechnik/DT-Projekt2.md",
     "Digitaltechnik/Zustandsautomaten.md",
     "Digitaltechnik/Bilder/Mealy Automat_24.02.2022 15-35-07.excalidraw.md",
-    "Digitaltechnik/Ausgabekodierung.md",
-    "Digitaltechnik/One-Hot-Kodierung.md",
-    "Digitaltechnik/Mealy Automat.md"
+    "Digitaltechnik/Ausgabekodierung.md"
   ]
 }

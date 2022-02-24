@@ -9,4 +9,4 @@ Ein Moore Automat ist ein [[Zustandsautomaten|Zustandsautomat]] bei dem die Ausg
 ### Erinnerung
 Leere Übergänge schalten im nächsten Takt direkt weiter (nach einer gelben Ampel folgt immer eine rote)
 ## Zeitverhalten
-Ein Moore Automat 
+Ein [[Moore Automat]] reagiert idR einen Takt später wie ein äquivalenter [[Mealy Automat]].
