@@ -1,22 +1,51 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"Day Planners\"",
+  "search": "-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Digitaltechnik",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:AFE",
+      "color": {
+        "a": 1,
+        "rgb": 12669664
+      }
+    },
+    {
+      "query": "path:\"Mathe I\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:FOP",
+      "color": {
+        "a": 1,
+        "rgb": 5403104
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.37010485247501,
-  "lineSizeMultiplier": 1.90479151426481,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.31693489392831,
+  "lineSizeMultiplier": 2.50220677883443,
   "collapse-forces": false,
-  "centerStrength": 0.94017094017094,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 70,
-  "scale": 0.28548580833376713,
+  "centerStrength": 0.475965390161833,
+  "repelStrength": 11.3667681461304,
+  "linkStrength": 0.506809806120814,
+  "linkDistance": 30,
+  "scale": 0.3414744101388103,
   "close": true
 }

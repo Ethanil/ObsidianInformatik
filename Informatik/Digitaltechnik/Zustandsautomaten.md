@@ -23,10 +23,10 @@ Das Ziel ist eine Realisierung mittels [[Hardware]], dabei ist das Vorgehen imme
 - Gleichung: abgeleitet von der Beschreibung
 - Schaltung: [[Kombinatorische Logik|kombinatorisch]], [[Sequentielle Schaltungen|sequentiell]] oder [[Synchrone sequentielle Logik|synchron]]
 ### Zustandsübergangs- und Ausgabetabelle
-Tabellen sind sehr praktisch, da sie eine maschinenlesbare Darstellung sind. Man kann mit noch abstrakteren Zuständen und Ausgaben arbeiten und dabei Don't Cares verwenden. Der aktuelle Zustand wird dabei als $S$ und der nächste Zustand als $S'$ bezeichnet.
+Tabellen sind sehr praktisch, da sie eine maschinenlesbare Darstellung sind. Man kann mit noch abstrakteren Zuständen und Ausgaben arbeiten und dabei [[Don't Care|Don't Cares]] verwenden. Der aktuelle Zustand wird dabei als $S$ und der nächste Zustand als $S'$ bezeichnet.
 #### Beispiel
 Der folgende [[Moore Automat]] würde wie folgt als Tabelle dargestellt werden:
-![[Moore Automat_24.02.2022 15-29-18.excalidraw.md]]
+![[Moore Automat_24.02.2022 15-29-18.excalidraw]]
 ##### Zustandsübergangstabelle:
 | $S$ | $a_A$ | $a_B$ | $S'$ |
 | --- | ----- | ----- | ---- |
@@ -46,7 +46,7 @@ Der folgende [[Moore Automat]] würde wie folgt als Tabelle dargestellt werden:
 | BA  | rot   | gelb  |
 
 Der folgende [[Mealy Automat]] würde wie folgt als Tabelle dargestellt werden:
-![[Mealy Automat_24.02.2022 15-35-07.excalidraw.md]]
+![[Mealy Automat_24.02.2022 15-35-07.excalidraw]]
 ##### Zustandsübergangstabelle
 | $S$ | $a_A$ | $a_B$ | $S`$ |
 | --- | ----- | ----- | ---- |
@@ -74,4 +74,18 @@ Für das Umsetzen benötigen wir eine binäre Kodierung der Zustände und Ein-/A
 ![[Pasted image 20220224174427.png]]
 #### Zustandskodierung
 Bei der Zustandskodierung weisen wir jedem Zustand einen $m$ Bit breiten Wert zu, welcher idR frei gewählt werden kann. Das simpelste ist das einfache Durchnummerieren, also bei 4 Zuständen diese einfach $00,01,10,11$ zu nennen.
-Manchmal sind aber auch andere Kodierungen sinnvoll wie bspw. die [[One-Hot-Kodierung]] oder eine bestehende [[Ausgabekodierung]]. Oftmals ist die Kodierung der Ein
+Manchmal sind aber auch andere Kodierungen sinnvoll wie bspw. die [[One-Hot-Kodierung]] oder eine bestehende [[Ausgabekodierung]]. Oftmals ist die Kodierung der Ein- und Ausgänge auch von der Anwendung vorgegeben.
+#### Logikminimierung mittels [[Espresso]]
+Die next state logic und output logic kann mittels [[Espresso]] minimiert werden.
+#### Schaltplan erstellen
+Aus dem Ergebnis von [[Espresso]] kann man dann einen Schaltplan erstellen. Bei unserem [[Moore Automat#Beispiel Ampelsteuerung|Beispiel Ampelsteuerung]] würde das ganze dann wie folgt aussehen:
+![[Pasted image 20220224182453.png]]
+### Zusammenfassung
+- definiere Ein- und Ausgänge
+- wähle Zwischen [[Moore Automat|Moore-]] und [[Mealy Automat]]
+- zeichne [[Zustandsautomaten#Automaten Diagramme als gerichtete Graphen|Zustandsdiagramm]]
+- [[Zustandsautomaten#Zustandskodierung|kodiere]] Ausgänge
+- stelle [[Zustandsautomaten#Zustandsübergangstabelle|Zustandsübergangstabelle]] und [[Zustandsautomaten#Ausgabetabelle|Ausgabetabelle]] auf
+- stelle boole'sche Gleichungen für diese Logik unter Ausnutzung von [[Don't Care|Don't Cares]] auf
+- entwerfe Schaltplan mit [[Logik-Realisierung mit Basis-Gattern|Gatter]] und [[Register]] auf
+

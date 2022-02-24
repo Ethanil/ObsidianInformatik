@@ -17,8 +17,8 @@ Espresso ist ein heuristischer Algorithmus zur [[Algorithmische Logikminimierung
 11 0		//dieser hier also Auch
 .e			//Ende (optional)
 ```
-## Don't Cares
-Wir können sowohl bei den Eingängen, als auch bei den Ausgängen don't Cares (`-`) benutzen.
+## [[Don't Care|Don't Cares]]
+Wir können sowohl bei den Eingängen, als auch bei den Ausgängen [[Don't Care|don't Cares]] (`-`) benutzen.
 ## Ausgabedatei lesen
 Wir erhalten eine Ausgabedatei die zum Beispiel wie folgt aussieht:
 ```

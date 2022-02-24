@@ -14,5 +14,5 @@ Die Diagramme sind mithilfe des [[Gray Code|Gray Codes]] aufgebaut, bei dem sich
 Beim Umkreisen gelten folgende Regeln:
 Wir müssen immer so viele Felder wie möglich mit einem Kreis umkreisen, dabei darf dieser Kreis nur eine Kantenlänge von $2^n$ haben (also 0,1,2,4,8...). Da ein Karnaugh-Diagram wie ein Verrücktes-Labyrinth Brett nirgens aufhört, sondern die linkeste Spalte angrenzend an die rechte ist, dürfen wir unsere Kreise also auch über Kanten und Ecken ziehen.
 Wir sind fertig, sobald wir jede 1 (oder 0) mindestens einmal umreist haben
-### Don't Cares
-Wenn es don't cares gibt, dürfen, müssen wir sie aber nicht umkreisen.
+### [[Don't Care|Don't Cares]]
+Wenn es [[Don't Care|don't cares]] gibt, dürfen, müssen wir sie aber nicht umkreisen.
