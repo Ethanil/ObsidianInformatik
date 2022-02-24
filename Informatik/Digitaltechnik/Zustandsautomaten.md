@@ -74,3 +74,4 @@ Für das Umsetzen benötigen wir eine binäre Kodierung der Zustände und Ein-/A
 ![[Pasted image 20220224174427.png]]
 #### Zustandskodierung
 Bei der Zustandskodierung weisen wir jedem Zustand einen $m$ Bit breiten Wert zu, welcher idR frei gewählt werden kann. Das simpelste ist das einfache Durchnummerieren, also bei 4 Zuständen diese einfach $00,01,10,11$ zu nennen.
+Manchmal sind aber auch andere Kodierungen sinnvoll wie bspw. die [[One-Hot-Kodierung]] oder eine bestehende [[Ausgabekodierung]]. Oftmals ist die Kodierung der Ein
