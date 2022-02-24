@@ -16,3 +16,4 @@ Ein Zahlenschloss beziehungsweise generelle Mustererkennung kann sehr einfach mi
 ## Automaten Diagramme als gerichtete Graphen
 Automaten kann man außer durch das Aufschreiben von Zuständen, Übergängen, Start und End-Zustand auch als einen gerichteten Graphen notieren.
 Dabei werden die Zustände zu Knoten mit symbolischen Namen(typischerweise $S_0,S_1 \dotso$) und die Übergänge werden als Kanten mit einem boolschen Ausdruck dargestellt. Wenn ein Zustand unverändert bleibt kann man diese Kante auch weglassen um es vereinfacht zu notieren. Genau eine Kante ohne einen Startpunkt für Reset.
+Ausgabel sind entweder an Kanten ([[Mealy Automat]]) oder in den Zuständen ([[Moore Automat]])
