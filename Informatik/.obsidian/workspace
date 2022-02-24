@@ -7,8 +7,12 @@
         "id": "19dc1c5c4e019f7d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/Hardwarebeschreibungssprachen.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/Hardwarebeschreibungssprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +99,13 @@
   "lastOpenFiles": [
     "Digitaltechnik/Hardwarebeschreibungssprachen.md",
     "Digitaltechnik/DT Vorlesung 10 22.12.2021.md",
-    "Digitaltechnik/SystemVerilog.md",
-    "Digitaltechnik/Zerlegung von Zustandsautomaten.md",
-    "Digitaltechnik/DT Vorlesung 09 15.12.2021.md",
-    "Digitaltechnik/Mealy Automat.md",
-    "Digitaltechnik/Moore Automat.md",
-    "Digitaltechnik/Don't Care.md",
-    "Digitaltechnik/Espresso.md",
-    "Digitaltechnik/DT-Projekt2.md"
+    "Digitaltechnik/DT Vorlesung 01 20.10.2021.md",
+    "Digitaltechnik/DT Vorlesung 02 27.10.2021.md",
+    "Digitaltechnik/DT Vorlesung 03 03.11.2021.md",
+    "Digitaltechnik/DT Vorlesung 04 10.11.2021.md",
+    "Digitaltechnik/Beherrschung von Komplexität.md",
+    "Digitaltechnik/Moore'sches Gesetz.md",
+    "Digitaltechnik/Bilder/Pasted image 20211110184249.png",
+    "Digitaltechnik/Bilder/Pasted image 20220224182453.png"
   ]
 }
