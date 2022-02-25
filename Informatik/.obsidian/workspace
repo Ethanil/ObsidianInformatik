@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa1e334e77e9a60",
+        "id": "fadba6322a54a13a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/SystemVerilog.md",
+            "mode": "source",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/SystemVerilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +95,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "5fa1e334e77e9a60",
+  "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/SystemVerilog.md",
+    "Digitaltechnik/DT Vorlesung 10 22.12.2021.md",
+    "Day Planners/Day Planner-20211106.md",
+    "Day Planners/Day Planner-20211114.md",
+    "Day Planners/Day Planner-20211124.md",
+    "Day Planners/Day Planner-20211119.md",
+    "Day Planners/Day Planner-20211112.md",
+    "Day Planners/Day Planner-20211108.md",
     "Mathe I/Infimum.md",
-    "Mathe I/Mathe I.md",
-    "Mathe I/Mathe I Hausübung 01 H1.2 (a)(iii).md",
-    "Mathe I/Mathe I Hausübung 01 H1.2 (b).md",
-    "Mathe I/Mathe I Treffpunkt 01.md",
-    "Mathe I/Mathe I Übung 3.4.md",
-    "Mathe I/Mathe.md",
-    "Digitaltechnik/Hardwarebeschreibungssprachen.md",
-    "Digitaltechnik/Netzliste.md",
-    "Digitaltechnik/Technology-Mapping.md"
+    "Mathe I/Mathe I.md"
   ]
 }
