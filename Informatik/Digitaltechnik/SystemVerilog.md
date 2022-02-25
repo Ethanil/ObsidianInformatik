@@ -69,3 +69,16 @@ module example_delay(input logic a,b,c, output logic y);
 	assign #2 n3 ? a & bb & c;
 	assign #4 y = n1 | n2 | n3 ;
 ```
+## Datentypen
+- bit: zweiwertig -> 0 , 1
+- logic: vierwertig -> 0 , 1 , x , z
+- int: bit signed \[31:0] -> $[-2^{31},2^{31}-1]$
+- integer: logic signed ->  $[-2^{31},2^{31}-1]$
+	- wenn wir logic verwenden, sollten wir auch integer verwenden
+- enum: Aufzählung symbolischer Werte
+- time, real, typedef, sturct, ...
+- Vektoren und Arrays
+	- Vektoren sind mehrere bit Breite Variablen bei denen man etwas auf alle Elemente gleichzeitig anwenden kann (Siehe[[SystemVerilog#Reduktionsoperator unär|hier]]), wohingegen Arrays sich verhalten wie [[Arrays]] in bspw [[Java]]
+## sequentielle Logik
+## parametrisierte Module
+## Testumgebungen
