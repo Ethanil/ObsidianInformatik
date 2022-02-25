@@ -150,4 +150,9 @@ Zur Ausgabe von Meldungen benutzen wir `$display(<format>,<values>*);`. In der N
 - `%m` für einen Modulnamen
 - `%t` für Zeit
 Ein Zeitformat kann mit `$timeformat(-9,1,"ns",8);` erstellt werden, was eine Skalierung auf $10^{-9}$, 1 Nachkommastelle, den Suffix(hier "ns") und die Anzahl der anzuzeigenden Zeichen(hier 8) heißt.
-## Zustandsautomaten
+## [[Zustandsautomaten]]
+Um einen [[Zustandsautomaten]] mit [[SystemVerilog]] zu erstellen erstellen wir mittels `typedef enum` zuerst so viele Variablen wie wir Zustände haben. Dann lassen wir innerhalb eines `always_ff` Blocks zum nächsten Zustand wechseln und zu welchem wir wechseln bestimmen wir mithilfe eines `always_comb case` blocks, der die [[Zustandsautomaten#Zustandsübergangstabelle]] darstellt. Die Output Logic kann dann einfach mittels eines `assign` und der [[Zustandsautomaten#Ausgabetabelle]] erstellt werden.
+```ad-note
+collapse:true
+Bei einem [[Moore Automat]] ist der Output nur vom Zustand abhängig, bei einem [[Mealy Automat]] kann er auch vom Input abhängig sein.
+```
