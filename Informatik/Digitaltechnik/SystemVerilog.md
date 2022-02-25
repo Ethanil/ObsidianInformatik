@@ -14,7 +14,13 @@ endmodule
 ```
 Hierbei ist `assign` eine (kombinatorische) Signalzuweisung
 ### Der always_comb Block
-Der `always_comb` Block wird ausgeführt nachdem alle `initial` und  `always` Blöcke gestartet sind und i
+Der `always_comb` Block wird ausgeführt nachdem alle `initial` und  `always` Blöcke gestartet sind und immer wenn sich einer der Werte ändert.
+In einem `always_comb` Block können wir  `case` Statements benutzen, die wie switch-case in [[Java]] funktionieren.
+```ad-example
+collapse:true
+![[Pasted image 20220225122944.png]]
+```
+Wenn wir [[Don't Care|Don't Cares]] verwenden möchten, nehmen wir `casez` anstatt `case`.
 ## Modulhierarchie
 Wie in normalen Programmiersprachen wie [[Java]] auch kann man in SystemVerilog Module in anderen Modulen verwenden um übersichtlicher zu arbeiten (und das [[Kombinatorische Logik#Blackbox-Eigenschaften|Blackbox]]-Prinzip zu wahren). So kann ein 3-Input [[Konjunktion(und)|And-Gate]] zusammen mit einem [[Negation(nicht)|Negation-Gate]] verwendet werden um ein [[NAND|3-Input Nand Gate]] zu erstellen.
 ## Operatoren
@@ -82,5 +88,16 @@ module example_delay(input logic a,b,c, output logic y);
 - Vektoren und Arrays
 	- Vektoren sind mehrere bit Breite Variablen bei denen man etwas auf alle Elemente gleichzeitig anwenden kann (Siehe[[SystemVerilog#Reduktionsoperator unär|hier]]), wohingegen Arrays sich verhalten wie [[Arrays]] in bspw [[Java]]
 ## sequentielle Logik
+### always-Blöcke
+`always`-Blöcke führen ihre Instruktionen (meist mit `begin ... end` zusammengefasst) endlos aus. Alle `always`-Blöcke werden parallel ausgeführt, wobei Verzögerungen nur die Ausführung des *umgebenen* `always`-Blockes verzögert. 
+#### Warten auf Ereignisse
+Mithilfe von `@` nach dem `always` wartet der Block auf eine Änderung des nach dem `@` folgenden kombinatorischen Ausdrucks(Kommata können verwendet werden um auf mehrere Ausdrücke zu "horchen"). Auch `posedge` und  `negedge` können nach dem `@` verwendet werden um auf eine steigende bzw. fallende Flanke zu warten.
+```ad-example
+collapse:true
+![[Pasted image 20220225124610.png]]
+```
+####  Zuweisungssequenzen
+##### blockierende Zuweisungen
+Das normale `=` blockiert die Ausführung des Blockes, das heißt 
 ## parametrisierte Module
 ## Testumgebungen
