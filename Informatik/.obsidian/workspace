@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/SystemVerilog.md",
+            "file": "Digitaltechnik/Zähler.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/SystemVerilog.md",
+                "file": "Digitaltechnik/Zähler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/Zähler.md",
+    "Digitaltechnik/Sequentielle Grundelemente.md",
+    "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
     "Digitaltechnik/SystemVerilog.md",
     "Digitaltechnik/Zustandsautomaten.md",
-    "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
     "Digitaltechnik/Speicherelemente.md",
     "Digitaltechnik/Synchrone sequentielle Logik.md",
     "Digitaltechnik/Sequentielle Schaltungen.md",
     "Digitaltechnik/DT Vorlesung 11 12.01.2022.md",
-    "Digitaltechnik/DT Vorlesung 10 22.12.2021.md",
-    "Digitaltechnik/DT Vorlesung 09 15.12.2021.md",
-    "Digitaltechnik/Bilder/Pasted image 20220225125017.png"
+    "Digitaltechnik/DT Vorlesung 10 22.12.2021.md"
   ]
 }

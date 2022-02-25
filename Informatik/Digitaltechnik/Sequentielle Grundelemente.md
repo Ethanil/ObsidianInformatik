@@ -1,0 +1,5 @@
+---
+aliases: 
+---
+# Sequentielle Grundelemente
+[[Zähler]]
