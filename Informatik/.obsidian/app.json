@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showFrontmatter": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
@@ -9,5 +9,6 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false
 }
