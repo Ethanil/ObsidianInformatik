@@ -137,4 +137,17 @@ Allgemein kann man 3 Arten von Testrahmen festlegen: einfach (bei dem man die Au
 ### typischer Test
 - Modul ohne Ports
 - Stimuli erzeugen (Takt, Reset, Eingabedaten)
-- UUT
+- UUT instantiieren
+- Ausgabedaten und Timing verifizieren
+- wird nicht synthetisiert
+```ad-example
+collapse:true
+![[Pasted image 20220225133148.png]]
+```
+### Ausgabe von Statusmeldungen
+Zur Ausgabe von Meldungen benutzen wir `$display(<format>,<values>*);`. In der Nachricht können wir Platzhalter verwenden, die dann aufgefüllt werden
+- `%d, %b, %h` für dezimal-, binär- oder hexadezimalzahlen
+- `%m` für einen Modulnamen
+- `%t` für Zeit
+Ein Zeitformat kann mit `$timeformat(-9,1,"ns",8);` erstellt werden, was eine Skalierung auf $10^{-9}$, 1 Nachkommastelle, den Suffix(hier "ns") und die Anzahl der anzuzeigenden Zeichen(hier 8) heißt.
+## Zustandsautomaten
