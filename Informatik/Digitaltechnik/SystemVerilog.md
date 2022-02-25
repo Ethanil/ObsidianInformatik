@@ -26,10 +26,46 @@ collapse:true
 ~(a&b)	//NAND
 ~(a|b)	//NOR
 ```
-### Reduktionsoperator
+### Reduktionsoperator (unär)
 Wenn wir einen Vektor haben, bei dem wir alle einzelnen Elemente mit einem der Bitweise-verknüpfenden Operatoren verknüpfen wollen können wir dies auch machen.
 ```ad-example
 collapse:true
 ```SystemVerilog
 assign y=&a;
+```
+### Bedingte Zuweisung (ternär)
+Wenn man eine Bedingte Zuweisung verwenden möchte, tut man das wie in [[Java]]
+```ad-example
+collapse:true
+```SystemVerilog
+y= s ? a : b;
+```
+### Präzedenz
+```ad-note
+collapse:true
+![[Pasted image 20220225113533.png]]
+```
+## Syntax für numerishce Literale
+Um Zahlen darzustellen verwenden wir folgende Syntax
+```SystemVerilog
+<N>'<B><wert>
+```
+- `N` =  Bitbreite
+- `B` = Basis (d,b,o,h)
+- `wert` = Wert
+Werte werden zur Bitbreite mit 0en aufgefüllt.
+`N` und `B` sind optional, default ist `32'd`, also eine 32 bit breite dezimalzahl.
+## Verzögerungen
+Nachdem wir die Zeiteinheit und Präzision für die Rundung (`timescale`) festgelegt haben, können wir `#X` verwenden um jeweils `X` Zeiteinheiten zu warten
+```ad-example
+collapse:true
+```SystemVerilog
+`timescale 1ns / 10 ps	//jede Zeiteinheit ist 1 ns lang und wird auf 10ps gerundet.
+module example_delay(input logic a,b,c, output logic y);
+	logic ab,bb,cb,n1,n2,n3;
+	assign #1 {ab,bb,cb} = ~{a,b,c};
+	assign #2 n1 = ab & bb & cb;
+	assign #2 n2 = a &bb & cb;
+	assign #2 n3 ? a & bb & c;
+	assign #4 y = n1 | n2 | n3 ;
 ```
