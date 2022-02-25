@@ -13,6 +13,8 @@ module example(input logic a,b,c, output logic y);
 endmodule
 ```
 Hierbei ist `assign` eine (kombinatorische) Signalzuweisung
+### Der always_comb Block
+Der `always_comb` Block wird ausgeführt nachdem alle `initial` und  `always` Blöcke gestartet sind und i
 ## Modulhierarchie
 Wie in normalen Programmiersprachen wie [[Java]] auch kann man in SystemVerilog Module in anderen Modulen verwenden um übersichtlicher zu arbeiten (und das [[Kombinatorische Logik#Blackbox-Eigenschaften|Blackbox]]-Prinzip zu wahren). So kann ein 3-Input [[Konjunktion(und)|And-Gate]] zusammen mit einem [[Negation(nicht)|Negation-Gate]] verwendet werden um ein [[NAND|3-Input Nand Gate]] zu erstellen.
 ## Operatoren
@@ -45,7 +47,7 @@ y= s ? a : b;
 collapse:true
 ![[Pasted image 20220225113533.png]]
 ```
-## Syntax für numerishce Literale
+## Syntax für numerische Literale
 Um Zahlen darzustellen verwenden wir folgende Syntax
 ```SystemVerilog
 <N>'<B><wert>
