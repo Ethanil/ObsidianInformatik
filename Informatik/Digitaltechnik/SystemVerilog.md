@@ -13,14 +13,7 @@ module example(input logic a,b,c, output logic y);
 endmodule
 ```
 Hierbei ist `assign` eine (kombinatorische) Signalzuweisung
-### Der always_comb Block
-Der `always_comb` Block wird ausgeführt nachdem alle `initial` und  `always` Blöcke gestartet sind und immer wenn sich einer der Werte ändert.
-In einem `always_comb` Block können wir  `case` Statements benutzen, die wie switch-case in [[Java]] funktionieren.
-```ad-example
-collapse:true
-![[Pasted image 20220225122944.png]]
-```
-Wenn wir [[Don't Care|Don't Cares]] verwenden möchten, nehmen wir `casez` anstatt `case`.
+
 ## Modulhierarchie
 Wie in normalen Programmiersprachen wie [[Java]] auch kann man in SystemVerilog Module in anderen Modulen verwenden um übersichtlicher zu arbeiten (und das [[Kombinatorische Logik#Blackbox-Eigenschaften|Blackbox]]-Prinzip zu wahren). So kann ein 3-Input [[Konjunktion(und)|And-Gate]] zusammen mit einem [[Negation(nicht)|Negation-Gate]] verwendet werden um ein [[NAND|3-Input Nand Gate]] zu erstellen.
 ## Operatoren
@@ -98,6 +91,30 @@ collapse:true
 ```
 ####  Zuweisungssequenzen
 ##### blockierende Zuweisungen
-Das normale `=` blockiert die Ausführung des Blockes, das heißt 
+Das normale `=` blockiert die Ausführung des Blockes, das heißt die Zuweisung wird vollständig ausgeführt bevor die nächste Zuweisung behandelt wird, sie werden also in gegebener Reihenfolge (sequentiell) abgehandelt
+##### nicht-blockierende Zuweisungen
+`<=` Anweisungen werden ausgewertet, aber noch nicht zugewiesen, sondern nur vorgemerkt und werden erst beim Fortschreiten der Systemzeit (`#` oder `@`) zugewiesen, sie werden also parallel abgehandelt.
+```ad-example
+collapse:true
+![[Pasted image 20220225125017.png]]
+```
+### initial
+`initial` enstpricht `always begin <instruction> @(0); end` und kann für die Initialisierung in der Simulation verwendet werden
+### always_comb
+Der `always_comb` Block wird ausgeführt nachdem alle `initial` und  `always` Blöcke gestartet sind und immer wenn sich einer der Werte ändert.
+In einem `always_comb` Block können wir  `case` Statements benutzen, die wie switch-case in [[Java]] funktionieren.
+```ad-example
+collapse:true
+![[Pasted image 20220225122944.png]]
+```
+Wenn wir [[Don't Care|Don't Cares]] verwenden möchten, nehmen wir `casez` anstatt `case`.
+### always_latch und always_ff
+`always_latch` ist äquivalent zu einem [[D-Latch]] und `always_ff` zu einem [[D-Flip-Flop]]. In diesen Blöcken sollten keine blockierenden Zuweisung verwendet werden!
+
+```ad-example
+collapse:true
+![[Pasted image 20220225130549.png]]
+```
+Wir können `always_ff` asynchron oder synchron zurücksetzbar machen, indem wir entweder das $reset$ Signal in den `@` Teil schreiben([[Fli]]) oder innerhalb des Blockes
 ## parametrisierte Module
 ## Testumgebungen
