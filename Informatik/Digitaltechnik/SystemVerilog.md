@@ -115,6 +115,26 @@ Wenn wir [[Don't Care|Don't Cares]] verwenden möchten, nehmen wir `casez` ansta
 collapse:true
 ![[Pasted image 20220225130549.png]]
 ```
-Wir können `always_ff` asynchron oder synchron zurücksetzbar machen, indem wir entweder das $reset$ Signal in den `@` Teil schreiben([[Fli]]) oder innerhalb des Blockes
+Wir können `always_ff` asynchron oder synchron zurücksetzbar machen, indem wir entweder das $reset$ Signal in den `@` Teil schreiben(asynchron) oder innerhalb des Blockes eine if-Bedinung mit dem $reset$ Signal benutzen(synchron). Mit dem gleichen System wie für das synchrone rücksetzen können wir ein [[Flip-Flop mit Taktfreigabe]] erstellen, welcher in der else-Bedingung das $enable$ Signal als Bedinung beinhaltet.
 ## parametrisierte Module
+Neben Ein- und Ausgaben kann die Modulschnittstelle auch parameter definieren, die dann bei der Instanziierung durch konkrete Werte ersetzt werden, die während der Laufzeit nicht änderbar sind, vergleichbar mit [[Generics]]. Typischerweise werden dabei die Port-Breite oder Speichertiefe festgelegt.
+```ad-example
+collapse:true
+```SystemVerilog
+module muix2xW
+   #(parameter WIDTH=8)
+	(input logic [WIDTH-1:0] A,B,
+	 input logic S,
+	 output logic [WIDTH-1:0]Y);
+		assign Y= S ? A : B;
+endmodule
+```
 ## Testumgebungen
+Eine Testumgebung oder testbench ist ein [[Hardwarebeschreibungssprachen|HDL]]-Programm zum Testen eines andere [[Hardwarebeschreibungssprachen|HDL]]-Moduls. Dies ist im [[Hardware]]-Entwurf schon lange üblich und erst seit einigen Jahren auch im [[Software]]-Bereich eingesetzt bspw [[JUnit]]-Tests.
+Das getestete Modul wird dabei Device under test(DUT) oder Unit under test(UUT) genannt.
+Logischerweise werden die Tests nicht synthetisiert sondern nur für die Simulation benutzt.
+Allgemein kann man 3 Arten von Testrahmen festlegen: einfach (bei dem man die Ausgaben händisch prüfen muss), selbstprüfend (bei dem die Ausgaben auf Korrektheit überprüft werden) und selbstprüfend mit Testvektoren (bei dem es variable Testdaten gibt die bspw aus einer Datei gelesen werden).
+### typischer Test
+- Modul ohne Ports
+- Stimuli erzeugen (Takt, Reset, Eingabedaten)
+- UUT
