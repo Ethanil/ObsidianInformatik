@@ -24,4 +24,4 @@ Verilog wurde von Gateway Design Automation (Cadence) zur Simulation entwickelt.
 Die aktuelle Tendenz geht hin zu Höheren Abstraktionslevel wie [[SystemC]], [[Chisel]] oder [[BSV]] und High-Level-Synthese, also aus low-level Verilog/VHDL aus abstrakten Anwendungsbeschreibungen ([[C]], [[Java]], [[Matlab]]) zu erzeugen.
 ## Von HDL zu [[Logik-Realisierung mit Basis-Gattern]]
 Die HDL simuliert das funktionale/zeitliche Verhalten der beschriebenen Schaltung, also werden die vorgegebenen Eingaben auf Korrektheit überprüft, was um ein vielfaches einfacher und billiger ist als dies in realer [[Hardware]] zu machen.
-Synthese übersetzt die Hardware-Beschreibung dann in eine [[Netzliste]]
+Synthese übersetzt die Hardware-Beschreibung dann in eine [[Netzliste]]. Diese [[Netzliste]] kann dann in Hardware umgesetzt werden. Wichtig ist dabei, dass für eine effiziente [[Hardware]]-Beschreibung der Prgrammierer immer die Zielarchitektur im Auge behalten muss.

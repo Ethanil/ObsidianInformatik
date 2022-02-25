@@ -7,12 +7,8 @@
         "id": "5fa1e334e77e9a60",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digitaltechnik/Netzliste.md",
-            "mode": "source",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Netzliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +92,15 @@
   },
   "active": "5fa1e334e77e9a60",
   "lastOpenFiles": [
-    "Digitaltechnik/Netzliste.md",
-    "Mathe I/Konjunktion(und).md",
+    "Mathe I/Infimum.md",
+    "Mathe I/Mathe I.md",
+    "Mathe I/Mathe I Hausübung 01 H1.2 (a)(iii).md",
+    "Mathe I/Mathe I Hausübung 01 H1.2 (b).md",
+    "Mathe I/Mathe I Treffpunkt 01.md",
+    "Mathe I/Mathe I Übung 3.4.md",
+    "Mathe I/Mathe.md",
     "Digitaltechnik/Hardwarebeschreibungssprachen.md",
-    "Digitaltechnik/Hardware.md",
-    "Digitaltechnik/DT Vorlesung 10 22.12.2021.md",
-    "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
-    "Digitaltechnik/SystemC.md",
-    "Digitaltechnik/Chisel.md",
-    "Digitaltechnik/Scala.md",
-    "Digitaltechnik/BSV.md"
+    "Digitaltechnik/Netzliste.md",
+    "Digitaltechnik/Technology-Mapping.md"
   ]
 }

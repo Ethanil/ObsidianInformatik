@@ -1,4 +1,4 @@
-# Mathe Übung 3.4
+# [[Mathe I]] Übung 3.4
 Zeigen Sie:
 1. $\forall g \in G: \bar{\bar{g}}=g$
 2. $\bar{n}=n$
