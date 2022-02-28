@@ -7,8 +7,8 @@ Die Tiefe des Arrays ist gleichbedeutend mit der Adresse des jeweiligen Bitworte
 Ein $2^2 \times 3$-Bit Array hat also 4 Wörter, die jeweils 3 Bits lang sind.
 ## Speicherarten
 ### Direktzugriffsspeicher (random access memory, RAM)
-RAM ist ein flüchtiger Speicher, also er verliert beim Ausschalten alle Daten, der allerdings ein schnelles Lesen und Schreiben erlaubt. Man unterscheidet Dynamic RAM (DRAM) und Static RAM (SRAM).
+RAM ist ein flüchtiger Speicher, also er verliert beim Ausschalten alle Daten, der allerdings ein schnelles Lesen und Schreiben erlaubt. Man unterscheidet Dynamic RAM (DRAM), welcher Kondensatoren zur Datenspeicherung verwendet und Static RAM (SRAM), welcher Inverter mit Rückkopplung verwendet.
 Der deutsche Begriff Direktzugriffsspeicher kommt daher, dass anders als bei Kasetten oder Bandlaufwerken direkt auf das gesamte Datenwort zugegriffen werden konnte.
 #### Festwertspeicher (read-only memory, ROM)
 ROM ist im Gegensatz zu RAM nicht flüchtig, also die Daten bleiben auch beim Ausschalten erhalten. ROM erlaubt ein schnelles Lesen, allerdingst ist Schreiben unmöglich oder nur langsam möglich. 
-Das 
+Der Name kommt daher, dass man ROMs früher nur einmalig beschrieben konnte, es daher fest war. Für Flash-Speicher und andere Arten von ROM's gilt dies heutzutage nicht mehr.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
+            "file": "Digitaltechnik/Speicherfelder.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
+                "file": "Digitaltechnik/Speicherfelder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
-    "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
     "Digitaltechnik/Speicherfelder.md",
+    "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
     "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
     "Mathe I/Mathe I Hausübung 01.md",
     "Digitaltechnik/DT Vorlesung 11 12.01.2022.md",
