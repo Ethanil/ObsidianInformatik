@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Speicherfelder.md",
+            "file": "Digitaltechnik/DRAM.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Speicherfelder.md",
+                "file": "Digitaltechnik/DRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/DRAM.md",
     "Digitaltechnik/Speicherfelder.md",
+    "Digitaltechnik/SRAM.md",
     "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
     "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
     "Mathe I/Mathe I Hausübung 01.md",
     "Digitaltechnik/DT Vorlesung 11 12.01.2022.md",
     "Digitaltechnik/DT Vorlesung 10 22.12.2021.md",
     "Digitaltechnik/SystemVerilog.md",
-    "FOP/Java.md",
-    "Digitaltechnik/Sequentielle Grundelemente.md",
-    "Digitaltechnik/Schieberegister.md"
+    "FOP/Java.md"
   ]
 }
