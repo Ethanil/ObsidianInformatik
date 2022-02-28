@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: static random access memory
 ---
 # SRAM
-, welcher Inverter mit Rückkopplung verwendet
+SRAM oder static random acces memory verwendet Inverter mit Rückkopplung um Daten zu speichern.
