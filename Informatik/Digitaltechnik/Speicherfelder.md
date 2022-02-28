@@ -13,3 +13,5 @@ Der deutsche Begriff Direktzugriffsspeicher kommt daher, dass anders als bei Kas
 #### Festwertspeicher (read-only memory, ROM)
 ROM ist im Gegensatz zu RAM nicht flüchtig, also die Daten bleiben auch beim Ausschalten erhalten. ROM erlaubt ein schnelles Lesen, allerdingst ist Schreiben unmöglich oder nur langsam möglich. 
 Der Name kommt daher, dass man ROMs früher nur einmalig beschrieben konnte, es daher fest war. Für Flash-Speicher und andere Arten von ROM's gilt dies heutzutage nicht mehr.
+#### Logik via ROM
+Mir den im ROM eingespeicherten Werten kann man Logik realisieren. Mithilfe eines Dekoders und einem ROM-Baustein
