@@ -7,13 +7,8 @@
         "id": "fadba6322a54a13a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digitaltechnik/Field Programmable Gate Array.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Field Programmable Gate Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
