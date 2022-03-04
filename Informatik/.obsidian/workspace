@@ -7,8 +7,13 @@
         "id": "fadba6322a54a13a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Digitaltechnik/DT-Komplement.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "komplement",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digitaltechnik/DT-Komplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +108,8 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/DT-Komplement.md",
+    "Digitaltechnik/Boolsche Gleichungen.md",
     "Digitaltechnik/Field Programmable Gate Array.md",
     "Digitaltechnik/Logikfelder.md",
     "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
@@ -108,8 +117,6 @@
     "Digitaltechnik/DRAM.md",
     "Digitaltechnik/SRAM.md",
     "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
-    "Mathe I/Mathe I Hausübung 01.md",
-    "Digitaltechnik/DT Vorlesung 11 12.01.2022.md",
-    "Digitaltechnik/DT Vorlesung 10 22.12.2021.md"
+    "Mathe I/Mathe I Hausübung 01.md"
   ]
 }
