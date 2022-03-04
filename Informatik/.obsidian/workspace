@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Multiplexer.md",
+            "file": "Digitaltechnik/DT-Projekt1.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mult",
+                "query": "projekt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Multiplexer.md",
+                "file": "Digitaltechnik/DT-Projekt1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/DT-Projekt1.md",
+    "Digitaltechnik/Digitaltechnik - Organisatorisches.md",
+    "Digitaltechnik/DT-Projekt2.md",
+    "Digitaltechnik/Digitaltechnik.md",
     "Digitaltechnik/Multiplexer.md",
     "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
     "Digitaltechnik/Dekodierer.md",
     "Digitaltechnik/Product-of-sums.md",
     "Digitaltechnik/Sum-of-products.md",
-    "Digitaltechnik/Boolsche Gleichungen.md",
-    "Digitaltechnik/DT-Komplement.md",
-    "Digitaltechnik/Field Programmable Gate Array.md",
-    "Digitaltechnik/Logikfelder.md",
-    "Digitaltechnik/DT Vorlesung 13 26.01.2022.md"
+    "Digitaltechnik/Boolsche Gleichungen.md"
   ]
 }
