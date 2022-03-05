@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/DT-Projekt1.md",
+            "file": "Digitaltechnik/Volladdierer.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "projekt",
+                "query": "volladdie",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/DT-Projekt1.md",
+                "file": "Digitaltechnik/Volladdierer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/Volladdierer.md",
+    "Digitaltechnik/Halbaddierer.md",
     "Digitaltechnik/DT-Projekt1.md",
     "Digitaltechnik/Digitaltechnik - Organisatorisches.md",
     "Digitaltechnik/DT-Projekt2.md",
@@ -115,8 +117,6 @@
     "Digitaltechnik/Multiplexer.md",
     "Digitaltechnik/Logik-Realisierung mit Basis-Gattern.md",
     "Digitaltechnik/Dekodierer.md",
-    "Digitaltechnik/Product-of-sums.md",
-    "Digitaltechnik/Sum-of-products.md",
-    "Digitaltechnik/Boolsche Gleichungen.md"
+    "Digitaltechnik/Product-of-sums.md"
   ]
 }
