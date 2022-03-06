@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/SR-Latch.md",
+            "file": "Digitaltechnik/Espresso.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metastabili",
+                "query": "espresso",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/SR-Latch.md",
+                "file": "Digitaltechnik/Espresso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/Espresso.md",
+    "Digitaltechnik/Don't Care.md",
+    "Digitaltechnik/Algorithmische Logikminimierung.md",
     "Digitaltechnik/SR-Latch.md",
     "Digitaltechnik/Metastabilität.md",
     "Digitaltechnik/Bistabile Grundschaltung.md",
     "Digitaltechnik/Volladdierer.md",
     "Digitaltechnik/Halbaddierer.md",
     "Digitaltechnik/DT-Projekt1.md",
-    "Digitaltechnik/Digitaltechnik - Organisatorisches.md",
-    "Digitaltechnik/DT-Projekt2.md",
-    "Digitaltechnik/Digitaltechnik.md",
-    "Digitaltechnik/Multiplexer.md"
+    "Digitaltechnik/Digitaltechnik - Organisatorisches.md"
   ]
 }
