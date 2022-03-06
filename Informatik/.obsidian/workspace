@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timing",
+                "query": "state",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
