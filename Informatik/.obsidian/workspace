@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+            "file": "Digitaltechnik/Feldeffekt-Transistoren.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "state",
+                "query": "pmos",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+                "file": "Digitaltechnik/Feldeffekt-Transistoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/Feldeffekt-Transistoren.md",
     "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
     "Digitaltechnik/Zeitverhalten.md",
     "Digitaltechnik/SystemVerilog.md",
@@ -116,7 +117,6 @@
     "Digitaltechnik/Algorithmische Logikminimierung.md",
     "Digitaltechnik/SR-Latch.md",
     "Digitaltechnik/Metastabilität.md",
-    "Digitaltechnik/Bistabile Grundschaltung.md",
-    "Digitaltechnik/Volladdierer.md"
+    "Digitaltechnik/Bistabile Grundschaltung.md"
   ]
 }
