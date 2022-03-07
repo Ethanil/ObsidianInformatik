@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Feldeffekt-Transistoren.md",
+            "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pmos",
+                "query": "setup",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Feldeffekt-Transistoren.md",
+                "file": "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,8 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
-    "Digitaltechnik/Feldeffekt-Transistoren.md",
     "Digitaltechnik/Zeitverhalten synchroner sequentieller Logik.md",
+    "Digitaltechnik/Feldeffekt-Transistoren.md",
     "Digitaltechnik/Zeitverhalten.md",
     "Digitaltechnik/SystemVerilog.md",
     "Digitaltechnik/Espresso.md",
