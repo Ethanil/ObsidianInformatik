@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speicherfeld",
+                "query": "flash",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -109,6 +109,7 @@
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
     "Digitaltechnik/Speicherfelder.md",
+    "Digitaltechnik/Field Programmable Gate Array.md",
     "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
     "Digitaltechnik/JK-Latch.md",
     "Digitaltechnik/SR-Latch.md",
@@ -116,7 +117,6 @@
     "Templates/default Template.md",
     "Templates/WahrheitstabelleAB.md",
     "Templates/WahrheitstabelleABC.md",
-    "Digitaltechnik/Field Programmable Gate Array.md",
     "Digitaltechnik/SystemVerilog.md"
   ]
 }
