@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Beherrschung von Komplexität.md",
+            "file": "Digitaltechnik/JK-Latch.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speicher und logik",
+                "query": "jk-latch",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Beherrschung von Komplexität.md",
+                "file": "Digitaltechnik/JK-Latch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,8 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
+    "Digitaltechnik/JK-Latch.md",
+    "Digitaltechnik/SR-Latch.md",
     "Digitaltechnik/Beherrschung von Komplexität.md",
     "Templates/default Template.md",
     "Templates/WahrheitstabelleAB.md",
@@ -114,8 +117,6 @@
     "Digitaltechnik/Field Programmable Gate Array.md",
     "Digitaltechnik/SystemVerilog.md",
     "Digitaltechnik/Logikfelder.md",
-    "Digitaltechnik/DT Vorlesung 13 26.01.2022.md",
-    "Digitaltechnik/Speicherfelder.md",
-    "Digitaltechnik/SRAM.md"
+    "Digitaltechnik/DT Vorlesung 13 26.01.2022.md"
   ]
 }
