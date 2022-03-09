@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Speicherelemente.md",
+            "file": "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Speicherelemente.md",
+                "file": "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "fadba6322a54a13a",
   "lastOpenFiles": [
-    "Digitaltechnik/Speicherelemente.md",
-    "Digitaltechnik/Shift-Register.md",
-    "Digitaltechnik/Flip-Flop mit Taktfreigabe.md",
-    "Digitaltechnik/Speicherfelder.md",
-    "Digitaltechnik/Field Programmable Gate Array.md",
-    "Digitaltechnik/DT Vorlesung 12 19.01.2022.md",
-    "Digitaltechnik/JK-Latch.md",
-    "Digitaltechnik/SR-Latch.md",
-    "Digitaltechnik/Beherrschung von Komplexität.md",
-    "Templates/default Template.md"
+    "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
+    "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2020.md",
+    "Digitaltechnik/Klausuren/dt_01-konvertiert.pdf",
+    "Digitaltechnik/Klausuren/Dt_NachschreibeKlausur01-konvertiert.pdf",
+    "Digitaltechnik/Klausuren/Dt_NachschreibeKlausur01-konvertiert_ohne_loesung.pdf",
+    "Digitaltechnik/Klausuren/klausur_WS1617.pdf",
+    "Digitaltechnik/Klausuren/klausur1.pdf",
+    "Digitaltechnik/Klausuren/Klausur2.pdf",
+    "Digitaltechnik/Klausuren/dt_01-konvertiert_ohne_loesung.pdf",
+    "Digitaltechnik/Speicherelemente.md"
   ]
 }
