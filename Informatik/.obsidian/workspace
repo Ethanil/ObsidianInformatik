@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "7b4ea6419c0915b0",
+        "id": "7dc715fea063c216",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -99,17 +99,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "7b4ea6419c0915b0",
+  "active": "7dc715fea063c216",
   "lastOpenFiles": [
-    "Mathe I/Klausuren/M1InfKlausur12.pdf",
-    "Mathe I/Klausuren/M1InfKlausur11.pdf",
-    "Mathe I/Klausuren/M1InfProbeklausur11_12.pdf",
-    "Mathe I/Klausuren/M1InfKlausur20_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur19_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher_Lösung_aus_Treffpunkt.pdf",
-    "Mathe I/Klausuren/M1InfKlausur18_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur14_15_Streicher.pdf"
+    "AFE/AFE_Skript.pdf",
+    "Mathe I/MatheI_Skript.pdf",
+    "Digitaltechnik/Vorlesungsfolien/DT_VL_03_AN_V1.pdf",
+    "Digitaltechnik/Vorlesungsfolien/DT_VL_02_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_03_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_03_LSG_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_02_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_02_LSG_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_01_V1.pdf",
+    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_01_LSG_V1.pdf"
   ]
 }
