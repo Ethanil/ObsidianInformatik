@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc715fea063c216",
+        "id": "b4519262aa22c344",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Mathe I/MatheI_Skript.pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe I/MatheI_Skript.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +102,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "7dc715fea063c216",
+  "active": "b4519262aa22c344",
   "lastOpenFiles": [
-    "AFE/AFE_Skript.pdf",
     "Mathe I/MatheI_Skript.pdf",
-    "Digitaltechnik/Vorlesungsfolien/DT_VL_03_AN_V1.pdf",
-    "Digitaltechnik/Vorlesungsfolien/DT_VL_02_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_03_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_03_LSG_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_02_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_02_LSG_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_01_V1.pdf",
-    "Digitaltechnik/Uebungen/WS2021_2022/DT_ÜB_01_LSG_V1.pdf"
+    "Digitaltechnik/Bilder/Pasted image 20220228155753.png",
+    "Digitaltechnik/Bilder/Pasted image 20220228180050.png",
+    "Digitaltechnik/Projekt/DT-Projekt2.md",
+    "Digitaltechnik/Projekt/DT-Projekt1.md",
+    "Digitaltechnik/Projekt/Projekt1_korrigiert.pdf",
+    "Digitaltechnik/Vorlesungsfolien/DT_VL_14_V1.pdf",
+    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 13 26.01.2022.md",
+    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 12 19.01.2022.md",
+    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 11 12.01.2022.md"
   ]
 }
