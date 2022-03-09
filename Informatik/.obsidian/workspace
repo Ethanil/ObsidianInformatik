@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fadba6322a54a13a",
+        "id": "7b4ea6419c0915b0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +99,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "fadba6322a54a13a",
+  "active": "7b4ea6419c0915b0",
   "lastOpenFiles": [
-    "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2021.md",
-    "Digitaltechnik/Klausuren/Gedächtnisprotokolle WS2020.md",
-    "Digitaltechnik/Klausuren/dt_01-konvertiert.pdf",
-    "Digitaltechnik/Klausuren/Dt_NachschreibeKlausur01-konvertiert.pdf",
-    "Digitaltechnik/Klausuren/Dt_NachschreibeKlausur01-konvertiert_ohne_loesung.pdf",
-    "Digitaltechnik/Klausuren/klausur_WS1617.pdf",
-    "Digitaltechnik/Klausuren/klausur1.pdf",
-    "Digitaltechnik/Klausuren/Klausur2.pdf",
-    "Digitaltechnik/Klausuren/dt_01-konvertiert_ohne_loesung.pdf",
-    "Digitaltechnik/Speicherelemente.md"
+    "Mathe I/Klausuren/M1InfKlausur12.pdf",
+    "Mathe I/Klausuren/M1InfKlausur11.pdf",
+    "Mathe I/Klausuren/M1InfProbeklausur11_12.pdf",
+    "Mathe I/Klausuren/M1InfKlausur20_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur19_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher_Lösung_aus_Treffpunkt.pdf",
+    "Mathe I/Klausuren/M1InfKlausur18_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur14_15_Streicher.pdf"
   ]
 }
