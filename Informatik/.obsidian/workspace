@@ -7,9 +7,12 @@
         "id": "b4519262aa22c344",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathe I/MatheI_Skript.pdf"
+            "file": "Mathe I/Mengen.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -38,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shift",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/MatheI_Skript.pdf",
+                "file": "Mathe I/Mengen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +107,15 @@
   },
   "active": "b4519262aa22c344",
   "lastOpenFiles": [
-    "Mathe I/MatheI_Skript.pdf",
+    "Mathe I/Mengen.md",
+    "Mathe I/Schnittmenge.md",
+    "Mathe I/Vereinigung.md",
+    "Mathe I/Teilmengenbeziehungen.md",
+    "Mathe I/Mathe1_Skript.pdf",
+    "Mathe I/Aussagen und ihre Verknüpfungen.md",
+    "Mathe I/Disjunktion(oder).md",
+    "Mathe I/Konjunktion(und).md",
     "Digitaltechnik/Bilder/Pasted image 20220228155753.png",
-    "Digitaltechnik/Bilder/Pasted image 20220228180050.png",
-    "Digitaltechnik/Projekt/DT-Projekt2.md",
-    "Digitaltechnik/Projekt/DT-Projekt1.md",
-    "Digitaltechnik/Projekt/Projekt1_korrigiert.pdf",
-    "Digitaltechnik/Vorlesungsfolien/DT_VL_14_V1.pdf",
-    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 13 26.01.2022.md",
-    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 12 19.01.2022.md",
-    "Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 11 12.01.2022.md"
+    "Digitaltechnik/Bilder/Pasted image 20220228180050.png"
   ]
 }
