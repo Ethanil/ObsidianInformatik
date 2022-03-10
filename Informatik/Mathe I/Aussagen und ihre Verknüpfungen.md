@@ -47,10 +47,10 @@ $$\neg(A\wedge B)\Leftrightarrow(\neg A)\vee (\neg B)\equiv\neg A\vee\neg B$$
 #### Kommutativgesetzt
 $$A\vee B\equiv B\vee A$$
 $$A\wedge B\equiv B\wedge A$$
-#### Assoziativsgesetz
+#### [[Assoziativitätgesetz|Assoziativ]]sgesetz
 $$(A\wedge B)\wedge C\equiv A\wedge(B\wedge C)$$
 $$(A\vee B)\vee C\equiv A\vee(B\vee C)$$
-#### Distributivgesetze
+#### [[Distributivgesetz]]e
 $$C\wedge(A\vee B)\equiv(C\wedge A)\vee(C\wedge B)$$
 $$C\vee(A\wedge B)\equiv(C\vee A)\wedge(C\vee B)$$
 #### Kontraposition

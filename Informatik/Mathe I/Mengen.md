@@ -26,11 +26,10 @@ $G$ ist die Grundmenge aus der die Elemente der Menge $M$ ausgesondert werden so
 ### [[kartesisches Produkt]]
 ### [[Potenzmenge]]
 ## Mengengesetze
-### Kommutativgesetz
-$$A\cup B=B\cup A\text{ und }A\cap B=B\cap A$$
-### Assoziativgesetze
+# [[Kommutativgesetz]]
+### [[Assoziativitätgesetz|Assoziativitätgesetze]]
 $$(A\cup B)\cup C=A\cup (B\cup C)\text{ und }(A\cap B)\cap C=A\cap(B\cap C)$$
-### Distributivgesetze
+### [[Distributivgesetz|Distributivgesetze]]
 $$A\cup(B\cap C) = (A\cup B)\cap(A\cup C)\text{ und }A\cap(B\cup C)=(A\cap B)\cup(A\cap C)$$
 ### Regeln von De Morgan
 $$(A\cup B)^c=A^c\cap B^c\text{ und }(A\cap B)^c=A^c\cup B^c$$

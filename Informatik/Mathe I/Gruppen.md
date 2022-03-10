@@ -1,9 +1,11 @@
+---
+aliases: Gruppe
+---
 # Gruppen
 Eine Gruppe $G$ ist eine spezielle [[Mengen|Menge]] mit einer [[Abbildung]](Verknüpfung) $*$ und folgenden Eigenschaften:
 
 ## Eigenschaften
-### Assoziativität: 
-$$a,b,c \in G: a*(b*c)=(a*b)*c$$
+# [[Assoziativitätgesetz]]
 ### Existenz eines neutralen Elements: 
 $$\exists n\in G:\forall a\in G: n*a=a \land a*n=a$$
 Es existiert auch immer nur exakt 1 neutrales Element in jeder Gruppe.

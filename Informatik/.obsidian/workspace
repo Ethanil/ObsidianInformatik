@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Vektorraum.md",
+            "file": "Mathe I/Ring.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.0036334991455
+    "width": 464.0036334991455
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Vektorraum.md",
+                "file": "Mathe I/Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.95306396484375,
-    "collapsed": true
+    "width": 312.95306396484375
   },
   "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
-    "Mathe I/Vektorraum.md",
-    "Mathe I/abelsch.md",
+    "Mathe I/Ring.md",
     "Mathe I/Gruppen.md",
-    "Mathe I/Abbildung.md",
+    "Mathe I/Kommutativgesetz.md",
     "Mathe I/Mengen.md",
-    "Mathe I/Skalarprodukt.md",
-    "Mathe I/Orthogonalität.md",
-    "Mathe I/Vektoren.md",
-    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf"
+    "Mathe I/Distributivgesetz.md",
+    "Mathe I/Aussagen und ihre Verknüpfungen.md",
+    "Mathe I/Assoziativitätgesetz.md",
+    "Mathe I/Körper.md",
+    "Mathe I/Vektorraum.md",
+    "Mathe I/abelsch.md"
   ]
 }
