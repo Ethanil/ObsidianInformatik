@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b4519262aa22c344",
+        "id": "517a12e8dbd5da17",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Rechnen in Ganzen Zahlen, Primzahlen und Teiler.md",
+            "file": "Mathe I/Der Euklidische Algorithmus.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Rechnen in Ganzen Zahlen, Primzahlen und Teiler.md",
+                "file": "Mathe I/Der Euklidische Algorithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "b4519262aa22c344",
+  "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
+    "Mathe I/Der Euklidische Algorithmus.md",
+    "Mathe I/ggT.md",
+    "Mathe I/Modulare Arithmetik.md",
+    "Mathe I/Modulo Rechenregeln.md",
     "Mathe I/Rechnen in Ganzen Zahlen, Primzahlen und Teiler.md",
     "Mathe I/Klausuren/M1InfKlausur11_11.pdf",
     "Mathe I/Klausuren/M1InfKlausur20_20_Streicher.pdf",
     "Mathe I/Mengen.md",
     "Mathe I/Schnittmenge.md",
-    "Mathe I/Vereinigung.md",
-    "Mathe I/Teilmengenbeziehungen.md",
-    "Mathe I/Mathe1_Skript.pdf",
-    "Mathe I/Aussagen und ihre Verknüpfungen.md",
-    "Mathe I/Disjunktion(oder).md"
+    "Mathe I/Vereinigung.md"
   ]
 }
