@@ -1,3 +1,6 @@
+---
+aliases: Menge
+---
 # Mengen
 ## Beispiele
 - $\mathbb{N:}$Die Menge der [[Natürlichen Zahlen]]

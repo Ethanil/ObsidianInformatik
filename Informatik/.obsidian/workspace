@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Skalarprodukt.md",
+            "file": "Mathe I/Vektorraum.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Skalarprodukt.md",
+                "file": "Mathe I/Vektorraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
+    "Mathe I/Vektorraum.md",
+    "Mathe I/abelsch.md",
+    "Mathe I/Gruppen.md",
+    "Mathe I/Abbildung.md",
+    "Mathe I/Mengen.md",
     "Mathe I/Skalarprodukt.md",
+    "Mathe I/Orthogonalität.md",
+    "Mathe I/Vektoren.md",
     "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur20_20_Streicher.pdf",
-    "Mathe I/Transitiv.md",
-    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur17_18_Streicher_Lösung_aus_Treffpunkt.pdf",
-    "Mathe I/Klausuren/M1InfKlausur18_18_Streicher.pdf",
-    "Mathe I/Antisymmetrisch.md",
-    "Mathe I/Reflexiv.md"
+    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf"
   ]
 }
