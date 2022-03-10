@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Der Euklidische Algorithmus.md",
-            "mode": "source",
+            "file": "Mathe I/Gruppen.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Der Euklidische Algorithmus.md",
+                "file": "Mathe I/Gruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
+    "Mathe I/Gruppen.md",
+    "Mathe I/Implikant.md",
+    "Mathe I/Der kleine Satz von Fermat.md",
+    "Mathe I/Mathe I Treffpunkt 01.md",
     "Mathe I/Der Euklidische Algorithmus.md",
+    "Mathe I/Klausuren/M1InfKlausur11_11.pdf",
     "Mathe I/ggT.md",
     "Mathe I/Modulare Arithmetik.md",
     "Mathe I/Modulo Rechenregeln.md",
-    "Mathe I/Rechnen in Ganzen Zahlen, Primzahlen und Teiler.md",
-    "Mathe I/Klausuren/M1InfKlausur11_11.pdf",
-    "Mathe I/Klausuren/M1InfKlausur20_20_Streicher.pdf",
-    "Mathe I/Mengen.md",
-    "Mathe I/Schnittmenge.md",
-    "Mathe I/Vereinigung.md"
+    "Mathe I/Rechnen in Ganzen Zahlen, Primzahlen und Teiler.md"
   ]
 }
