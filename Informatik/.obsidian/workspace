@@ -7,9 +7,12 @@
         "id": "517a12e8dbd5da17",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf"
+            "file": "Mathe I/Skalarprodukt.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+                "file": "Mathe I/Skalarprodukt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +107,7 @@
   },
   "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
+    "Mathe I/Skalarprodukt.md",
     "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
     "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
     "Mathe I/Klausuren/M1InfKlausur20_20_Streicher.pdf",
@@ -112,7 +116,6 @@
     "Mathe I/Klausuren/M1InfKlausur17_18_Streicher_Lösung_aus_Treffpunkt.pdf",
     "Mathe I/Klausuren/M1InfKlausur18_18_Streicher.pdf",
     "Mathe I/Antisymmetrisch.md",
-    "Mathe I/Reflexiv.md",
-    "Mathe I/Mengendifferenz.md"
+    "Mathe I/Reflexiv.md"
   ]
 }
