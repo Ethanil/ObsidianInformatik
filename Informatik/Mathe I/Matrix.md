@@ -59,3 +59,4 @@ collapse:true
 title: Merkregel
 In den Spalten der Abbildungsmatrix stehen die Koordinaten der Bilder der Basisvektoren
 ```
+Eine Abbildungsmatrix ist also nichts anderes als eine andere Art eine [[Lineare Abbildungen|Lineare Abbildung]] darzustellen. Alles was für das eine gilt, gilt also auch für das andere!
