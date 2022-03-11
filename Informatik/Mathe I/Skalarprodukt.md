@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Standardskalarprodukt
 ---
 # Skalarprodukt
 Ein Skalarprodukt ist eine [[Abbildung]] $(\cdot |\cdot)$ von einem $\mathbb{R}$-[[Vektorraum]] $V$ zu $\mathbb{R}$.

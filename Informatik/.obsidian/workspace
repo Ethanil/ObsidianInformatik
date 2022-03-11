@@ -7,8 +7,13 @@
         "id": "f4aed1959d79aa89",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathe I/Definitheit.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distri",
+                "query": "definitheit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe I/Definitheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +107,15 @@
   },
   "active": "f4aed1959d79aa89",
   "lastOpenFiles": [
-    "Mathe I/Uebungen/Mathe I Hausübung 01.md",
-    "Mathe I/Untitled.md",
-    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
+    "Mathe I/Definitheit.md",
     "Mathe I/Skalarprodukt.md",
+    "Mathe I/Abbildung.md",
+    "Mathe I/Surjektiv.md",
+    "Mathe I/Normierte Räume.md",
     "Mathe I/Vektorraum.md",
-    "Mathe I/Körper.md",
-    "Mathe I/Ring.md",
-    "Mathe I/Gruppen.md",
-    "Mathe I/Kommutativgesetz.md"
+    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+    "Mathe I/Uebungen/Mathe I Hausübung 01.md",
+    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
+    "Mathe I/Körper.md"
   ]
 }
