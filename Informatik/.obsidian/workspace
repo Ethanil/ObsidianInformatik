@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "517a12e8dbd5da17",
+        "id": "f4aed1959d79aa89",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -59,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.0036334991455,
-    "collapsed": true
+    "width": 464.0036334991455
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +98,10 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "517a12e8dbd5da17",
+  "active": "f4aed1959d79aa89",
   "lastOpenFiles": [
+    "Mathe I/Uebungen/Mathe I Hausübung 01.md",
+    "Mathe I/Untitled.md",
     "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
     "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
     "Mathe I/Skalarprodukt.md",
@@ -111,8 +109,6 @@
     "Mathe I/Körper.md",
     "Mathe I/Ring.md",
     "Mathe I/Gruppen.md",
-    "Mathe I/Kommutativgesetz.md",
-    "Mathe I/Mengen.md",
-    "Mathe I/Distributivgesetz.md"
+    "Mathe I/Kommutativgesetz.md"
   ]
 }

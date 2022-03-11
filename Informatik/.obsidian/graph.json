@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs",
+  "collapse-filter": false,
+  "search": "-path:\"PDFs\" -path:\"Day Planners\" -path:\"Templates\" -path:\"Excalidraw\" -path:\"Digitaltechnik/Bilder\" -path:\"Digitaltechnik/Vorlesungsfolien\" -path:\"Digitaltechnik/Vorlesungsübersicht\" -path:\"Mathe I/Klausuren\" -path:\"Mathe I/Uebungen\"-path:Digitaltechnik/Vorlesung -path:\"Mathe I/Klausurenpath:Digitaltechnikpath:Digitaltechnik\"-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs-path:Digitaltechnik/Vorlesung -path:\"Mathe I/Klausurenpath:Digitaltechnikpath:Digitaltechnik\"-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 10.685787534049,
   "linkStrength": 0.790658548309566,
   "linkDistance": 139,
-  "scale": 0.13947294345976968,
-  "close": true
+  "scale": 0.40844332494216845,
+  "close": false
 }
