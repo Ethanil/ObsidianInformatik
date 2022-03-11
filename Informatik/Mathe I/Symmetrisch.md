@@ -1,3 +1,6 @@
+---
+aliases: Symmetrie
+---
 # Symmetrisch
 Eine Relation ist symmetrisch, wenn 
 $$\forall x,y\in X:xRy\Rightarrow yRx$$

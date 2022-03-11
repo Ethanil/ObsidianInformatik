@@ -19,5 +19,5 @@ Asymmetrisch ist NICHT das Gegenteil von [[Symmetrisch]]
 ```ad-example
 title:Beispiel
 collapse: true
-$R=\{(0,1),(1,0),(1,1),(2,0)\}$ ist weder Symmetrisch noch Asymetrisch!
+$R=\{(0,1),(1,0),(1,1),(2,0)\}$ ist weder [[Symmetrisch]] noch Asymetrisch!
 ```

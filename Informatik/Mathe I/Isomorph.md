@@ -2,4 +2,4 @@
 aliases: Isomorphismus, Isomorphie
 ---
 # Isomorph
-Eine [[Gruppen|Gruppe]]/[[Körper]]/[[Ring]]/[[Vektorraum]] heißen isomorph, wenn sie [[Homomorph]] sind und [[Bijektiv]] sind.
+Eine [[Abbildung]] heißt isomorph, wenn sie [[Homomorph]] und [[Bijektiv]] ist.

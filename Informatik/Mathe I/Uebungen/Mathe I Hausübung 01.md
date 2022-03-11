@@ -98,8 +98,8 @@ Was drücken die folgenden Aussagen in natürlicher Sprache aus? Negieren Sie di
 	- $R_1=\{(x,y)\in\mathbb{N}\times\mathbb{N}|x+y\text{ ist gerade}\}$
 		- In dieser Relation sind nur Tupel enthalten, bei denen x und y entweder BEIDE gerade oder BEIDE ungerade sind.
 		- Reflexiv: Die Relation ist reflexiv, da damit ein Tupel Teil der Relation ist, müssen beide Elemente des Tupels entweder gerade oder beide ungerade sein. Damit sind alle (x,x) in der Relation enthalten.
-		- Symmetrisch: Die Relation ist symmetrisch, da wenn (x,y) enthalten ist x&y beide gerade bzw ungerade sind, dadurch gilt, dass (y,x) auch enthalten sein muss, da die Bedingung dort auch für beide Elemente gilt.
-		- Antisymmetrisch: Wenn eine Relation symmetrisch ist, kann sie nicht antisymmetrisch sein.
+		- [[Symmetrisch]]: Die Relation ist [[symmetrisch]], da wenn (x,y) enthalten ist x&y beide gerade bzw ungerade sind, dadurch gilt, dass (y,x) auch enthalten sein muss, da die Bedingung dort auch für beide Elemente gilt.
+		- Antisymmetrisch: Wenn eine Relation [[symmetrisch]] ist, kann sie nicht antisymmetrisch sein.
 		- Transitiv: Wenn (x,y) und (y,z) enthalten ist, dann ist auch (x,z) enthalten, da wenn x gerade ist, y gerade sein muss, dadurch muss auch z gerade sein. Wenn x und z gerade ist, dann ist (x,z) auch enthalten. Für ungerade gilt das selbe
 		- Damit ist diese Relation eine Äquivalenzrelation: Sie teilt die Menge in 2 disjunkte Teilmengen auf (alle geraden Zahlen und alle ungeraden) (Sie ist Reflexiv, Symmetrisch und Transitiv)
 		- Sie ist keine Ordnungsrelation, da Äquivalenzrelationen keine Ordnungsrelationen sein können.
