@@ -14,4 +14,6 @@ Der Alltagsbegriff von der Länge ist der Euklidische Abstand:
 $$||x||_2:=\sqrt{\sum^n_{j=1}x^2_j}\ \ \ \ x=(x_1,x_2,\dotso,x_n)^T\in \mathbb{R}^n$$
 ## 1-Norm
 Wir betrachten in $\mathbb{R}^2$ die [[Abbildung]] $||\cdot||_1:\mathbb{R}^2\rightarrow \mathbb{R}$ mit
-$$||x||_1=|x_1|+|x_2|,\ \ \ \ x=(x_1,x_2)^T\in\mathbb{R}^2$$
+$$||x||_1=\sum^n_{j=1}|x_j|,\ \ \ \ x=(x_1,x_2,\dotso,x_n)^T\in\mathbb{R}^n$$
+## Maximums- oder $\infty$-Norm
+$$||x||_\infty=max\{|x_1|,|x_2|,\do$$
