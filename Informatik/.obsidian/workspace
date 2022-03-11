@@ -7,12 +7,9 @@
         "id": "517a12e8dbd5da17",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mathe I/Ring.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf"
           }
         }
       }
@@ -62,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.0036334991455
+    "width": 464.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -78,13 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Ring.md",
+                "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -97,24 +95,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.95306396484375
+    "width": 312.95306396484375,
+    "collapsed": true
   },
   "active": "517a12e8dbd5da17",
   "lastOpenFiles": [
+    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
+    "Mathe I/Skalarprodukt.md",
+    "Mathe I/Vektorraum.md",
+    "Mathe I/Körper.md",
     "Mathe I/Ring.md",
     "Mathe I/Gruppen.md",
     "Mathe I/Kommutativgesetz.md",
     "Mathe I/Mengen.md",
-    "Mathe I/Distributivgesetz.md",
-    "Mathe I/Aussagen und ihre Verknüpfungen.md",
-    "Mathe I/Assoziativitätgesetz.md",
-    "Mathe I/Körper.md",
-    "Mathe I/Vektorraum.md",
-    "Mathe I/abelsch.md"
+    "Mathe I/Distributivgesetz.md"
   ]
 }
