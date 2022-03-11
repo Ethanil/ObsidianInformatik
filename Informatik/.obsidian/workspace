@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Normierte Räume.md",
+            "file": "Mathe I/Homomorph.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.0036334991455,
-    "collapsed": true
+    "width": 464.0036334991455
   },
   "right": {
     "id": "571e89f174ceff9f",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Normierte Räume.md",
+                "file": "Mathe I/Homomorph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +106,15 @@
   },
   "active": "f4aed1959d79aa89",
   "lastOpenFiles": [
-    "Mathe I/Normierte Räume.md",
-    "Mathe I/Vektorraum.md",
-    "Mathe I/Definitheit.md",
-    "Mathe I/Skalarprodukt.md",
+    "Mathe I/Homomorph.md",
+    "Mathe I/Isomorph.md",
+    "Mathe I/Gruppen.md",
+    "Mathe I/Untergruppen.md",
+    "Mathe I/Lineare Abbildungen.md",
+    "Mathe I/Untervektorraum.md",
+    "Mathe I/Implikant.md",
     "Mathe I/Abbildung.md",
-    "Mathe I/Surjektiv.md",
-    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Uebungen/Mathe I Hausübung 01.md",
-    "Mathe I/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Körper.md"
+    "Mathe I/Normierte Räume.md",
+    "Mathe I/Vektorraum.md"
   ]
 }
