@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Matrix.md",
+            "file": "Mathe I/Basis.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Matrix.md",
+                "file": "Mathe I/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "78e41b9c3c7230bf",
   "lastOpenFiles": [
-    "Mathe I/Matrix.md",
     "Mathe I/Basis.md",
+    "Mathe I/Matrix.md",
     "Templates/pmatrix.md",
     "Templates/WahrheitstabelleAB.md",
     "Mathe I/Definitheit.md",
