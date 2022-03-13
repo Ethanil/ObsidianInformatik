@@ -1,5 +1,5 @@
 ---
-aliases: Eigenwert, Eigenwerte, Eigenvektor, Eigenvektoren
+aliases: Eigenwert, Eigenwerte, Eigenvektor, Eigenvektoren, Eigenraum, Eigenräume
 ---
 # Eigenwerttheorie
 Es sei $V$ ein $K$-[[Vektorraum]] und $\phi: V\rightarrow V$ eine [[Lineare Abbildungen|Lineare Abbildung]]. Ein $\lambda \in K$ heißt Eigenwert von $\phi$, falls es einen Vektor $v \in V$ gibt mit $v\neq 0$ und $\phi(v)=\lambda v$. Ein solches $v$ heißt dann Eigenvektor von $\phi$ zum Eigenwert $\lambda$.
@@ -17,3 +17,12 @@ Ist $\phi: \mathbb{R}^2 \rightarrow\mathbb{R}^2$ die Spiegelung an der $x_2$-Ach
 Die Eigenwerte einer [[Lineare Abbildungen|Lineare Abbildung]] berechnen wir durch
 $$det(A-\lambda I)=0$$
 Siehe [[Determinante]].
+
+## Eigenraum
+Für jedes $\lambda \in K$ ist der Eigenraum von $\phi$ zum Eigenwert $\lambda$
+$$E(\phi,\lambda):=\{v\in V:\phi(v)=\lambda v\}$$
+ein Untervektorraum von $V$ und der Eigenraum von $A$ zum Eigenwert $\lambda$
+$$E(A,\lambda):=\{x\in K^n:(A-\lambda I)x=0\}=ker(A-\lambda I)$$
+ein Untervektorraum von $K^n$
+Eigenvektoren zu verschiedenen Eigenwerten von $\phi$(bzw $A$) sind [[Lineare Unabhängigkeit|linear unabhängig]].
+Sind $\lambda_1,\lambda_2,\dotso,\lambda_r$ verschiedene Eigenwerte von $\phi$(bzw $A$) und $B_1, B_2, \dotso, B_r$ Basen von $E(\phi,\lambda_1), E(\phi,\lambda_2), \dotso,E(\phi,\lambda_3)$ (bzw von $E(A,\lambda_1), E(A,\lambda_2), \dotso,E(A,\lambda_3)$ ), so ist die Menge $B:=B_1\cup B_2 \cup\dotso\cup B_r$ [[Lineare Unabhängigkeit|linear unabhängig]].
