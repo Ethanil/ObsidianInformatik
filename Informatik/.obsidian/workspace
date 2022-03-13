@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Basis.md",
+            "file": "Mathe I/Lineare Unabhängigkeit.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Basis.md",
+                "file": "Mathe I/Lineare Unabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "78e41b9c3c7230bf",
   "lastOpenFiles": [
+    "Mathe I/Lineare Unabhängigkeit.md",
     "Mathe I/Basis.md",
     "Mathe I/Matrix.md",
     "Templates/pmatrix.md",
@@ -114,7 +115,6 @@
     "Mathe I/Untervektorraum.md",
     "Mathe I/Untergruppen.md",
     "Mathe I/Skalarprodukt.md",
-    "Mathe I/Symmetrie.md",
-    "Mathe I/Asymmetrisch.md"
+    "Mathe I/Symmetrie.md"
   ]
 }
