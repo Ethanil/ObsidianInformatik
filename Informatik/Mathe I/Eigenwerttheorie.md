@@ -16,3 +16,4 @@ Ist $\phi: \mathbb{R}^2 \rightarrow\mathbb{R}^2$ die Spiegelung an der $x_2$-Ach
 ## Eigentwert berechnen
 Die Eigenwerte einer [[Lineare Abbildungen|Lineare Abbildung]] berechnen wir durch
 $$det(A-\lambda I)=0$$
+Siehe [[Determinante]].

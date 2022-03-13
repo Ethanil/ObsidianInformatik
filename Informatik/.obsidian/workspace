@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe I/Eigenwerttheorie.md",
+            "file": "Mathe I/Determinante.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Eigenwerttheorie.md",
+                "file": "Mathe I/Determinante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "3d48e5e6cadef569",
   "lastOpenFiles": [
-    "Mathe I/Eigenwerttheorie.md",
     "Mathe I/Determinante.md",
+    "Mathe I/Eigenwerttheorie.md",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur12_13.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur12_12.pdf",
