@@ -30,7 +30,6 @@ $$\left\{
 0 \\
 \vdots \\
 0 \\
-0 \\
 1 \\
 \end{pmatrix}, 
 \right\}$$
