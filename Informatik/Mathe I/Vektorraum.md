@@ -1,5 +1,5 @@
 ---
-aliases: Vektorräumen
+aliases: Vektorräumen, Vektorraums
 ---
 # Vektorraum
 Ein Vektorraum ist eine [[Mengen|Menge]] $V$ über einem [[Körper]] $K$ (sprich K-Vektorraum) mit zwei [[Abbildung|Verknüpfungen]] $+$(Vektoraddition) und $\cdot$ (Skalar-Multiplikation) für die folgende Axiome erfüllt sind:
