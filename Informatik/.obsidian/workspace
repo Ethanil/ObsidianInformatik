@@ -7,12 +7,9 @@
         "id": "3d48e5e6cadef569",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mathe I/Determinante.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf"
           }
         }
       }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Determinante.md",
+                "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +103,15 @@
   },
   "active": "3d48e5e6cadef569",
   "lastOpenFiles": [
-    "Mathe I/Determinante.md",
-    "Mathe I/Eigenwerttheorie.md",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur12_13.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur12_12.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur11_12.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur11_11.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur10_11.pdf",
-    "Mathe I/Klausuren/Probeklausuren/M1InfProbeklausur10_11.pdf",
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur16_16_Lösung_aus_Treffpunkt.pdf"
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur11_12_Loesung1.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur11_11_Loesung1.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur11_11_Loesung2.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur11_12_Loesung2.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur15_15_Loesung.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur15_16_Loesung1.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur15_16_Loesung2.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur15_16_Loesung3.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur16_17_Loesung1.pdf"
   ]
 }
