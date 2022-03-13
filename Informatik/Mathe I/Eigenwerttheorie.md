@@ -13,3 +13,6 @@ Ist $\phi: \mathbb{R}^2 \rightarrow\mathbb{R}^2$ die Spiegelung an der $x_2$-Ach
 0 \\ 1
 \end{pmatrix}$ ein Eigenvektor zum Eigenwert $1$, denn $\phi(e_2)=e_2$
 ```
+## Eigentwert berechnen
+Die Eigenwerte einer [[Lineare Abbildungen|Lineare Abbildung]] berechnen wir durch
+$$det(A-\lambda I)=0$$

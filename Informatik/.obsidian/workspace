@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "78e41b9c3c7230bf",
+        "id": "3d48e5e6cadef569",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf"
+            "file": "Mathe I/Eigenwerttheorie.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+                "file": "Mathe I/Eigenwerttheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +104,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "78e41b9c3c7230bf",
+  "active": "3d48e5e6cadef569",
   "lastOpenFiles": [
-    "Mathe I/Klausuren/M1InfKlausur19_19_Streicher.pdf",
     "Mathe I/Eigenwerttheorie.md",
-    "Templates/pmatrix.md",
-    "Mathe I/Basis.md",
-    "Mathe I/Lineare Hülle.md",
-    "Mathe I/Vektorraum.md",
-    "Mathe I/Linearkombination.md",
-    "Mathe I/Lineare Unabhängigkeit.md",
-    "Mathe I/Matrix.md",
-    "Templates/WahrheitstabelleAB.md"
+    "Mathe I/Determinante.md",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur12_13.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur12_12.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur11_12.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur11_11.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur10_11.pdf",
+    "Mathe I/Klausuren/Probeklausuren/M1InfProbeklausur10_11.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur16_16_Lösung_aus_Treffpunkt.pdf"
   ]
 }
