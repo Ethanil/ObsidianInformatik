@@ -1,3 +1,3 @@
-$$\begin{pmatrix}
+\begin{pmatrix}
 
-\end{pmatrix}$$
+\end{pmatrix}

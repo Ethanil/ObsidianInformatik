@@ -1,5 +1,5 @@
 ---
-aliases: Basen, Base
+aliases: Basen, Base, Standardbasis, Standardbasisvektor
 ---
 # Basis
 Eine Teilmenge $B$ eines $K$-[[Vektorraum|Vektorraums]] heißt Basis, falls
