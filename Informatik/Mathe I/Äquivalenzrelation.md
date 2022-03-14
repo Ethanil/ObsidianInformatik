@@ -1,5 +1,5 @@
 # Äquivalenzrelation
-Eine Relation ist eine Äquivalentrelation, wenn sie [[Relationen#Reflexiv|reflexiv]], [[Relationen#Symmetrisch|symmetrisch]] und [[Relationen#Transitiv|transitiv]] ist.
+Eine Relation ist eine Äquivalentrelation, wenn sie [[Reflexiv]], [[Symmetrisch|Symmetrie]] und [[Transitiv]] ist.
 Wenn eine Relation eine Äquivalenzrelation ist benutzt man
 $$x\sim y\text{ statt }xRy$$
 Mengen sind äquivalent zueinander, wenn man sie anhand einer Eigenschaft als ähnlich oder gleich klassifiziert.
