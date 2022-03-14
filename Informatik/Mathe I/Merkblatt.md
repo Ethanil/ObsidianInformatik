@@ -10,3 +10,4 @@ Transitiv: $(x_1,y_1)\sim(x_2,y_2)\land(x_2,y_2)\sim(x_3,y_3)\Rightarrow(x_1,y_1
 Injektiv:
 $\phi(a)=\phi(b)\Rightarrow a=b$
 Surjektiv:
+Beliebiges Element aus dem Zielbereich nehmen und zeigen, dass wir dies "treffen" können.
