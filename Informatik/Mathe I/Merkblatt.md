@@ -12,14 +12,6 @@ $\phi(a)=\phi(b)\Rightarrow a=b$
 Surjektiv:
 Beliebiges Element aus dem Zielbereich nehmen und zeigen, dass wir dies "treffen" können.
 
-UVR-Kriterien:
-- $V\neq\emptyset$$(0\in V)$
-- $\alpha\cdot v,\beta\cdot w\in V\rightarrow \alpha\cdot v+\beta\cdot w\in V$
-
-Eigenwert:
-- $det(A-\lambda I)$
-- $A-\lambda I=x$
-
 Gruppen:
 - Assoziativität $a\cdot (b\cdot c)=(a\cdot b)\cdot c$
 - $\exists$ genau 1 neutrl. Element
@@ -53,5 +45,14 @@ Komplexe Zahlen:
 - $z\cdot \overline{z}=|z|^2$
 - $z^{-1}=\frac{\overline{z}}{|z|^2}$
 
+K-Vektorraum
+- $(V,+)$ ist abelsch
+- Skalarmult. hat n. Element und ist Ass. und Distr.
 
+UVR-Kriterien:
+- $V\neq\emptyset$$(0\in V)$
+- $\alpha\cdot v,\beta\cdot w\in V\rightarrow \alpha\cdot v+\beta\cdot w\in V$
 
+Eigenwert:
+- $det(A-\lambda I)$
+- $A-\lambda I=x$
