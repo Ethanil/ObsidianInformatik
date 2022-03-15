@@ -33,4 +33,16 @@ UG-Kriterien:
 (Gruppen-)Homomorphismen
 $f(g_1*g_2)=f(g_1)\diamond f(g_2)$
 - bijektive Homomorphismen sind Isomorphismen
-	- f(n_g)=n_h$
+	- $f(n_g)=n_h$
+	- $\overline{f(g)}=f(\overline{g})$
+	- $ker(f)=n_h$
+
+Ringe
+- $(R,+)$ ist abelsch
+- $(R,\cdot)$ ist Assoziativ
+- Distributivität von $+\ \&\ \cdot$
+- $(R,\cdot)$ hat Einselement->Ring mit 1
+- $(R,\cdot)$ ist Kommutativ->kommutativer Ring mit 1
+
+Körper
+- kommutativer Ring mit 1 und $(R\backslash\{0\},\cdot)$ ist abelsch
