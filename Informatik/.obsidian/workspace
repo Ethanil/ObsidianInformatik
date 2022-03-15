@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf"
+            "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur18_19_Streicher.pdf"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matrix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf",
+                "file": "Mathe I/Klausuren/Klausuren/M1InfKlausur18_19_Streicher.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Merkblatt.md",
-    "Mathe I/Surjektiv.md",
-    "Mathe I/Der Euklidische Algorithmus.md",
-    "Mathe I/Orthogonalität.md",
-    "Mathe I/Skalarprodukt.md",
-    "Mathe I/Vektorraum.md",
-    "Mathe I/Untervektorraum.md",
-    "Mathe I/Bijektiv.md",
-    "Mathe I/Injektiv.md"
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur18_19_Streicher.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur18_18_Streicher.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur19_19_Loesung4.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur18_19_Loesung2_nur_Multiple_Choice.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur18_19_Loesung1.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur18_19_Loesung2_ohne_Multiple_Choice.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur17_18_Streicher.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur17_17_Streicher.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur16_17_Streicher.pdf"
   ]
 }
