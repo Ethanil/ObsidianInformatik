@@ -46,3 +46,12 @@ Ringe
 
 Körper
 - kommutativer Ring mit 1 und $(R\backslash\{0\},\cdot)$ ist abelsch
+
+Komplexe Zahlen:
+- $|z|=|\overline{z}|=\sqrt{a^2+b^2}$
+- $\overline{z}=a-bi$
+- $z\cdot \overline{z}=|z|^2$
+- $z^{-1}=\frac{\overline{z}}{|z|^2}$
+
+
+
