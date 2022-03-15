@@ -53,6 +53,20 @@ UVR-Kriterien:
 - $V\neq\emptyset$$(0\in V)$
 - $\alpha\cdot v,\beta\cdot w\in V\rightarrow \alpha\cdot v+\beta\cdot w\in V$
 
+Norm:
+- Definitheit $(||v||\geq \land||v||=0\Leftrightarrow v=0)$
+- Homogenität $(||\alpha v||=|\alpha|\cdot||v||)$
+- Dreiecksungl $(||v+w||\geq ||v||+||w||)$
+- 1er Norm: $\sum |v|$
+- 2er Norm: $\sqrt{\sum v^2}$
+- $\infty$ Norm: $max(|v_1|,|v_2|...)$
+
+Skalarprodukt
+- Definitheit
+- Symmetrie
+- $(\alpha x+\beta y|z)=\alpha(x|z)+\beta(y|z)$
+
+
 Eigenwert:
 - $det(A-\lambda I)$
 - $A-\lambda I=x$
