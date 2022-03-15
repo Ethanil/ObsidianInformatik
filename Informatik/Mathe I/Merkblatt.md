@@ -20,3 +20,17 @@ Eigenwert:
 - $det(A-\lambda I)$
 - $A-\lambda I=x$
 
+Gruppen:
+- Assoziativität $a\cdot (b\cdot c)=(a\cdot b)\cdot c$
+- $\exists$ genau 1 neutrl. Element
+- $\exists$ inv. Element zu jedem Element genau 1
+	- optional: Kommutativität $a\cdot b=b\cdot a$(abelsch)
+
+UG-Kriterien:
+- $U\neq\emptyset$
+- $a\cdot \bar{b}\in U$
+
+(Gruppen-)Homomorphismen
+$f(g_1*g_2)=f(g_1)\diamond f(g_2)$
+- bijektive Homomorphismen sind Isomorphismen
+	- f(n_g)=n_h$
