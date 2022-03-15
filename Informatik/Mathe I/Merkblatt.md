@@ -15,3 +15,8 @@ Beliebiges Element aus dem Zielbereich nehmen und zeigen, dass wir dies "treffen
 UVR-Kriterien:
 - $V\neq\emptyset$$(0\in V)$
 - $\alpha\cdot v,\beta\cdot w\in V\rightarrow \alpha\cdot v+\beta\cdot w\in V$
+
+Eigenwert:
+- $det(A-\lambda I)$
+- $A-\lambda I=x$
+
