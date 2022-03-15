@@ -66,6 +66,9 @@ Skalarprodukt
 - Symmetrie
 - $(\alpha x+\beta y|z)=\alpha(x|z)+\beta(y|z)$
 
+lineare Abbildung
+- $f(\alpha a+\beta b)=\alpha f(a)+\beta f(b)$
+
 
 Eigenwert:
 - $det(A-\lambda I)$
