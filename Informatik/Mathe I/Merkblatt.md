@@ -54,7 +54,7 @@ UVR-Kriterien:
 - $\alpha\cdot v,\beta\cdot w\in V\rightarrow \alpha\cdot v+\beta\cdot w\in V$
 
 Norm:
-- Definitheit $(||v||\geq \land||v||=0\Leftrightarrow v=0)$
+- Definitheit $(||v||\geq 0 \land||v||=0\Leftrightarrow v=0)$
 - Homogenität $(||\alpha v||=|\alpha|\cdot||v||)$
 - Dreiecksungl $(||v+w||\geq ||v||+||w||)$
 - 1er Norm: $\sum |v|$
