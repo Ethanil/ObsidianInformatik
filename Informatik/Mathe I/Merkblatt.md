@@ -80,13 +80,20 @@ Eigenwert:
 - $A-\lambda I=x$
 
 Eigenraum:
-- E()
+- $E(A,\lambda)=Ker(A-\lambda I)$
+	- $\lambda=0 \Rightarrow Ker(A)=E(A,\lambda)$
 
 Matrix Definitheit:
 - pos/neg definit = alle EW sind pos/neg.
 - semidefinit: jeweils mit 0
 - infinit: es gibt pos & neg EW
 
-Matrix symmetrisch-> $A=A^T$
-Matrix orthogonal-> $AA^T=A^TA=I$ & Spalten sind normiert
+Matrix symmetrisch:
+- $A=A^T$
+Matrix orthogonal
+- $AA^T=A^TA=I$  
+- Spalten sind normiert
+- $|det(A)|=1=\sqrt{1}$
+
 $det(A)=det(A^T)$
+Matrix $A$ invertierbar $\Leftrightarrow det(A)\neq 0$
