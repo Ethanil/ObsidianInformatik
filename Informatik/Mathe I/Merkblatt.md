@@ -93,7 +93,7 @@ Matrix symmetrisch:
 Matrix orthogonal
 - $AA^T=A^TA=I$  
 - Spalten sind normiert
-- $|det(A)|=1=\sqrt{1}$
+- $|det(A)|=\sqrt{det(A)^2}=\sqrt{det(A)\cdot det(A^T)}=\sqrt{det(I)}=\sqrt{1}=1$
 
 $det(A)=det(A^T)$
 Matrix $A$ invertierbar $\Leftrightarrow det(A)\neq 0$
