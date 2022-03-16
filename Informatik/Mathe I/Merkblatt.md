@@ -2,6 +2,10 @@
 aliases: 
 ---
 # Merkblatt
+Eukl.Alg:
+- a b $\lfloor\frac{a}{b}\rfloor$ k l
+	- k=l; $l = k' - \lfloor\frac{a}{b}\rfloor * l'$
+
 Äquivalenzrelation:
 Reflexiv: $x_1\sim x_1$
 Symm: $x_1\sim x_2\Leftrightarrow x_2\sim x_1$
