@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf"
+            "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung1.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf",
+                "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung1.pdf",
     "Mathe I/Merkblatt.md",
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf",
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur20_21_Streicher.pdf",
     "Mathe I/Erweiterter Euklidischer Algorithmus.md",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur19_20_Loesung1.pdf",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur19_19_Loesung1.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur18_19_Streicher.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur18_18_Streicher.pdf",
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur18_18_Loesung1.pdf"
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur18_19_Streicher.pdf"
   ]
 }

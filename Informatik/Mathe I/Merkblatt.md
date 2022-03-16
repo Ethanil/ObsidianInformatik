@@ -77,7 +77,10 @@ Dim. Formel:
 $Rang(\phi)+dim(ker(\phi))=dim(V)$
 
 Basiswechsel:
-$M^{B'}_{C'}(\phi)=M^C_{C'}(id_W)\cdot M^B_C(\phi)\cdot M^{B'}_C(id_V)$
+- $M^{B'}_{C'}(\phi)=M^C_{C'}(id_W)\cdot M^B_C(\phi)\cdot M^{B'}_C(id_V)$
+- $M^B_C(Id)=(M^E_B)^{-1}\cdot M^E_C$
+	- $E$ ist die Standardbasis
+	- $M^E_B$ und $M^E_B$ hat die Basis als Spalten
 
 Eigenwert:
 - $det(A-\lambda I)$
@@ -98,6 +101,7 @@ Matrix orthogonal
 - $AA^T=A^TA=I$  
 - Spalten sind normiert
 - $|det(A)|=\sqrt{det(A)^2}=\sqrt{det(A)\cdot det(A^T)}=\sqrt{det(I)}=\sqrt{1}=1$
-
+2x2 Matrix invertieren:
+- A und D vertauschen B und C negieren-> det ausrechnen und 1/det (oder $-1/det_{alt}$)
 $det(A)=det(A^T)$
 Matrix $A$ invertierbar $\Leftrightarrow det(A)\neq 0$
