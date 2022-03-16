@@ -78,3 +78,15 @@ $M^{B'}_{C'}(\phi)=M^C_{C'}(id_W)\cdot M^B_C(\phi)\cdot M^{B'}_C(id_V)$
 Eigenwert:
 - $det(A-\lambda I)$
 - $A-\lambda I=x$
+
+Eigenraum:
+- E()
+
+Matrix Definitheit:
+- pos/neg definit = alle EW sind pos/neg.
+- semidefinit: jeweils mit 0
+- infinit: es gibt pos & neg EW
+
+Matrix symmetrisch-> $A=A^T$
+Matrix orthogonal-> $AA^T=A^TA=I$ & Spalten sind normiert
+$det(A)=det(A^T)$
