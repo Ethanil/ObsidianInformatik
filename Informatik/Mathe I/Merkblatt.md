@@ -69,6 +69,9 @@ Skalarprodukt
 lineare Abbildung
 - $f(\alpha a+\beta b)=\alpha f(a)+\beta f(b)$
 
+Dim. Formel:
+$Rang(\phi)+dim(ker(\phi))=dim(V)$
+
 Basiswechsel:
 $M^{B'}_{C'}(\phi)=M^C_{C'}(id_W)\cdot M^B_C(\phi)\cdot M^{B'}_C(id_V)$
 
