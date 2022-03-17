@@ -7,9 +7,12 @@
         "id": "c9d641b06dfa7c5f",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf"
+            "file": "Mathe I/Merkblatt.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf",
+                "file": "Mathe I/Merkblatt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +106,11 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "Mathe I/Merkblatt.md",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur20_20_Streicher.pdf",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf",
-    "Mathe I/Merkblatt.md",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur20_21_Streicher.pdf",
     "Mathe I/Skalarprodukt.md",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung1.pdf",
