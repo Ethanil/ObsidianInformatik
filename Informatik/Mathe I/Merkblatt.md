@@ -93,7 +93,7 @@ Eigenraum:
 Matrix Definitheit:
 - pos/neg definit = alle EW sind pos/neg.
 - semidefinit: jeweils mit 0
-- infinit: es gibt pos & neg EW
+- indefinit: es gibt pos & neg EW
 
 Matrix symmetrisch:
 - $A=A^T$
