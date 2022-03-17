@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathe I/Merkblatt.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -107,6 +107,7 @@
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
     "Mathe I/Merkblatt.md",
+    "Mathe I/Skalarprodukt.md",
     "Mathe I/Klausuren/Klausuren/M1InfKlausur20_21_Streicher.pdf",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung1.pdf",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur20_21_Loesung2.pdf",
@@ -114,7 +115,6 @@
     "Mathe I/Erweiterter Euklidischer Algorithmus.md",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur19_20_Loesung1.pdf",
     "Mathe I/Klausuren/Lösungen/M1InfKlausur19_19_Loesung1.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf"
+    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_19_Streicher.pdf"
   ]
 }
