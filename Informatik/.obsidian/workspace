@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Tupel.md",
+            "file": "AFE/Präfixrelation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Tupel.md",
+                "file": "AFE/Präfixrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "AFE/Präfixrelation.md",
+    "AFE/Alphabet, Wörter und Sprachen.md",
+    "AFE/Kantenrelation.md",
     "AFE/Tupel.md",
-    "AFE/Alphabet und Wörter.md",
+    "Mathe I/Relationen.md",
     "AFE/AFE_Skript.pdf",
     "Mathe I/Beweis durch Induktion.md",
     "Mathe I/Beweis durch Kontraposition.md",
     "Mathe I/Merkblatt.md",
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf",
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung1.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur20_20_Streicher.pdf",
-    "Mathe I/Klausuren/Klausuren/M1InfKlausur19_20_Streicher.pdf"
+    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf"
   ]
 }
