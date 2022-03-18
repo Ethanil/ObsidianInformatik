@@ -78,3 +78,33 @@ $\supseteq$: $x$ ist in $A$ oder $C$ und in $B$ oder $C$. Wenn $x$ in $C$ ist, i
 $B\backslash(B\backslash A)=B\cap \overline{(B\backslash A)}=B\cap \overline{B\cap \overline{A}}$
 $\subseteq$: $x$ ist also in $B$ und nicht in $B$ ohne $A$. $x$ ist also auf jeden Fall in $B$ oder in $\emptyset$. $x$ ist nicht in $B$ ohne $A$, also genau dann in $A$, wenn $A\subseteq B$.
 ```
+## H1.2 Transitionssysteme: Schokolade
+![[Pasted image 20220318152919.png]]
+```ad-check
+collapse:true
+title:Lösung
+![[Pasted image 20220318152849.png]]
+```
+## H1.3
+Sei $\Sigma=\{a,b,c\}$. Welche der folgenden Relationen auf $\Sigma^*$ sind [[Äquivalenzrelation]]?
+- $(u,v)\in R_1$ genau dann, wenn $|u|+|v|$ ungerade ist.
+- $(u,v)\in R_2$ genau dann, wenn $|u|_a-|u|_b=|v|_a-|v|_b$.  ($|u|_a$ bezeichnet die Anzahl der $a$ in $u$.)
+Welche der [[Äquivalenzrelation]] sind mit der [[Konkatenation]] veträglich? ($R$ ist verträglich mit $\cdot$, wenn aus $(u_1,v_1)\in R$ und $(u_2,v_2)\in R$ folgt, dass $(u_1u_2,v_1v_2)\in R$.)
+
+```ad-check
+collapse:true
+title:Lösung
+$R_1$: Reflexiv: $(u,u)\rightarrow |u|+|u|=k \Leftrightarrow 2|u|=k\Rightarrow$ $R_1$ ist nicht reflexiv.
+$R_2$: 
+- Reflexiv: $(u,u)\rightarrow |u|_a-|u|_b=|u|_a-|u|_b\checkmark$
+- Symmetrisch: $(u,v),(v,u)\in R_2?\rightarrow  |u|_a-|u|_b=|u|_a-|u|_b \Leftrightarrow |u|_a-|u|_b= |u|_a-|u|_b\checkmark$
+- Transitiv: $(u,v)\land (v,w)\in R_2\Rightarrow (u,w)\in R_2\rightarrow |u|_a-|u|_b=|v|_a-|v|_b \land |v|_a-|v|_b=|w|_a-|w|_b\Rightarrow |u|_a-|u|_b=|w|_a-|w|_b$
+$$|u_1|_a-|u_1|_b=|v_1|_a-|v_1|_b$$
+$$|u_2|_a-|u_2|_b=|v_2|_a-|v_2|_b$$
+$$|u_1u_2|_a-|u_1u_2|_b$$
+$$=|u_1|+|u_2|_a-(|u_1|+|u_2|_b)$$
+$$=|u_1|-|u_1|+|u_2|_a-|u_2|_b$$
+$$=|v_1|-|v_1|+|v_2|_a-|v_2|_b$$
+$$=|v_1|+|v_2|_a-(|v_1|+|v_2|_b)$$
+$$|v_1v_2|_a-|v_1v_2|_b$$
+```
