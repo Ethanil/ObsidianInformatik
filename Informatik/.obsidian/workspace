@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Präfixrelation.md",
+            "file": "AFE/Konkatenation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Präfixrelation.md",
+                "file": "AFE/Konkatenation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "AFE/Konkatenation.md",
+    "FOP/Operatoren.md",
     "AFE/Präfixrelation.md",
     "AFE/Alphabet, Wörter und Sprachen.md",
     "AFE/Kantenrelation.md",
@@ -113,8 +115,6 @@
     "Mathe I/Relationen.md",
     "AFE/AFE_Skript.pdf",
     "Mathe I/Beweis durch Induktion.md",
-    "Mathe I/Beweis durch Kontraposition.md",
-    "Mathe I/Merkblatt.md",
-    "Mathe I/Klausuren/Lösungen/M1InfKlausur20_20_Loesung2.pdf"
+    "Mathe I/Beweis durch Kontraposition.md"
   ]
 }

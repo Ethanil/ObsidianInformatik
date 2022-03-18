@@ -1,5 +1,5 @@
 ---
-aliases: Alphabet, Alphabete, Alphabets, Wort, Wörter, Worts, Sprache, Sprachen
+aliases: Alphabet, Alphabete, Alphabets, Wort, Wörter, Worts, Wörtern, Sprache, Sprachen
 ---
 # Alphabet, Wörter und Sprachen
 ## Alphabet
