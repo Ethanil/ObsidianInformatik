@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Uebungen/Uebung 01.md",
-            "mode": "preview",
+            "file": "AFE/Uebungen/Uebung 02.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Uebungen/Uebung 01.md",
+                "file": "AFE/Uebungen/Uebung 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "AFE/Uebungen/Uebung 02.md",
     "AFE/Uebungen/Uebung 01.md",
     "Uebung 01_18.03.2022 15-28-18.excalidraw.md",
     "Mathe I/Äquivalenzrelation.md",
@@ -114,7 +115,6 @@
     "AFE/Konkatenation.md",
     "FOP/Operatoren.md",
     "AFE/Präfixrelation.md",
-    "AFE/Alphabet, Wörter und Sprachen.md",
-    "AFE/Kantenrelation.md"
+    "AFE/Alphabet, Wörter und Sprachen.md"
   ]
 }
