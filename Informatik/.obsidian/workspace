@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Konkatenation.md",
+            "file": "AFE/Uebungen/Uebung 01.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Konkatenation.md",
+                "file": "AFE/Uebungen/Uebung 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "AFE/Uebungen/Uebung 01.md",
     "AFE/Konkatenation.md",
     "FOP/Operatoren.md",
     "AFE/Präfixrelation.md",
@@ -114,7 +115,6 @@
     "AFE/Tupel.md",
     "Mathe I/Relationen.md",
     "AFE/AFE_Skript.pdf",
-    "Mathe I/Beweis durch Induktion.md",
-    "Mathe I/Beweis durch Kontraposition.md"
+    "Mathe I/Beweis durch Induktion.md"
   ]
 }
