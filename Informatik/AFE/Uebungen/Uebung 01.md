@@ -51,7 +51,7 @@ collapse:true
 title:Lösung
 rot$\rightarrow$rot/gelb$\rightarrow$grün$\rightarrow$gelb$\rightarrow$rot 
 ```
-## G1.4 Äquivalenzrelation
+## G1.4 [[Äquivalenzrelation]]
 Für eine zweistellige Relation $R\subseteq\mathbb{N}\times\mathbb{N}$ über $\mathbb{N}$ definiere die zweistellige Relation $\sim_R$ über $\mathbb{N}$ als die Menge von Paaren  
 $(a_1, a_2) \in\mathbb{N}\times\mathbb{N}$, für die ein $b\in \mathbb{N}$ existiert, so dass $(a_1, b), (a_2, b) \in R$. Für welche der folgenden Relationen $R_i$ ist $\sim_{R_i}$  
 eine Äquivalenzrelation?  
@@ -62,6 +62,17 @@ eine Äquivalenzrelation?
 ```ad-check
 collapse:true
 title:Lösung
-$R_1$ ist nicht Symmetrisch
-$R_2$ ist nicht 
+$R_1$ ist nicht Reflexiv
+$R_2$ ist nicht Symmetrisch
+$R_3$ ist Reflexiv, Symmetrisch und Transitiv, also eine [[Äquivalenzrelation]]
+```
+## H1.1 Mengenoperationen
+Seien $A,B,C$ Mengen. Beweisen Sie die folgenden Gleichungen:
+$$(A\cap B)\cup C=(A\cup C)\cap(B\cup C)$$
+$$B\backslash(B\backslash A) = A\text{ falls }A\subseteq B\text{. Gilt die Gleichung, selbst wenn }A\nsubseteq B?$$
+```ad-check
+collapse:true
+title:Lösung
+$\subseteq$: $x$ ist in $A$ und $B$ oder $x\in C$. Wenn $x$ in $C$ ist ist es in $(A\cup C)\cap(B\cup C)$. Wenn $x$ in $A$ und $B$ und nicht in $C$ ist, dann ist es auch in $(A\cup C)\cap (B\cup C)$.
+$\supseteq$: $x$ ist in $A$ oder $C$ und in $B$ oder $C$. Wenn $x$ in $C$ ist, ist es auch in $(A\cap B)\cup C$. Wenn $x$ in $A$ ist und nicht in $C$, ist es auch in $B$, daher ist es in $(A\cap B)\cup C$, für $B$ analog.
 ```

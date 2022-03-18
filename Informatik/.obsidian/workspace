@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "AFE/Uebungen/Uebung 01.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -107,14 +107,14 @@
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
     "AFE/Uebungen/Uebung 01.md",
+    "Mathe I/Äquivalenzrelation.md",
+    "Mathe I/Reflexiv.md",
     "Templates/Lösung.md",
     "AFE/Konkatenation.md",
     "FOP/Operatoren.md",
     "AFE/Präfixrelation.md",
     "AFE/Alphabet, Wörter und Sprachen.md",
     "AFE/Kantenrelation.md",
-    "AFE/Tupel.md",
-    "Mathe I/Relationen.md",
-    "AFE/AFE_Skript.pdf"
+    "AFE/Tupel.md"
   ]
 }
