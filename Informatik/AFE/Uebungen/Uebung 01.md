@@ -75,4 +75,6 @@ collapse:true
 title:Lösung
 $\subseteq$: $x$ ist in $A$ und $B$ oder $x\in C$. Wenn $x$ in $C$ ist ist es in $(A\cup C)\cap(B\cup C)$. Wenn $x$ in $A$ und $B$ und nicht in $C$ ist, dann ist es auch in $(A\cup C)\cap (B\cup C)$.
 $\supseteq$: $x$ ist in $A$ oder $C$ und in $B$ oder $C$. Wenn $x$ in $C$ ist, ist es auch in $(A\cap B)\cup C$. Wenn $x$ in $A$ ist und nicht in $C$, ist es auch in $B$, daher ist es in $(A\cap B)\cup C$, für $B$ analog.
+$B\backslash(B\backslash A)=B\cap \overline{(B\backslash A)}=B\cap \overline{B\cap \overline{A}}$
+$\subseteq$: $x$ ist also in $B$ und nicht in $B$ ohne $A$. $x$ ist also auf jeden Fall in $B$ oder in $\emptyset$. $x$ ist nicht in $B$ ohne $A$, also genau dann in $A$, wenn $A\subseteq B$.
 ```
