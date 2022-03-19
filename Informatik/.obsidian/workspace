@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Theoreme der Boolschen Algebra.md",
+            "file": "AFE/Uebungen/Uebung 02.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Theoreme der Boolschen Algebra.md",
+                "file": "AFE/Uebungen/Uebung 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
-    "Digitaltechnik/Theoreme der Boolschen Algebra.md",
     "AFE/Uebungen/Uebung 02.md",
+    "Digitaltechnik/Theoreme der Boolschen Algebra.md",
     "AFE/Uebungen/Uebung 01.md",
     "Uebung 01_18.03.2022 15-28-18.excalidraw.md",
     "Mathe I/Äquivalenzrelation.md",
