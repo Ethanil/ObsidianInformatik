@@ -44,14 +44,33 @@ Sei $\Sigma = \{a, b\}$. Bestimmen Sie alle Homomorphismen
 collapse:true
 title:Lösung
 Nur trivial
-
+Nur trivial
+Über die Länge des Wortes
 ```
 
 ## G2.3: Induktion
 Beweisen Sie durch Induktion, dass
 $$\sum^n_{i=1}i^2=\frac{1}{6}n(n+1)(2n+1)$$
 für alle $n\in \mathbb{N}$ gilt.
-
+```ad-check
+collapse:true
+title:Lösung
+Induktionsstart $n=1$
+$$\sum^1_{i=1}i^2=1^2=\frac{1}{6}*6=\frac{1}{6}1(1+1)(2*1+1)\checkmark$$
+Induktionsschritt: $n\rightarrow n+1$
+i.V.: $$\sum^n_{i=1}i^2=\frac{1}{6}n(n+1)(2n+1)$$
+$$\sum^n+1_{i=1}i^2$$
+$$=(n+1)^2+\sum^n_{i=1}i^2$$
+$$\stackrel{i.V.}{=}(n+1)^2+\frac{1}{6}n(n+1)(2n+1)$$
+$$=n^2+2n+1+\frac{1}{6}n(n+1)(2n+1)$$
+$$=\frac{1}{6}6(n^2+2n+1)+\frac{1}{6}n(n+1)(2n+1)$$
+$$=\frac{1}{6}(6n^2+12n+6+(n^2+n)(2n+1))$$
+$$=\frac{1}{6}(6n^2+12n+6+2n^3+n^2+2n^2+n)$$
+$$=\frac{1}{6}(2n^3+9n^2+13n+6)$$
+$$=\frac{1}{6}((n+1)(2n^2+7n^1+6))$$
+$$=\frac{1}{6}((n+1)((n+2)(2n+3)))$$
+$$=\frac{1}{6}((n+1)((n+1+1)(2(n+1)+3)))$$
+```
 ## G2.4: Landau-Notation
 Sein $f, g : \mathbb{N} \rightarrow \mathbb{N}$ Funktionen. Wir sagen „$f$ ist in $O(g)$“ (kurz „$f \in O(g)$“), falls es Konstanten $K, n_0$ gibt, so dass  
 $$f(n) \leq K \cdot g(n) \text{ für alle }n \geq n_0.$$ 
