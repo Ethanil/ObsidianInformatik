@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Uebungen/Uebung 02.md",
-            "mode": "preview",
+            "file": "Mathe I/Isomorph.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isomorp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Uebungen/Uebung 02.md",
+                "file": "Mathe I/Isomorph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
   },
   "active": "c9d641b06dfa7c5f",
   "lastOpenFiles": [
+    "Mathe I/Isomorph.md",
+    "Mathe I/Homomorph.md",
+    "Mathe I/Gruppen.md",
     "AFE/Uebungen/Uebung 02.md",
     "Digitaltechnik/Theoreme der Boolschen Algebra.md",
     "AFE/Uebungen/Uebung 01.md",
     "Uebung 01_18.03.2022 15-28-18.excalidraw.md",
     "Mathe I/Äquivalenzrelation.md",
     "Mathe I/Reflexiv.md",
-    "Templates/Lösung.md",
-    "AFE/Konkatenation.md",
-    "FOP/Operatoren.md",
-    "AFE/Präfixrelation.md"
+    "Templates/Lösung.md"
   ]
 }

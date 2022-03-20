@@ -9,7 +9,8 @@ Auf einem Tisch liegen vier Karten, die auf einer Seite eine Zahl und auf der an
 Jemand behauptet, dass alle Karten mit einem Vokal auf der Buchstabenseite eine gerade Zahl auf der Zahlenseite  
 haben. Sie sehen „D“, „8“, „E“ und „9“. Welche Karten müssen Sie umdrehen, um die Behauptung zu überprüfen?  
 
-Wird durch $uRu′ :\Leftrightarrow u = u′ oder u = (u′)−1$eine Äquivalenzrelation auf $\Sigma^*$ definiert?  
+Wird durch $uRu^′ :\Leftrightarrow u = u^′$ oder $u = (u^′)^{−1}$eine Äquivalenzrelation auf $\Sigma^*$ definiert?  
+- ja/nein
 
 Sei $(B, \cdot, +, ′, 0, 1)$ eine Boolesche Algebra. Welche der folgenden Aussagen sind wahr?  
 - $(B, \cdot, 1)$ ist eine Gruppe 
@@ -17,11 +18,20 @@ Sei $(B, \cdot, +, ′, 0, 1)$ eine Boolesche Algebra. Welche der folgenden Auss
 - $(B, +, 1)$ ist ein Monoid 
 - $(B, +, 0)$ ist ein Monoid  
 
-Seien $A$ und $B$ zwei Strukturen des selben Typs mit Trägermengen $A$ und $B$, sowie $F : A \rightarrow B$ ein bijektiver  
-Homomorphismus von $A$ nach $B$. Welche der folgenden Aussagen sind wahr?  
+Seien $A$ und $B$ zwei Strukturen des selben Typs mit Trägermengen $A$ und $B$, sowie $F : A \rightarrow B$ ein bijektiver Homomorphismus von $A$ nach $B$. Welche der folgenden Aussagen sind wahr?  
 - $F^{-1}$ ist bijektiv 
-- F^{-1} ist ein Homomorphismus von $B$ nach $A$
+- $F^{-1}$ ist ein Homomorphismus von $B$ nach $A$
 - $(F^{-1})^{-1} = F$
+
+```ad-check
+collapse:true
+title:Lösung
+- Die Äquivalenzrelation hat einen Index von 2: $\{a,b,c\},\{d\}$
+- Wir müssen "E" und "9" umdrehen, damit wir sicher wissen, dass alle Karten mit einem Vokal eine gerade Zahl auf der Rückseite haben.
+- Ja
+- $(B, +, 0)$ ist ein Monoid  
+- 
+```
 
 ## G2.2: Homomorphismen
 Sei $\Sigma = \{a, b\}$. Bestimmen Sie alle Homomorphismen  
