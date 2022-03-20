@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d641b06dfa7c5f",
+        "id": "70fdab412ec0babe",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -104,17 +104,17 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "c9d641b06dfa7c5f",
+  "active": "70fdab412ec0babe",
   "lastOpenFiles": [
     "AFE/Stern-Operator.md",
+    "AFE/konk.md",
+    "AFE/Konkatenation.md",
     "AFE/Uebungen/Uebung 02.md",
     "Mathe I/Homomorph.md",
     "Mathe I/Gruppen.md",
     "Mathe I/Isomorph.md",
     "Digitaltechnik/Theoreme der Boolschen Algebra.md",
     "AFE/Uebungen/Uebung 01.md",
-    "Uebung 01_18.03.2022 15-28-18.excalidraw.md",
-    "Mathe I/Äquivalenzrelation.md",
-    "Mathe I/Reflexiv.md"
+    "Uebung 01_18.03.2022 15-28-18.excalidraw.md"
   ]
 }
