@@ -69,7 +69,7 @@ $$=\frac{1}{6}(6n^2+12n+6+2n^3+n^2+2n^2+n)$$
 $$=\frac{1}{6}(2n^3+9n^2+13n+6)$$
 $$=\frac{1}{6}((n+1)(2n^2+7n^1+6))$$
 $$=\frac{1}{6}((n+1)((n+2)(2n+3)))$$
-$$=\frac{1}{6}((n+1)((n+1+1)(2(n+1)+3)))$$
+$$=\frac{1}{6}(n+1)((n+1+1)(2(n+1)+1))$$
 ```
 ## G2.4: Landau-Notation
 Sein $f, g : \mathbb{N} \rightarrow \mathbb{N}$ Funktionen. Wir sagen „$f$ ist in $O(g)$“ (kurz „$f \in O(g)$“), falls es Konstanten $K, n_0$ gibt, so dass  
