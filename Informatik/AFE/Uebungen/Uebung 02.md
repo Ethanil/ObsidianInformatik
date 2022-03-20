@@ -30,7 +30,8 @@ title:Lösung
 - Wir müssen "E" und "9" umdrehen, damit wir sicher wissen, dass alle Karten mit einem Vokal eine gerade Zahl auf der Rückseite haben.
 - Ja
 - $(B, +, 0)$ ist ein Monoid  
-- 
+- $F^{-1}$ ist bijektiv 
+- $(F^{-1})^{-1} = F$
 ```
 
 ## G2.2: Homomorphismen
@@ -38,6 +39,13 @@ Sei $\Sigma = \{a, b\}$. Bestimmen Sie alle Homomorphismen
 - von $(\mathbb{R}, \cdot)$ nach $(\mathbb{R}, +)$.  
 - von $(\mathbb{Z}, +)$ nach $(\Sigma^*, \cdot)$.  
 - von $(\Sigma^*, \cdot)$ nach $(\mathbb{Z}, +)$.
+
+```ad-check
+collapse:true
+title:Lösung
+Nur trivial
+
+```
 
 ## G2.3: Induktion
 Beweisen Sie durch Induktion, dass
