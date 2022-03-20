@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Regulärer Ausdruck.md",
+            "file": "Digitaltechnik/Zustandsautomaten.md",
             "mode": "source",
             "backlinks": false,
-            "source": false
+            "source": true
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isomorp",
+                "query": "automat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Regulärer Ausdruck.md",
+                "file": "Digitaltechnik/Zustandsautomaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "Digitaltechnik/Zustandsautomaten.md",
+    "AFE/Transitionssysteme.md",
     "AFE/Regulärer Ausdruck.md",
     "AFE/Stern-Operator.md",
     "AFE/konk.md",
@@ -113,8 +115,6 @@
     "AFE/Uebungen/Uebung 02.md",
     "Mathe I/Homomorph.md",
     "Mathe I/Gruppen.md",
-    "Mathe I/Isomorph.md",
-    "Digitaltechnik/Theoreme der Boolschen Algebra.md",
-    "AFE/Uebungen/Uebung 01.md"
+    "Mathe I/Isomorph.md"
   ]
 }
