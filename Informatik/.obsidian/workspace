@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitaltechnik/Zustandsautomaten.md",
+            "file": "AFE/Satz von Kleene.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitaltechnik/Zustandsautomaten.md",
+                "file": "AFE/Satz von Kleene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "AFE/Satz von Kleene.md",
+    "AFE/Regulärer Ausdruck.md",
     "Digitaltechnik/Zustandsautomaten.md",
     "AFE/Transitionssysteme.md",
-    "AFE/Regulärer Ausdruck.md",
     "AFE/Stern-Operator.md",
     "AFE/konk.md",
     "AFE/Konkatenation.md",
     "AFE/Uebungen/Uebung 02.md",
     "Mathe I/Homomorph.md",
-    "Mathe I/Gruppen.md",
-    "Mathe I/Isomorph.md"
+    "Mathe I/Gruppen.md"
   ]
 }
