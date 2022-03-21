@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Pumping Lemma.md",
-            "mode": "preview",
+            "file": "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Pumping Lemma.md",
+                "file": "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
     "AFE/Pumping Lemma.md",
     "AFE/Satz von Myhill-Nerode.md",
     "AFE/Satz von Kleene.md",
@@ -114,7 +115,6 @@
     "AFE/Transitionssysteme.md",
     "AFE/Stern-Operator.md",
     "AFE/konk.md",
-    "AFE/Konkatenation.md",
-    "AFE/Uebungen/Uebung 02.md"
+    "AFE/Konkatenation.md"
   ]
 }
