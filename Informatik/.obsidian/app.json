@@ -10,5 +10,6 @@
     "downscalePercent": 90
   },
   "newFileLocation": "current",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "livePreview": true
 }

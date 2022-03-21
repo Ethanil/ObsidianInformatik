@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Pumping Lemma.md",
-            "mode": "preview",
+            "file": "AFE/Grammatik.md",
+            "mode": "source",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Pumping Lemma.md",
+                "file": "AFE/Grammatik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "AFE/Grammatik.md",
     "AFE/Pumping Lemma.md",
     "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
     "AFE/Satz von Myhill-Nerode.md",
@@ -114,7 +115,6 @@
     "Digitaltechnik/Zustandsautomaten.md",
     "AFE/Transitionssysteme.md",
     "AFE/Stern-Operator.md",
-    "AFE/konk.md",
-    "AFE/Konkatenation.md"
+    "AFE/konk.md"
   ]
 }
