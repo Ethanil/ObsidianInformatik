@@ -10,4 +10,4 @@ $$G=(\Sigma, V, P, X_0$$
 - $X_0 \in V:=$ Startvariable/Startsymbol
 - $P:=$ endliche Menge von Produktionen, Regeln
 
-$P\subseteq
+$P\subseteq (V\cup\Sigma)^+ \times (V\cup\Sigma)^*$
