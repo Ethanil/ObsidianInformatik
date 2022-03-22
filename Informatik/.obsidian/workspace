@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AFE/Pumping Lemma.md",
+            "file": "AFE/Alphabet, Wörter und Sprachen.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AFE/Pumping Lemma.md",
+                "file": "AFE/Alphabet, Wörter und Sprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "AFE/Alphabet, Wörter und Sprachen.md",
+    "Mathe I/Vereinigung.md",
+    "Mathe I/Mengendifferenz.md",
     "AFE/Pumping Lemma.md",
     "AFE/Grammatik.md",
     "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
     "AFE/Satz von Myhill-Nerode.md",
     "AFE/Satz von Kleene.md",
     "AFE/Regulärer Ausdruck.md",
-    "Digitaltechnik/Zustandsautomaten.md",
-    "AFE/Transitionssysteme.md",
-    "AFE/Stern-Operator.md",
-    "AFE/konk.md"
+    "Digitaltechnik/Zustandsautomaten.md"
   ]
 }
