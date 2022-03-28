@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FOP/Sichtbarkeit von Methoden.md",
+            "file": "FOP/Closure.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOP/Sichtbarkeit von Methoden.md",
+                "file": "FOP/Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
+    "FOP/Closure.md",
     "FOP/Sichtbarkeit von Methoden.md",
     "FOP/Kernelemente des Objektorientierten Programmdesigns.md",
     "AFE/Pumping Lemma.md",
@@ -114,7 +115,6 @@
     "Mathe I/Mengendifferenz.md",
     "AFE/Grammatik.md",
     "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
-    "AFE/Satz von Myhill-Nerode.md",
-    "AFE/Satz von Kleene.md"
+    "AFE/Satz von Myhill-Nerode.md"
   ]
 }
