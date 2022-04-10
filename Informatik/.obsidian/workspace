@@ -7,12 +7,9 @@
         "id": "70fdab412ec0babe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "FOP/Closure.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "1. Semester/Screenshots/Pasted image 20220318152919.png"
           }
         }
       }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOP/Closure.md",
+                "file": "1. Semester/Screenshots/Pasted image 20220318152919.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +103,15 @@
   },
   "active": "70fdab412ec0babe",
   "lastOpenFiles": [
-    "FOP/Closure.md",
-    "FOP/Sichtbarkeit von Methoden.md",
-    "FOP/Kernelemente des Objektorientierten Programmdesigns.md",
-    "AFE/Pumping Lemma.md",
-    "AFE/Alphabet, Wörter und Sprachen.md",
-    "Mathe I/Vereinigung.md",
-    "Mathe I/Mengendifferenz.md",
-    "AFE/Grammatik.md",
-    "AFE/Uebungen/Uebungen zur strukturellen Induktion.md",
-    "AFE/Satz von Myhill-Nerode.md"
+    "1. Semester/Screenshots/Pasted image 20220318152919.png",
+    "1. Semester/Screenshots/Pasted image 20220318163918.png",
+    "1. Semester/Screenshots/Pasted image 20220318152849.png",
+    "1. Semester/FOP/Closure.md",
+    "1. Semester/FOP/Sichtbarkeit von Methoden.md",
+    "1. Semester/FOP/Kernelemente des Objektorientierten Programmdesigns.md",
+    "1. Semester/AFE/Pumping Lemma.md",
+    "1. Semester/AFE/Alphabet, Wörter und Sprachen.md",
+    "1. Semester/Mathe I/Vereinigung.md",
+    "1. Semester/Mathe I/Mengendifferenz.md"
   ]
 }
