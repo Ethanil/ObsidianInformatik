@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70fdab412ec0babe",
+        "id": "2f8c78261a6fe270",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "1. Semester/Screenshots/Pasted image 20220318152919.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Semester/Screenshots/Pasted image 20220318152919.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,7 @@
     "width": 312.95306396484375,
     "collapsed": true
   },
-  "active": "70fdab412ec0babe",
+  "active": "2f8c78261a6fe270",
   "lastOpenFiles": [
     "1. Semester/Screenshots/Pasted image 20220318152919.png",
     "1. Semester/Screenshots/Pasted image 20220318163918.png",
