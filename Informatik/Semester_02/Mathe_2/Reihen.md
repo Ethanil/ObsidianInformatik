@@ -8,9 +8,17 @@ $$\sum^\infty_{n=0}a_n=a_0+a_1+a_2+a_3+\dotso$$
 die Reihe über $(a_n)$.
 Wenn die Folge nur bis $k$, anstatt $\infty$ geht, dann ist dies die $k$-te Teilsumme der Reihe.
 ## Konvergenzkriterien
-- Seien $\sum^\infty_{n=0}a_n$ und $\sum^\infty_{n=0}b_n$ zwei **konvergente** Reihen in $\mathbb{K}$ und $\alpha,\beta\in \mathbb{K}$. Dann ist $\sum^\infty_{n=0}(\alpha a_n+\beta b_n)$ **konvergent** und es gilt:
+### 2 konvergente Reihen konvergieren
+Seien $\sum^\infty_{n=0}a_n$ und $\sum^\infty_{n=0}b_n$ zwei **konvergente** Reihen in $\mathbb{K}$ und $\alpha,\beta\in \mathbb{K}$. Dann ist $\sum^\infty_{n=0}(\alpha a_n+\beta b_n)$ **konvergent** und es gilt:
 $$\sum^\infty_{n=0}(\alpha a_n+\beta b_n=\alpha \sum^\infty_{n=0}a_n+\beta \sum^\infty_{n=0}b_n$$
-- Ist $\sum^\infty_{n=0}a_n$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_n)$ eine Nullfolge in $\mathbb{K}$.
+### Folgen von konvergenten Reihen sind Nullfogen
+Ist $\sum^\infty_{n=0}a_n$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_n)$ eine Nullfolge in $\mathbb{K}$.
+### Monotonie-Kriterium
 Es seien $(a_n)$ eine Folge in $\mathbb{K}$ und $s_k:=\sum^k_{n=0}a_n,k\in \mathbb{N}$. Dann gilt
-- Ist $a_n\geq 0$ für alle $n\in\mathbb{N}$ und $(s_k)_{k\in\mathbb{N}}$ nach oben beschränkt, so ist $\sum^\infty_{n=0}a_n$ konvergent.
-- 
+- Ist $a_n\geq 0$ für alle $n\in\mathbb{N}$ und $(s_k)_{k\in\mathbb{N}}$ nach oben beschränkt, so ist $\sum^\infty_{n=0}a_n$ konvergent. 
+### Cauchy-Kriterium
+Es seien $(a_n)$ eine Folge in $\mathbb{K}$ und $s_k:=\sum^k_{n=0}a_n,k\in \mathbb{N}$. Dann gilt
+- Die Reihe zur Folge ist genau dann konvergent, wenn für jedes $\epsilon > 0$ ein $n_0\in\mathbb{N}$ exisitert mit
+$$\left|\sum^k_{n=l+1}\right|<\epsilon\text{ für alle $k,l\in\mathbb{N}$ mit }k>l\geq n_0$$
+### Leibniz-Kriterium
+Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}
