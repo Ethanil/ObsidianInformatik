@@ -25,3 +25,10 @@ Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarro
 
 ### Dreiecksungleichung
 Jede [[Absolute Konvergenz|absolut konvergierende]] Reihe $\sum^\infty_{n=0} a_n$ in $\mathbb{K}$ ist auch konvergent in $\mathbb{K}$ und es gilt die verallgemeinerte Dreiecksungleichung
+$$\left|\sum^\infty_{n=0}a_n\right|\geq\sum^\infty_{n=0}|a_n|.$$
+## Major- und Minorantenkriterium
+Es seiehe $(a_n)$ und $(b_n)$ reelle [[Folge|Folgen]] und $n_0\in\mathbb{N}$.
+### Majorantenkriterium
+Ist $|a_n|\leq b_n$ für alle $n\geq n_0$ und konverigeirt die Reihe $\sum^\infty_{n=0}b_n$, so ist $\sum^\infty_{n=0}a_n$ absolut konvergent
+### Minorantenkriterium
+Ist $a_n\geq b_n \geq 0$ für alle $n\geq n_0$ und divergiert die Reihe $\sum^\infty_{n=0}$, so divergiert auch die Reihe $\sum^\infty_{n=0}a_n$.
