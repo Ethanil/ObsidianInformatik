@@ -1,0 +1,2 @@
+# Definitionsbereich
+Der Definitionsbereich einer [[Abbildung]] ist die Menge, die als "Quelle" der [[Abbildung]] zählt, diese ist häufig $\mathbb{R}$, aber kann auch definiert werden als bspw $A=\{3,4,10\}$

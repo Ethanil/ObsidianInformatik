@@ -1,2 +1,0 @@
-# Prozess und Laufzeitsystem
->Die Ausführung eines in ausführbare Form übersetzten [[Programm|Programms]] auf einem Computer jedweder Art (z.B. auch mobiles Endgerät) ist ein Prozess. Die Ausführung wird in der Regel durch ein Laufzeitsystem gesteuert, das verschiedene Dienste zur Verfügung stellt (z.B. Speicherverwaltung) sowie den Prozess überwacht und im Falle eines Laufzeitfehlers (z.B. Zugriff auf nichtexistentes Objekt) abbricht. (01a:61-73)
