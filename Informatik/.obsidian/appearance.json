@@ -1,5 +1,6 @@
 {
   "baseFontSize": 17,
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Everforest"
 }
