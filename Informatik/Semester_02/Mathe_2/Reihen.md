@@ -7,3 +7,7 @@ Es sei $(a_n)$ eine [[Folge]] in $\mathbb{K}$. Dann heißt
 $$\sum^\infty_{n=0}a_n=a_0+a_1+a_2+a_3+\dotso$$
 die Reihe über $(a_n)$.
 Wenn die Folge nur bis $k$, anstatt $\infty$ geht, dann ist dies die $k$-te Teilsumme der Reihe.
+## Konvergenzkriterien
+- Seien $\sum^\infty_{n=0}a_n$ und $\sum^\infty_{n=0}b_n$ zwei **konvergente** Reihen in $\mathbb{K}$ und $\alpha,\beta\in \mathbb{K}$. Dann ist $\sum^\infty_{n=0}(\alpha a_n+\beta b_n$ konvergent und es gilt:
+$$\sum^\infty_{n=0}(\alpha a_n+\beta b_n=\alpha \sum^\infty_{n=0}a_n+\beta \sum^\infty_{n=0}b_n$$
+- Ist $\sum^\infty_{n=0}a_n$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_n)$ eine Nullfolge in $\mathbb{K}$.
