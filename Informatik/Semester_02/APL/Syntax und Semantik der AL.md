@@ -24,3 +24,4 @@ $$\begin{align}
 	I:V\rightarrow \mathbb{B}\\ 
 	p \rightarrow \mathfrak{I}(p)
 \end{align}$$
+$\fancy{R}$ 
