@@ -10,7 +10,7 @@ Sei $L$ regulär, dann muss gelten:
 Sei $n\in\mathbb{N}$ gegeben.
 Setze das Wort spezifisch fest abhängig von n.
 Sei Zerlegung $x=uvw$ mit $v\neq \epsilon, |uv|\leq n$ gegeben.
-Pumpe das Wort $x=uv^mw$ mittels $m$ auf/ab und beweise so, dass das neue Wort nicht mehr in $L$ ist $\Rightarrow L$ ist nicht regulär.
+Pumpe das Wort $x=uv^mw$ mittels $m$ auf/ab und beweise so, dass das neue Wort nicht mehr in $L$ ist $\Rightarrow L$ ist nicht [[Reguläre Sprache|regulär]].
 
 ### Beispiel
 $L=a^kb^k$

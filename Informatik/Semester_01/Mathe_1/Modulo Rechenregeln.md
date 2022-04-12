@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 # [[Operatoren#Modulo|Modulo]] Rechenregeln
 Bei Rechnungen mit Modulo kann vieles vereinfacht werden, wenn man Rechenregeln anwendet:
 

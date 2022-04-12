@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Satz von Myhill-Nerode
-Wenn eine Sprache $L$ einen endlichen Index hat, dann ist sie regulär.
+Wenn eine Sprache $L$ einen endlichen Index hat, dann ist sie [[Reguläre Sprache|regulär]]. 
 
 Damit können wir Sprachen die nicht regulär sind erkennen:
 Wenn wir beweisen können, dass wir unendlich nicht äquivalente Wörter erzeugen können, dann ist die Sprache nicht regulär.
