@@ -1,38 +1,66 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"PDFs\" -path:\"Day Planners\" -path:\"Templates\" -path:\"Excalidraw\" -path:\"Digitaltechnik/Bilder\" -path:\"Digitaltechnik/Vorlesungsfolien\" -path:\"Digitaltechnik/Vorlesungsübersicht\" -path:\"Mathe I/Klausuren\" -path:\"Mathe I/Uebungen\"-path:Digitaltechnik/Vorlesung -path:\"Mathe I/Klausurenpath:Digitaltechnikpath:Digitaltechnik\"-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs-path:Digitaltechnik/Vorlesung -path:\"Mathe I/Klausurenpath:Digitaltechnikpath:Digitaltechnik\"-path:\"Day Planners\" -path:Templates -path:Excalidraw -path:Digitaltechnik/Bilder -path:PDFs",
+  "search": "-path:\"Semester_01/PDFs\"  -path:\"Templates\" -path:\"Semester_01/Excalidraw\" -path:\"Semester_01/Digitaltechnik/Bilder\" -path:\"Semester_01/Digitaltechnik/Vorlesungsfolien\" -path:\"Semester_01/Digitaltechnik/Vorlesungsübersicht\" -path:\"Semester_01/Mathe_1/Klausuren\" -path:\"Semester_01/Mathe_1/Uebungen\"-path:\"Semester_01/Digitaltechnik/Vorlesung\" -path\"Semester_01/AFE/Uebungen\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Digitaltechnik",
+      "query": "path:\"Semester_01/Digitaltechnik\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:AFE",
+      "query": "path:\"Semester_01/AFE\"",
       "color": {
         "a": 1,
         "rgb": 12669664
       }
     },
     {
-      "query": "path:\"Mathe I\"",
+      "query": "path:\"Semester_01/Mathe_1\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:FOP",
+      "query": "path:\"Semester_01/FOP\"",
       "color": {
         "a": 1,
         "rgb": 5403104
+      }
+    },
+    {
+      "query": "path:Semester_02/APL",
+      "color": {
+        "a": 1,
+        "rgb": 13734621
+      }
+    },
+    {
+      "query": "path:Semester_02/AuD",
+      "color": {
+        "a": 1,
+        "rgb": 9807594
+      }
+    },
+    {
+      "query": "path:Semester_02/Mathe_2",
+      "color": {
+        "a": 1,
+        "rgb": 13433017
+      }
+    },
+    {
+      "query": "path:Semester_02/RO",
+      "color": {
+        "a": 1,
+        "rgb": 14446491
       }
     }
   ],
@@ -46,6 +74,6 @@
   "repelStrength": 10.685787534049,
   "linkStrength": 0.790658548309566,
   "linkDistance": 139,
-  "scale": 0.139472943459769,
+  "scale": 0.48854597807783157,
   "close": false
 }
