@@ -1,7 +1,7 @@
 ---
 aliases: Interpretation, Belegung, Interpretationen, Belegungen
 ---
-$\newcommand{\f}[1]{\mathcal{#1}}$$\newcommand{\F}[1]{\mathfrak{#1}}$$\newcommand{\b}[1]{\mathbb{#1}}$
+$\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b}[1]{\mathbb{#1}}$
 # Interpretation (Belegung) 
 Eine $\mathcal{V}$-Interpretation ist eine Funktion
 $$\begin{align}

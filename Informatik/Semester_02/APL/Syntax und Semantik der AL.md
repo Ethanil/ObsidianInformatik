@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-$\newcommand{\f}[1]{\mathcal{#1}}$$\newcommand{\F}[1]{\mathfrak{#1}}$$\newcommand{\b}[1]{\mathbb{#1}}$
+$\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b}[1]{\mathbb{#1}}$
 # Syntax und Semantik der AL 
 ## Symbole
 - $0,1 / F,W / \perp T$ - Wahrheitswerte, aussagenlogische Konstanten
