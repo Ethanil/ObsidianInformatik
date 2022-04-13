@@ -11,4 +11,7 @@ f:\b{B}^n&\rightarrow \b{B} \\
 $\f{B}_n$ ist dabei für $n\in\b{N}$ die [[Mengen|Menge]] aller $n$-stelligen Booleschen Funktionen.
 
 ## AL und Boolesche Funktionen
-Eine [[Interp]]
+Mit einer Formel $\varphi\in AL_n$ assoziieren wir die Boolesche Funktion $f_\varphi\in\f{B}_n:$
+$$\begin{align}
+
+\end{alig$$
