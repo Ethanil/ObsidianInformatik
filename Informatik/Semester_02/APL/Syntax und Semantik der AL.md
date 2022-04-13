@@ -1,7 +1,8 @@
 ---
 aliases: 
 ---
-# Syntax und Semantik der AL
+$\newcommand{\f}[1]{\mathcal{#1}}$$\newcommand{\F}[1]{\mathfrak{#1}}$$\newcommand{\b}[1]{\mathbb{#1}}$
+# Syntax und Semantik der AL 
 ## Symbole
 - $0,1 / F,W / \perp T$ - Wahrheitswerte, aussagenlogische Konstanten
 - $p,q,r,\dotso p_1,p_2,\dotso$ - Aussagenvariablen
@@ -21,9 +22,14 @@ $$AL_n:=AL(V_n)$$
 ## Interpretation (Belegung)
 Eine $\mathcal{V}$-Interpretation ist eine Funktion
 $$\begin{align}
-	I:V\rightarrow \mathbb{B}\\ 
+	\F{I}:V\rightarrow \mathbb{B}\\ 
 	p \rightarrow \F{I}(p)
 \end{align}$$
 $\F{I}$ interpretiert $p$ als
 - "wahr", wenn $\F{I}(p)=1$
 - "falsch", wenn $\F{I}(p)=0$
+
+Jeder Formel $\varphi\in AL(\f{V})$ wird zu einer gegebenen $\f{V}$-Interpretation ein Wahrheitswert $\varphi^\F{I}\in\b{B}$ zugeordnet:
+$$\begin{align}
+^\
+\end{align}$$
