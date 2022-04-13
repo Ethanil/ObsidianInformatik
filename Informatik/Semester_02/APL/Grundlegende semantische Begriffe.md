@@ -12,4 +12,4 @@ $$\begin{align}
 \end{align}$$
 ### Allgemeingültigkeit
 Wenn eine Formel allgemeingültig ist, heißt dies, dass sie für jede [[Interpretation (Belegung)|Interpretation]] gültig ist. Man nennt dies auch Tautologie.
-Schreiben tut man dies mit $\vDash \varphi$ 
+Schreiben tut man dies mit $\vDash \varphi$ (anstelle von $\emptyset\vDash\varphi$)
