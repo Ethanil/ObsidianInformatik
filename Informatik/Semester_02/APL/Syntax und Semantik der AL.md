@@ -22,6 +22,8 @@ $$AL_n:=AL(V_n)$$
 Eine $\mathcal{V}$-Interpretation ist eine Funktion
 $$\begin{align}
 	I:V\rightarrow \mathbb{B}\\ 
-	p \rightarrow \mathfrak{I}(p)
+	p \rightarrow \F{I}(p)
 \end{align}$$
-$\fancy{R}$ 
+$\F{I}$ interpretiert $p$ als
+- "wahr", wenn $\F{I}(p)=1$
+- "falsch", wenn $\F{I}(p)=0$
