@@ -22,8 +22,8 @@ $$AL_n:=AL(V_n)$$
 ## Interpretation (Belegung)
 Eine $\mathcal{V}$-Interpretation ist eine Funktion
 $$\begin{align}
-	\F{I}:V\rightarrow \mathbb{B}\\ 
-	p \rightarrow \F{I}(p)
+	\F{I}:V\rightarrow&\ \mathbb{B}\\ 
+	p \rightarrow&\ \F{I}(p)
 \end{align}$$
 $\F{I}$ interpretiert $p$ als
 - "wahr", wenn $\F{I}(p)=1$
@@ -31,5 +31,7 @@ $\F{I}$ interpretiert $p$ als
 
 Jeder Formel $\varphi\in AL(\f{V})$ wird zu einer gegebenen $\f{V}$-Interpretation ein Wahrheitswert $\varphi^\F{I}\in\b{B}$ zugeordnet:
 $$\begin{align}
-^\
+^\F{I}:AL(\f{V})\rightarrow&\ \b{B} \\
+\varphi\rightarrow&\ \varphi^\F{I}
 \end{align}$$
+
