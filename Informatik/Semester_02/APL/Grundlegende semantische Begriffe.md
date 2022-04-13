@@ -10,11 +10,3 @@ $$\begin{align}
 &\text{bzw.} \\
 \F{I}\vDash \Phi &\Rightarrow \F{I}\vDash \psi
 \end{align}$$
-
-```ad-note
-title: Krasser Titel
-collapse:true
-INHAAAALLLT
-```
-```ad-example
-`
