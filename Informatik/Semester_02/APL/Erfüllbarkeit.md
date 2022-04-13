@@ -8,7 +8,6 @@ Eine Formel $\varphi\in AL(\f{V})$ oder Formelmenge $\Phi\subseteq AL(\f{V})$ he
 Die Menge der erfüllbaren Formeln schreiben wir mittels $SAT$ (satisfiability), genauer bspw.  $SAT(AL)$. 
 ### Allgemeingültigkeit
 Die [[Grundlegende semantische Begriffe|Allgemeingültigkeit]] kann auch definiert werden durch
-```ad-note
-title:Definition
-$$\varphi\text{ ist genau dann allgemeingültig, wenn }\neg\varphi\text{ nicht erfüllbar ist.}$$
+```ad-info
+title:$$\varphi\text{ ist genau dann allgemeingültig, wenn }\neg\varphi\text{ nicht erfüllbar ist.}$$
 ```
