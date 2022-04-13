@@ -41,4 +41,8 @@ Diese Funktion wird induktiv über den Aufbau der Formel $\varphi$ definiert:
 - $(\varphi\lor\psi)^\F{I}:=max(\varphi^\F{I},\psi^\F{I})(=\varphi^\F{I}+\psi^\F{I}-\varphi^\F{I}\cdot\psi^\F{I})$
 
 ## Semantik
-Wir sagen $\F{I}$ erfüllt
+Wir sagen $\F{I}$ erfüllt $\varphi$ und schreiben $\F{I}\vDash\varphi$  genau dann wenn $\varphi^\F{I}=1$. Das gleiche gilt auch für Formelmengen $\Phi\subseteq AL(\f{V})$ genau dann wenn $\F{I}\vDash\varphi \ \forall \varphi\in\Phi$
+Andere Sprechweisen für "$\F{I}$ erfüllt $\varphi$":
+- $\F{I}$ ist Modell von $\varphi$
+- $\varphi$ ist wahr unter $\F{I}$
+Die Relation $\vDash$ nennen wir Modellbeziehung.
