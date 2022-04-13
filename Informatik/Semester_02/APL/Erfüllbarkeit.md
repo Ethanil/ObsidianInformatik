@@ -11,3 +11,8 @@ Die [[Grundlegende semantische Begriffe|Allgemeingültigkeit]] kann auch definie
 ```ad-abstract
 title:$$\varphi\text{ ist genau dann allgemeingültig, wenn }\neg\varphi\text{ nicht erfüllbar ist.}$$
 ```
+### Folgerungsbeziehung
+Die [[Grundlegende semantische Begriffe|Folgerungsbeziehung]] kann auch definiert werden durch
+```ad-abstract
+title:$$\Phi\vDash\psi\text{ (aus $\Phi$ folgt $\psi$) gerade dann wenn }\Phi\cup\{\neg\psi\}\text{ unerfüllbar ist.}$$
+```
