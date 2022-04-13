@@ -34,4 +34,11 @@ $$\begin{align}
 ^\F{I}:AL(\f{V})\rightarrow&\ \b{B} \\
 \varphi\rightarrow&\ \varphi^\F{I}
 \end{align}$$
+Diese Funktion wird induktiv über den Aufbau der Formel $\varphi$ definiert:
+- $0^\F{I}:=0; 1^\F{I}:=1; p^\F{I}:=\F{I}(p)$
+- $(\neg \varphi)^\F{I}:=1-\varphi^\F{I}$
+- $(\varphi\land\psi)^\F{I}:=min(\varphi^\F{I},\psi^\F{I}) (=\varphi^\F{I}\cdot\psi^\F{I})$
+- $(\varphi\lor\psi)^\F{I}:=max(\varphi^\F{I},\psi^\F{I})(=\varphi^\F{I}+\psi^\F{I}-\varphi^\F{I}\cdot\psi^\F{I})$
 
+## Semantik
+Wir sagen $\F{I}$ erfüllt
