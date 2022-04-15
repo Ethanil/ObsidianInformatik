@@ -13,5 +13,6 @@ $\f{B}_n$ ist dabei für $n\in\b{N}$ die [[Mengen|Menge]] aller $n$-stelligen Bo
 ## AL und Boolesche Funktionen
 Mit einer Formel $\varphi\in AL_n$ assoziieren wir die Boolesche Funktion $f_\varphi\in\f{B}_n:$
 $$\begin{align}
-
-\end{alig$$
+f_\varphi:\b{B}^n &\rightarrow\b{B} \\
+(b_1,\dotso,b_n) &\rightarrow \varphi[b_1,\dotso,b_n]
+\end{align}$$
