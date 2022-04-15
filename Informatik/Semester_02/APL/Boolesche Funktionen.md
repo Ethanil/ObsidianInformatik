@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Funktionale Vollständigkeit
 ---
 $\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b}[1]{\mathbb{#1}}$
 # Boolesche Funktionen 
@@ -16,3 +16,7 @@ $$\begin{align}
 f_\varphi:\b{B}^n &\rightarrow\b{B} \\
 (b_1,\dotso,b_n) &\rightarrow \varphi[b_1,\dotso,b_n]
 \end{align}$$
+## Funktionale Vollständigkeit
+```ad-abstract
+title:$$\text{Zu jeder Funktion $f\in\f{B}_n$ gibt es $\varphi\in AL_n$ mit $f=f_\varphi$} $$
+```
