@@ -23,12 +23,16 @@ $$\left|\sum^k_{n=l+1}\right|<\epsilon\text{ für alle $k,l\in\mathbb{N}$ mit }k
 ### Leibniz-Kriterium
 Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarrow\infty}a_n=0$. Dann ist die Reihe $\sum^\infty_{n=0}(-1)^na_n$ konvergent.
 
-### Dreiecksungleichung
-Jede [[Absolute Konvergenz|absolut konvergierende]] Reihe $\sum^\infty_{n=0} a_n$ in $\mathbb{K}$ ist auch konvergent in $\mathbb{K}$ und es gilt die verallgemeinerte Dreiecksungleichung
-$$\left|\sum^\infty_{n=0}a_n\right|\geq\sum^\infty_{n=0}|a_n|.$$
-## Major- und Minorantenkriterium
+### Major- und Minorantenkriterium
 Es seiehe $(a_n)$ und $(b_n)$ reelle [[Folge|Folgen]] und $n_0\in\mathbb{N}$.
-### Majorantenkriterium
+#### Majorantenkriterium
 Ist $|a_n|\leq b_n$ für alle $n\geq n_0$ und konverigeirt die Reihe $\sum^\infty_{n=0}b_n$, so ist $\sum^\infty_{n=0}a_n$ absolut konvergent
-### Minorantenkriterium
+#### Minorantenkriterium
 Ist $a_n\geq b_n \geq 0$ für alle $n\geq n_0$ und divergiert die Reihe $\sum^\infty_{n=0}$, so divergiert auch die Reihe $\sum^\infty_{n=0}a_n$.
+
+### Wurzelkriterium
+Existiert der Grenzwert $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}$ so ist die Reihe
+- [[Absolute Konvergenz|absolut konvergent]], wenn $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}<1$ ist
+- divergent, wenn $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}>1$ ist.
+
+### Quotientenkriterium
