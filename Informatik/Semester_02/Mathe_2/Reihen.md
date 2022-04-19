@@ -36,3 +36,6 @@ Existiert der Grenzwert $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}$ so ist die Rei
 - divergent, wenn $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}>1$ ist.
 
 ### Quotientenkriterium
+Ist $a_n\neq 0$ für alle $n\in\mathbb{N}$ und existiert der Grenzwert $lim_{n\rightarrow\infty}|a_{n+1}/a_n|$  so ist die Reihe
+- [[Absolute Konvergenz|absolut konvergent]], wenn $lim_{n\rightarrow\infty}\frac{|a_{n+1}|}{|a_n|}<1$ ist
+- divergent, wenn $lim_{n\rightarrow\infty}\frac{|a_{n+1}|}{|a_n|}>1$ ist
