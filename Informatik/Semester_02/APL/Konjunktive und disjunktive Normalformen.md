@@ -14,7 +14,3 @@ Analog zu der [[Product-of-sums|Konjunktive Normalform]] bzw. der oben definiert
 ```ad-abstract
 title:$$\text{Zu jeder DNF gibt es eine äquivalente KNF und umgekehrt.}$$
 ```
-
-|     |     |     | asd |
-| --- | --- | --- | --- |
-|     |     |     |     |
