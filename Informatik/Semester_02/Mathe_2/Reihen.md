@@ -10,7 +10,7 @@ Wenn die Folge nur bis $k$, anstatt $\infty$ geht, dann ist dies die $k$-te Teil
 ## Konvergenzkriterien
 ### 2 konvergente Reihen konvergieren
 Seien $\sum^\infty_{n=0}a_n$ und $\sum^\infty_{n=0}b_n$ zwei **konvergente** Reihen in $\mathbb{K}$ und $\alpha,\beta\in \mathbb{K}$. Dann ist $\sum^\infty_{n=0}(\alpha a_n+\beta b_n)$ **konvergent** und es gilt:
-$$\sum^\infty_{n=0}(\alpha a_n+\beta b_n=\alpha \sum^\infty_{n=0}a_n+\beta \sum^\infty_{n=0}b_n$$
+$$\sum^\infty_{n=0}(\alpha a_n+\beta b_n)=\alpha \sum^\infty_{n=0}a_n+\beta \sum^\infty_{n=0}b_n$$
 ### Folgen von konvergenten Reihen sind Nullfogen
 Ist $\sum^\infty_{n=0}a_n$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_n)$ eine Nullfolge in $\mathbb{K}$.
 ### Monotonie-Kriterium
