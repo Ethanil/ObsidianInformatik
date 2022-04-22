@@ -30,4 +30,9 @@ $$E(z)E(w)=\sum^{\infty}_{n=0}\frac{(z+w)^{n}}{n!}=E(z+w)$$
 ```
 
 ```ad-abstract
-title:$$\text{Für alle }z\in\mathbb{C}\text{ ist}$$
+title: Funktionalgleichung
+$$\begin{align}
+\text{Für alle }z\in\mathbb{C}\text{ ist}\\
+e^z:=E(z)= \sum^{\infty}_{n=0}\frac{z^n}{n!}
+\end{align}$$
+```
