@@ -13,6 +13,8 @@ title:Anwendungsbeispiel
 Für alle $z,w \in \b{C}$ gilt $E(z+w)=E(z)E(w)$.
 Da alle beteiligten [[Reihen]] [[Absolute Konvergenz|absolut konvergent]] sind gilt:
 $$\begin{align}
-E(z)E(w) &= (\sum^{\infty}_{#})
+E(z)E(w) &= \left(\sum^{\infty}_{n=0}\frac{z^n}{n!}\right)\left(\sum^{\infty}_{n=0}\frac{w^n}{n!}\right)
+&&=\sum^{\infty}_{n=0}\sum^{n}_{k=0}\frac{z^k}{k!}\frac{w^{n-k}}{(n-k)!}\\
+&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}\frac{n!}{k!(n-k)!}z^kw^{n-k}&&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}
 \end{align}$$
 ```
