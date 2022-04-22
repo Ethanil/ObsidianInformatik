@@ -24,9 +24,9 @@ $$\left|\sum^k_{n=l+1}\right|<\epsilon\text{ für alle $k,l\in\mathbb{N}$ mit }k
 Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarrow\infty}a_n=0$. Dann ist die Reihe $\sum^\infty_{n=0}(-1)^na_n$ konvergent.
 
 ### Major- und Minorantenkriterium
-Es seiehe $(a_n)$ und $(b_n)$ reelle [[Folge|Folgen]] und $n_0\in\mathbb{N}$.
+Es seien $(a_n)$ und $(b_n)$ reelle [[Folge|Folgen]] und $n_0\in\mathbb{N}$.
 #### Majorantenkriterium
-Ist $|a_n|\leq b_n$ für alle $n\geq n_0$ und konverigeirt die Reihe $\sum^\infty_{n=0}b_n$, so ist $\sum^\infty_{n=0}a_n$ absolut konvergent
+Ist $|a_n|\leq b_n$ für alle $n\geq n_0$ und konvergiert die Reihe $\sum^\infty_{n=0}b_n$, so ist $\sum^\infty_{n=0}a_n$ absolut konvergent
 #### Minorantenkriterium
 Ist $a_n\geq b_n \geq 0$ für alle $n\geq n_0$ und divergiert die Reihe $\sum^\infty_{n=0}$, so divergiert auch die Reihe $\sum^\infty_{n=0}a_n$.
 
