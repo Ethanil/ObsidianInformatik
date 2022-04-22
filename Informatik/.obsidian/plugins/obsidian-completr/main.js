@@ -362,7 +362,7 @@ function substringUntil(str, delimiter) {
 }
 var LatexSuggestionProvider = class {
   getSuggestions(context, settings) {
-    if (!settings.latexProviderEnabled || !context.query)
+    if (!settings.latexProviderEnabled || !context.query || context.query.length < settings.minWordTriggerLength)
       return [];
     let editor = context.editor;
     if (!isInLatexBlock(editor, context.start, settings.latexTriggerInCodeBlocks))
