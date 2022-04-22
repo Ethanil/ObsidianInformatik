@@ -15,6 +15,16 @@ Da alle beteiligten [[Reihen]] [[Absolute Konvergenz|absolut konvergent]] sind g
 $$\begin{align}
 E(z)E(w) &= \left(\sum^{\infty}_{n=0}\frac{z^n}{n!}\right)\left(\sum^{\infty}_{n=0}\frac{w^n}{n!}\right)
 &&=\sum^{\infty}_{n=0}\sum^{n}_{k=0}\frac{z^k}{k!}\frac{w^{n-k}}{(n-k)!}\\
-&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}\frac{n!}{k!(n-k)!}z^kw^{n-k}&&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}
+&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}\frac{n!}{k!(n-k)!}z^kw^{n-k}&&=\sum^{\infty}_{n=0}\frac{1}{n!}\sum^{n}_{k=0}\begin{pmatrix}
+n \\ k
+\end{pmatrix}
+z^kw^{n-k}
 \end{align}$$
+Nach der [[Binomialformel]] gilt:
+$$\sum^{n}_{k=0}\begin{pmatrix}
+n \\ k
+\end{pmatrix}z^{k}w^{n-k}=(z+w)^n$$
+also zusammengefasst:
+$$E(z)E(w)=\sum^{\infty}_{n=0}\frac{(z+w)^n}{n!}=E(z+w)$$
 ```
+
