@@ -7,9 +7,9 @@ Das Cauchy-Produkt gilt für [[Absolute Konvergenz|absolut konvergierende]] [[Re
 ```ad-abstract
 title:$$\sum^\infty_{n=0}\sum^n_{k=0}a_kb_{n-k}=\left(\sum^\infty_{n=0}a_n\right)\left(\sum^\infty_{n=0}b_n\right)$$
 ```
-
+## Funktionalgleichung der Exponentialfunktionen
 ```ad-example
-title:Anwendungsbeispiel
+title:Beweis
 collapse:
 Für alle $z,w \in \b{C}$ gilt $E(z+w)=E(z)E(w)$.
 Da alle beteiligten [[Reihen]] [[Absolute Konvergenz|absolut konvergent]] sind gilt:
@@ -29,3 +29,5 @@ also zusammengefasst:
 $$E(z)E(w)=\sum^{\infty}_{n=0}\frac{(z+w)^{n}}{n!}=E(z+w)$$
 ```
 
+```ad-abstract
+title:$$\text{Für alle }z\in\mathbb{C}\text{ ist}$$
