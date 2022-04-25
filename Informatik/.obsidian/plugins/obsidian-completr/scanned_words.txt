@@ -59,6 +59,7 @@ falsch
 und
 und
 unter
+unendlichen
 besagt
 bis
 beschränkt
@@ -69,6 +70,7 @@ bedeutet
 bis
 beschränkt
 bspw
+beliebige
 konvergent
 konvergierend
 konvergierende
@@ -109,6 +111,8 @@ Konstanten
 Konvergenz
 Konvergenzkriterien
 Kriterium
+Kompaktheitssatz
+Korollar
 Eine
 Exponentialfunktionen
 Es
@@ -194,6 +198,8 @@ existiert
 erfüllbar
 erfüllbaren
 erfüllbare
+endliche
+endliches
 verallgemeinerte
 von
 vom
@@ -237,6 +243,7 @@ schreiben
 so
 seien
 satisfiability
+sich
 über
 über
 Wenn
@@ -264,6 +271,7 @@ Teilsumme
 Typ
 Tautologie
 Teilsumme
+Teilmenge
 Seien
 Schreiben
 Syntax
@@ -341,9 +349,12 @@ Belegung
 Belegungen
 Zu
 Zwei
+Zertifikat
 Äquivalenz
 äquivalente
 äquivalent
 logisch
 logischen
 logische
+lässt
+Unerfüllbarkeit
