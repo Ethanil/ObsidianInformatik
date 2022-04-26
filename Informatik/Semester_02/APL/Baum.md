@@ -12,3 +12,5 @@ $V=\{0,1,2,3,4,5,6\}$
 $E=\{(0,1),(0,2),(1,3),(1,4),(2,5),(2,6)\}$
 $\lambda=0$
 ``` 
+## Endlich verzweigt
+Ein Baum heißt endlich verzweigt, wenn für jeden Knoten $u \in V$ die direkte Nachfolgermenge $E[u]:=\{v \in V:(u,v)\in E\}$ endlich ist.
