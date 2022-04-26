@@ -6,5 +6,5 @@ $\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b
 Ein Logikkalkül ist eine syntaktische Definition formaler Beweise
 ## Formale Beweise
 Ein formaler Beweis ist eine syntaktische Zeichenkette, die aus einfach nachprüfbaren syntaktischen Regeln aufgebaut ist.
-## Abletung
-Erzeugung von regelkonformen 
+## Ableitung
+Erzeugung von regelkonformen formalen Beweisen.
