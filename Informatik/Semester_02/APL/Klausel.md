@@ -6,4 +6,4 @@ $\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b
 Eine Klausel ist eine endliche Menge an [[Literal|Literalen]]. Wir assoziieren mit der Klausel $C=\{L_1,\dotso,L_k\}$ die [[Disjunktion(oder)]] $\bigvee C \equiv L_{1} \lor \dotso \lor L_k$
 
 ## Klauselmenge
-Eine endliche Klauselmenge steht für die [[Konjunktion(und)]] ihrer Klauseln. Für $K=\{C_1,\dotso,C_l\}$ ist $K \equiv C_{1}\land \dotso \land C_{l}$ eine [[KNF]]
+Eine endliche Klauselmenge steht für die [[Konjunktion(und)]] ihrer Klauseln. Für $K=\{C_1,\dotso,C_l\}$ ist $K \equiv C_{1}\land \dotso \land C_{l}$ eine [[Konjunktive und disjunktive Normalformen|KNF]]-Formel. Das heißt zu jeder endlichen [[Konjunktive und disjunktive Normalformen|KNF]]-Formel gehört eine [[Semester_02/APL/Logische Äquivalenz|äquivalente]] Klauselmenge.
