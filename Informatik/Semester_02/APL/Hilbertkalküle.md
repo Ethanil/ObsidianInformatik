@@ -27,4 +27,10 @@ $$\begin{align}
 &0 \rightarrow \varphi \\
 &\neg \neg \varphi \rightarrow \varphi
 \end{align}$$
+Hypothese:
+$$\varphi \rightarrow \varphi$$
+Herleitungsschritte:
+$$\begin{align}
+
+\end{align}$$
 ```
