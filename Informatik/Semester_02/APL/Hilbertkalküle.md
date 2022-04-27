@@ -15,5 +15,16 @@ Ein Hilbertkalkül benutzt ein Axiomschemata aus [[Grundlegende semantische Begr
 ```ad-example
 title:Beispiel
 collapse:
-
+$$\begin{align}
+&\varphi \rightarrow (\phi \rightarrow \varphi) \\
+&(\varphi \rightarrow (\phi \rightarrow \chi)) \rightarrow ((\varphi &\rightarrow \psi) \rightarrow (\varphi \rightarrow \chi)) \\
+&\varphi \rightarrow \varphi \lor \psi \\
+&\psi \rightarrow \varphi \lor \psi \\
+&(\varphi \rightarrow \chi) \rightarrow ((\psi \rightarrow \chi) &\rightarrow(\varphi \lor \psi \rightarrow \chi)) \\
+&\varphi \land psi \rightarrow \varphi \\
+&\varphi \land psi \rightarrow \psi \\
+&\varphi \rightarrow (\psi \rightarrow \varphi \land \psi) \\
+&0 \rightarrow \varphi \\
+&\neg \neg \varphi \rightarrow \varphi
+\end{align}$$
 ```
