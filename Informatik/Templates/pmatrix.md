@@ -1,3 +1,3 @@
 \begin{pmatrix}
-
+<% tp.file.cursor(1) %>
 \end{pmatrix}

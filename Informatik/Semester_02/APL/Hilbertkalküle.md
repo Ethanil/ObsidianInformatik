@@ -11,3 +11,9 @@ $$\{A,A \rightarrow B\}\vdash B \Leftrightarrow \frac{A, A \rightarrow B}{B}$$
 
 ## Aufbau
 Ein Hilbertkalkül benutzt ein Axiomschemata aus [[Grundlegende semantische Begriffe|Tautologien]] worauf eine Hypothese mittels des [[Modus Ponens]] zurückführbar ist.
+
+```ad-example
+title:Beispiel
+collapse:
+
+```
