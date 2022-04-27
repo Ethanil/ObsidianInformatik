@@ -7,6 +7,7 @@ Das Cauchy-Produkt gilt für [[Absolute Konvergenz|absolut konvergierende]] [[Re
 ```ad-abstract
 title:$$\sum^\infty_{n=0}\sum^n_{k=0}a_kb_{n-k}=\left(\sum^\infty_{n=0}a_n\right)\left(\sum^\infty_{n=0}b_n\right)$$
 ```
+Das Cauchy-Produkt von zwei [[Absolute Konvergenz|absolut konvergenten]] Reihen ist auch [[Absolute Konvergenz|absolut konvergent]]
 ## Funktionalgleichung der Exponentialfunktionen
 ```ad-example
 title:Beweis
