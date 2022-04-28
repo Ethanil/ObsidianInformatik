@@ -8,72 +8,72 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Semester_01/Digitaltechnik\"",
+      "query": "path:Semester_01/AFE",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Semester_01/AFE\"",
-      "color": {
-        "a": 1,
-        "rgb": 12669664
-      }
-    },
-    {
-      "query": "path:\"Semester_01/Mathe_1\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Semester_01/FOP\"",
-      "color": {
-        "a": 1,
-        "rgb": 5403104
+        "rgb": 16748431
       }
     },
     {
       "query": "path:Semester_02/APL",
       "color": {
         "a": 1,
-        "rgb": 13734621
+        "rgb": 16726564
       }
     },
     {
-      "query": "path:Semester_02/AuD",
+      "query": "path:Semester_01/Digitaltechnik",
       "color": {
         "a": 1,
-        "rgb": 9807594
-      }
-    },
-    {
-      "query": "path:Semester_02/Mathe_2",
-      "color": {
-        "a": 1,
-        "rgb": 13433017
+        "rgb": 14548889
       }
     },
     {
       "query": "path:Semester_02/RO",
       "color": {
         "a": 1,
-        "rgb": 14446491
+        "rgb": 10276370
+      }
+    },
+    {
+      "query": "path:Semester_01/FOP",
+      "color": {
+        "a": 1,
+        "rgb": 11075554
+      }
+    },
+    {
+      "query": "path:Semester_02/AuD",
+      "color": {
+        "a": 1,
+        "rgb": 182909
+      }
+    },
+    {
+      "query": "path:Semester_01/Mathe_1",
+      "color": {
+        "a": 1,
+        "rgb": 13020671
+      }
+    },
+    {
+      "query": "path:Semester_02/Mathe_2",
+      "color": {
+        "a": 1,
+        "rgb": 5452207
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.31693489392831,
-  "lineSizeMultiplier": 0.542087295781517,
+  "nodeSizeMultiplier": 1.63714947573762,
+  "lineSizeMultiplier": 0.872457937088515,
   "collapse-forces": true,
-  "centerStrength": 0.394415996098513,
-  "repelStrength": 12.570104852475,
-  "linkStrength": 0.386734942696903,
-  "linkDistance": 234,
-  "scale": 0.13947294345975964,
-  "close": false
+  "centerStrength": 0.2514020970495,
+  "repelStrength": 12.3603999024628,
+  "linkStrength": 0.384052670080468,
+  "linkDistance": 185,
+  "scale": 0.1166047727796427,
+  "close": true
 }
