@@ -1,4 +1,3 @@
 ```ad-abstract
-title:Definition
-<% tp.file.cursor(1) %>
+title:Definition - <% tp.file.cursor(1) %>
 ```
