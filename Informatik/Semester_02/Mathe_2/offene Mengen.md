@@ -32,3 +32,9 @@ $$M°:=\{x \in M: x \text{ innerer Punkt von }M\}$$
 
 das Innere von M.
 ```
+
+```ad-abstract
+title:Definition
+Eine Teilmenge $M$ von $V$ ist genau dann abgeschlossen, wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element aus $M$ ist.
+```
+
