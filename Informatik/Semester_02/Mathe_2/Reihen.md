@@ -19,7 +19,7 @@ Es seien $(a_n)$ eine Folge in $\mathbb{K}$ und $s_k:=\sum^k_{n=0}a_n,k\in \math
 ### Cauchy-Kriterium
 Es seien $(a_n)$ eine Folge in $\mathbb{K}$ und $s_k:=\sum^k_{n=0}a_n,k\in \mathbb{N}$. Dann gilt
 - Die Reihe zur Folge ist genau dann konvergent, wenn für jedes $\epsilon > 0$ ein $n_0\in\mathbb{N}$ exisitert mit
-$$\left|\sum^k_{n=l+1}\right|<\epsilon\text{ für alle $k,l\in\mathbb{N}$ mit }k>l\geq n_0$$
+$$\left|\sum^{k_{n=l+1}}a_n\right|<\epsilon\text{ für alle $k,l\in\mathbb{N}$ mit }k>l\geq n_0$$
 ### Leibniz-Kriterium
 Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarrow\infty}a_n=0$. Dann ist die Reihe $\sum^\infty_{n=0}(-1)^na_n$ konvergent.
 
