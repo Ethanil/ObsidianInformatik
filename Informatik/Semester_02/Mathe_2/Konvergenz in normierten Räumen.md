@@ -33,7 +33,7 @@ Eine Menge $M \subseteq V$ heißt beschränkt, falls es ein $C \geq 0$ gibt, so 
 ```
 ```ad-abstract
 title:Definition - Konvergenz aller Koordinatenfolge $\Leftrightarrow$ Konvergenz der Folge
-Es sei $(a_n)_{n \in \mathbb{N}}=((a_{n,1},a_{n,2},\dotso,a_{n,d})^T)_{n\in \mathbb{N}}$ eine Folge in $\mathbb{R}^d$ mit der [[Normierte Räume#2-Norm|2-Norm]] $||x||_2=\sqrt{x^2_1+x^2_2+\dotso+x^2_d}$. Dann ist $(a_n)$ in $\mathbb{R}^d$ genau dann konvergent, wenn für jedes $j \in \{1,2,\dotso,d\}$ die Kooradinatenfolge $(a_{n,j})_{n \in \mathbb{N}}$ in $\mathbb{R}$ konverget ist. In diesem Fall ist
+Es sei $(a_n)_{n \in \mathbb{N}}=((a_{n,1},a_{n,2},\dotso,a_{n,d})^T)_{n\in \mathbb{N}}$ eine Folge in $\mathbb{R}^d$ mit der [[Normierte Räume#2-Norm|2-Norm]] $||x||_2=\sqrt{x^2_1+x^2_2+\dotso+x^2_d}$. Dann ist $(a_n)$ in $\mathbb{R}^d$ genau dann konvergent, wenn für jedes $j \in \{1,2,\dotso,d\}$ die Kooradinatenfolge $(a_{n,j})_{n \in \mathbb{N}}$ in $\mathbb{R}$ konvergent ist. In diesem Fall ist
 $$lim_{n \rightarrow \infty}\begin{pmatrix}
 a_{n,1}\\
 a_{n,2}\\
