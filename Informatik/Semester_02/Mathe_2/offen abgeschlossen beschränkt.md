@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: offen, abgeschlossen, beschränkt
 ---
 # offen abgeschlossen beschränkt 
 
@@ -38,8 +38,16 @@ title:Definition
 Eine Teilmenge $M$ von $V$ ist genau dann abgeschlossen, wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element aus $M$ ist.
 ```
 
-## beschränkt
+## beschränkte Menge
 ```ad-abstract
 title:Definition - beschränkte Menge
-Eine Menge $M \subseteq V$ heißt beschränkt, falls es ein $C geq 0$ gibt, so dass 
+Eine Menge $M \subseteq V$ heißt beschränkt, falls es ein $C \geq 0$ gibt, so dass $||x||_{V} \leq C$ für alle $x \in M$ gilt.
+```
+```ad-abstract
+title:Definition - kompakte Menge
+Ist $V$ ein endlichdeimensionaler [[Normierte Räume|normierter]] $\mathbb{R}-$[[Vektorraum]], so heißt eine [[Teilmengenbeziehungen|Teilmenge]] $M \subseteq V$ kompakt, wenn sie abgeschlossen und beschränkt ist.
+```
+```ad-warning
+title: Warnung
+In unendlichdimensionalen Räumen ist die Definition von kompakten Teilmengen anders, dort kann es abgeschlossene, beschränkte Mengen geben die **nicht** kompakt sind.
 ```
