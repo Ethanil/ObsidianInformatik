@@ -1,9 +1,9 @@
 ---
 aliases: 
 ---
-$\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b}[1]{\mathbb{#1}}$
-# offene Mengen 
-In [[Normierte Räume|normierten Räumen]] spielen sogennante offene oder abgegeschlossene MEngen eine wichtige Rolle:
+# offen abgeschlossen beschränkt 
+
+In [[Normierte Räume|normierten Räumen]] spielen sogennante offene oder abgegeschlossene Mengen eine wichtige Rolle:
 ## Definitionen
 ```ad-abstract
 title:Definition - offene Kugel
@@ -38,3 +38,8 @@ title:Definition
 Eine Teilmenge $M$ von $V$ ist genau dann abgeschlossen, wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element aus $M$ ist.
 ```
 
+## beschränkt
+```ad-abstract
+title:Definition - beschränkte Menge
+Eine Menge $M \subseteq V$ heißt beschränkt, falls es ein $C geq 0$ gibt, so dass 
+```
