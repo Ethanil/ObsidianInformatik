@@ -50,7 +50,6 @@ title:Definition - Vollständigkeit
 $K$ unerfüllbar $\Rightarrow \square \in Res^*(K)$
 ```
 
-
 ```ad-example
 title:Beispiel
 collapse:
