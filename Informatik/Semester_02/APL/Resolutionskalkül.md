@@ -36,16 +36,25 @@ Eine Klausel $C$ heißt (im Resolutionskalkül) **ableitbar** aus $K$, gdw. $C \
 
 ```ad-abstract
 title:Definition - $Res^*(K)$
-$Res*(K)$ ist die Menge aller aus $K$ ableitbaren Klauseln.
+$Res^*(K)$ ist die Menge aller aus $K$ ableitbaren Klauseln.
 ```
 
 ## Korrektheit und Vollständigkeit des Resolutionskalküls
 ```ad-info
 title:Definition - Korrektheit
-$\square \in Res^{*(K)\Rightarrow}K \equiv 0 \text{ unerfüllbar.}$
+$\square \in Res^{*}(K)\Rightarrow K \equiv 0 \text{ unerfüllbar.}$
 $\text{(Die Aussage folgt sofort aus dem Resolutionslemma)}$
 ```
 ```ad-abstract
 title:Definition - Vollständigkeit
 $K$ unerfüllbar $\Rightarrow \square \in Res^*(K)$
+```
+
+```ad-example
+title:Beispiel
+collapse:
+$\varphi=(p \lor u)\land (r \rightarrow q) \land \neg q \land(p \rightarrow t) \land \neg s \land(t \rightarrow s)$
+$\Leftrightarrow(p \lor u) \land(\neg r \lor q)\land \neg q \land (\neg p \lor t) \land \neg s \land (\neg t \lor s)$
+$K:=\{\{p,u\}, \{\neg r, q\},\{\neg q\},\{\neg p, t\},\{\neg s\},\{\neg t,s\}\}$
+![[Resolutionskalkül 02.05.2022 10-22-21.excalidraw]]
 ```
