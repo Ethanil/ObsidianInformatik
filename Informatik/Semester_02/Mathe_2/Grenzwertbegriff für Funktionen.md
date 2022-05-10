@@ -25,3 +25,8 @@ Ist $x_{0}$ ein Häufungspunkt von $D_{-}:=\{x \in D : x < x_{0}\}$, so hat $f$ 
 $$\lim_{x \rightarrow x_{0}-}f(x)=y$$
 ```
 ````
+
+```ad-abstract
+title:Definition
+Es sei $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$. Ex
+```
