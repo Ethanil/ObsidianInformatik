@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Banachraum, Hilbertraum
 ---
 # vollständiger Vektorraum 
 ```ad-abstract
