@@ -31,3 +31,32 @@ title:Definition
 Es sei $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$. Exisiteren $\lim_{x \rightarrow x_{0}-}f(x)$ *und* $\lim_{x \rightarrow x_{0}+}f(x)$ und sind die beiden Werte gleich, so exisitert auch $\lim_{x \rightarrow x_{0}}f(x)$ und es gilt
 $$\lim_{x \rightarrow x_{0}}f(x)=\lim_{x \rightarrow x_{0}-}f(x)=\lim_{x \rightarrow x_{0}+}f(x)$$
 ```
+
+````ad-abstract
+title:Definition - Rechenregeln
+Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein [[Häufungswert]] von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
+```ad-abstract
+title: $+,\cdot, ||$
+Die Grenzwerte für $x$ gegen $x_{0}$ von $f+g, fg$ und $|f|$ existieren und es gilt
+$$\begin{align}
+\lim_{x \rightarrow x_{0}}(f(x)+g(x)) &= \lim_{x \rightarrow x_{0}}f(x) + \lim_{x \rightarrow x_{0}} g(x) \\
+\lim_{x \rightarrow x_{0}}(f(x)g(x)) &= \lim_{x \rightarrow x_{0}}f(x) \cdot \lim_{x \rightarrow x_{0}} g(x) \\
+\lim_{x \rightarrow x_{0}}|f(x)| &= |\lim_{x \rightarrow x_{0}}f(x)|\\
+\end{align}$$
+```
+```ad-abstract
+title:$leq$
+Gilt $f(x) \leq g(x)$ für alle $x \in D \backslash \{x_{0}\}$, so ist $\lim_{x\rightarrow x_{0}}f(x) \leq \lim_{x\rightarrow x_{0}}g(x)$
+```
+```ad-abstract
+title:$=$
+Ist $\lim_{x\rightarrow x_{0}}f(x)=\lim_{x\rightarrow x_{0}}g(x)$ und gilt
+$$\begin{align}
+f(x)\leq h(x) \leq g(x)& &\text{für alle }x \in D \backslash \{x_{0}\}
+\end{align}$$
+so gilt auch $\lim_{x\rightarrow x_{0}}h(x)=\lim_{x\rightarrow x_{0}}f(x)=\lim_{x\rightarrow x_{0}}g(x)$
+```
+```ad-abstract
+title:Definition - 
+```
+````
