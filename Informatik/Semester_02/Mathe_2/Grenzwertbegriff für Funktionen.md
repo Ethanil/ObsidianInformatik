@@ -4,6 +4,7 @@ aliases:
 # Grenzwertbegriff für Funktionen 
 ````ad-abstract
 title:Definition - Grenzwertbegriffe für Funktionen
+collapse:
 Es sei $D \subseteq \mathbb{R}$ eine Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$
 ```ad-abstract
 title:Definition - Häufungspunkt von $D$
@@ -27,13 +28,15 @@ $$\lim_{x \rightarrow x_{0}-}f(x)=y$$
 ````
 
 ```ad-abstract
-title:Definition
+title:Definition - rechts und linksseitiger zu allgemeinem Grenzwert
+collapse:
 Es sei $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$. Exisiteren $\lim_{x \rightarrow x_{0}-}f(x)$ *und* $\lim_{x \rightarrow x_{0}+}f(x)$ und sind die beiden Werte gleich, so exisitert auch $\lim_{x \rightarrow x_{0}}f(x)$ und es gilt
 $$\lim_{x \rightarrow x_{0}}f(x)=\lim_{x \rightarrow x_{0}-}f(x)=\lim_{x \rightarrow x_{0}+}f(x)$$
 ```
 
 ````ad-abstract
 title:Definition - Rechenregeln
+collapse:
 Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein [[Häufungswert]] von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
 ```ad-abstract
 title: $+,\cdot, ||$
@@ -57,6 +60,15 @@ f(x)\leq h(x) \leq g(x)& &\text{für alle }x \in D \backslash \{x_{0}\}
 so gilt auch $\lim_{x\rightarrow x_{0}}h(x)=\lim_{x\rightarrow x_{0}}f(x)=\lim_{x\rightarrow x_{0}}g(x)$
 ```
 ```ad-abstract
-title:Definition - 
+title: /
+Ist $y:=\lim_{x\rightarrow x_{0}}g(x) \neq 0$, so exisitert ein $\delta>0$, so dass $|g(x)|\geq |y|/2$ für alle $x \in (D \cap(x_{0}-\delta,x_{0}+\delta))\backslash \{x_{0}\}$ ist. Wir können also die Funktion
+$$\begin{align}
+\frac{f}{g}:(D \cap(x_{0}-\delta,x_{0}+\delta))\backslash \{x_{0}\} \rightarrow \mathbb{R}& &\text{ mit } &\frac{f}{g}(x):=\frac{f(x)}{g(x)}
+\end{align}$$
+definieren. Für diese exisitert dann der Limes für $x$ gegen $x_{0}$ mit
+$$\begin{align}
+\lim_{x\rightarrow x_{0}}\frac{f(x)}{g(x)}=\frac{\lim_{x\rightarrow x_{0}}f(x)}{\lim_{x\rightarrow x_{0}}g(x)}
+\end{align}$$
 ```
 ````
+
