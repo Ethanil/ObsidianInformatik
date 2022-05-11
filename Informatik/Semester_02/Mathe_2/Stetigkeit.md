@@ -31,5 +31,9 @@ Ist $x_{0} \in D^{*:=\{x}\in D: g(x) \neq 0\}$, so ist die Funktion $\frac{f}{g:
 title:Definition - Verkettung von Funktionen
 Es seien $D,E \subseteq \mathbb{R}$ und $f: D \rightarrow E$, sowie $g: E \rightarrow \mathbb{R}$ Funktionen. Ist $f$ stetig in $x_{0} \in D$ und $g$ stetig in $f(x_{0})$, so ist $g \circ f: D \rightarrow \mathbb{R}$ stetig in $x_{0}$
 ```
+```ad-abstract
+title:Definition - Stetigkeit von Umkehrfunktionen
+Es sei $I \subseteq \mathbb{R}$
+```
 ````
 
