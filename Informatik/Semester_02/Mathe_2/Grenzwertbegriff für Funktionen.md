@@ -28,5 +28,6 @@ $$\lim_{x \rightarrow x_{0}-}f(x)=y$$
 
 ```ad-abstract
 title:Definition
-Es sei $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$. Ex
+Es sei $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$. Exisiteren $\lim_{x \rightarrow x_{0}-}f(x)$ *und* $\lim_{x \rightarrow x_{0}+}f(x)$ und sind die beiden Werte gleich, so exisitert auch $\lim_{x \rightarrow x_{0}}f(x)$ und es gilt
+$$\lim_{x \rightarrow x_{0}}f(x)=\lim_{x \rightarrow x_{0}-}f(x)=\lim_{x \rightarrow x_{0}+}f(x)$$
 ```
