@@ -37,7 +37,7 @@ $$\lim_{x \rightarrow x_{0}}f(x)=\lim_{x \rightarrow x_{0}-}f(x)=\lim_{x \righta
 ````ad-abstract
 title:Definition - Rechenregeln
 collapse:
-Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein [[Häufungswert]] von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
+Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein H#ufungspunkt von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
 ```ad-abstract
 title: $+,\cdot, ||$
 Die Grenzwerte für $x$ gegen $x_{0}$ von $f+g, fg$ und $|f|$ existieren und es gilt
@@ -72,3 +72,23 @@ $$\begin{align}
 ```
 ````
 
+````ad-abstract
+title:Definition - unendliche Grenzwerte und Grenzwerte für $x_{0}$ gegen unendlich
+collapse:
+```ad-abstract
+title:Definition - Grenzwert gegen $\infty$
+Es seien $D \subseteq \mathbb{R}, f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0}$ ein Häufungspunkt von $D$. Wir schreiben
+$$\begin{align}
+\lim_{x\rightarrow x_{0}}f(x) = \infty& &\text{(bzw. }\lim_{x\rightarrow x_{0}}f(x)=-\infty)
+\end{align}$$
+wenn für jede Folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert und für die $a_{n}\neq x_{0}$ für alle $n \in \mathbb{N}$ gilt, die Folge $(f(a_{n}))$ bestimmt gegen $\infty$ (bzw. $-\infty$) divergiert.
+```
+```ad-abstract
+title:Definition - Grenzwert für $x_{0}$ gegen $\infty$
+Es sei $D \subseteq \mathbb{R}$ nicht nach oben (bzw. unten) beschränkt, $f: D \rightarrow \mathbb{R}$ eine Funktion und $y \in \mathbb{R}\cup \{\infty,-\infty\}$. Wir sagen
+$$\begin{align}
+\lim_{x\rightarrow \infty}f(x)=y& &\text{(bzw. }\lim_{x\rightarrow -\infty}f(x)=y)
+\end{align}$$
+wenn für jede Folge $(a_{n})$ in $D$, die bestimmt gegen $\infty$ (bzw. $-\infty$) divergiert, $\lim_{n\rightarrow \infty}f(a_{n})=y$ gilt.
+```
+````
