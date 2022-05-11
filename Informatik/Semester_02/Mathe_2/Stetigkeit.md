@@ -33,7 +33,18 @@ Es seien $D,E \subseteq \mathbb{R}$ und $f: D \rightarrow E$, sowie $g: E \right
 ```
 ```ad-abstract
 title:Definition - Stetigkeit von Umkehrfunktionen
-Es sei $I \subseteq \mathbb{R}$
+Es sei $I \subseteq \mathbb{R}$ ein Intervall und $f \in C(I)$ [[Monotonie von Funktionen|streng monoton]]. Dann ist $F:I \rightarrow f(I)$ bijektiv, $f(I)$ ein Intervall und $f^{-1}:f(I)\rightarrow I$ ist stetig auf $f(I)$ und streng monoton
 ```
 ````
-
+````ad-abstract
+title:Definition - Lipschitz-stetig
+Es sei $D \subseteq \mathbb{R}$. Eine Funktion $f:D \rightarrow \mathbb{R}$ heißt Lipschitz-stetig, falls es ein $L > 0$ gibt mit
+$$\begin{align}
+|f(x)-f(y)|\leq L|x-y|& &\text{für alle }x,y \in D
+\end{align}$$
+Lipschitz-Stetigkeit ist ein strengerer Begriff als Stetigkeit
+```ad-abstract
+title:
+Ist $D \subseteq \mathbb{R}$ unf $f:D \rightarrow \mathbb{R}$ Lipschitz-stetig, so ist $f$ stetig auf $D$
+```
+````
