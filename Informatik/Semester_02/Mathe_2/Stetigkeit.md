@@ -11,3 +11,11 @@ $$\begin{align}
 C(D):=\{f:D \rightarrow \mathbb{R}: f \text{ stetig auf }D\}
 \end{align}$$
 ```
+```ad-abstract
+title:Definition
+Es sei $D \subseteq \mathbb{R}$ und $f: D \rightarrow \mathbb{R}$ eine Funktion. Ist $x_{0} \in D$ ein Häufungspunkt von $D$, so ist $f$ in $x_{0}$ genau dann stetig, wenn
+$$\begin{align}
+\lim_{x\rightarrow x_{0}}f(x)=f(x_{0})
+\end{align}$$
+gilt.
+```

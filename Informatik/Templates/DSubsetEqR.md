@@ -1,0 +1,1 @@
+D \subseteq \mathbb{R}
