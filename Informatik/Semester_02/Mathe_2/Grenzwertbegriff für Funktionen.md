@@ -37,7 +37,7 @@ $$\lim_{x \rightarrow x_{0}}f(x)=\lim_{x \rightarrow x_{0}-}f(x)=\lim_{x \righta
 ````ad-abstract
 title:Definition - Rechenregeln
 collapse:
-Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein H#ufungspunkt von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
+Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein Häufungspunkt von $D$. Desweiteren seien drei Funktionen $f,g,h:D \rightarrow \mathbb{R}$ gegeben, so dass die Grenzwerte $\lim_{x \rightarrow x_{0}}f(x)$ und $\lim_{x \rightarrow x_{0}}g(x)$ exisiteren. Dann gilt:
 ```ad-abstract
 title: $+,\cdot, ||$
 Die Grenzwerte für $x$ gegen $x_{0}$ von $f+g, fg$ und $|f|$ existieren und es gilt
@@ -92,3 +92,7 @@ $$\begin{align}
 wenn für jede Folge $(a_{n})$ in $D$, die bestimmt gegen $\infty$ (bzw. $-\infty$) divergiert, $\lim_{n\rightarrow \infty}f(a_{n})=y$ gilt.
 ```
 ````
+
+## Links
+[[offen abgeschlossen beschränkt|beschränkt]]
+[[Folge|Divergenz]]

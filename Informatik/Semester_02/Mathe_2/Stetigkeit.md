@@ -45,6 +45,10 @@ $$\begin{align}
 Lipschitz-Stetigkeit ist ein strengerer Begriff als Stetigkeit
 ```ad-abstract
 title:
-Ist $D \subseteq \mathbb{R}$ unf $f:D \rightarrow \mathbb{R}$ Lipschitz-stetig, so ist $f$ stetig auf $D$
+Ist $D \subseteq \mathbb{R}$ und $f:D \rightarrow \mathbb{R}$ Lipschitz-stetig, so ist $f$ stetig auf $D$
 ```
 ````
+
+## Links
+[[Folge]]
+[[Monotonie von Funktionen]]

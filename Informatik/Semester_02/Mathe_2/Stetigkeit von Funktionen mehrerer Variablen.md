@@ -32,3 +32,14 @@ C(D;W):=\{f:D \rightarrow W : f \text{ stetig auf }D\}
 title:Definition - Stetigkeit aus der Stetigkeit einzelner Koordinaten
 Es sei $D \subseteq \mathbb{R}^{d}$ und $x_{0} \in D$. Dann ist $f:D \rightarrow \mathbb{R}^{d}$ genau dann in $x_{0}$ stetig, wenn alle Koordinatenfunktionen $f_{1},f_{2},\dotso,f_{p}:D \rightarrow \mathbb{R}$ in $x_{0}$ stetig sind.
 ```
+```ad-abstract
+title:Definition - Rechenregeln
+Es seien $D \subseteq \mathbb{R}^{d},x_{0} \in D$ und $f,g: D \rightarrow \mathbb{R}$ stetig in $x_{0}$, sowie $h:f(D) \rightarrow \mathbb{R}$ stetig in $f(x_{0}).$ Dann sind auch $f+g, fg, |f|$ und $h \circ f$ als Funktionen von $D$ nach $\mathbb{R}$ stetig in $x_{0}$
+Ist außerdem $x_{0}\in D^{*}:=\{x \in D:g(x)\neq 0\}$, so ist auch $\frac{f}{g:D^{*}}\rightarrow \mathbb{R}$ stetig in $x_{0}$.
+```
+
+## Links
+[[Normierte Räume]]
+[[Vektorraum]]
+[[Konvergenz in normierten Räumen]]
+[[Stetigkeit]]

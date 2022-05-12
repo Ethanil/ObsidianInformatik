@@ -17,3 +17,7 @@ $$\begin{align}
 &||x_n-v||_{V}\leq \frac{q^{n}}{1-q}||x_{n}-x_{n-1}||_{V} &&\text{(A-posteriori-Abschätzung)}
 \end{align}$$
 ```
+
+## Links
+[[vollständiger Vektorraum|Banachraum]]
+[[offen abgeschlossen beschränkt|abgeschlossen]]

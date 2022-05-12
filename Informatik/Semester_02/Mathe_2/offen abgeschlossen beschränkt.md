@@ -51,3 +51,9 @@ Ist $V$ ein endlichdeimensionaler [[Normierte Räume|normierter]] $\mathbb{R}-$[
 title: Warnung
 In unendlichdimensionalen Räumen ist die Definition von kompakten Teilmengen anders, dort kann es abgeschlossene, beschränkte Mengen geben die **nicht** kompakt sind.
 ```
+
+## Links
+[[Mengen|Menge]]
+[[Normierte Räume]]
+[[Vektorraum]]
+[[Teilmengenbeziehungen]]

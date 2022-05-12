@@ -22,3 +22,6 @@ f(x_{*})\leq f(x) \leq f(x^{*})& &\text{für alle }x \in K
 \end{align}$$
 gilt. Insbesondere ist $f$ beschränkt.
 ```
+
+## Links
+[[offen abgeschlossen beschränkt|beschränkt]]
