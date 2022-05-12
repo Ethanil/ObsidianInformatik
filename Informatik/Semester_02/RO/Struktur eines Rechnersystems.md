@@ -16,6 +16,6 @@ Ein Programmzähler, der immer auf den nächsten Maschinenbefehl im Hauptspeiche
 ### Register (Register file)
 Ein schneller Speicher für Operanden
 ### Hauptspeicher(Main memory)
-speichert BNefehle und Daten
+speichert Befehle und Daten
 ### Bus Interface
 Verbindet einzelne Komponenten(z.B. System bus, memory bus)
