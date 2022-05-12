@@ -58,6 +58,3 @@ $\Leftrightarrow(p \lor u) \land(\neg r \lor q)\land \neg q \land (\neg p \lor t
 $K:=\{\{p,u\}, \{\neg r, q\},\{\neg q\},\{\neg p, t\},\{\neg s\},\{\neg t,s\}\}$
 ![[Resolutionskalkül 02.05.2022 10-22-21.excalidraw]]
 ```
-
-$\mathfrak{V}$
-$\mathcal{V}$

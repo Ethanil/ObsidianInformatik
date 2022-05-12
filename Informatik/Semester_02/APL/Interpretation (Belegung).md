@@ -12,7 +12,7 @@ $\F{I}$ interpretiert $p$ als
 - "wahr", wenn $\F{I}(p)=1$
 - "falsch", wenn $\F{I}(p)=0$
 
-Jeder Formel $\varphi\in AL(\f{V})$ wird zu einer gegebenen $\f{V}$-Interpretation ein Wahrheitswert $\varphi^\F{I}\in\b{B}$ zugeordnet:
+Jeder [[Syntax und Semantik der AL|Formel]] $\varphi\in AL(\f{V})$ wird zu einer gegebenen $\f{V}$-Interpretation ein Wahrheitswert $\varphi^\F{I}\in\b{B}$ zugeordnet:
 $$\begin{align}
 ^\F{I}:AL(\f{V})\rightarrow&\ \b{B} \\
 \varphi\rightarrow&\ \varphi^\F{I}
