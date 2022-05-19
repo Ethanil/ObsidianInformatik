@@ -17,13 +17,13 @@ Jeder Befehl, außer `NOP`, kann sogenannte [[Condition Codes]] verwenden, indem
 | SUB(S) | R,R,R/I   | N,C,Z,V    | `SUB r1,r2,r3`                        | $r1:=r2-r3$                                                                                              |
 
 ## Transportbefehle
-| Befehl | Operanden          | Statusbits    | Beispiel                                                                                                     | Wirkung                                                                                    |
-| ------ | ------------------ | ------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| LDR    | R,M                | Keine         | `LDR r1,adr_v1`<br>`LDR r3,[r1,#4]`<br>`LDR R0, [R1,R2,LSL #4]`<br>`LDR R0, [R1, #4]!`<br>`LDR R0, [R1], R2` | $r1:=$ Adresse von $v1$ <br>$r3:=r1[1]$<br>$r0:=r1[(r2<<4)]$<br>$r1+=4; r0:=*rl$<br>$r0=*r1; r1+=r2$ |
-| STR    | R,M                | Keine         | `STR r1,adr_v1`<br>`STR r3,[r1, #4]`<br>`STR R0, [R1,R2,LSL #4]`                                             | Adresse von $v1:=r1$<br>$r1[1]:=r3$<br>$r1[(r2<<4)]:=0$                                          |
-| MOV(S) | N,Z                | `MOV r1, #26` | $r1:=26$                                                                                                       |                                                                                            |
-| POP    | {R} oder {R,R,...} | Keine         | `POP r1`                                                                                                     | Legt den Inhalt vom Stack in das Register $r1$                                               |
-| Push   | {R} oder {R,R,...} | Keine         | `PUSH r1`                                                                                                    | Legt den Inhalt des Registers $r1$ auf den Stack                                                                                           |
+| Befehl | Operanden          | Statusbits | Beispiel                                                                                                     | Wirkung                                                                                              |     |
+| ------ | ------------------ | ---------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | --- |
+| LDR    | R,M                | Keine      | `LDR r1,adr_v1`<br>`LDR r3,[r1,#4]`<br>`LDR R0, [R1,R2,LSL #4]`<br>`LDR R0, [R1, #4]!`<br>`LDR R0, [R1], R2` | $r1:=$ Adresse von $v1$ <br>$r3:=r1[1]$<br>$r0:=r1[(r2<<4)]$<br>$r1+=4; r0:=*rl$<br>$r0=*r1; r1+=r2$ |     |
+| STR    | R,M                | Keine      | `STR r1,adr_v1`<br>`STR r3,[r1, #4]`<br>`STR R0, [R1,R2,LSL #4]`                                             | Adresse von $v1:=r1$<br>$r1[1]:=r3$<br>$r1[(r2<<4)]:=0$                                              |     |
+| MOV(S) | R,I              | N,Z        | `MOV r1, #26`                                                                                                | $r1:=26$                                                                                             |     |
+| POP    | {R} oder {R,R,...} | Keine      | `POP r1`                                                                                                     | Legt den Inhalt vom Stack in das Register $r1$                                                       |     |
+| Push   | {R} oder {R,R,...} | Keine      | `PUSH r1`                                                                                                    | Legt den Inhalt des Registers $r1$ auf den Stack                                                     |     |
 
 ## Logische Befehle
 | Befehl | Operanden     | Statusbits | Beispiel          | Wirkung                                              |
