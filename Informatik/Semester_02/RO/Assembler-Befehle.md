@@ -26,6 +26,12 @@ Jeder Befehl, außer `NOP`, kann sogenannte [[Condition Codes]] verwenden, indem
 | Push   | {R} oder {R,R,...} | Keine         | `PUSH r1`                                                                                                    | Legt den Inhalt des Registers r1 auf den Stack                                                                                           |
 
 ## Logische Befehle
+| Befehl | Operanden     | Statusbits | Beispiel          | Wirkung                                              |
+| ------ | ------------- | ---------- | ----------------- | ---------------------------------------------------- |
+| AND(S) | R,R,R/I       | N,Z        | `AND r1,r2,#0xF9` | r1=r2 & 0xF9                                         |
+| ASR(S) | R,R,R/I(1-32) | C,Z,N      | `ASR r1,r1#8`     | Arithmetischer Shift von r1 nach rechts um 8 Stellen |
+| EOR(S) | R,R,R/I       | N,Z        | `EOR r1, r2, r3`  | $r1:=r2 \oplus r3$                                   |
+|        |               |            |                   |                                                      |
 
 ## Kontroll- und Sprungbefehle
 | Befehl | Operanden | Statusbits | Beispiel     | Wirkung                                                                      |
