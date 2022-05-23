@@ -17,5 +17,24 @@ Es sei $(a_{n})$ eine Folge in $\mathbb{K}$, so dass der Grenzwert $\varrho:=\li
 - Ist $\varrho=0$, so konvergiert die Potenzreihe für alle $x \in \mathbb{K}$ absolut.
 - Ist $\varrho \in (0, \infty)$, so ist die Potenzreihe für alle $x \in \mathbb{K}$ mit $|x|<\frac{1}{\varrho}$ absolut konvergent und für alle $x \in \mathbb{K}$ mit $|x|> \frac{1}{\varrho}$ divergent.
 ```
+```ad-abstract
+title:Definition - Quotientenkriterium für Potenzreihen
+Es sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n}\neq 0$ für alle $n \in \mathbb{N}$, so dass $\sigma:=\lim_{n\rightarrow \infty}\left|\frac{a_{n+1}}{a_{n}}\right|$ existiert. Dann gilt für den Konvergenzradius $r$ von $\sum^{\infty}_{n=0}a_{n}x^{n}$
+$$\begin{align}
+r=\begin{cases}
+\frac{1}{\sigma}\text{, falls }\sigma \in (0, \infty) \\
+\infty \text{, falls }\sigma=0.
+\end{cases}
+\end{align}$$
+```
+
+```ad-abstract
+title:Definition - Erweiterung des Potenzreihen Begriffs.
+Es sei $(a_{n})$ eine Folge in $\mathbb{K}, n_{0} \in \mathbb{N}$ und $x_{0}\in \mathbb{K}$. Dann nennt man eine Reihe der Form
+$$\begin{align}
+\sum^{\infty}_{n=n_{0}}a_{n}(x-x_{0})^{n}
+\end{align}$$
+Potenzreihe. der Punkt $x_{0}$ wird Entwicklungspunkt der Potenzreihe genannt.
+```
 
 ## Links
