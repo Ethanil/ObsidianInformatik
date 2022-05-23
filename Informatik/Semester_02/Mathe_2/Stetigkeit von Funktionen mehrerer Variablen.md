@@ -53,10 +53,20 @@ $$\begin{align}
 \end{align}$$
 eine Norm. Diese heißt Supremums-Norm
 ```
+````ad-abstract
 ```ad-abstract
 title:Definition - Die Wahl der Norm auf $\mathbb{R}^{d}$ ist für die Konvergenz egal
-Es sei $||\cdot||$ irgendeine Norm auf $\mathbb{R}^{d}$ und $||\cdot||_{2}$ die 2-Norm auf $\mathbb{R}^{d}$. Dann gibt es zwei 
+Sind $||\cdot||$ und $|||\cdot|||$ zwei Normen auf $\mathbb{R}^{d}$. Dann gibt es zwei Konstanten $c$ und $C$ mit $0<c \leq C$, so dass
+$$\begin{align}
+c||x||\leq |||x||| \leq C ||x||& &\text{für alle }x \in \mathbb{R}^{d}
+\end{align}$$
+gilt.
 ```
+```ad-abstract
+Ist eine Folge $(a_{n})$ in $\mathbb{R}^{d}$ bezüglich einer Norm konvergent, so konvergiert sie auch bezüglich jeder anderen Norm und der Grenzwert ist derselbe.
+```
+````
+
 ## Links
 [[Normierte Räume]]
 [[Vektorraum]]
