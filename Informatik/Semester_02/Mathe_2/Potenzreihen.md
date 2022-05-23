@@ -36,5 +36,13 @@ $$\begin{align}
 \end{align}$$
 Potenzreihe. der Punkt $x_{0}$ wird Entwicklungspunkt der Potenzreihe genannt.
 ```
+```ad-abstract
+title:Definition - Reihe mit Konvergenzradius als Funktion
+Es sei $\sum^{\infty}_{n=0}a_{n}x^{n}$ eine Potenzreihe in $\mathbb{K}$ mit Konvergenzradius $r>0$. Dann ist die dadurch gegebene Funktion $f: \{x \in \mathbb{K}:|x|<r\}\rightarrow \mathbb{K}$ mit $f(x)=\sum^{\infty}_{n=0}a_{n}x^{n}$ stetig auf $\{x \in \mathbb{K}: |x|<r\}$
+```
 
 ## Links
+[[Reihen|Reihe]]
+[[offen abgeschlossen beschränkt|beschränkt]]
+[[Folge]]
+
