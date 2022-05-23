@@ -54,7 +54,8 @@ $$\begin{align}
 eine Norm. Diese heißt Supremums-Norm
 ```
 ```ad-abstract
-title:Definition - Die Wahl der Norm auf $\mathbb{R}^{d}$ist für die Konvergenz 
+title:Definition - Die Wahl der Norm auf $\mathbb{R}^{d}$ ist für die Konvergenz egal
+Es sei $||\cdot||$ irgendeine Norm auf $\mathbb{R}^{d}$ und $||\cdot||_{2}$ die 2-Norm auf $\mathbb{R}^{d}$. Dann gibt es zwei 
 ```
 ## Links
 [[Normierte Räume]]
