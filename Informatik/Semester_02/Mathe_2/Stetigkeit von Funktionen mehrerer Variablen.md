@@ -37,9 +37,28 @@ title:Definition - Rechenregeln
 Es seien $D \subseteq \mathbb{R}^{d},x_{0} \in D$ und $f,g: D \rightarrow \mathbb{R}$ stetig in $x_{0}$, sowie $h:f(D) \rightarrow \mathbb{R}$ stetig in $f(x_{0}).$ Dann sind auch $f+g, fg, |f|$ und $h \circ f$ als Funktionen von $D$ nach $\mathbb{R}$ stetig in $x_{0}$
 Ist außerdem $x_{0}\in D^{*}:=\{x \in D:g(x)\neq 0\}$, so ist auch $\frac{f}{g:D^{*}}\rightarrow \mathbb{R}$ stetig in $x_{0}$.
 ```
-
+```ad-abstract
+title:Definition - Beschränktheit durch Kompaktheit
+Es sei $K \subseteq \mathbb{R}^d$ kompakt und nicht-leer, sowie $f \in C(K)$. Dann gibt es $x_{*},x^{*}\in K$, so dass
+$$\begin{align}
+f(x_{*})\leq f(x)\leq f(x^{*})& &\text{für alle }x \in K
+\end{align}$$
+gilt. Insbesondere ist $f$ [[offen abgeschlossen beschränkt|beschränkt]].
+```
+```ad-abstract
+title:Definition - Supremums-Norm
+Es sei $K \subseteq \mathbb{R}^d$ kompakt und nicht-leer, dann ist $||\cdot||_{\infty}:C(K)\rightarrow \mathbb{R}$ mit
+$$\begin{align}
+||f||_{\infty}:=\max_{x \in K}|f(x)|,& &f \in C(K)
+\end{align}$$
+eine Norm. Diese heißt Supremums-Norm
+```
+```ad-abstract
+title:Definition - Die Wahl der Norm auf $\mathbb{R}^{d}$ist für die Konvergenz 
+```
 ## Links
 [[Normierte Räume]]
 [[Vektorraum]]
 [[Konvergenz in normierten Räumen]]
 [[Stetigkeit]]
+[[offen abgeschlossen beschränkt|beschränkt]]
