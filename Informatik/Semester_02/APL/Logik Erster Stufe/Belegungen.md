@@ -6,12 +6,12 @@ Variablenfreie $S$-[[Terme]] haben in jeder $S$-[[Strukturen|Struktur]] $\mathca
 Für Terme mit Variablen braucht man auch eine Interpretation der Variablen, die Belegung der Variablen.
 ```ad-abstract
 title:Definition - Belegungen und Interpretationen
-Eine Funktion $\beta:V \rightarrow A$ heißt Belegung (für die $x \in V$) in der $S$-Struktur $\mathcal{A}=(A,\dotso)$.
+Eine Funktion $\beta:\mathcal{V} \rightarrow A$ heißt Belegung (für die $x \in V$) in der $S$-Struktur $\mathcal{A}=(A,\dotso)$.
 Eine $S$-Struktur $\mathcal{A}$ und Belegung $\beta$ zusammen bilden eine $S$-Interpretation $\mathfrak{I}=(\mathcal{A},\beta)$
 ```
 ## Semantik
 Für jede $S$-Interpretation $\mathfrak{I}=(\mathcal{A},\beta)$ können wir induktiv als Interpretation von $t \in T(S)$ das von $t$ bezeichnete Element $t^{\mathfrak{I}}\in A$ definieren:
-- Für $t=x(x \in V$ Variable$): t^{\mathfrak{I}}:=\beta(x)$
+- Für $t=x(x \in \mathcal{V}$ Variable$): t^{\mathfrak{I}}:=\beta(x)$
 - Für $t=c(c \in S \text{Konstantensymbol}): t^{\mathfrak{I}}:=c^{\mathcal{A}}$
 - Für $t=ft_{1}\dotso t_{n},$ mit $n$-stelligem Funktionssymbol $f \in S: t^{\mathfrak{I}}:=f^{\mathcal{A}}(t^{\mathfrak{I}}_{1},\dotso,t^{\mathfrak{I}}_{n})$
 
