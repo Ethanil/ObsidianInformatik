@@ -43,7 +43,8 @@ a^{x}:=e^{x \cdot ln(a)}
 title:Definition - Stetigkeit und Rechenregeln
 Es sei $a \in (0, \infty)$. Dann ist die Funktion $x \rightarrow a^{x}$ stetig auf $\mathbb{R}$ und es gelten die bekannten Rechenregeln für Potenzen wie beispielsweise
 $$\begin{align}
-a^{x+y}=a^{x}a^{y},& &a^{-1}=\frac{1}{a}& &
+a^{x+y}=a^{x}a^{y},& &a^{-1}=\frac{1}{a}& &(a^{x})^{y}=a^{xy}
 \end{align}$$
 ```
+
 ## Links
