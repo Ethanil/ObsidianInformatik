@@ -22,7 +22,7 @@ title:Dieses $C$ nennt man Resolvente
 ````
 
 ## Beweise im Resolutionskalkül
-Wir erstellen einen [[baum|Ableitungsbaum]] für $\square$, wobei die Knoten mit Klauseln, $\square$ die Wurzel, die Resolventen an den binären Verzweigungen und die Klauseln aus K an den Blättern sind.
+Wir erstellen einen [[Baum|Ableitungsbaum]] für $\square$, wobei die Knoten mit Klauseln, $\square$ die Wurzel, die Resolventen an den binären Verzweigungen und die Klauseln aus K an den Blättern sind.
 
 ```ad-abstract
 title:Definition - $Res(K)$

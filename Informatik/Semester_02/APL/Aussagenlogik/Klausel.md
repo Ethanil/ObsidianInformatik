@@ -7,7 +7,7 @@ Eine Klausel ist eine endliche Menge an [[Literal|Literalen]]. Wir assoziieren m
 Die leere Klausel $\square$ ist immer unerfüllbar($=0$).
 
 ## Klauselmenge
-Eine endliche Klauselmenge steht für die [[Konjunktion(und)]] ihrer Klauseln. Für $K=\{C_1,\dotso,C_l\}$ ist $K \equiv C_{1}\land \dotso \land C_{l}$ eine [[Konjunktive und disjunktive Normalformen|KNF]]-Formel. Das heißt zu jeder endlichen [[Konjunktive und disjunktive Normalformen|KNF]]-Formel gehört eine [[Semester_02/APL/Logische Äquivalenz|äquivalente]] Klauselmenge.
+Eine endliche Klauselmenge steht für die [[Konjunktion(und)]] ihrer Klauseln. Für $K=\{C_1,\dotso,C_l\}$ ist $K \equiv C_{1}\land \dotso \land C_{l}$ eine [[Konjunktive und disjunktive Normalformen|KNF]]-Formel. Das heißt zu jeder endlichen [[Konjunktive und disjunktive Normalformen|KNF]]-Formel gehört eine [[Semester_02/APL/Aussagenlogik/Logische Äquivalenz|äquivalente]] Klauselmenge.
 
 Siehe auch [[Hornklauseln]]
 

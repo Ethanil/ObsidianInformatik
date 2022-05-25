@@ -38,3 +38,6 @@ Genauer: Ist die Konklusion (mit Beweis der Tiefe $n$) herleitbar, dann auch die
 title:Definition - Kontraktionslemma
 Ist $\Gamma, \varphi, \varphi \vdash \Delta$ (bzw. $\Gamma \vdash \Delta, \varphi, \varphi$) beweisbar (mit Tiefe $n$), so auch $\Gamma, \varphi \vdash \Delta$ (bzw. $\Gamma \vdash \Delta, \varphi$)
 ```
+
+## Regeln
+![[Sequenzkalkülregeln]]
