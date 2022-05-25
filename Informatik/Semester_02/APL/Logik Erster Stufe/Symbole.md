@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Symbol
 ---
 # Symbole 
 $$\begin{align}

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Struktur
 ---
 # Strukturen 
 ```ad-abstract

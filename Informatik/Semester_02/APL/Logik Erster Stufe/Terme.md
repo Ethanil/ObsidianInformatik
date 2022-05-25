@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Term
 ---
 # Terme 
 Sei $S$ eine Signatur. Wir interessieren uns hier nur für die Funktions- und Konstantensymbole in $S$, also den funktionalen Anteil $S_{F}\subseteq S$. 
