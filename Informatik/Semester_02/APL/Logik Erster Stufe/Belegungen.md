@@ -15,6 +15,13 @@ Für jede $S$-Interpretation $\mathfrak{I}=(\mathcal{A},\beta)$ können wir indu
 - Für $t=c(c \in S \text{Konstantensymbol}): t^{\mathfrak{I}}:=c^{\mathcal{A}}$
 - Für $t=ft_{1}\dotso t_{n},$ mit $n$-stelligem Funktionssymbol $f \in S: t^{\mathfrak{I}}:=f^{\mathcal{A}}(t^{\mathfrak{I}}_{1},\dotso,t^{\mathfrak{I}}_{n})$
 
+Für jede $S$-Interpretation $\mathfrak{I}=(\mathcal{A},\beta)$ ist die Abbildung
+$$\begin{align}
+h:T(S) &\rightarrow A\\
+t &\mapsto t^{\mathfrak{I}}
+\end{align}$$
+ein [[Homomorph|Homomorphismus]] von $\mathcal{T}(S)$ nach $\mathcal{A}$.
+
 ## Schreibweisen für Belegungen und Interpretationen
 Zu $\beta: V \rightarrow A$ bezeichnet $\beta[x \mapsto a]$ die abgeänderte Belegung $\beta'$ mit
 $$\begin{align}
