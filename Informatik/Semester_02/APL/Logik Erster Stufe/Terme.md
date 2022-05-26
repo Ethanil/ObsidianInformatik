@@ -22,4 +22,4 @@ Eine Termstruktur zu $S$ ist eine $S_{F}$-Struktur $\mathcal{T}=\mathcal{T}(S)$,
 Termstrukturen ohne Konstantensymbole bezeichnet man als Herbrand-Stuktur und schreibt $\mathcal{T}_{0}(S)$
 ## Links
 [[Strukturen]]
-[[Symbole]]
+[[Symbole der Signatur]]

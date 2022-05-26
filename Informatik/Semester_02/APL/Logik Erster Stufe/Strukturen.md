@@ -11,5 +11,5 @@ Eine *S-Stuktur* $\mathcal{A}=(A,c^{\mathcal{A}}, \dotso f^{\mathcal{A}},\dotso 
 ```
 
 ## Links
-[[Symbole]]
+[[Symbole der Signatur]]
 [[Terme]]
