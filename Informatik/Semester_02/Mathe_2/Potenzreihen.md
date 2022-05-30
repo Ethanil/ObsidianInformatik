@@ -10,13 +10,28 @@ $$\begin{align}
 \end{align}$$
 heißt Potenzreihe
 ```
-```ad-abstract
+````ad-abstract
 title:Definition - Satz von Hadamard
 Es sei $(a_{n})$ eine Folge in $\mathbb{K}$, so dass der Grenzwert $\varrho:=\lim_{n\rightarrow \infty}\sqrt[n]{|a_{n}|}$ exisitert oder die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt ist. Dann gelten die folgenden Konvergenzaussagen für die Potenzreihe $\sum^{\infty}_{n=0}a_{n}x^{n}:$
 - Ist die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt, so konvergiert die Potenzreihe nur für $x=0$
 - Ist $\varrho=0$, so konvergiert die Potenzreihe für alle $x \in \mathbb{K}$ absolut.
 - Ist $\varrho \in (0, \infty)$, so ist die Potenzreihe für alle $x \in \mathbb{K}$ mit $|x|<\frac{1}{\varrho}$ absolut konvergent und für alle $x \in \mathbb{K}$ mit $|x|> \frac{1}{\varrho}$ divergent.
+```ad-abstract
+title:Definition - der Konvergenzradius
+Es sei $\sum^{\infty}_{n=0}a_{n}x^{n}$ eine Potenzreihe wie oben Dann heißt die Zahl
+$$
+\begin{align}
+r:=
+\begin{cases}
+0,\text{ falls in obigem Satz (a) gilt,}\\
+\infty,\text{ falls in obigem Satz (b) gilt,}\\
+\frac{1}{\varrho},\text{ falls in obigem Satz (c) gilt,}
+\end{cases}
+\end{align}
+$$
+der Konvergenzradius der Potenzreihe
 ```
+````
 ```ad-abstract
 title:Definition - Quotientenkriterium für Potenzreihen
 Es sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n}\neq 0$ für alle $n \in \mathbb{N}$, so dass $\sigma:=\lim_{n\rightarrow \infty}\left|\frac{a_{n+1}}{a_{n}}\right|$ existiert. Dann gilt für den Konvergenzradius $r$ von $\sum^{\infty}_{n=0}a_{n}x^{n}$
