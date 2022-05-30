@@ -76,6 +76,9 @@ cos(z)=0&\Leftrightarrow z=\frac{\pi}{2} +k \pi \text{ für ein }k \in \mathbb{Z
 ```
 ```ad-abstract
 title:Definition - Tangens
-Die Funktion $tan: \mathbb{C}\backslash \{\frac{\pi}{2}+k \pi: k \in \mathbb{Z}\}r$
+Die Funktion $tan: \mathbb{C}\backslash \{\frac{\pi}{2}+k \pi: k \in \mathbb{Z}\}\rightarrow \mathbb{C}$ mit
+$$tan(z)=\frac{sin(z)}{cos(z)}$$
+heißt Tangens
 ```
+
 ## Links
