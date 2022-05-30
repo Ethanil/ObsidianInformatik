@@ -30,7 +30,52 @@ Eine Funktion $f: \mathbb{R} \rightarrow \mathbb{R}$ oder $f: \mathbb{C} \righta
 - gerade, falls $f(-x)=f(x)$ für alle $x \in \mathbb{R}$, bzw. $\mathbb{C}$ gilt.
 - periodisch mit Periode $L \in \mathbb{R}$, bzw. $\mathbb{C}$, wenn $f(x+L)=f(x)$ für alle $x \in \mathbb{R}$, bzw. $\mathbb{C}$ gilt.
 ```ad-abstract
-title:Definition - 
+title:
+Der Cosinus ist gerade und der Sinus ist ungerade.
 ```
 ````
+```ad-abstract
+title:Definition - Eulersche Formel
+Für alle $z \in \mathbb{C}$ gilt
+$$ \begin{align}
+e^{iz}= cos(z)+sin(z) i.
+\end{align}$$
+Insbesondere gilt für alle $x \in \mathbb{R}$ damit
+$$\begin{align}
+Re(e^{ix})=cos(x)& &\text{und}& &Im(e^{ix})=sin(x)
+\end{align}$$
+```
+````ad-abstract
+title:Definition - Formeln für trinonometrische Funktionen
+```ad-abstract
+title:
+$$|sin(x)\leq 1 \text{ und }|cos(x)|\leq 1$$
+```
+```ad-abstract
+title: Additionstheoreme
+$$\begin{align}
+sin(x+y)&=sin(x)cos(y)+sin(y)cos(x)\\
+cos(x+y)&=cos(x)cos(y)-sin(x)sin(y)
+\end{align}$$
+```
+```ad-abstract
+title:Rechenregeln für verschobene Funktionen
+$$\begin{align}
+sin(x+\frac{\pi}{2})&=cos(x),& cos(x+\frac{\pi}{2})&=-sin(x)\\
+sin(x+\pi)&=-sin(x),& cos(x+\pi)&=-cos(x)\\
+sin(x+2\pi)&=sin(x),& cos(x+2\pi)&=cos(x)\\
+\end{align}$$
+```
+````
+```ad-abstract
+title:
+$$\begin{align}
+sin(z)=0&\Leftrightarrow z=k \pi \text{ für ein }k \in \mathbb{Z}\\
+cos(z)=0&\Leftrightarrow z=\frac{\pi}{2} +k \pi \text{ für ein }k \in \mathbb{Z}\\
+\end{align}$$
+```
+```ad-abstract
+title:Definition - Tangens
+Die Funktion $tan: \mathbb{C}\backslash \{\frac{\pi}{2}+k \pi: k \in \mathbb{Z}\}r$
+```
 ## Links
