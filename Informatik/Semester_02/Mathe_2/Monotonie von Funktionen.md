@@ -11,7 +11,7 @@ monoton wachsend, falls für alle $x,y \in D$ gilt $x \leq y \Rightarrow f(x) \l
 ```
 ```ad-abstract
 title:
-monoton wachsend, falls für alle $x,y \in D$ gilt $x \geq y \Rightarrow f(x) \geq f(y)$
+monoton fallend, falls für alle $x,y \in D$ gilt $x \geq y \Rightarrow f(x) \geq f(y)$
 ```
 ```ad-abstract
 title:
@@ -19,7 +19,7 @@ streng monoton wachsend, falls für alle $x,y \in D$ gilt $x < y \Rightarrow f(x
 ```
 ```ad-abstract
 title:
-streng monoton wachsend, falls für alle $x,y \in D$ gilt $x > y \Rightarrow f(x) > f(y)$
+streng monoton fallend, falls für alle $x,y \in D$ gilt $x > y \Rightarrow f(x) > f(y)$
 ```
 ```ad-abstract
 title:
