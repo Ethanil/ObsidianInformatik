@@ -50,7 +50,8 @@ main:
 	ldr r1, =e               //load e into r1
 	ldr r2, =f               //load f into r2
 	ORR r1, r1, r2           //use or with r1 and r2 and save into r1: e | f
-	SUB r0, r0, r1           //subtract r1 from r0 and save into r0 (~c * d ^ (a & b)) - (e | f)
+	SUB r1, r0, r1           //subtract r1 from r0 and save into r1 (~c * d ^ (a & b)) - (e | f)
+	ldr r0, =mystring
 	bl printf                //calls printf
 	pop {lr}                 //get return adress back
 	bx lr                    //return or exit
