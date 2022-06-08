@@ -39,13 +39,13 @@ f: .word 41                  //variable f
 .global main
 main:
 	push {lr}                //save return adress
-	mov r0, #420               //load c into r0
-	mvn r2, r0               //negate r0 and save into r2: ~ c
-	mov r1, #42               //load d into r1
-	mul r0, r2, r1           //multiply r1 and r2 and save into r1: ~ c * d
-	mov r1, #1337               //load a into r1
-	mov r2, #69               //load b into r2
-	and r1, r1, r2           //use AND with r1 and r2 and save into r1: a & b
+	mov r0, #1337            //load a into r0
+	mov r1, #69              //load b into r1
+	and r0, r0, r1           //use AND with r1 and r2 and save into r1: a & b
+	mov r1, #420               //load c into r1
+	mvn r1, r1               //negate r1 and save into r1: ~ c
+	mov r2, #42               //load d into r2
+	mul r1, r2, r1           //multiply r1 and r2 and save into r1: ~ c * d
 	eor r0, r0, r1           //use exclusive or with r0 and r1 and save into r0: ~ c * d ^ (a & b)
 	mov r1, #11               //load e into r1
 	mov r2, #41               //load f into r2
