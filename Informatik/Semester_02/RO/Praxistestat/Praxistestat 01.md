@@ -26,3 +26,22 @@ i=((a & b) ^ ~c * d) - (e | f)
 - Da die Kinder des Knotens `-` unterschiedliche Werte haben (2,3), wird dem Knoten selbst der höhere der Beiden zugeordnet. `-` wird also **3** zugewiesen.
 - Da `-` der Wurzelknoten des Baumes ist, terminiert der Algorithmus und die Ershov-Zahl für den  gegebenen Baum bzw. Ausdruck lautet **3**.
 
+```assembly
+.data
+mystring: .asciz "%d \n"
+a: .word 1337
+b: .word 69
+c: .word 420
+d: .word 42
+e: .word 11
+f: .word 41
+.text
+.global main
+main:
+	ldr r0, =a
+	ldr r1, =b
+	AND r0, r0, r1
+	ldr r1, =c
+	MVN r1, r1
+	
+```
