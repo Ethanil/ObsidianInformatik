@@ -16,3 +16,5 @@
 ```C
 i=((a & b) ^ ~c * d) - (e | f)
 ```
+## Baumdarstellung arithmetischer Ausdrücke und die Ershov-Zahl
+![[Praxistestat 01 08.06.2022 15-02-28.excalidraw]]
