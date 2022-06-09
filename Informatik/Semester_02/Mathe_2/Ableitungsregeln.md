@@ -47,7 +47,10 @@ f'(x)=\sum^{\infty}_{n=1}na_{n}x^{n-1},& &x \in (-r,r)
 | Tangens            | $\tan$    | $\mathbb{R}\backslash\{(\frac{k+1}{2})\pi\}$ | $\mathbb{R}$                     | $\frac{1}{cos^{2}}=1+tan^{2}$ |
 | Arcussinus         | $\arcsin$ | $[-1,1]$                                     | $[\frac{-\pi}{2},\frac{\pi}{2}]$ | $\frac{1}{\sqrt{1-x^{2}}}$    |
 | Arcuscosinus       | $\arccos$ | $[-1,1]$                                     | $[0,\pi]$                        | $\frac{-1}{\sqrt{1-x^{2}}}$   |
-| Arcustangens       | $\arctan$ | $\mathbb{R}$                                 | $(-\pi/2)$                                 |                               |
+| Arcustangens       | $\arctan$ | $\mathbb{R}$                                 | $(\frac{-\pi}{2},\frac{\pi}{2})$ | $\frac{1}{1+x^{2}}$           |
+| Sinus hyperbolicus | $\sinh$   | $\mathbb{R}$                                 | $\mathbb{R}$                     | $\cosh$                       |
+| Cosinus hyp.       | $\cosh$   | $\mathbb{R}$                                 | $[1,\infty)$                     | $\sinh$                       |
+| Tangens hyp.       | $\tanh$   | $\mathbb{R}$                                 | $(-1,1)$                         | $\frac{1}{\cosh^{2}}=1-\tanh^{2}$                              |
 ## Links
 [[Differenzierbarkeit von Funktionen in einer Variablen]]
 [[Potenzreihen]]
