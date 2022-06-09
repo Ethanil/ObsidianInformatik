@@ -33,4 +33,17 @@ title:Definition - Differenzierbarkeit $\rightarrow$ stetig
 Es sei $f: I \rightarrow \mathbb{R}$ differenzierbar. Dann ist $f$ stetig in $x_{0}$.
 ```
 
+```ad-abstract
+title:Definition - Differenzierbarkeit 2.0
+Eine Funktion $f: I \rightarrow \mathbb{R}$ ist in $x_{0} \in I$ genau dann differenzierbar mit $f'(x_{0})=a$, wenn
+$$\begin{align}
+f(x)=f(x_{0})+a(x-x_{0})+r(x),& &x \in I
+\end{align}$$
+ist und für die Funktion $r:I \rightarrow \mathbb{R}$ gilt
+$$\begin{align}
+\lim_{x\rightarrow x_{0}}\frac{|r(x)|}{|x-x_{0}|}=0
+\end{align}$$
+```
+
+
 ## Links
