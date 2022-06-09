@@ -28,4 +28,9 @@ Eine Funktion $f: I \rightarrow \mathbb{R}$ heißt differenzierbar auf $I$, fall
 ````
 `````
 
+```ad-abstract
+title:Definition - Differenzierbarkeit $\rightarrow$ stetig
+Es sei $f: I \rightarrow \mathbb{R}$ differenzierbar. Dann ist $f$ stetig in $x_{0}$.
+```
+
 ## Links
