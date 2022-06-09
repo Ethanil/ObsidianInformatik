@@ -32,12 +32,22 @@ $$\begin{align}
 \end{align}$$
 ```
 ```ad-abstract
-title:Definition - Umkehrfunktion der Ableitung
-Es sei $f \in C(I)$ streng monoton und in $x_{0} \in I$ differenzierbar mit $f'(x_{0}) \neq0$. Dann exisitert die Umkrehfunktion $f^{-1}:f(I)\rightarrow \mathbb{R}$, diese ist differenzierbar in $y_{0}=f(x_{0})$ und es gilt
+title:Definition - Ableitung von Polynomen
+Es sei $f(x)=\sum^{\infty}_{n=0}a_{n}x^{n}$ eine Potenzreihe in $\mathbb{R}$ mit Konvergenzradius $r>0$. Dann hat auch die Potenzreihe $\sum^{\infty}_{n=1}na_{n}x^{n-1}$ den Konvergenzradius $r$, die Funktion $f$ ist in allen $x \in (-r,r)$ differenzierbar und es gilt
 $$\begin{align}
-(f^{-1})(y_{0})=\frac{1}{f'(x_{0})}
+f'(x)=\sum^{\infty}_{n=1}na_{n}x^{n-1},& &x \in (-r,r)
 \end{align}$$
 ```
-
+| Name               | Symbol    | Definitionsbereich                           | Bild                             | Ableitung                     |
+| ------------------ | --------- | -------------------------------------------- | -------------------------------- | ----------------------------- |
+| E-funktion         | $e$       | $\mathbb{R}$                                 | $(0,\infty)$                     | $e$                           |
+| (nat.) Logarithmus | $\ln$     | $(0,\infty)$                                 | $\mathbb{R}$                     | $\frac{1}{x}$                 |
+| Sinus              | $\sin$    | $\mathbb{R}$                                 | $[-1,1]$                         | $\cos$                        |
+| Cosinus            | $\cos$    | $\mathbb{R}$                                 | $[-1,1]$                         | $-\sin$                       |
+| Tangens            | $\tan$    | $\mathbb{R}\backslash\{(\frac{k+1}{2})\pi\}$ | $\mathbb{R}$                     | $\frac{1}{cos^{2}}=1+tan^{2}$ |
+| Arcussinus         | $\arcsin$ | $[-1,1]$                                     | $[\frac{-\pi}{2},\frac{\pi}{2}]$ | $\frac{1}{\sqrt{1-x^{2}}}$    |
+| Arcuscosinus       | $\arccos$ | $[-1,1]$                                     | $[0,\pi]$                        | $\frac{-1}{\sqrt{1-x^{2}}}$   |
+| Arcustangens       | $\arctan$ | $\mathbb{R}$                                 | $(-\pi/2)$                                 |                               |
 ## Links
 [[Differenzierbarkeit von Funktionen in einer Variablen]]
+[[Potenzreihen]]

@@ -45,5 +45,11 @@ $$\begin{align}
 \end{align}$$
 ```
 
-
+```ad-abstract
+title:Definition - Umkehrfunktion der Ableitung
+Es sei $f \in C(I)$ streng monoton und in $x_{0} \in I$ differenzierbar mit $f'(x_{0}) \neq0$. Dann exisitert die Umkrehfunktion $f^{-1}:f(I)\rightarrow \mathbb{R}$, diese ist differenzierbar in $y_{0}=f(x_{0})$ und es gilt
+$$\begin{align}
+(f^{-1})(y_{0})=\frac{1}{f'(x_{0})}
+\end{align}$$
+```
 ## Links
