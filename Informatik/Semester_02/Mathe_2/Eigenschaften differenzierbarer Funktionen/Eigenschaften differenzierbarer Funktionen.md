@@ -26,5 +26,9 @@ Es sei $f: I \rightarrow \mathbb{R}$ auf dem Intervall $I$ differenzierbar. Dann
 - Ist $f'\geq0$ auf $I$, so ist $f$ auf $I$ monoton wachsend.
 - Ist $f'\leq0$ auf $I$, so ist $f$ auf $I$ monoton fallend.
 ```
+```ad-abstract
+title:
+Sind $f,g: I \rightarrow \mathbb{R}$ differenzierbare Funktionen und gilt $f'=g'$ auf $I$, so gibt es eine Konstante $c \in \mathbb{R}$, so dass $f(x)=g(x)+c$ für alle $x \in I$ gilt.
+```
 ````
 ## Links
