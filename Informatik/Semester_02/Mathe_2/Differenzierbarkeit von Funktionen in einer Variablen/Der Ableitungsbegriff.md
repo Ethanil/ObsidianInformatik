@@ -1,8 +1,8 @@
----
+Differenzierbarkeit von Funktionen in einer Variablen 
+​￼## Der Ableitungsbegriff---
 aliases: 
 ---
-# Differenzierbarkeit von Funktionen in einer Variablen 
-## Der Ableitungsbegriff
+# Der Ableitungsbegriff
 Die Ableitung beschreibt das Änderungsverhalten einer Funktion in einem Punkt, d.h. die Steigung des Fuinktionsgraphen.
 `````ad-abstract
 title:Definition - Differenzierbarkeit

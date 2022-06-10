@@ -52,5 +52,5 @@ f'(x)=\sum^{\infty}_{n=1}na_{n}x^{n-1},& &x \in (-r,r)
 | Cosinus hyp.       | $\cosh$   | $\mathbb{R}$                                 | $[1,\infty)$                     | $\sinh$                       |
 | Tangens hyp.       | $\tanh$   | $\mathbb{R}$                                 | $(-1,1)$                         | $\frac{1}{\cosh^{2}}=1-\tanh^{2}$                              |
 ## Links
-[[Differenzierbarkeit von Funktionen in einer Variablen]]
+[[Der Ableitungsbegriff]]
 [[Potenzreihen]]
