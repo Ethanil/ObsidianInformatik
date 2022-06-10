@@ -31,4 +31,15 @@ title:
 Sind $f,g: I \rightarrow \mathbb{R}$ differenzierbare Funktionen und gilt $f'=g'$ auf $I$, so gibt es eine Konstante $c \in \mathbb{R}$, so dass $f(x)=g(x)+c$ für alle $x \in I$ gilt.
 ```
 ````
+```ad-abstract
+title:Definition - Satz von de l'Hospital
+Es sei $(a,b)$ ein offenes Intervall in $\mathbb{R}$ (dabei ist hier $a=- \infty$ oder $b=\infty$ zugelassen) und $f,g:(a,b) \rightarrow \mathbb{R}$ seien differenzierbar auf $(a,b)$ mit $g'(x) \neq 0$ für alle $x \in (a,b)$. Gitl dann
+$$\begin{align}
+\lim_{x\rightarrow a}f(x)=\lim_{x\rightarrow a}g(x)=0& &\text{oder}& &\lim_{x\rightarrow a}f(x)=\lim_{x\rightarrow a}g(x)=\pm \infty
+\end{align}$$
+und exisitert der Grenzwert
+$$L:=\lim_{x\rightarrow a}f'\frac{x}{g'(x)}$$
+(hierbei ist wieder $L=\pm \infty$ zugelassen), dann gilt
+$$\lim_{x\rightarrow a}f\frac{x}{g(x)}=L$$
+```
 ## Links
