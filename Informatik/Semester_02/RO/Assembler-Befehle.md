@@ -40,7 +40,7 @@ Jeder Befehl, außer `NOP`, kann sogenannte [[Condition Codes]] verwenden, indem
 | Befehl | Operanden | Statusbits | Beispiel     | Wirkung                                                                      |
 | ------ | --------- | ---------- | ------------ | ---------------------------------------------------------------------------- |
 | B      | PTR       | Keine      | `B loopA`    | Springt zu label loopA                                                       |
-| BL     | PTR       | Keine      | `BL lopA`    | Speichert nachfolgende Befehlsdresse in LR und springt zu loopA              |
+| BL     | PTR       | Keine      | `BL loopA`    | Speichert nachfolgende Befehlsdresse in LR und springt zu loopA              |
 | BLX    | PTR/R     | Keine      | `BLX loopA`  | Wie `BL` und kann Instruction Set zwischen A32 und T32 wechseln              |
 | BX     | PTR/R     | Keine      | `BX lr`      | Springt an Adresse $lr$ und kann Instruction Set zwischen A32 und T32 wechseln |
 | CMP    | R,R/I     | N,C,Z,V    | `CMP r1, #3` | Zieht $3$ von Wert in $r1$ ab, updatet Statusflags, Wert $r1$ unverändert          |
