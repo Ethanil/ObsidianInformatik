@@ -8,8 +8,7 @@ Eine MEnge $M \subseteq \mathbb{R}^{d}$ heißt konvex, wenn für alle $a,b \in M
 ```
 ```ad-abstract
 title:Definition - Schrankensatz
-Es sei $G \subseteq \mathbb{R}^{d}$
-$subseteq$
+Es sei $G \subseteq \mathbb{R}^{d}$ offen und konvex, sowie $f: G \rightarrow \mathbb{R}$ total differenzierbar
 ```
 
 ## Links
