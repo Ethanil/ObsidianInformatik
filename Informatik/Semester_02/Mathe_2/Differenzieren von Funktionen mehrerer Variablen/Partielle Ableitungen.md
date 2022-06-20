@@ -32,5 +32,12 @@ title:
 Ist $f$ in $G$ partiell differenzierbar und sind sämtliche partiellen Ableitungen $\partial_{1}f,\partial_{2}f,\dotso,\partial_{d}f:G \rightarrow \mathbb{R}^{p}$ stetig, so nennt man $f$ stetig partiell differenzierbar in $G$.
 ```
 ````
-
+```ad-info
+title:Bemerkung
+Die praktische Berechnung der partiellen Ableitung ist einfach: Will man die $j$-te partielle Ableitung von $f$ bestimmen, so behandelnt man die anderen Variablen als konstante Parameter und leitet ganz wie gewohnt nach der einen Variablen ab.
+```
+```ad-abstract
+title:Definition - Koordinatenfunktionen partiell diff & offen $\rightarrow$ $f in x_{0}$ partiell diff
+Ist $G \subseteq \mathbb{R}^{d}$
+```
 ## Links
