@@ -4,7 +4,7 @@ aliases:
 # Extremwerte 
 ````ad-abstract
 title:Definition - Extremwerte
-Es sei $D \subset \mathbb{R}$ und $f: D \rightarrow \mathbb{R}$ eine Funktion
+Es sei $D \subseteq \mathbb{R}$ und $f: D \rightarrow \mathbb{R}$ eine Funktion
 ```ad-abstract
 title:
 Man sagt, dass $f$ in $x_{0} \in D$ ein globales Maximum(bzw. globales Minimum) hat, falls $f(x)\leq f(x_{0})$ (bzw. ($f(x)\geq f(x_{0})$) für alle $x \in D$ gilt.
@@ -24,7 +24,7 @@ Es sei $f: I \rightarrow \mathbb{R}$ differenzierbar in $x_{0}\in I$. Ist $x_{0}
 ```
 ```ad-abstract
 title:Definition - Minimum vs Maximum
-Es sei $I \subset \mathbb{R}$ ein Intervall, $x_{0} \in I°$ und $f \in C^{n}(I)$ für ein $n\geq 2$. Weiter gelte $f'(x_{0})=f''(x_{0})=\dotso=f^{n-1}(x_{0})=0$, aber $f^{(n)}(x_{0})\neq 0$. Ist nun $n$ ungerade, so hat $f$ in $x_{0}$ kein Extremum, ist $n$ gerade, so liegt in $x_{0}$ ein Extremum vor, und zwar falls $f^{(n)}(x_{0})>0$ ein Minimum und falls $f^{(n)}(x_{0})<0$ ein Maximum.
+Es sei $I \subseteq \mathbb{R}$ ein Intervall, $x_{0} \in I°$ und $f \in C^{n}(I)$ für ein $n\geq 2$. Weiter gelte $f'(x_{0})=f''(x_{0})=\dotso=f^{n-1}(x_{0})=0$, aber $f^{(n)}(x_{0})\neq 0$. Ist nun $n$ ungerade, so hat $f$ in $x_{0}$ kein Extremum, ist $n$ gerade, so liegt in $x_{0}$ ein Extremum vor, und zwar falls $f^{(n)}(x_{0})>0$ ein Minimum und falls $f^{(n)}(x_{0})<0$ ein Maximum.
 ```
 
 ## Links
