@@ -22,6 +22,19 @@ title:Definition - total differenzierbar und offen $\rightarrow$ stetig
 Ist $G \subseteq \mathbb{R}^{d}$ offen und $f:G \rightarrow \mathbb{R}^{p}$ in $x_{0} \in G$ total differenzierbar, so ist $f$ auch stetig in $x_{0}$.
 ```
 ```ad-abstract
-title:Definition - total differenzierbar $\rightarrow$ Richtung
+title:Definition - offen & total differenzierbar $\rightarrow$ Richtungsableitungen Exisiteren
+Es sei $G \subseteq$ offen, $f: G \rightarrow \mathbb{R}^{p}$ eine in $x_{0} \in G$ total differenzierbare Funktion und $v \in \mathbb{R}^{d} \backslash \{0\}$. Dann exisitert in $x_{0}$ die Richtungsableitung von $f$ in Richtung $v$ und es gilt 
+$$\begin{align}
+(\partial_{v}f)(x_{0})=Df(x_{0})(v)
+\end{align}$$
+```
+```ad-abstract
+title:
+Es sei $G \subseteq \mathbb{R}^{d}$ offen, $x_{0} in G$ und $f: G \rightarrow \mathbb{R}^{p}$ eine Funktion. Ist $f$ in $x_{0}$ total differenzierbar, so ist $f$ in $x_{0}$ auch partiell differenzierbar und die Abbildungsmatrix von $Df(x_{0})$ bezüglich der Standardbasen von $\mathbb{R}^{d}$ bzw. $\mathbb{R}^{p}$ ist die Jacobi-Matrix $J_{f}(x_{0})$
+```
+```ad-abstract
+title:
+Ist $G \subseteq math$
 ```
 ## Links
+[[Jacobi-Matrix]]
