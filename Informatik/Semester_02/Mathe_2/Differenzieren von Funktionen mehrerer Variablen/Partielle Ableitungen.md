@@ -43,4 +43,14 @@ $$\begin{align}
 \partial_{j}f(x_{0})=(\partial_{j}f_{1}(x_{0}),\partial_{j}f_{2}(x_{0}),\dotso,\partial_{j}f_{p}(x_{0}))^{T}
 \end{align}$$
 ```
+```ad-abstract
+title:Definition - $n$-mal partiell differenzierbar
+Es seien $G \subseteq \mathbb{R}^{d}$ offen, $n \in \mathbb{N}^{*}$ mit $n \geq 2,x_{0} \in G$ und $f: G \rightarrow \mathbb{R}^{p}$ eine Funktion. Diese nennt man $n$-mal (stetig) partiell differenzierbar in $x_{0}$, wenn sie schon $(n-1)$-mal (stetig) partiell differenzierbar auf $G$ ist und alle $(n-1)$-ten partiellen Ableitungen in $x_{0}$ wieder (stetig) partiell differenzierbar sind.
+```
+
+```ad-abstract
+title:Definition - Satz von Schwarz
+Ist $G \subseteq \mathbb{R}^{d}$ offen und $f: G \rightarrow \mathbb{R}^{p}$ eine $n$-mal stetig partiell differenzierbare Funktion, so ist die Reihenfolge der partiellen Ableitungen bis zur Ordnung $n$ vertauschbar.
+```
+
 ## Links
