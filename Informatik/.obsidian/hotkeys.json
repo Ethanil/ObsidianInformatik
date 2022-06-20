@@ -14,5 +14,14 @@
       ],
       "key": "Enter"
     }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
