@@ -34,7 +34,25 @@ Es sei $G \subseteq \mathbb{R}^{d}$ offen, $x_{0} in G$ und $f: G \rightarrow \m
 ```
 ```ad-abstract
 title:
-Ist $G \subseteq math$
+Ist $G \subseteq \mathbb{R}^{d}$ offen und $f: G \rightarrow \mathbb{R}^{p}$ in $x_{0}\in G$ total differenzierbar, so gilt für jedes $v \in \mathbb{R}^{d} \backslash \{0\}$
+$$ \begin{align}
+\partial_{v}f(x_{0})=J_{f}(x_{0})v
+\end{align}$$
 ```
+```ad-abstract
+title:Definition - offen & stetig partiell differenzierbar $\rightarrow$ total differenzierbar
+Ist $G \subseteq \mathbb{R}^{d}$ offen und $f: G \rightarrow \mathbb{R}^{p}$ in $x_{0} \in G$ stetig partiell differnzierbar, so ist $f$ in $x_{0}$ sogar total differnzierbar.
+```
+```ad-info
+title:Zusammenfassung
+$$\begin{align}
+&\text{stetig partiell differenzierbar}& &\Longrightarrow& &\text{total differenzierbar}& &\Longrightarrow& &\text{stetig}\\
+&\Downarrow& & & &\Downarrow& & &\\
+&\text{partiell differenzierbar}& &\Longleftarrow& &\text{alle Richtungsableitungen existieren}& & & &
+\end{align}$$
+```
+
 ## Links
 [[Jacobi-Matrix]]
+[[Partielle Ableitungen]]
+[[Stetigkeit]]
