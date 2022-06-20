@@ -37,7 +37,10 @@ title:Bemerkung
 Die praktische Berechnung der partiellen Ableitung ist einfach: Will man die $j$-te partielle Ableitung von $f$ bestimmen, so behandelnt man die anderen Variablen als konstante Parameter und leitet ganz wie gewohnt nach der einen Variablen ab.
 ```
 ```ad-abstract
-title:Definition - Koordinatenfunktionen partiell diff & offen $\rightarrow$ $f in x_{0}$ partiell diff
-Ist $G \subseteq \mathbb{R}^{d}$
+title:Definition - Koordinatenfunktionen partiell diff & offen $\rightarrow$ $f$ in $x_{0}$ partiell diff
+Ist $G \subseteq \mathbb{R}^{d}$ offen, $f: G \rightarrow \mathbb{R}^{p}$ eine Funktion und $x_{0} \in G$, so ist $f$ in $x_{0}$ genau dann partiell differenzierbar, wenn alle Koordinatenfunktionen $f_{1},f_{2},\dotso f_{p}:G \rightarrow \mathbb{R}$ in $x_{0}$ partiell differenzierbar sind. In diesem Fall gilt
+$$\begin{align}
+\partial_{j}f(x_{0})=(\partial_{j}f_{1}(x_{0}),\partial_{j}f_{2}(x_{0}),\dotso,\partial_{j}f_{p}(x_{0}))^{T}
+\end{align}$$
 ```
 ## Links
