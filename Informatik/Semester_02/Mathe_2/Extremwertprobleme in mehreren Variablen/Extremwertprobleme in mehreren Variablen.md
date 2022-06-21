@@ -20,8 +20,26 @@ Allgemein spricht man von einem globalen bzw. relativen Extremum in $x_{0}$, wen
 ```
 ````
 ```ad-abstract
-title:Definition - 
+title:
 Es sei $G \subseteq \mathbb{R}^{d}$ und $x_{0}$ ein innerer Punkt von $G$, sowie $f: G \rightarrow \mathbb{R}$ total differenzierbar in $x_{0}$. Hat $f$ in $x_{0}$ ein relatives Extremum, so gilt $\Delta f(x_{0})=0$
 ```
+````ad-abstract
+title:
+Es sei $G \subseteq \mathbb{R}^{d}$ offen, $f: G \rightarrow \mathbb{R}$ zweimal stetig partiell differenzierbar und für $x_{0} \in G$ gelte $\Delta f(x_{0})=0$. Ist dann die Hesse-Matrix $H_{f}(x_{0})$
+```ad-abstract
+title:
+positiv definit, so hat $f$ in $x_{0}$ ein relatives Minimum
+```
+```ad-abstract
+title:
+negativ definit, so hat $f$ in $x_{0}$ ein relatives Maximum
+```
+```ad-abstract
+title:
+indefinit, so hat $f$ in $x_{0}$ kein relatives Extremum
+```
+````
 
 ## Links
+[[Definitheit]]
+[[offen abgeschlossen beschränkt]]
