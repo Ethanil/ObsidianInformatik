@@ -48,5 +48,17 @@ $$\begin{align}
 \left|\int^{b}_{a}f(x)dx\right|\leq(b-a) \sup_{x \in [a,b]}|f(x)|=(b-a)||f||_{\infty}
 \end{align}$$
 ```
+```ad-abstract
+title:
+Es seien $a,b \in \mathbb{R}$ mit $a<b$ und $f:[a,b] \rightarrow \mathbb{R}$ sei integrierbar.
+Dann setzt man für jedes $c \in [a,b]$
+$$\begin{align}
+\int^{c}_{c}f(x)dx:=0& &\text{und}& &\int^{a}_{b}f(x)dx:=-\int^{b}_{a}f(x)dx
+\end{align}$$
+```
+```ad-abstract
+title:
+Es seien $a,b \in \mathbb{R}$ mit $a<b$. Jede stetige und jede monotone Funktion $f: [a,b] \rightarrow \mathbb{R}$ ist integrierbar.
+```
 
 ## Links
