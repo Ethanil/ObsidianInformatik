@@ -4,7 +4,7 @@ aliases:
 # Rechenregeln für Integrale 
 ````ad-abstract
 title:
-Es siene $a,b \in \mathbb{R}$ mit $a<b$ und integrierbare Funktionen $f,g: [a,b] \rightarrow \mathbb{R}$ gegeben. Dann gelten die folgenden Aussagen.
+Es seinen $a,b \in \mathbb{R}$ mit $a<b$ und integrierbare Funktionen $f,g: [a,b] \rightarrow \mathbb{R}$ gegeben. Dann gelten die folgenden Aussagen.
 ```ad-abstract
 title:Definition - Monotonie
 Ist $f(x)\leq g(x)$ für alle $x \in [a,b]$, so ist auch
