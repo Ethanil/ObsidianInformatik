@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Mikroarchitektur 
-## Eintakt-Implementierung
+## [[Eintakt-Implementierung]]
  
 
 ## Mehrtakt-Implementierung
