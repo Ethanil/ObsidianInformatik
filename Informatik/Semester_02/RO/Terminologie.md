@@ -15,6 +15,8 @@ very long instruction word (static multi-issue), superscalar processors (dynamic
 ## $\mu$arch microarchitecture (ISA Implementierung)
 - Anzahl der Instruktionen/Befehle pro Zyklus (IPC - instructions per cycle)
 - Pipelining für Instruktionslevel Parallelismus (ILP - instruction level parallelism)
-- Sprungvorhersage (engl.: branch p)
+- Sprungvorhersage (engl.: branch prediction)
+- out-of-order execution von Befehlen (eng.: dynamic instruction scheduling)
+- multi-issue systems (engl.: start multiple operations per cycle)
 
 ## Links
