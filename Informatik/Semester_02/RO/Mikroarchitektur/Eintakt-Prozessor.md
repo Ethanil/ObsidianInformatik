@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-# Eintakt-Implementierung 
+# Eintakt-Prozessor
 ## Datenpfad anhand Beispiel ldr
 ### 1. Befehl holen
 Über den Programmcounter im Instruction Memory die Instruction auslesen.
