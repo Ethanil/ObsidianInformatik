@@ -18,4 +18,8 @@ Da damit jeder Befehl 5 Takte braucht um einen Befehl vollständig abzuarbeiten 
 Wir fügen nops zur Compile Zeit ein, damit dieses Problem nicht auftritt.
 #### Bypassing/Forwarding
 Wir geben schon berechnete Daten weiter und umgehen erstmal das schreiben.
+#### stall
+Wir erzeugen eine mögliche Schleife, also Phasen werden doppelt ausgeführt.
+## Control Hazard
+
 ## Links
