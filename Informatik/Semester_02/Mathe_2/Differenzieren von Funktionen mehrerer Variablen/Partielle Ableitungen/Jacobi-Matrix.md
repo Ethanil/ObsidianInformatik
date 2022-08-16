@@ -16,7 +16,7 @@ heißt Jacobi-Matrix von $f$
 ```ad-abstract
 title:Gradient
 Im Spezialfall $p=1$ nennt man die $1 \times d$-Matrix, d.h. den $\mathbb{R}^{d}$-Zeilenvektor
-$$\Delta f(x_{0}):=J_{f}(x_{0})=(\partial_{1}f(x_{0}),\partial_{2}f(x_{0}),\dotso,\partial_{d}f(x_{0}))$$
+$$\nabla f(x_{0}):=J_{f}(x_{0})=(\partial_{1}f(x_{0}),\partial_{2}f(x_{0}),\dotso,\partial_{d}f(x_{0}))$$
 den Gradient von $f$
 ```
 ````
