@@ -15,7 +15,7 @@ $f$ hat in $x_{0}\in D$ ein relatives Maximum (bzw. relatives Minimum), falls ei
 ```
 ```ad-abstract
 title:
-Allgemein spricht man von einem flobalen bzw. relativen Extremum in $x_{0}$, wenn $f$ dort ein entsprechendes Maximum oder Minimum hat.
+Allgemein spricht man von einem globalen bzw. relativen Extremum in $x_{0}$, wenn $f$ dort ein entsprechendes Maximum oder Minimum hat.
 ```
 ````
 ```ad-abstract
