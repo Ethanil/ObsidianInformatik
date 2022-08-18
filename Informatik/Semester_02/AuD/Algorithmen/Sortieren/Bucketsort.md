@@ -1,9 +1,9 @@
 ---
 aliases: 
 ---
-# <% tp.file.title %> 
+# Bucketsort 
 ## Abstrakt
-<% tp.file.cursor(1) %>
+
 ### Invariante
 
 ### Variante
