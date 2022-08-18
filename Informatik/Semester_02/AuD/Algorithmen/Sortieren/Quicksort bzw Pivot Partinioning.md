@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-# Quicksort 
+# Quicksort bzw Pivot Partinioning
 ## Abstrakt
 
 ### Invariante
