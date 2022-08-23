@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "6f5b850c6298e8db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b2d2ab88426638",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61315f9448528192",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ce1c508b027bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eea3979e64f9247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "732fc5a8a5139dc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "745493426e50cd89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70e27f3d32e3e764",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9effd18f2e81d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3788434753a516",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d237c1e256ba7014",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae8f0bfa09d76690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18dd8fccd46277c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d1b2d2ab88426638",
+  "lastOpenFiles": []
+}

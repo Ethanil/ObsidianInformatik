@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Semester_01/PDFs  -path:Templates -path:Semester_01/Excalidraw -path:Semester_01/Digitaltechnik/Bilder -path:Semester_01/Digitaltechnik/Vorlesungsfolien -path:Semester_01/Digitaltechnik/Vorlesungsübersicht -path:Semester_01/Digitaltechnik/Vorlesung -path:Semester_01/Mathe_1/Klausuren -path:Semester_01/Mathe_1/Uebungen -path:Semester_01/AFE/Uebungen",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Semester_01/AFE",
+      "color": {
+        "a": 1,
+        "rgb": 16748431
+      }
+    },
+    {
+      "query": "path:Semester_02/APL",
+      "color": {
+        "a": 1,
+        "rgb": 16726564
+      }
+    },
+    {
+      "query": "path:Semester_01/Digitaltechnik",
+      "color": {
+        "a": 1,
+        "rgb": 14548889
+      }
+    },
+    {
+      "query": "path:Semester_02/RO",
+      "color": {
+        "a": 1,
+        "rgb": 10276370
+      }
+    },
+    {
+      "query": "path:Semester_01/FOP",
+      "color": {
+        "a": 1,
+        "rgb": 11075554
+      }
+    },
+    {
+      "query": "path:Semester_02/AuD",
+      "color": {
+        "a": 1,
+        "rgb": 182909
+      }
+    },
+    {
+      "query": "path:Semester_01/Mathe_1",
+      "color": {
+        "a": 1,
+        "rgb": 13020671
+      }
+    },
+    {
+      "query": "path:Semester_02/Mathe_2",
+      "color": {
+        "a": 1,
+        "rgb": 5452207
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.63714947573762,
+  "lineSizeMultiplier": 0.872457937088515,
+  "collapse-forces": true,
+  "centerStrength": 0.2514020970495,
+  "repelStrength": 12.3603999024628,
+  "linkStrength": 0.384052670080468,
+  "linkDistance": 185,
+  "scale": 0.16682594968980918,
+  "close": false
+}
