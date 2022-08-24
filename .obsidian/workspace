@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+            "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stetig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +132,10 @@
   },
   "active": "d1b2d2ab88426638",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Konvexe Mengen, Schrankensatz.md",
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Eigenschaften stetiger Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md"
   ]
 }
