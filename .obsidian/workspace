@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
+            "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
+                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,5 +130,7 @@
     "collapsed": true
   },
   "active": "d1b2d2ab88426638",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md"
+  ]
 }
