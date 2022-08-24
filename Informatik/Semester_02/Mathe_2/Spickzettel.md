@@ -27,20 +27,33 @@ $$\begin{align}
 | Cosinus hyp.       | $\cosh$   | $\mathbb{R}$                                 | $[1,\infty)$                     | $\sinh$                       |
 | Tangens hyp.       | $\tanh$   | $\mathbb{R}$                                 | $(-1,1)$                         | $\frac{1}{\cosh^{2}}=1-\tanh^{2}$                              |
 ## Quotientenregel:
-$$\begin{align}
-(\frac{f}{g})'(x_{0})=\frac{f'(x_{0})g(x_{0})-f(x_{0})g'(x_{0})}{(g(x_{0}))^{2}}
-\end{align}$$
+$$(\frac{f}{g})'(x_{0})=\frac{f'(x_{0})g(x_{0})-f(x_{0})g'(x_{0})}{(g(x_{0}))^{2}}$$
 ## Kettenregel:
-$$\begin{align}
-(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})
-\end{align}$$
+$$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
 
 ## Taylorreihe von $f$ um $x_{0}$.
-$$\begin{align}
-\sum^{\infty}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}
-\end{align}$$
+$$\sum^{\infty}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
 
 ## Fourrierreihe
 $$\begin{align}
-f ~ a_0
+\omega \text{ ist die Frequenz, meistens also }2 \pi \\
+f \sim \frac{a_{0}}{2}+ \sum^{\infty}_{n=1}(a_{n} \cdot \cos(n \cdot \omega \cdot x) +b_{n} \cdot \sin(n \omega \cdot))\\
+a_{0} = \frac{2}{\omega} \int f(x)dx \\
+a_{n}=\frac{2}{\omega} \int f(x) \cdot \cos(n \cdot x)\\
+b_{n}=\frac{2}{\omega} \int f(x) \cdot \sin(n \cdot x)
 \end{align}$$
+## i
+$$(i+1)=\sqrt{2}e^{i \cdot \frac{\pi}{4}}$$
+![[Pasted image 20220824195833.png]]
+## Unterminoren
+$$\begin{pmatrix}
+a & b \\ c & d
+\end{pmatrix} \Rightarrow ad -bc = \det$$
+$$\begin{pmatrix}
+a & b & c \\ d & e & f \\ g & h & i
+\end{pmatrix} \Rightarrow aei+bfg+cdh-ceg-bdi-afh = det$$
+Wir berechnen von $\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix}$ zuerst $\det(a)$, dann $det(\begin{pmatrix}a & b \\ c & d\end{pmatrix})$ und dann $det(\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix})$ (kann auch für größere Matrizen verwendet werden)
+Nun betrachten wir das vorzeichen von der ersten(von der kleinsten Matrix) bis zur letzten(größte Matrix) Determinante:
+Wenn alle positiv sind, ist sie positiv definit, wenn die erste negativ ist und alle alternierend, dann neg. definit, wenn es konkret keins der beiden sein kann, ist sie indefinit, ansonsten kann man mit der Methode nichts über die definitheit aussagen.
+## geometrische Reihe
+$$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
