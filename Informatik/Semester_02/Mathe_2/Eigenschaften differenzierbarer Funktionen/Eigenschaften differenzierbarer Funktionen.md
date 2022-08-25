@@ -4,7 +4,7 @@ aliases:
 # Eigenschaften differenzierbarer Funktionen 
 ```ad-abstract
 title:Definition - Mittelwertsatz der Differenzialrechnung
-Es seien $a,b \in \mathbb{R}$ mit $a > b$ und $f \in C([a,b])$ sei differenzierbar in $(a,b)$. Dann gibt es ein $xi \in (a,b)$, so dass
+Es seien $a,b \in \mathbb{R}$ mit $a > b$ und $f \in C([a,b])$ sei differenzierbar in $(a,b)$. Dann gibt es ein $\xi \in (a,b)$, so dass
 $$\begin{align}
 \frac{f(b)-f(a)}{b-a}=f'(\xi)& &\text{bzw. gleichbedeutend }& &f(b)-f(a)=f'(\xi)(b-a)
 \end{align}$$
