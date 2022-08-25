@@ -19,6 +19,7 @@ berechnen
 betrachten
 bis
 beiden
+besagt
 Ableitungen
 Ableitung
 Arcussinus
@@ -31,6 +32,7 @@ Symbol
 Sinus
 Definitionsbereich
 Determinante
+Das
 Bild
 funktion
 falls
@@ -44,6 +46,7 @@ nichts
 Logarithmus
 Links
 Cosinus
+Cauchy
 Tangens
 Taylorreihe
 Quotientenregel
@@ -53,6 +56,7 @@ vergleichbar
 verwendet
 vorzeichen
 Fourrierreihe
+Funktionalgleichung
 aliases
 aber
 ad
@@ -64,6 +68,7 @@ ansonsten
 aussagen
 Extremwertprobleme
 Extremum
+Exponentialfunktionen
 in
 indefinit
 ist
@@ -74,6 +79,7 @@ Variablen
 Vektoren
 Im
 Prinzip
+Produkt
 gleich
 globales
 gilt
@@ -125,6 +131,8 @@ Wir
 Wenn
 zuerst
 zur
+zwei
 letzten
 über
 Reihe
+Reihen

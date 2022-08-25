@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Extremste",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,15 +131,15 @@
   },
   "active": "d1b2d2ab88426638",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Extremwertprobleme in mehreren Variablen/Extremwertprobleme in mehreren Variablen.md",
+    "Informatik/Semester_02/Mathe_2/Reihen/Cauchy-Produkt.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_02/Mathe_2/Extremwertprobleme in mehreren Variablen/Extremwertprobleme in mehreren Variablen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Hyperbolische Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
-    "Informatik/Semester_01/Mathe_1/Determinante.md"
+    "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md"
   ]
 }
