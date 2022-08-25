@@ -9,6 +9,7 @@ sein
 seien
 sei
 streng
+stetig
 und
 um
 cos
@@ -40,6 +41,7 @@ Definitionsbereich
 Determinante
 Das
 Dann
+Die
 Bild
 Bedingungen
 funktion
@@ -68,6 +70,8 @@ vorzeichen
 Fourrierreihe
 Funktionalgleichung
 Funktionen
+Funktion
+Für
 aliases
 aber
 ad
@@ -83,6 +87,7 @@ Extremum
 Exponentialfunktionen
 Eigenschaften
 Es
+Exponentialfunktion
 in
 indefinit
 ist
@@ -113,6 +118,7 @@ welche
 wenn
 werden
 wachsend
+wächst
 komplizierter
 kein
 kann
