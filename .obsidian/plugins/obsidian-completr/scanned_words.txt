@@ -70,6 +70,7 @@ Cauchy
 Tangens
 Taylorreihe
 Taylorpolynom
+Taylorpolynoms
 Quotientenregel
 Kettenregel
 Konstante
@@ -161,6 +162,7 @@ dem
 differenzierbare
 darf
 durch
+des
 title
 ten
 Man
@@ -197,6 +199,7 @@ Reihe
 Reihen
 Restglied
 Rechenregeln
+Restglieds
 Hospital
 Grenzwert
 Grades
