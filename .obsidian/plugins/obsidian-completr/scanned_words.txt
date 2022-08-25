@@ -5,6 +5,7 @@ sagt
 so
 spricht
 sie
+sein
 und
 um
 cos
@@ -17,6 +18,7 @@ bzw
 berechnen
 betrachten
 bis
+beiden
 Ableitungen
 Ableitung
 Arcussinus
@@ -37,6 +39,8 @@ nat
 nur
 nicht
 negativ
+neg
+nichts
 Logarithmus
 Links
 Cosinus
@@ -55,6 +59,9 @@ ad
 abstract
 alle
 auch
+alternierend
+ansonsten
+aussagen
 Extremwertprobleme
 Extremum
 in
@@ -73,6 +80,7 @@ gilt
 globalen
 größere
 größte
+geometrische
 wie
 wir
 welche
@@ -82,6 +90,8 @@ komplizierter
 kein
 kann
 kleinsten
+konkret
+keins
 da
 darin
 dass
@@ -90,17 +100,22 @@ definit
 dann
 das
 der
+die
+definitheit
 title
 Man
 Maximum
 Minimum
 Matrizen
 Matrix
+Methode
 ein
 existiert
 einem
 entsprechendes
 ersten
+erste
+es
 relatives
 relativen
 oder
@@ -111,3 +126,5 @@ Wenn
 zuerst
 zur
 letzten
+über
+Reihe
