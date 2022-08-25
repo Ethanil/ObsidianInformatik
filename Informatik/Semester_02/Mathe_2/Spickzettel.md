@@ -60,3 +60,6 @@ $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
 
 ## Cauchy-Produkt
 $$\sum^\infty_{n=0}\sum^n_{k=0}a_kb_{n-k}=\left(\sum^\infty_{n=0}a_n\right)\left(\sum^\infty_{n=0}b_n\right)$$
+
+## l'Hospital
+Bedingungen: offenes Intervall, beide Funktionen müssen differenzierbar sein und eine Ableitung darf nicht 0 sein und der Grenzwert beider Funktionen muss $0$ oder $\pm\infty$ sein
