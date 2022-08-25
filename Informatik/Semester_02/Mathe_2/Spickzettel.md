@@ -34,6 +34,9 @@ $$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
 ## Taylorreihe von $f$ um $x_{0}$.
 $$\sum^{\infty}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
 
+## Taylorpolynom
+$$t_{k,f}(x;x_{0}):=\sum^{k}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
+
 ## Fourrierreihe
 $$\begin{align}
 \omega \text{ ist die Frequenz, meistens also }2 \pi \\

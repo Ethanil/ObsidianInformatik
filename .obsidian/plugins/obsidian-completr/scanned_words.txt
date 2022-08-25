@@ -17,6 +17,7 @@ hyperbolische
 hyperbolicus
 hyp
 hat
+heißt
 bes
 bzw
 berechnen
@@ -26,6 +27,8 @@ beiden
 besagt
 beide
 beider
+beschreibt
+bezeichnet
 Ableitungen
 Ableitung
 Arcussinus
@@ -34,6 +37,7 @@ Arcustangens
 Allgemein
 Name
 Nun
+Näherung
 Symbol
 Sinus
 Sind
@@ -42,6 +46,9 @@ Determinante
 Das
 Dann
 Die
+Definition
+Der
+Differenz
 Bild
 Bedingungen
 funktion
@@ -60,6 +67,7 @@ Cosinus
 Cauchy
 Tangens
 Taylorreihe
+Taylorpolynom
 Quotientenregel
 Kettenregel
 Konstante
@@ -72,6 +80,7 @@ Funktionalgleichung
 Funktionen
 Funktion
 Für
+Fehlerterm
 aliases
 aber
 ad
@@ -82,6 +91,8 @@ alternierend
 ansonsten
 aussagen
 auf
+als
+allgemeine
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -104,6 +115,9 @@ Ist
 Intervall
 Prinzip
 Produkt
+Potenzreihe
+Polynom
+Potenz
 gleich
 globales
 gilt
@@ -119,6 +133,7 @@ wenn
 werden
 wachsend
 wächst
+wird
 komplizierter
 kein
 kann
@@ -141,7 +156,9 @@ differenzierbar
 dem
 differenzierbare
 darf
+durch
 title
+ten
 Man
 Maximum
 Minimum
@@ -167,9 +184,13 @@ Wenn
 zuerst
 zur
 zwei
+zwischen
 letzten
 über
 Reihe
 Reihen
+Restglied
 Hospital
 Grenzwert
+Grades
+jedes
