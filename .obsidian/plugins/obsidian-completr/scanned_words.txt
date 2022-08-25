@@ -30,6 +30,7 @@ beider
 beschreibt
 bezeichnet
 brauchen
+beides
 Ableitungen
 Ableitung
 Arcussinus
@@ -43,6 +44,8 @@ Näherung
 Symbol
 Sinus
 Sind
+Spalten
+Spalte
 Definitionsbereich
 Determinante
 Das
@@ -53,6 +56,7 @@ Der
 Differenz
 Bild
 Bedingungen
+Bei
 funktion
 falls
 für
@@ -78,6 +82,8 @@ von
 vergleichbar
 verwendet
 vorzeichen
+vertauschen
+vertauscht
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -96,6 +102,7 @@ aussagen
 auf
 als
 allgemeine
+also
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -111,6 +118,7 @@ man
 monoton
 müssen
 muss
+macht
 Variablen
 Vektoren
 Im
@@ -179,6 +187,7 @@ ersten
 erste
 es
 eine
+einer
 relatives
 relativen
 oder
@@ -201,6 +210,9 @@ Restglied
 Rechenregeln
 Restglieds
 Hospital
+Hesse
 Grenzwert
 Grades
 jedes
+Zeilen
+Zeile
