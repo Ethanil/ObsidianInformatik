@@ -5,6 +5,7 @@
 | sin | $0$  | $\frac{1}{2}$        | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | $1$             | $\frac{1}{\sqrt{2}}$  | $0$    | $-\frac{1}{\sqrt{2}}$ | $-1$             | $-\frac{1}{\sqrt{2}}$ |
 | cos | $1$  | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$        | $0$             | $-\frac{1}{\sqrt{2}}$ | $-1$   | $-\frac{1}{\sqrt{2}}$ | $0$              | $\frac{1}{\sqrt{2}}$  |
 
+$\sin^{2}+\cos^{2}=1$
 ## hyperbolische
 $$\begin{align}
 &\sinh(z):=\frac{e^{z}-e^{-z}}{2},& &z \in \mathbb{C}& &\text{(Sinus hyperbolicus)}\\
@@ -28,6 +29,8 @@ $$\begin{align}
 | Tangens hyp.       | $\tanh$   | $\mathbb{R}$                                 | $(-1,1)$                         | $\frac{1}{\cosh^{2}}=1-\tanh^{2}$                              |
 ## Quotientenregel:
 $$(\frac{f}{g})'(x_{0})=\frac{f'(x_{0})g(x_{0})-f(x_{0})g'(x_{0})}{(g(x_{0}))^{2}}$$
+## Produktregel
+$$(fg)'(x_{0})=f'(x_{0})g(x_{0})+f(x_{0})g'(x_{0})$$
 ## Kettenregel:
 $$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
 
@@ -36,6 +39,8 @@ $$\sum^{\infty}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
 
 ## Taylorpolynom
 $$t_{k,f}(x;x_{0}):=\sum^{k}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
+## Restglieds des Taylorpolynoms
+$$R_{k,f}(x;x_{0}):=\frac{f^{(k+1)}(\xi)}{(k+1)!}(x-x_{0})^{k+1}$$
 
 ## Fourrierreihe
 $$\begin{align}

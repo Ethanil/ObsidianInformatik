@@ -24,7 +24,7 @@ das Taylorpolynom $k$-ten Grades von $f$ in $x_{0}$.
 ````
 ````ad-abstract
 title:Definition - Satz von Taylor
-Es seien $I \subseteq \mathbb{R}$ ein offenes Intervall, $x,x_{0} \in I$ und für ein $k in \mathbb{N}_{0}$ sei $f: I \rightarrow \mathbb{R}$ eine $k+1$-mal differenzierbare Funktion. Dann gibt es ein $\xi$ zwischen $x$ und $x_{0}$, so dass gilt
+Es seien $I \subseteq \mathbb{R}$ ein offenes Intervall, $x,x_{0} \in I$ und für ein $k \in \mathbb{N}_{0}$ sei $f: I \rightarrow \mathbb{R}$ eine $k+1$-mal differenzierbare Funktion. Dann gibt es ein $\xi$ zwischen $x$ und $x_{0}$, so dass gilt
 $$ \begin{align}
 f(x)=t_{k,f}(x;x_{0})+\frac{f^{(k+1)}(\xi)}{(k+1)!}(x-x_{0})^{k+1}
 \end{align}$$
