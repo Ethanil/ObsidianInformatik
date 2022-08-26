@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mittelwertsatz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e26e73c876b2ad3",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
