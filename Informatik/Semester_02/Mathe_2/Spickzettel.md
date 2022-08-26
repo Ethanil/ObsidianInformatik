@@ -35,7 +35,9 @@ $$(fg)'(x_{0})=f'(x_{0})g(x_{0})+f(x_{0})g'(x_{0})$$
 ## Kettenregel:
 $$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
 ## part. Integration nach DI-Methode
-$$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e+2$$
+$$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}-\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e+2$$
+
+
 |     | D       | I       |
 | --- | ------- | ------- |
 | $+$ | $x^{2}$ | $e^{x}$ |
@@ -85,3 +87,28 @@ Bedingungen: $\frac{f(x)}{g(x)}$, offenes Intervall, beide Funktionen müssen di
 $$\lim_{x \rightarrow a}\frac{f'(x)}{g'(x)}=L=\lim_{x \rightarrow a}\frac{f(x)}{g(x)}$$
 ## allgemeine Potenz
 $$a^{x}:=e^{x \cdot \ln(a)}$$
+## Konvergenzkriterien
+```ad-abstract
+title:Definition - Quotientenkriterium
+Ist $a_n\neq 0$ für alle $n\in\mathbb{N}$ und existiert der Grenzwert $lim_{n\rightarrow\infty}|a_{n+1}/a_n|$  so ist die Reihe
+- [[Absolute Konvergenz|absolut konvergent]], wenn $lim_{n\rightarrow\infty}\frac{|a_{n+1}|}{|a_n|}<1$ ist
+- divergent, wenn $lim_{n\rightarrow\infty}\frac{|a_{n+1}|}{|a_n|}>1$ ist
+```
+```ad-abstract
+title:Definition - Wurzelkriterium
+Existiert der Grenzwert $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}$ so ist die Reihe
+- [[Absolute Konvergenz|absolut konvergent]], wenn $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}<1$ ist
+- divergent, wenn $lim_{n\rightarrow\infty}\sqrt[n]{|a_n|}>1$ ist.
+```
+```ad-abstract
+title:Definition - Majorantenkriterium
+Ist $|a_n|\leq b_n$ für alle $n\geq n_0$ und konvergiert die Reihe $\sum^\infty_{n=0}b_n$, so ist $\sum^\infty_{n=0}a_n$ absolut konvergent
+```
+```ad-abstract
+title:Definition - Minorantenkriterium
+Ist $a_n\geq b_n \geq 0$ für alle $n\geq n_0$ und divergiert die Reihe $\sum^\infty_{n=0}b_n$, so divergiert auch die Reihe $\sum^\infty_{n=0}a_n$.
+```
+```ad-abstract
+title:Definition - Leibniz-Kriterium
+Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarrow\infty}a_n=0$. Dann ist die Reihe $\sum^\infty_{n=0}(-1)^na_n$ konvergent.
+```

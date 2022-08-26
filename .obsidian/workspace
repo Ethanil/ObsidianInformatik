@@ -10,10 +10,11 @@
           {
             "id": "d1b2d2ab88426638",
             "type": "leaf",
+            "dimension": 47.38007380073801,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,6 +24,7 @@
           {
             "id": "7e26e73c876b2ad3",
             "type": "leaf",
+            "dimension": 52.61992619926199,
             "state": {
               "type": "markdown",
               "state": {
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5eea3979e64f9247",
+  "active": "7e26e73c876b2ad3",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_02/Mathe_2/Reihen/Absolute Konvergenz.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Satz von Bolzano-Weierstraß.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
-    "Informatik/Semester_02/Mathe_2/Reihen/Cauchy-Produkt.md",
-    "Informatik/Semester_02/Mathe_2/Extremwertprobleme in mehreren Variablen/Extremwertprobleme in mehreren Variablen.md",
-    "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Hyperbolische Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md"
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md"
   ]
 }
