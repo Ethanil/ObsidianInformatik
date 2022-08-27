@@ -20,6 +20,10 @@ schreiben
 semidefinit
 solches
 sowie
+stetiger
+selbst
+sogar
+schreibt
 und
 um
 unten
@@ -49,6 +53,7 @@ beschränkt
 beschränkte
 bestimmt
 bijektiv
+beliebig
 Ableitungen
 Ableitung
 Arcussinus
@@ -58,6 +63,7 @@ Allgemein
 Ableitungsregeln
 Abstände
 Absolute
+Ableitungsfunktion
 Name
 Nun
 Näherung
@@ -92,6 +98,8 @@ Banachscher
 Begriff
 Bolzano
 Basen
+Beispielsweise
+Bezeichnung
 funktion
 falls
 für
@@ -105,6 +113,7 @@ nichts
 nach
 normierten
 nennen
+nennt
 Logarithmus
 Links
 Limes
@@ -143,6 +152,7 @@ Fixpunktsatz
 Form
 Folge
 Folgen
+Fall
 aliases
 aber
 ad
@@ -189,6 +199,7 @@ müssen
 muss
 macht
 messen
+mal
 Variablen
 Vektoren
 Vektorraum
@@ -227,6 +238,7 @@ wächst
 wird
 was
 wichtige
+wieder
 komplizierter
 kein
 kann
@@ -270,6 +282,7 @@ dafür
 definieren
 diese
 def
+diesem
 title
 ten
 te
@@ -306,6 +319,7 @@ offenes
 offen
 offene
 oben
+oft
 positiv
 part
 Unterminoren
@@ -335,6 +349,7 @@ Rolle
 Hospital
 Hesse
 Häufungspunkt
+Höhere
 Grenzwert
 Grades
 Grenzwertbegriff
