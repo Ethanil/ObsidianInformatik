@@ -76,6 +76,9 @@ Wir berechnen von $\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatri
 Bei einer Hesse Matrix darf man Spalten und Zeilen vertauschen, aber nur wenn man beides macht (also wenn man 2. und 3. Zeile vertauscht, dann auch 2. und 3. Spalte!)
 Nun betrachten wir das vorzeichen von der ersten(von der kleinsten Matrix) bis zur letzten(größte Matrix) Determinante:
 Wenn alle positiv sind, ist sie positiv definit, wenn die erste negativ ist und alle alternierend, dann neg. definit, wenn es konkret keins der beiden sein kann, ist sie indefinit, ansonsten kann man mit der Methode nichts über die definitheit aussagen.
+positiv def -> Minimum
+neg. def. -> Maximum
+indefinit -> Sattelpunkt
 ## geometrische Reihe
 $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
 
