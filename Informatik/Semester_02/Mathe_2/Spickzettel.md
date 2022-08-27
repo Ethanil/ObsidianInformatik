@@ -123,3 +123,10 @@ $$\begin{align}
 
 ![[Pasted image 20220827103545.png]]
 ![[Pasted image 20220827103558.png]]
+
+## Trennung der Variablen
+$$\begin{align}
+y=&H^{-1}(G(x)) \text{ mit }G(t):=\int^{t}_{t_{0}} g(b) db\text{ und }H(y):=\int^{y}_{y_{0}}\frac{1}{h(c)}dc\\
+h(y)&\neq0 \\
+y'(t)&=g(t)h(y(t))
+\end{align}$$
