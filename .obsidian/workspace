@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373
   },
   "right": {
     "id": "70e27f3d32e3e764",
@@ -153,11 +153,11 @@
   },
   "active": "7e26e73c876b2ad3",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Absolute Konvergenz.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Satz von Bolzano-Weierstraß.md",
-    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",

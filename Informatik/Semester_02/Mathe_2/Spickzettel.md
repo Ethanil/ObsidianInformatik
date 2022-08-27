@@ -35,7 +35,7 @@ $$(fg)'(x_{0})=f'(x_{0})g(x_{0})+f(x_{0})g'(x_{0})$$
 ## Kettenregel:
 $$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
 ## part. Integration nach DI-Methode
-$$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}-\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e+2$$
+$$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}-\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e-2$$
 
 
 |     | D       | I       |
@@ -72,7 +72,7 @@ a & b \\ c & d
 $$\begin{pmatrix}
 a & b & c \\ d & e & f \\ g & h & i
 \end{pmatrix} \Rightarrow aei+bfg+cdh-ceg-bdi-afh = det$$
-Wir berechnen von $\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix}$ zuerst $\det(a)$, dann $det(\begin{pmatrix}a & b \\ c & d\end{pmatrix})$ und dann $det(\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix})$ (kann auch für größere Matrizen verwendet werden)
+Wir berechnen von $\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix}$ zuerst $\det(a)$, dann $det(\begin{pmatrix}a & b \\ d & e\end{pmatrix})$ und dann $det(\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix})$ (kann auch für größere Matrizen verwendet werden)
 Bei einer Hesse Matrix darf man Spalten und Zeilen vertauschen, aber nur wenn man beides macht (also wenn man 2. und 3. Zeile vertauscht, dann auch 2. und 3. Spalte!)
 Nun betrachten wir das vorzeichen von der ersten(von der kleinsten Matrix) bis zur letzten(größte Matrix) Determinante:
 Wenn alle positiv sind, ist sie positiv definit, wenn die erste negativ ist und alle alternierend, dann neg. definit, wenn es konkret keins der beiden sein kann, ist sie indefinit, ansonsten kann man mit der Methode nichts über die definitheit aussagen.
@@ -83,7 +83,7 @@ $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
 $$\sum^\infty_{n=0}\sum^n_{k=0}a_kb_{n-k}=\left(\sum^\infty_{n=0}a_n\right)\left(\sum^\infty_{n=0}b_n\right)$$
 
 ## l'Hospital
-Bedingungen: $\frac{f(x)}{g(x)}$, offenes Intervall, beide Funktionen müssen differenzierbar sein und eine Ableitung darf nicht 0 sein und der Grenzwert beider Funktionen muss $0$ oder $\pm\infty$ sein
+Bedingungen: $\frac{f(x)}{g(x)}$, offenes Intervall, beide Funktionen müssen differenzierbar sein und $g'(x)$ darf nicht 0 sein und der Grenzwert beider Funktionen muss $0$ oder $\pm\infty$ sein
 $$\lim_{x \rightarrow a}\frac{f'(x)}{g'(x)}=L=\lim_{x \rightarrow a}\frac{f(x)}{g(x)}$$
 ## allgemeine Potenz
 $$a^{x}:=e^{x \cdot \ln(a)}$$
