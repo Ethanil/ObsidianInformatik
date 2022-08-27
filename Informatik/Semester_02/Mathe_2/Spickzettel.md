@@ -33,7 +33,7 @@ $$(\frac{f}{g})'(x_{0})=\frac{f'(x_{0})g(x_{0})-f(x_{0})g'(x_{0})}{(g(x_{0}))^{2
 ## Produktregel
 $$(fg)'(x_{0})=f'(x_{0})g(x_{0})+f(x_{0})g'(x_{0})$$
 ## Kettenregel:
-$$(f \circ g)'(x_{0})=f'(g(x_{0}))\cdot g'(x_{0})$$
+$$(f(g(x_{0})))'=f'(g(x_{0}))\cdot g'(x_{0})$$
 ## part. Integration nach DI-Methode
 $$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}-\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e-2$$
 
