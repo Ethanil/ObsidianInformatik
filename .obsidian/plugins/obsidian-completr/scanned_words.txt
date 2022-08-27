@@ -19,6 +19,7 @@ sagen
 schreiben
 semidefinit
 solches
+sowie
 und
 um
 unten
@@ -47,6 +48,7 @@ benötigen
 beschränkt
 beschränkte
 bestimmt
+bijektiv
 Ableitungen
 Ableitung
 Arcussinus
@@ -67,6 +69,8 @@ Spalte
 Satz
 Sei
 Siehe
+Stetigkeit
+Sattelpunkt
 Definitionsbereich
 Determinante
 Das
@@ -104,6 +108,7 @@ nennen
 Logarithmus
 Links
 Limes
+Lipschitz
 Cosinus
 Cauchy
 Tangens
@@ -111,6 +116,7 @@ Taylorreihe
 Taylorpolynom
 Taylorpolynoms
 Teilsumme
+Trennung
 Quotientenregel
 Kettenregel
 Konstante
@@ -186,6 +192,7 @@ Variablen
 Vektoren
 Vektorraum
 Vektor
+Verkettung
 Im
 Ist
 Intervall
@@ -260,6 +267,7 @@ divergieren
 dafür
 definieren
 diese
+def
 title
 ten
 te
@@ -301,6 +309,7 @@ part
 Unterminoren
 Um
 Untervektorraum
+Umkehrfunktionen
 Wir
 Wenn
 Weierstraß
