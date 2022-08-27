@@ -131,6 +131,16 @@ y=&H^{-1}(G(x)) \text{ mit }G(t):=\int^{t}_{t_{0}} g(b) db\text{ und }H(y):=\int
 h(y)&\neq0 \\
 y'(t)&=g(t)h(y(t))
 \end{align}$$
+## Variation der Konstanten
+$$\begin{align}
+&\begin{cases}
+y'(t)+a(t)y(t)=b(t)\\ \\
+y(t_{0}) = y_{0}
+\end{cases}\\
+&A(t)= \int^{t}_{t_{0}}a(s)ds\\
+&y(t) = e^{-A(t)}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
+\end{align}$$
+
 ## Konvergenzradius von Potenzreihe
 $$\begin{align}
 \varrho&:=\lim_{n \rightarrow \infty}\sqrt[n]{|a_{n}|}\\
@@ -143,15 +153,6 @@ r&:=
 \end{align}
 $$
 
-## Variation der Konstanten
-$$\begin{align}
-&\begin{cases}
-y'(t)+a(t)y(t)=b(t)\\ \\
-y(t_{0}) = y_{0}
-\end{cases}\\
-&A(t)= \int^{t}_{t_{0}}a(s)ds\\
-&y(t) = e^{-A(t)}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
-\end{align}$$
 ## allgemeine binomiale Formel
 $$\begin{align}
 (a+b)^{n}=\sum^{n}_{k=0}\frac{n!}{k!(n-k)}
