@@ -117,3 +117,6 @@ Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarro
 $$\begin{align}
 \frac{f(b)-f(a)}{b-a}=f'(\xi)& &\text{bzw. gleichbedeutend }& &f(b)-f(a)=f'(\xi)(b-a)
 \end{align}$$
+
+![[Pasted image 20220827103545.png]]
+![[Pasted image 20220827103558.png]]
