@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
+                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,16 +152,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e26e73c876b2ad3",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Absolute Konvergenz.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Satz von Bolzano-Weierstraß.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
-    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md"
   ]

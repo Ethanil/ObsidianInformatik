@@ -112,3 +112,8 @@ Ist $a_n\geq b_n \geq 0$ für alle $n\geq n_0$ und divergiert die Reihe $\sum^\i
 title:Definition - Leibniz-Kriterium
 Es sei $(a_n)$ eine monoton fallende Folge in $\mathbb{R}$ mit $lim_{n\rightarrow\infty}a_n=0$. Dann ist die Reihe $\sum^\infty_{n=0}(-1)^na_n$ konvergent.
 ```
+
+## Mittelwertsatz der Differenzialrechnung
+$$\begin{align}
+\frac{f(b)-f(a)}{b-a}=f'(\xi)& &\text{bzw. gleichbedeutend }& &f(b)-f(a)=f'(\xi)(b-a)
+\end{align}$$
