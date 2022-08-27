@@ -143,3 +143,16 @@ r&:=
 \end{align}
 $$
 
+## Variation der Konstanten
+$$\begin{align}
+&\begin{cases}
+y'(t)+a(t)y(t)=b(t)\\ \\
+y(t_{0}) = y_{0}
+\end{cases}\\
+&A(t)= \int^{t}_{t_{0}}a(s)ds\\
+&y(t) = e^{-A(t)}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
+\end{align}$$
+## allgemeine binomiale Formel
+$$\begin{align}
+(a+b)^{n}=\sum^{n}_{k=0}\frac{n!}{k!(n-k)}
+a^{n-k}b^{k}\end{align}$$
