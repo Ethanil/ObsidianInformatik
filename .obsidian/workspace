@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1b2d2ab88426638",
+  "active": "7e26e73c876b2ad3",
   "lastOpenFiles": [
-    "Informatik/Semester_01/Mathe_1/Definitheit.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_01/Mathe_1/Definitheit.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_01/Mathe_1/Eigenwerttheorie.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",

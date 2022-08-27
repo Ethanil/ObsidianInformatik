@@ -90,6 +90,7 @@ Bedingungen: $\frac{f(x)}{g(x)}$, offenes Intervall, beide Funktionen müssen di
 $$\lim_{x \rightarrow a}\frac{f'(x)}{g'(x)}=L=\lim_{x \rightarrow a}\frac{f(x)}{g(x)}$$
 ## allgemeine Potenz
 $$a^{x}:=e^{x \cdot \ln(a)}$$
+$$\left(1+\frac{1}{n}\right)^{n}=e$$
 ## Konvergenzkriterien
 ```ad-abstract
 title:Definition - Quotientenkriterium
@@ -130,3 +131,15 @@ y=&H^{-1}(G(x)) \text{ mit }G(t):=\int^{t}_{t_{0}} g(b) db\text{ und }H(y):=\int
 h(y)&\neq0 \\
 y'(t)&=g(t)h(y(t))
 \end{align}$$
+## Konvergenzradius von Potenzreihe
+$$\begin{align}
+\varrho&:=\lim_{n \rightarrow \infty}\sqrt[n]{|a_{n}|}\\
+r&:=
+\begin{cases}
+0,\text{ falls }\infty\\
+\infty,\text{ falls 0,}\\
+\frac{1}{\varrho},\text{ sonst,}
+\end{cases}
+\end{align}
+$$
+
