@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "konvergenzrad",
+                "query": "fixpunk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e26e73c876b2ad3",
+  "active": "d1b2d2ab88426638",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_01/Mathe_1/Definitheit.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_01/Mathe_1/Eigenwerttheorie.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Folge.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
-    "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md"
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md"
   ]
 }
