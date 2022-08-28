@@ -6,6 +6,14 @@
 | cos | $1$  | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$        | $0$             | $-\frac{1}{\sqrt{2}}$ | $-1$   | $-\frac{1}{\sqrt{2}}$ | $0$              | $\frac{1}{\sqrt{2}}$  |
 
 $\sin^{2}+\cos^{2}=1$
+$e^{iz}= cos(z)+sin(z) i$
+$$
+\begin{align}
+&sin(z):=\sum^{\infty}_{n=0}\frac{(-1)^{n}}{(2n+1)!}z^{2n+1},& &z \in \mathbb{C},& &(Sinus)\\
+&cos(z):=\sum^{\infty}_{n=0}\frac{(-1)^{n}}{(2n)!}z^{2n},& &z \in \mathbb{C},& &(Cosinus)\\
+\end{align}
+$$
+
 
 ## hyperbolische
 $$\begin{align}
@@ -52,8 +60,15 @@ Wenn alle positiv sind, ist sie positiv definit, wenn die erste negativ ist und 
 positiv def -> Minimum
 neg. def. -> Maximum
 indefinit -> Sattelpunkt
-![[Pasted image 20220824195833.png]]
+$$\begin{align}
+&\text{stetig partiell differenzierbar}& &\Longrightarrow& &\text{total differenzierbar}& &\Longrightarrow& &\text{stetig}\\
+&\Downarrow& & & &\Downarrow& & &\\
+&\text{partiell differenzierbar}& &\Longleftarrow& &\text{alle Richtungsableitungen existieren}& & & &
+\end{align}$$
 # Integrieren
+$$\begin{align}
+\left|\int^{b}_{a}f(x)dx\right|\leq \int^{b}_{a}|f(x)|dx
+\end{align}$$
 ## part. Integration nach DI-Methode
 $$\int^{1}_{0}x^{2}e^{x} dx = |x^{2}e^{x}-2xe^{x}+2e^{x}-\int0 \cdot e^{x} dx|_{0}^{1} = e^{1}(1^{2}-2+2)-e^{0}(0-0+2)=e-2$$
 
@@ -118,7 +133,7 @@ b_{n}=\frac{2}{\omega} \int f(x) \cdot \sin(n \cdot x)
 
 
 
-## Cauchy-Produkt
+## Cauchy-Produkt (nur für abs. konv. Reihen!)
 $$\sum^\infty_{n=0}\sum^n_{k=0}a_kb_{n-k}=\left(\sum^\infty_{n=0}a_n\right)\left(\sum^\infty_{n=0}b_n\right)$$
 
 # Folgen
@@ -176,8 +191,14 @@ $$(i+1)=\sqrt{2}e^{i \cdot \frac{\pi}{4}}$$
 $$a^{x}:=e^{x \cdot \ln(a)}$$
 $$\sum^{\infty}_{n=1}\frac{1}{n!}=\left(1+\frac{1}{n}\right)^{n}=e$$
 $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
+
+$$\begin{align}
+&||x_n-v||_{V}\leq \frac{q^{n}}{1-q}||x_{1}-x_{0}||_{V} &&\text{(A-priori-Abschätzung)} \\
+&||x_n-v||_{V}\leq \frac{q^{n}}{1-q}||x_{n}-x_{n-1}||_{V} &&\text{(A-posteriori-Abschätzung)}
+\end{align}$$
 ## Mittelwertsatz
 f differenzierbar in $(a,b)$
 $$\frac{f(b)-f(a)}{b-a}=f'(\xi)$$
 ## Lipschitz-stetig
 $$|f(x)-f(y)|\leq L|x-y|$$
+
