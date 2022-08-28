@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stetig differenzierbar",
+                "query": "monoton fall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e26e73c876b2ad3",
+  "active": "d1b2d2ab88426638",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Eigenschaften stetiger Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_01/Mathe_1/Definitheit.md",
-    "Informatik/Semester_01/Mathe_1/Eigenwerttheorie.md",
-    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Folge.md"
+    "Informatik/Semester_01/Mathe_1/Definitheit.md"
   ]
 }

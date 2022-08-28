@@ -27,6 +27,7 @@ schreibt
 und
 um
 unten
+ungerade
 cos
 char
 hyperbolische
@@ -69,6 +70,7 @@ Ableitungsregeln
 Abstände
 Absolute
 Ableitungsfunktion
+Additionstheoreme
 Name
 Nun
 Näherung
@@ -133,6 +135,7 @@ Taylorpolynoms
 Teilsumme
 Trennung
 Term
+Trigonometrische
 Quotientenregel
 Kettenregel
 Konstante
@@ -150,6 +153,7 @@ vertauscht
 verallgemeinerte
 verschiedenen
 verschiedene
+verschobene
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -239,6 +243,7 @@ gibt
 geht
 genau
 gegen
+gerade
 wie
 wir
 welche
@@ -309,6 +314,7 @@ Menge
 Majorantenkriterium
 Minorantenkriterium
 Mittelwertsatz
+Monotonie
 ein
 existiert
 einem
