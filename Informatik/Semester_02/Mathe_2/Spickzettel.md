@@ -176,3 +176,8 @@ $$(i+1)=\sqrt{2}e^{i \cdot \frac{\pi}{4}}$$
 $$a^{x}:=e^{x \cdot \ln(a)}$$
 $$\sum^{\infty}_{n=1}\frac{1}{n!}=\left(1+\frac{1}{n}\right)^{n}=e$$
 $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
+## Mittelwertsatz
+f differenzierbar in $(a,b)$
+$$\frac{f(b)-f(a)}{b-a}=f'(\xi)$$
+## Lipschitz-stetig
+$$|f(x)-f(y)|\leq L|x-y|$$

@@ -25,10 +25,14 @@ selbst
 sogar
 schreibt
 stuff
+sollen
+sfunktion
+sämtliche
 und
 um
 unten
 ungerade
+uns
 cos
 char
 hyperbolische
@@ -61,6 +65,8 @@ bijektiv
 beliebig
 bspw
 binomiale
+beschränken
+beschreiben
 Ableitungen
 Ableitung
 Arcussinus
@@ -72,6 +78,7 @@ Abstände
 Absolute
 Ableitungsfunktion
 Additionstheoreme
+Ableitungsbegriff
 Name
 Nun
 Näherung
@@ -85,6 +92,9 @@ Sei
 Siehe
 Stetigkeit
 Sattelpunkt
+Steigung
+Spezialfall
+Schrankensatz
 Definitionsbereich
 Determinante
 Das
@@ -100,6 +110,10 @@ Divergenz
 Differenzialrechnung
 Definitheit
 DGL
+Differenzierbarkeit
+Diese
+Differenzenquitienten
+Differenziationsproblem
 Bild
 Bedingungen
 Bei
@@ -113,6 +127,7 @@ funktion
 falls
 für
 fallend
+fürn
 nat
 nur
 nicht
@@ -123,6 +138,8 @@ nach
 normierten
 nennen
 nennt
+nun
+noch
 Logarithmus
 Links
 Limes
@@ -138,6 +155,7 @@ Trennung
 Term
 Trigonometrische
 Taylor
+Totale
 Quotientenregel
 Kettenregel
 Konstante
@@ -146,6 +164,8 @@ Konvergenzkriterien
 Kovergenz
 Konvergenzradius
 Konstanten
+Koordinate
+Konvexe
 von
 vergleichbar
 verwendet
@@ -156,6 +176,7 @@ verallgemeinerte
 verschiedenen
 verschiedene
 verschobene
+versuchen
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -169,6 +190,7 @@ Folgen
 Fall
 Formel
 Fourier
+Fuinktionsgraphen
 aliases
 aber
 ad
@@ -186,6 +208,8 @@ abgeschlossen
 abgegeschlossene
 absolut
 anstatt
+allen
+abstrakter
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -204,9 +228,12 @@ Eigenwerttheorie
 Ein
 Eigentwert
 Eigenwerten
+Exisiteren
 in
 indefinit
 ist
+indem
+im
 mehreren
 mit
 man
@@ -216,6 +243,8 @@ muss
 macht
 messen
 mal
+möglich
+mehrere
 Variablen
 Vektoren
 Vektorraum
@@ -223,6 +252,7 @@ Vektor
 Verkettung
 Variation
 Vielfachheit
+Verhalten
 Im
 Ist
 Intervall
@@ -236,6 +266,9 @@ Polynom
 Potenz
 Produktregel
 Potenzreihen
+Punkt
+Punkten
+Partielle
 gleich
 globales
 gilt
@@ -259,6 +292,8 @@ wird
 was
 wichtige
 wieder
+wollen
+weniger
 komplizierter
 kein
 kann
@@ -304,9 +339,14 @@ definieren
 diese
 def
 diesem
+definiert
+direkte
+denn
+darauf
 title
 ten
 te
+teilen
 Man
 Maximum
 Minimum
@@ -332,11 +372,13 @@ einen
 entweder
 existieren
 exisitert
+eindimensionale
 relatives
 relativen
 rechtsseitiger
 rechtsseitigen
 random
+retten
 oder
 offenes
 offen
@@ -346,6 +388,9 @@ oft
 positiv
 part
 pro
+partiell
+partielle
+partiellen
 Unterminoren
 Um
 Untervektorraum
@@ -359,6 +404,7 @@ zwei
 zwischen
 zu
 zum
+zusammen
 letzten
 linksseitiger
 linksseitigen
@@ -370,6 +416,8 @@ Rechenregeln
 Restglieds
 Räumen
 Rolle
+Richtungsableitungen
+Richtungen
 Hospital
 Hesse
 Häufungspunkt
@@ -379,10 +427,15 @@ Grades
 Grenzwertbegriff
 Grenzwerte
 Gilt
+Gradient
 jedes
 jede
 jeweils
+ja
 Zeilen
 Zeile
 Zahl
+Zeilenvektor
 Jede
+Jacobi
+Änderungsverhalten
