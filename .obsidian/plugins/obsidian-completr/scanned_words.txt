@@ -28,12 +28,15 @@ und
 um
 unten
 cos
+char
 hyperbolische
 hyperbolicus
 hyp
 hat
 heißt
 haben
+heranmultipliziert
+hinzu
 bes
 bzw
 berechnen
@@ -54,6 +57,8 @@ beschränkte
 bestimmt
 bijektiv
 beliebig
+bspw
+binomiale
 Ableitungen
 Ableitung
 Arcussinus
@@ -91,6 +96,7 @@ Dreiecksungleichung
 Divergenz
 Differenzialrechnung
 Definitheit
+DGL
 Bild
 Bedingungen
 Bei
@@ -126,6 +132,7 @@ Taylorpolynom
 Taylorpolynoms
 Teilsumme
 Trennung
+Term
 Quotientenregel
 Kettenregel
 Konstante
@@ -133,6 +140,7 @@ Konvergenz
 Konvergenzkriterien
 Kovergenz
 Konvergenzradius
+Konstanten
 von
 vergleichbar
 verwendet
@@ -153,6 +161,7 @@ Form
 Folge
 Folgen
 Fall
+Formel
 aliases
 aber
 ad
@@ -205,6 +214,8 @@ Vektoren
 Vektorraum
 Vektor
 Verkettung
+Variation
+Vielfachheit
 Im
 Ist
 Intervall
@@ -256,6 +267,7 @@ konvergiert
 kovergieren
 keinen
 konverigert
+kommt
 da
 darin
 dass
@@ -322,6 +334,7 @@ oben
 oft
 positiv
 part
+pro
 Unterminoren
 Um
 Untervektorraum
@@ -357,6 +370,7 @@ Grenzwerte
 Gilt
 jedes
 jede
+jeweils
 Zeilen
 Zeile
 Zahl

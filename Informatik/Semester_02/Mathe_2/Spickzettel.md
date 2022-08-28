@@ -141,6 +141,19 @@ y(t_{0}) = y_{0}
 &y(t) = e^{-A(t)}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
 \end{align}$$
 
+## DGL über char. Polynom
+$$\begin{align}
+y^{(3)}-y''+4y'-4y&=0 \\
+\Rightarrow \lambda^{3}-\lambda^{2}+4\lambda-4&=0 \\
+\Leftrightarrow (\lambda-1)(\lambda^{2}+4)&=0\\
+\lambda_{1}&=1 \\
+\lambda_{2,3}&=\pm\sqrt{-4}\\
+\Leftrightarrow \lambda_{2,3}&=\alpha \pm \beta i=0\pm2i\\
+\Rightarrow y&=a \cdot e^{x}+e^{0x}\cdot(b \cdot \sin(2x)+c \cdot \cos(2x))\\
+\Leftrightarrow y&= a e^{x}+b \cdot \sin(2x)+c \cdot cos(2x)
+\end{align}$$
+Bei Vielfachheit kommt ein Term mit jeweils $t$ pro Vielfachheit heranmultipliziert hinzu bspw.
+$$y= a e^{x}+bt e^{x}+c \cdot \sin(2x)+d \cdot cos(2x)+t(e \cdot \sin(2x)+f \cdot cos(2x))$$
 ## Konvergenzradius von Potenzreihe
 $$\begin{align}
 \varrho&:=\lim_{n \rightarrow \infty}\sqrt[n]{|a_{n}|}\\
