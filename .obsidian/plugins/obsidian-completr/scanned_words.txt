@@ -24,6 +24,7 @@ stetiger
 selbst
 sogar
 schreibt
+stuff
 und
 um
 unten
@@ -136,6 +137,7 @@ Teilsumme
 Trennung
 Term
 Trigonometrische
+Taylor
 Quotientenregel
 Kettenregel
 Konstante
@@ -166,6 +168,7 @@ Folge
 Folgen
 Fall
 Formel
+Fourier
 aliases
 aber
 ad
@@ -225,6 +228,7 @@ Ist
 Intervall
 Integration
 In
+Integrieren
 Prinzip
 Produkt
 Potenzreihe
@@ -332,6 +336,7 @@ relatives
 relativen
 rechtsseitiger
 rechtsseitigen
+random
 oder
 offenes
 offen
