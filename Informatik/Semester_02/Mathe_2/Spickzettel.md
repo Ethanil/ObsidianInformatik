@@ -145,10 +145,8 @@ y(t_{0}) = y_{0}
 $$\begin{align}
 y^{(3)}-y''+4y'-4y&=0 \\
 \Rightarrow \lambda^{3}-\lambda^{2}+4\lambda-4&=0 \\
-\Leftrightarrow (\lambda-1)(\lambda^{2}+4)&=0\\
 \lambda_{1}&=1 \\
-\lambda_{2,3}&=\pm\sqrt{-4}\\
-\Leftrightarrow \lambda_{2,3}&=\alpha \pm \beta i=0\pm2i\\
+\lambda_{2,3}&=\alpha \pm \beta i=0\pm2i\\
 \Rightarrow y&=a \cdot e^{x}+e^{0x}\cdot(b \cdot \sin(2x)+c \cdot \cos(2x))\\
 \Leftrightarrow y&= a e^{x}+b \cdot \sin(2x)+c \cdot cos(2x)
 \end{align}$$
