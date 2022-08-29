@@ -99,7 +99,7 @@ y'(t)+a(t)y(t)=b(t)\\ \\
 y(t_{0}) = y_{0}
 \end{cases}\\
 &A(t)= \int^{t}_{t_{0}}a(s)ds\\
-&y(t) = e^{-A(t)}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
+&y(t) = e^{-A(t)} \cdot y_{0}+e^{-A(t)}\int^{t}_{t_{0}}b(s)e^{A(s)}ds
 \end{align}$$
 
 ## DGL über char. Polynom
