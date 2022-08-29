@@ -112,7 +112,7 @@ y^{(3)}-y''+4y'-4y&=0 \\
 \Leftrightarrow y&= a e^{x}+b \cdot \sin(2x)+c \cdot cos(2x)
 \end{align}$$
 Bei Vielfachheit kommt ein Term mit jeweils $t$ pro Vielfachheit heranmultipliziert hinzu bspw.
-$$y= a e^{x}+bt e^{x}+c \cdot \sin(2x)+d \cdot cos(2x)+t(e \cdot \sin(2x)+f \cdot cos(2x))$$
+$$y= a e^{t}+bt e^{t}+c \cdot \sin(2t)+d \cdot cos(2t)+t(e \cdot \sin(2t)+f \cdot cos(2t))$$
 
 # Taylor, Fourier, Cauchy
 ## Taylorpolynom
