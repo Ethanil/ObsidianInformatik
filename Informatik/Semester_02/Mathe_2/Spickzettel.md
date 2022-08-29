@@ -108,11 +108,11 @@ y^{(3)}-y''+4y'-4y&=0 \\
 \Rightarrow \lambda^{3}-\lambda^{2}+4\lambda-4&=0 \\
 \lambda_{1}&=1 \\
 \lambda_{2,3}&=\alpha \pm \beta i=0\pm2i\\
-\Rightarrow y&=a \cdot e^{x}+e^{0x}\cdot(b \cdot \sin(2x)+c \cdot \cos(2x))\\
+\Rightarrow y&=a \cdot e^{x}+e^{0x}\cdot(e^{(\alpha=0)}b \cdot \sin(2x)+e^{(\alpha=0)}c \cdot \cos(2x))\\
 \Leftrightarrow y&= a e^{x}+b \cdot \sin(2x)+c \cdot cos(2x)
 \end{align}$$
 Bei Vielfachheit kommt ein Term mit jeweils $t$ pro Vielfachheit heranmultipliziert hinzu bspw.
-$$y= a e^{t}+bt e^{t}+c \cdot \sin(2t)+d \cdot cos(2t)+t(e \cdot \sin(2t)+f \cdot cos(2t))$$
+$$y= a e^{t}+bt e^{t}+c \cdot \sin(2t)+d \cdot cos(2t)+t(f \cdot \sin(2t)+g \cdot cos(2t))$$
 
 # Taylor, Fourier, Cauchy
 ## Taylorpolynom
