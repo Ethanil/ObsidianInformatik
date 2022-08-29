@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abgeschlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4141c46484cf9a42",
+  "active": "7e26e73c876b2ad3",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
     "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit von Funktionen mehrerer Variablen.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/Mathe_2/Häufungswert.md",
     "Informatik/Semester_02/Mathe_2/Folge.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Polardarstellung komplexer Zahlen.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Hyperbolische Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md"
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Polardarstellung komplexer Zahlen.md"
   ]
 }

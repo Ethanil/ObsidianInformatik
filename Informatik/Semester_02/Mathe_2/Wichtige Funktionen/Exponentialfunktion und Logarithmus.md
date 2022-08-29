@@ -28,7 +28,7 @@ $\lim_{x\rightarrow \infty}ln(x)=\infty$ und $\lim_{x\rightarrow 0+}ln(x)=-\inft
 title:
 Für alle $x,y \in (0,\infty)$ und $q \in \mathbb{Q}$ gilt
 $$\begin{align}
-ln(xy)=ln(x)+ln(y),& &ln(\frac{x}{y})=ln(x)-ln(y)& &ln(x^{q})=q, \cdot ln(x)
+ln(xy)=ln(x)+ln(y),& &ln(\frac{x}{y})=ln(x)-ln(y)& &ln(x^{q})=q \cdot ln(x)
 \end{align}$$
 ```
 ````
