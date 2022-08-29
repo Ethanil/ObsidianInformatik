@@ -192,13 +192,19 @@ $$a^{x}:=e^{x \cdot \ln(a)}$$
 $$\sum^{\infty}_{n=1}\frac{1}{n!}=\left(1+\frac{1}{n}\right)^{n}=e$$
 $$\sum^{\infty}_{n=0}q^{n}=\frac{1}{1-q}\text{ für } |q|<1$$
 
+
+kompakt ist abgeschlossen und beschränkt
+## Banachscher Fixpunktsatz
+$$||f(x)-f(y)||_{V}\leq q \cdot||x-y||_{V}$$
+### Fehlerabschätzung
 $$\begin{align}
 &||x_n-v||_{V}\leq \frac{q^{n}}{1-q}||x_{1}-x_{0}||_{V} &&\text{(A-priori-Abschätzung)} \\
 &||x_n-v||_{V}\leq \frac{q^{n}}{1-q}||x_{n}-x_{n-1}||_{V} &&\text{(A-posteriori-Abschätzung)}
 \end{align}$$
+
+
 ## Mittelwertsatz
 f differenzierbar in $(a,b)$
 $$\frac{f(b)-f(a)}{b-a}=f'(\xi)$$
 ## Lipschitz-stetig
 $$|f(x)-f(y)|\leq L|x-y|$$
-
