@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banach",
+                "query": "kompakt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   },
   "active": "7e26e73c876b2ad3",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Stammfunktionen und der Hauptsatz.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
@@ -168,7 +169,6 @@
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
-    "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit von Funktionen mehrerer Variablen.md"
   ]
 }
