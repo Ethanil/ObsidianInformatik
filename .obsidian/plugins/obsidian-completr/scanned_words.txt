@@ -225,6 +225,7 @@ Fuinktionsgraphen
 Flächen
 Funktionsgraphen
 Fläche
+Fehlerabschätzung
 aliases
 aber
 ad
@@ -371,6 +372,7 @@ komplexer
 komplexe
 kartesische
 konv
+kompakt
 da
 darin
 dass
