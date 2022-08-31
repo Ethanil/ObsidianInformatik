@@ -20,6 +20,10 @@ q ist die Länge des längsten aktuellen Kandidatens (Beispiel: T= gagaga S=gaga
 i wird um 1 erhöht
 ### Abbruchbedingung
 n Iterationen abgeschlossen.
+### Input
+zwei Strings über einem Beliebigen Alphabet
+### Output
+die aufsteigend sortierte Menge aller Vorkommen des Suchstrings ohne Duplikate
 ## Komplexität
 worst-case ist $O(m^{3}\cdot |\Sigma| +n)$
 Wir haben also eine sehr gute Laufzeit für lange Text in denen wir suchen (S)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
+            "file": "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
+                "file": "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +135,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4141c46484cf9a42",
   "lastOpenFiles": [
+    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
     "Informatik/Semester_02/Mathe_2/Untitled.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/offen abgeschlossen beschränkt.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
@@ -146,8 +149,6 @@
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Stammfunktionen und der Hauptsatz.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Definition des bestimmten Integrals.md",
-    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md"
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md"
   ]
 }

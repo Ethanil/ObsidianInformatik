@@ -10,6 +10,11 @@ Nach $i \geq 0$ Iterationen sind die elemente von S am ende von S an den richtig
 i wird um 1 erhöht
 ### Abbruchbedingung
 $i= |S|-1$
+### Input
+eine endliche geordnete Sequenz mit einer bestimmten Länge aus Elementen eines beliebigen Typs, Duplikate sind erlaubt
+eine strenge schwache Ordnung "<" auf dem beliebigen Typ
+### Output
+eine Permutation der Sequenz, die gemäßt der Ordnung aufsteigend sortiert ist.
 ## Ablauf
 Wir vergleichen von "vorne nach hinten" immer das Element mit dem nachfolgenden und falls dieses kleiner ist, vertauschen wir die beiden, bis wir am Ende angekommen sind. So schieben wir immer das größte Element der noch nicht sortierten Liste ganz ans ende. (Das Element steigt wie eine Blase auf)
 ## Komplexität
