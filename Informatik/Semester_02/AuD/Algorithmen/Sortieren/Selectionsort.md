@@ -13,6 +13,11 @@ Die Elemente am Ende der Liste sind korrekt sortiert.
 $i$ wird um 1 erhöht
 ### Abbruchbedingung
 $i=|S|-1$
+### Input
+eine endliche geordnete Sequenz mit einer bestimmten Länge aus Elementen eines beliebigen Typs, Duplikate sind erlaubt
+eine strenge schwache Ordnung "<" auf dem beliebigen Typ
+### Output
+eine Permutation der Sequenz mit den exakt gleichen Elementen wie vom Input, die gemäßt der Ordnung aufsteigend sortiert ist.
 ## Ablauf
 Wir gehen durch den unsortierten Teil der Liste und setzen $m$ immer auf den Wert, der größer ist als das vorherige $m$ (bei Gleichheit bleibt das erste $m$!). Wenn wir am Ende der unsortierten Teil der Liste angekommen sind, tauschen wir dieses Element mit $m$.
 ## Komplexität

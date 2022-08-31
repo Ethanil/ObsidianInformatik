@@ -16,6 +16,11 @@ $S$ ist richtig sortiert
 $i_{1}+i_{2}$ erhöt sich immer um eins (Vor der Termination), weder $i_{1}$ noch $i_{2}$ werden kleiner
 ### Abbruchbedingung
 $i_{1}=|S_{1}|$ oder $i_{2}=|S_{2}|$
+### Input
+Eine strenge, schwache Ordnung "<" auf einem beliebigen Typen
+zwei in sich gemäß der Ordnung "<" sortierte Sequenzen vom selben Typen, Duplikate erlaubt
+### Output
+Eine Sequenz die gemäß der Ordnung aufsteigend sortiert ist und exakt die Elemente enthält die in den beiden Sequenzen entahlten sind.
 ## Ablauf
 Wir vergleichen immer $S_{1}[i_{1}]$ mit $S_{2}[i_{2}]$ und fürgen das kleinere Element an $S$ an. Dann erhöhen wir den Pointer, von dem wir ein element genommen haben
 ## Komplexität

@@ -14,7 +14,7 @@ $i= |S|-1$
 eine endliche geordnete Sequenz mit einer bestimmten Länge aus Elementen eines beliebigen Typs, Duplikate sind erlaubt
 eine strenge schwache Ordnung "<" auf dem beliebigen Typ
 ### Output
-eine Permutation der Sequenz, die gemäßt der Ordnung aufsteigend sortiert ist.
+eine Permutation der Sequenz mit den exakt gleichen Elementen wie vom Input, die gemäßt der Ordnung aufsteigend sortiert ist.
 ## Ablauf
 Wir vergleichen von "vorne nach hinten" immer das Element mit dem nachfolgenden und falls dieses kleiner ist, vertauschen wir die beiden, bis wir am Ende angekommen sind. So schieben wir immer das größte Element der noch nicht sortierten Liste ganz ans ende. (Das Element steigt wie eine Blase auf)
 ## Komplexität

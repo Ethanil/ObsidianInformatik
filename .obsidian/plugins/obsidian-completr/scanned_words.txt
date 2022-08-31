@@ -45,6 +45,7 @@ sortieren
 seinen
 sich
 solange
+selben
 und
 um
 unten
@@ -172,6 +173,7 @@ Summe
 Sie
 Substring
 Stelle
+Sequenzen
 Definitionsbereich
 Determinante
 Das
@@ -267,6 +269,7 @@ Teil
 Typs
 Typ
 Termination
+Typen
 Quotientenregel
 Quicksort
 Kettenregel
@@ -302,6 +305,7 @@ vorne
 vorherige
 vorsortierte
 vor
+vom
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -495,6 +499,7 @@ geordnete
 gemäßt
 genommen
 gemacht
+gemäß
 wie
 wir
 welche
@@ -634,6 +639,9 @@ eins
 erhöhen
 element
 erreichen
+exakt
+enthält
+entahlten
 relatives
 relativen
 rechtsseitiger
