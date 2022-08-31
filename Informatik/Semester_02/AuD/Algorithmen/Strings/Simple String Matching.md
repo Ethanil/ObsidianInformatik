@@ -18,6 +18,10 @@ I beinhaltet genau die Start-Indizes aller möglichen Kandidaten T's in S in auf
 i wird bei jeder iteration um 1 größer
 ### Abbruchbedingung
 n Iterationen abgeschlossen.
+### Input
+Zwei Strings über einem Alphabet
+### Output
+aufsteigend sortierte Sequenzen aller Vorkommen des Suchstrings ohne Duplikate
 ## Komplexität
 Worst-Case runtime ist $O(n \cdot r) \subseteq O(n \cdot m)$
 
