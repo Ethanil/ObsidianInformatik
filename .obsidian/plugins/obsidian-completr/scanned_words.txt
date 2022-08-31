@@ -37,6 +37,14 @@ sortierende
 schieben
 sortierten
 steigt
+sortiert
+strenge
+schwache
+sortierte
+sortieren
+seinen
+sich
+solange
 und
 um
 unten
@@ -45,6 +53,10 @@ uns
 unter
 unendlich
 unendliche
+unsortierten
+usw
+untereinander
+ungleich
 cos
 char
 case
@@ -57,6 +69,10 @@ haben
 heranmultipliziert
 hinzu
 hinten
+herausgenommenen
+hinter
+hinzugefügten
+herausgezogen
 bes
 bzw
 berechnen
@@ -91,6 +107,10 @@ beinhaltet
 bei
 basierend
 best
+bleibt
+beliebigen
+besteht
+bewegen
 Ableitungen
 Ableitung
 Arcussinus
@@ -117,6 +137,7 @@ Alphabet
 Automat
 Ablauf
 Asymptotische
+Alle
 Name
 Nun
 Näherung
@@ -145,6 +166,12 @@ Start
 Strings
 Sobald
 So
+Selectionsort
+Sequenz
+Summe
+Sie
+Substring
+Stelle
 Definitionsbereich
 Determinante
 Das
@@ -167,6 +194,8 @@ Differenziationsproblem
 Dabei
 Dies
 Den
+Duplikate
+Danach
 Bild
 Bedingungen
 Bei
@@ -180,6 +209,9 @@ Banachraum
 Beispiel
 Bubblesort
 Blase
+Bucketsort
+Buckets
+Buchstaben
 funktion
 falls
 für
@@ -187,6 +219,9 @@ fallend
 fürn
 führt
 finden
+fügen
+fürgen
+festgelegt
 nat
 nur
 nicht
@@ -200,6 +235,8 @@ nennt
 nun
 noch
 nachfolgenden
+nehmen
+niemals
 Logarithmus
 Links
 Limes
@@ -208,6 +245,7 @@ Länge
 Liste
 Look
 Laufzeit
+Listenende
 Cosinus
 Cauchy
 Case
@@ -225,7 +263,12 @@ Teilmenge
 Teilfolge
 Tabelle
 Text
+Teil
+Typs
+Typ
+Termination
 Quotientenregel
+Quicksort
 Kettenregel
 Konstante
 Konvergenz
@@ -256,6 +299,9 @@ viele
 vollständiger
 vergleichen
 vorne
+vorherige
+vorsortierte
+vor
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -274,6 +320,7 @@ Flächen
 Funktionsgraphen
 Fläche
 Fehlerabschätzung
+Fällen
 aliases
 aber
 ad
@@ -309,6 +356,10 @@ aktuellen
 am
 angekommen
 ans
+asymptomatische
+aufsteigend
+ab
+addieren
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -332,6 +383,9 @@ Extremwerte
 Elemente
 Element
 Ende
+Elementen
+Ergebnis
+Erhöhen
 in
 indefinit
 ist
@@ -342,6 +396,7 @@ ihren
 iterationen
 iteration
 immer
+ihrem
 mehreren
 mit
 man
@@ -356,6 +411,8 @@ mehrere
 mehrerer
 möglichen
 maximale
+mindestens
+miteinander
 Variablen
 Vektoren
 Vektorraum
@@ -365,6 +422,8 @@ Variation
 Vielfachheit
 Verhalten
 Variante
+Vergleichsoperation
+Vor
 Im
 Ist
 Intervall
@@ -380,6 +439,10 @@ Imaginärteil
 Indizes
 Invariante
 Iterationen
+Input
+Inputs
+Iteration
+Insgesamt
 Prinzip
 Produkt
 Potenzreihe
@@ -393,6 +456,11 @@ Partielle
 Polardarstellung
 Polarkoordinaten
 Positionen
+Pointer
+Permutation
+Position
+Pivot
+Partinioning
 gleich
 globales
 gilt
@@ -422,6 +490,11 @@ gaganb
 ga
 gute
 ganz
+gehen
+geordnete
+gemäßt
+genommen
+gemacht
 wie
 wir
 welche
@@ -438,6 +511,8 @@ weniger
 wurde
 wäre
 worst
+wobei
+weder
 komplizierter
 kein
 kann
@@ -464,6 +539,9 @@ konv
 kompakt
 korrekt
 kleiner
+kommenden
+kleinere
+konstanter
 da
 darin
 dass
@@ -500,10 +578,15 @@ derselbe
 denen
 dieses
 dabei
+davon
+drauf
+drei
+danach
 title
 ten
 te
 teilen
+tauschen
 Man
 Maximum
 Minimum
@@ -519,6 +602,7 @@ Monotonie
 Mit
 Matching
 Maximale
+Mergesort
 ein
 existiert
 einem
@@ -543,6 +627,13 @@ endlichem
 erhöht
 elemente
 ende
+endliche
+erlaubt
+erhöt
+eins
+erhöhen
+element
+erreichen
 relatives
 relativen
 rechtsseitiger
@@ -551,6 +642,7 @@ random
 retten
 runtime
 richtigen
+richtig
 oder
 offenes
 offen
@@ -558,6 +650,7 @@ offene
 oben
 oft
 obwohl
+ohne
 positiv
 part
 pro
@@ -579,6 +672,8 @@ Weiter
 Winkel
 Wahl
 Worst
+Wert
+Werte
 zuerst
 zur
 zwei
@@ -586,6 +681,10 @@ zwischen
 zu
 zum
 zusammen
+zweite
+zeigt
+zählen
+ziehen
 letzten
 linksseitiger
 linksseitigen
@@ -593,6 +692,7 @@ längsten
 längste
 lang
 lange
+leer
 über
 Reihe
 Reihen
@@ -606,6 +706,7 @@ Richtungen
 Riemann
 Rechtecken
 Real
+Reihenfolge
 Hospital
 Hesse
 Häufungspunkt
@@ -623,6 +724,9 @@ Grenzwerte
 Gilt
 Gradient
 Graphen
+Gleichheit
+Gruppe
+Grenzen
 jedes
 jede
 jeweils
@@ -634,6 +738,7 @@ Zahl
 Zeilenvektor
 Zerlegung
 Zahlen
+Zuerst
 Jede
 Jacobi
 Jeden
@@ -641,3 +746,5 @@ Jeden
 Obersumme
 Ober
 Ordnung
+Output
+ändern
