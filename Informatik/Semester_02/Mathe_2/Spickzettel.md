@@ -113,7 +113,9 @@ y^{(3)}-y''+4y'-4y&=0 \\
 \end{align}$$
 Bei Vielfachheit kommt ein Term mit jeweils $t$ pro Vielfachheit heranmultipliziert hinzu bspw.
 $$y= a e^{t}+bt e^{t}+c \cdot \sin(2t)+d \cdot cos(2t)+t(f \cdot \sin(2t)+g \cdot cos(2t))$$
-
+## Substituieren
+- $z=g(x)$ festlegen 
+- 
 # Taylor, Fourier, Cauchy
 ## Taylorpolynom
 $$t_{k,f}(x;x_{0}):=\sum^{k}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
