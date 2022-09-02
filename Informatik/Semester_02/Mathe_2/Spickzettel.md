@@ -115,7 +115,7 @@ Bei Vielfachheit kommt ein Term mit jeweils $t$ pro Vielfachheit heranmultiplizi
 $$y= a e^{t}+bt e^{t}+c \cdot \sin(2t)+d \cdot cos(2t)+t(f \cdot \sin(2t)+g \cdot cos(2t))$$
 ## Substituieren
 - $z=g(x)$ festlegen 
-- 
+- $dx=\frac{dz}{z'}=\frac{dz}{g'(x)}$ ausrechnen
 # Taylor, Fourier, Cauchy
 ## Taylorpolynom
 $$t_{k,f}(x;x_{0}):=\sum^{k}_{n=0}\frac{f^{(n)}(x_{0})}{n!}(x-x_{0})^{n}$$
