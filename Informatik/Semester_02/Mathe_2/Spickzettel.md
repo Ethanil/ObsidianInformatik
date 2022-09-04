@@ -206,7 +206,7 @@ $$\begin{align}
 
 
 ## Mittelwertsatz
-f differenzierbar in $(a,b)$
+f differenzierbar in $(a,b)$ und $a<b$ dann gibt es ein $\xi \in (a,b)$ sodass
 $$\frac{f(b)-f(a)}{b-a}=f'(\xi)$$
 ## Lipschitz-stetig
 $$|f(x)-f(y)|\leq L|x-y|$$
