@@ -37,6 +37,8 @@ Wenn $i_{1} = m_{1}$,  $i_{2} = m_{2}$ und $i_{3} = n+1$
 	- Erhöhen $i_{3}$ solange, bis wir am Ende der Liste sind ($n+1$) oder wir ein Element gefunden haben, was nicht größer ist als $p$ (also $S[i_{3}]\leq p$).
 
 ## Komplexität
+## FUCKY START
+Nach jedem Induktionsschritt wurde 1 Element getauscht.
 
 
 ## Links

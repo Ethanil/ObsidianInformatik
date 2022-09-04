@@ -22,5 +22,7 @@ Wir nehmen immer eine "Gruppe" an längsten Strings aus A und sortieren sie nach
 Danach fügen wir die Strings aus S' an der richtigen Stelle hinter den gerade hinzugefügten zu B hinzu (ohne die Reihenfolge der aus S' kommenden untereinander zu ändern).
 ## Komplexität
 Die Asymptotische Komplexität ist $\Theta(M)$ im best und worst case.
+## FUCKY START
+Im 1. Induktionsschritt werden die Strings mit der größten Länge sortiert.
 
 ## Links

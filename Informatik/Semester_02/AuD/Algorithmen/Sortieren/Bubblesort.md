@@ -20,4 +20,6 @@ Wir vergleichen von "vorne nach hinten" immer das Element mit dem nachfolgenden 
 ## Komplexität
 Asymptotische Komplexität $\Theta(T \cdot n^{2})$ im best und worst-case. T ist dabei die Komplexität des Komperators.
 
+## FUCKY START
+sobald wir `i=1` setzen ist der 1. fertig sortiert => fängt bei `i=0 j=0` an
 ## Links

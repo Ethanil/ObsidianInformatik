@@ -25,5 +25,7 @@ Eine Sequenz die gemäß der Ordnung aufsteigend sortiert ist und exakt die Elem
 Wir vergleichen immer $S_{1}[i_{1}]$ mit $S_{2}[i_{2}]$ und fürgen das kleinere Element an $S$ an. Dann erhöhen wir den Pointer, von dem wir ein element genommen haben
 ## Komplexität
 Die Komplexität ist $\Theta(T \cdot (|S_{1}|+|S_{2}|))$ im best und worst case. $T$ ist die Komplexität der Vergleichsoperation.
+## FUCKY START
+Nach dem 1. Induktionsschritt ist 1 Element gemerged.
 
 ## Links
