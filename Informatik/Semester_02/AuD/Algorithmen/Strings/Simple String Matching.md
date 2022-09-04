@@ -24,5 +24,6 @@ Zwei Strings über einem Alphabet
 aufsteigend sortierte Sequenzen aller Vorkommen des Suchstrings ohne Duplikate
 ## Komplexität
 Worst-Case runtime ist $O(n \cdot r) \subseteq O(n \cdot m)$
-
+## FUCKY START
+Erster Char wird bei `i=0` verglichen
 ## Links

@@ -175,6 +175,8 @@ Substring
 Stelle
 Sequenzen
 Substituieren
+Suchstrings
+START
 Definitionsbereich
 Determinante
 Das
@@ -215,6 +217,7 @@ Blase
 Bucketsort
 Buckets
 Buchstaben
+Beliebigen
 funktion
 falls
 für
@@ -253,6 +256,7 @@ Listenende
 Cosinus
 Cauchy
 Case
+Char
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -308,6 +312,7 @@ vorherige
 vorsortierte
 vor
 vom
+verglichen
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -327,6 +332,7 @@ Funktionsgraphen
 Fläche
 Fehlerabschätzung
 Fällen
+FUCKY
 aliases
 aber
 ad
@@ -393,6 +399,7 @@ Ende
 Elementen
 Ergebnis
 Erhöhen
+Erster
 in
 indefinit
 ist
@@ -431,6 +438,7 @@ Verhalten
 Variante
 Vergleichsoperation
 Vor
+Vorkommen
 Im
 Ist
 Intervall
@@ -750,6 +758,7 @@ Zeilenvektor
 Zerlegung
 Zahlen
 Zuerst
+Zwei
 Jede
 Jacobi
 Jeden

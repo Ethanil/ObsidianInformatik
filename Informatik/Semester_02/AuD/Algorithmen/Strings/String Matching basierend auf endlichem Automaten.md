@@ -27,4 +27,6 @@ die aufsteigend sortierte Menge aller Vorkommen des Suchstrings ohne Duplikate
 ## Komplexität
 worst-case ist $O(m^{3}\cdot |\Sigma| +n)$
 Wir haben also eine sehr gute Laufzeit für lange Text in denen wir suchen (S)
+## FUCKY START
+fängt mit dem ersten char bei `i=0` an
 ## Links

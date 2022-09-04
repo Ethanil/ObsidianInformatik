@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+            "file": "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4141c46484cf9a42",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Mergesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bucketsort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
     "Informatik/Semester_02/Mathe_2/Untitled.md"
   ]
 }
