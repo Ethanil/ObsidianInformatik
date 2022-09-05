@@ -47,16 +47,8 @@ $$(f(g(x_{0})))'=f'(g(x_{0}))\cdot g'(x_{0})$$
 Bedingungen: $\frac{f(x)}{g(x)}$, offenes Intervall, beide Funktionen müssen differenzierbar sein und $g'(x)$ darf nicht 0 sein und der Grenzwert beider Funktionen muss $0$ oder $\pm\infty$ sein
 $$\lim_{x \rightarrow a}\frac{f'(x)}{g'(x)}=L=\lim_{x \rightarrow a}\frac{f(x)}{g(x)}$$
 ## Unterminoren
-$$\begin{pmatrix}
-a & b \\ c & d
-\end{pmatrix} \Rightarrow ad -bc = \det$$
-$$\begin{pmatrix}
-a & b & c \\ d & e & f \\ g & h & i
-\end{pmatrix} \Rightarrow aei+bfg+cdh-ceg-bdi-afh = det$$
-Wir berechnen von $\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix}$ zuerst $\det(a)$, dann $det(\begin{pmatrix}a & b \\ d & e\end{pmatrix})$ und dann $det(\begin{pmatrix}a & b & c \\ d & e & f \\ g & h & i\end{pmatrix})$ (kann auch für größere Matrizen verwendet werden)
-Bei einer Hesse Matrix darf man Spalten und Zeilen vertauschen, aber nur wenn man beides macht (also wenn man 2. und 3. Zeile vertauscht, dann auch 2. und 3. Spalte!)
-Nun betrachten wir das vorzeichen von der ersten(von der kleinsten Matrix) bis zur letzten(größte Matrix) Determinante:
-Wenn alle positiv sind, ist sie positiv definit, wenn die erste negativ ist und alle alternierend, dann neg. definit, wenn es konkret keins der beiden sein kann, ist sie indefinit, ansonsten kann man mit der Methode nichts über die definitheit aussagen.
+$++\dotso \rightarrow$ positiv definit
+$-+-\dotso \rightarrow$ negativ definit
 positiv def -> Minimum
 neg. def. -> Maximum
 indefinit -> Sattelpunkt
