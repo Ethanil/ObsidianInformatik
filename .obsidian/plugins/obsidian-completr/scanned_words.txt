@@ -218,6 +218,7 @@ Bucketsort
 Buckets
 Buchstaben
 Beliebigen
+BECAUSE
 funktion
 falls
 für
@@ -257,6 +258,7 @@ Cosinus
 Cauchy
 Case
 Char
+CONSINSTENCY
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -333,6 +335,7 @@ Fläche
 Fehlerabschätzung
 Fällen
 FUCKY
+FUCK
 aliases
 aber
 ad
