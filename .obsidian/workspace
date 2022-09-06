@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+            "file": "Informatik/Semester_02/Mathe_2/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polynom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
+    "Informatik/CustomCommands.md",
+    "Informatik/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
+    "Informatik/Struktur eines Rechnersystems 28.04.2022 21-40-26.excalidraw.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Mergesort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bucketsort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md"
+    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md"
   ]
 }
