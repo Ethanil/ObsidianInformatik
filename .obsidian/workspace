@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4141c46484cf9a42",
+        "id": "e7c9efd496fb3f40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
+            "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "polynom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
+                "file": "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4141c46484cf9a42",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Mergesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bucketsort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md"
+    "Informatik/Semester_02/AuD/Algorithmen/Strings/String Matching basierend auf endlichem Automaten.md"
   ]
 }
