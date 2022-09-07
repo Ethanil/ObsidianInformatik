@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/Mathe_2/Untitled.md",
+            "file": "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gerade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Untitled.md",
+                "file": "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +141,7 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Untitled.md",
     "Informatik/CustomCommands.md",
     "Informatik/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
     "Informatik/Struktur eines Rechnersystems 28.04.2022 21-40-26.excalidraw.md",
@@ -148,7 +150,6 @@
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Quicksort bzw Pivot Partinioning.md"
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md"
   ]
 }
