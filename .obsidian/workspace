@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
+            "file": "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5eea3979e64f9247",
+  "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
+    "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Untitled.md",
     "Informatik/CustomCommands.md",
     "Informatik/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
     "Informatik/Struktur eines Rechnersystems 28.04.2022 21-40-26.excalidraw.md",
     "Informatik/Semester_02/Mathe_2/Potenzreihen.md",
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Selectionsort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
-    "Informatik/Semester_02/AuD/Algorithmen/Strings/Simple String Matching.md"
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md"
   ]
 }
