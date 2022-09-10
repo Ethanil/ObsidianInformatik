@@ -49,6 +49,7 @@ selben
 sodass
 slots
 such
+sogenannte
 und
 um
 unten
@@ -61,6 +62,7 @@ unsortierten
 usw
 untereinander
 ungleich
+unerfüllbar
 cos
 char
 case
@@ -122,6 +124,7 @@ bewegen
 bridge
 bus
 bereits
+binären
 Ableitungen
 Ableitung
 Arcussinus
@@ -150,6 +153,8 @@ Ablauf
 Asymptotische
 Alle
 ALU
+AL
+Also
 Name
 Nun
 Näherung
@@ -157,6 +162,8 @@ Notation
 Norm
 Normen
 Nach
+Nachfolgermenge
+Nachweis
 Symbol
 Sinus
 Sind
@@ -222,6 +229,7 @@ Dn
 Disk
 Display
 Drawing
+Dieses
 Bild
 Bedingungen
 Bei
@@ -242,6 +250,10 @@ Beliebigen
 BECAUSE
 Bus
 Bk
+Baum
+Beobachtungen
+Beweise
+Blättern
 funktion
 falls
 für
@@ -331,6 +343,14 @@ Komplexität
 Kandidatens
 Komperators
 Keyboard
+Knotenmenge
+Kantenrelation
+Knoten
+Kalkül
+Klauselmenge
+Klausel
+Klauseln
+Korrektheit
 von
 vergleichbar
 verwendet
@@ -352,6 +372,7 @@ vor
 vom
 verglichen
 vhM
+verzweigt
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -376,6 +397,7 @@ FUCK
 FAEuw
 Fga
 Format
+Formeln
 aliases
 aber
 ad
@@ -421,6 +443,7 @@ as
 adapters
 allgemeingültige
 abgeleiteten
+assoziieren
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -451,6 +474,7 @@ Erster
 EXCALIDRAW
 Elements
 Expansion
+Endlich
 in
 indefinit
 ist
@@ -464,6 +488,8 @@ immer
 ihrem
 ik
 interface
+important
+ihrer
 mehreren
 mit
 man
@@ -496,6 +522,8 @@ Vor
 Vorkommen
 VIEW
 Vergleiche
+Verzweigungen
+Vollständigkeit
 Im
 Ist
 Intervall
@@ -577,6 +605,9 @@ gemäß
 gleichen
 größten
 gU
+gerichtet
+gegebenen
+gehört
 wie
 wir
 welche
@@ -595,6 +626,8 @@ wäre
 worst
 wobei
 weder
+weisen
+wahr
 komplizierter
 kein
 kann
@@ -733,6 +766,9 @@ excalidraw
 eRc
 em
 erzeugen
+endlich
+erstellen
+endlichen
 relatives
 relativen
 rechtsseitiger
@@ -772,6 +808,7 @@ Untersumme
 Up
 USB
 USPw
+Unerfüllbarkeit
 Wir
 Wenn
 Weierstraß
@@ -781,6 +818,8 @@ Wahl
 Worst
 Wert
 Werte
+Wurzel
+Widerlegung
 zuerst
 zur
 zwei
@@ -800,6 +839,8 @@ längste
 lang
 lange
 leer
+leeren
+leere
 über
 Reihe
 Reihen
@@ -816,6 +857,11 @@ Real
 Reihenfolge
 Register
 Regeln
+Resolutionskalkül
+Refutation
+Resolvente
+Resolventen
+Resolutionskalküls
 Hospital
 Hesse
 Häufungspunkt
@@ -843,6 +889,7 @@ jeweils
 ja
 jeder
 jSS
+jeden
 Zeilen
 Zeile
 Zahl
