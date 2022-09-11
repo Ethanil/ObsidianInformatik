@@ -67,6 +67,7 @@ usw
 untereinander
 ungleich
 unerfüllbar
+unendlichen
 cos
 char
 case
@@ -87,6 +88,7 @@ herausgenommenen
 hinter
 hinzugefügten
 herausgezogen
+hier
 bes
 bzw
 berechnen
@@ -130,6 +132,7 @@ bus
 bereits
 binären
 bedeutet
+beliebige
 Ableitungen
 Ableitung
 Arcussinus
@@ -164,6 +167,7 @@ Allgemeingültigkeit
 Aufbau
 Aussagenvariablen
 Andere
+Analog
 Name
 Nun
 Näherung
@@ -173,6 +177,8 @@ Normen
 Nach
 Nachfolgermenge
 Nachweis
+Normalform
+Normalformen
 Symbol
 Sinus
 Sind
@@ -245,6 +251,8 @@ Disk
 Display
 Drawing
 Dieses
+Disjunktive
+DNF
 Bild
 Bedingungen
 Bei
@@ -311,6 +319,7 @@ nLdhn
 network
 neue
 nachprüfbaren
+nachweisen
 Logarithmus
 Links
 Limes
@@ -378,6 +387,12 @@ Klauselmenge
 Klausel
 Klauseln
 Korrektheit
+Kompaktheit
+Kompaktheitssatzes
+Kompaktheitssatz
+Korollar
+Konjunktive
+KNF
 von
 vergleichbar
 verwendet
@@ -480,6 +495,7 @@ anstelle
 aufgebaut
 aussagenlogische
 aussagenlogischen
+atomaren
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -549,6 +565,7 @@ miteinander
 menu
 memory
 mittels
+möglicherweise
 Variablen
 Vektoren
 Vektorraum
@@ -747,6 +764,8 @@ danach
 document
 devices
 definierte
+disjunktive
+definierten
 title
 ten
 te
@@ -825,6 +844,8 @@ erfüllbar
 erfüllbaren
 erfüllbare
 erzeugt
+endliches
+einmal
 relatives
 relativen
 rechtsseitiger
@@ -901,6 +922,7 @@ lange
 leer
 leeren
 leere
+lässt
 über
 Reihe
 Reihen
@@ -964,6 +986,7 @@ ZiUg
 ZgC
 Zeichenkette
 Zu
+Zertifikat
 Jede
 Jacobi
 Jeden
@@ -971,6 +994,7 @@ Jeder
 Junktor
 Junktoren
 Änderungsverhalten
+Äquivalenz
 Obersumme
 Ober
 Ordnung

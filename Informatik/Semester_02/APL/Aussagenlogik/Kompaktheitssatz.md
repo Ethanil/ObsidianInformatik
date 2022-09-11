@@ -5,7 +5,7 @@ $\newcommand{\f}[1]{\mathcal{#1}}\newcommand{\F}[1]{\mathfrak{#1}}\newcommand{\b
 # Kompaktheitssatz 
 Eine beliebige(möglicherweise unendliche) [[Syntax und Semantik der AL|Formelmenge]] $\Phi$ ist **genau dann** erfüllbar, wenn jede endliche endliche Teilmenge $\Phi_0$ erfüllbar ist.
 ```ad-abstract
-title:$$\Phi \vDash \Psi \text{ gdw. } \Phi_{0}\vDash\Psi \text{ für ein endliches } \Psi_{0}\subseteq \Psi$$
+title:$$\Phi \vDash \psi \text{ gdw. } \Phi_{0}\vDash\psi \text{ für ein endliches } \Phi_{0}\subseteq \Phi$$
 ```
 
 ## Korollar
