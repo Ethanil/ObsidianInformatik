@@ -16,7 +16,7 @@ $$\begin{align}
 &(\rightarrow L)& &\frac{\Gamma \vdash \Delta \varphi   \ \ \ \ \  \Gamma, \psi \vdash \Delta}{\Gamma, \varphi \rightarrow \psi \vdash \Delta}& &(\rightarrow R)& &\frac{\Gamma, \varphi \vdash \Delta, \psi}{\Gamma \vdash \Delta, \varphi \rightarrow \psi}\\
 \\
 &(CUT)& &\frac{\Gamma \vdash \Delta, \varphi \ \ \ \ \ \Gamma,\varphi \vdash \Delta}{\Gamma \vdash \Delta}\\
-
+\\
 &(Kontradiktion)& &\frac{\Gamma \vdash \varphi \ \ \ \ \ \Gamma \vdash \neg \varphi}{\Gamma \vdash \emptyset}& &(Widerspruch)& &\frac{\Gamma, \neg \varphi \vdash \psi \ \ \ \ \ \Gamma, \neg \varphi \vdash \neg \psi}{\Gamma \vdash \varphi}
 \end{align}$$
 

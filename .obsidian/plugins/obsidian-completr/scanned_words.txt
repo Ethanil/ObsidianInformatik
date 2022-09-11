@@ -54,6 +54,7 @@ semantische
 syntaktische
 syntaktischen
 satisfiability
+stelliges
 und
 um
 unten
@@ -176,6 +177,8 @@ Andere
 Analog
 Antezendent
 Axiomschemata
+Anteil
+Ausdrücke
 Name
 Nun
 Näherung
@@ -187,6 +190,7 @@ Nachfolgermenge
 Nachweis
 Normalform
 Normalformen
+Namen
 Symbol
 Sinus
 Sind
@@ -235,6 +239,10 @@ Schritt
 Sukzedent
 Somit
 Schreibweise
+Signatur
+Strukturen
+Struktur
+Stuktur
 Definitionsbereich
 Determinante
 Das
@@ -316,6 +324,7 @@ falsch
 formaler
 formalen
 folgende
+funktionalen
 nat
 nur
 nicht
@@ -340,6 +349,7 @@ negativen
 negative
 neben
 notieren
+natürliche
 Logarithmus
 Links
 Limes
@@ -382,6 +392,9 @@ Typ
 Termination
 Typen
 Tautologie
+Terme
+Termstruktur
+Termstrukturen
 Quotientenregel
 Quicksort
 Kettenregel
@@ -415,6 +428,8 @@ Korollar
 Konjunktive
 KNF
 Konsequenzen
+Konstantensymbole
+Konstantensymbol
 von
 vergleichbar
 verwendet
@@ -438,6 +453,8 @@ verglichen
 vhM
 verzweigt
 verwenden
+vorübergehend
+vereinbarte
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -467,6 +484,10 @@ Folgerungsbeziehung
 Formale
 Formelmenge
 Formelmengen
+Funktions
+Funktionssymbolen
+Funktionssymbole
+Funktionssysmbol
 aliases
 aber
 ad
@@ -571,6 +592,7 @@ important
 ihrer
 interpretiert
 induktiv
+interessieren
 mehreren
 mit
 man
@@ -612,6 +634,7 @@ Vergleiche
 Verzweigungen
 Vollständigkeit
 Voraussetzungen
+Variablensymbole
 Im
 Ist
 Intervall
@@ -704,6 +727,8 @@ gültig
 genauer
 gleiche
 gdw
+geschachtelte
+getragen
 wie
 wir
 welche
@@ -1001,6 +1026,7 @@ Horn
 Hilbertkalküle
 Hilbertkalkül
 Hypothese
+Herbrand
 Grenzwert
 Grades
 Grenzwertbegriff
