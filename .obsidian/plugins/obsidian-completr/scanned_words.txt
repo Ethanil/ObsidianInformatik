@@ -89,6 +89,7 @@ hinter
 hinzugefügten
 herausgezogen
 hier
+höchstens
 bes
 bzw
 berechnen
@@ -133,6 +134,7 @@ bereits
 binären
 bedeutet
 beliebige
+besitzen
 Ableitungen
 Ableitung
 Arcussinus
@@ -222,6 +224,7 @@ Syntax
 Symbole
 Standardvariablenmenge
 Sprechweisen
+Spezialfälle
 Definitionsbereich
 Determinante
 Das
@@ -320,6 +323,7 @@ network
 neue
 nachprüfbaren
 nachweisen
+negativen
 Logarithmus
 Links
 Limes
@@ -566,6 +570,7 @@ menu
 memory
 mittels
 möglicherweise
+minimale
 Variablen
 Vektoren
 Vektorraum
@@ -776,6 +781,7 @@ to
 the
 this
 tut
+trivial
 Man
 Maximum
 Minimum
@@ -846,6 +852,8 @@ erfüllbare
 erzeugt
 endliches
 einmal
+eindeutige
+erfüllende
 relatives
 relativen
 rechtsseitiger
@@ -955,6 +963,8 @@ Hauptsatz
 Hyperbolische
 Häufungswert
 Hilbertraum
+Hornklauseln
+Hornklausel
 Grenzwert
 Grades
 Grenzwertbegriff

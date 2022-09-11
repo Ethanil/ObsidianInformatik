@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
+            "file": "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
     "Informatik/Semester_02/APL/Aussagenlogik/Kompaktheitssatz.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
@@ -148,7 +149,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende semantische Begriffe.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md"
   ]
 }
