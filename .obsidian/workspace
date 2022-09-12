@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
+            "file": "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,11 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Syntax.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
     "Informatik/Semester_01/Mathe_1/Transitiv.md",
     "Informatik/Semester_01/Mathe_1/Ordnungsrelation.md",
     "Informatik/Semester_01/Mathe_1/Antisymmetrisch.md",
