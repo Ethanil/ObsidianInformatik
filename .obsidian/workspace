@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
+            "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Syntax.md",
@@ -148,7 +149,6 @@
     "Informatik/Semester_01/Mathe_1/Transitiv.md",
     "Informatik/Semester_01/Mathe_1/Ordnungsrelation.md",
     "Informatik/Semester_01/Mathe_1/Antisymmetrisch.md",
-    "Informatik/Semester_01/Mathe_1/Reflexiv.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md"
+    "Informatik/Semester_01/Mathe_1/Reflexiv.md"
   ]
 }
