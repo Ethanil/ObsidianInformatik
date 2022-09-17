@@ -73,6 +73,8 @@ schneller
 speicher
 stammen
 signed
+soll
+speichern
 und
 um
 unten
@@ -127,6 +129,7 @@ herleitbar
 hierauf
 häufig
 höheren
+holen
 bes
 bzw
 berechnen
@@ -253,6 +256,7 @@ Ausgabe
 Aufgebaut
 Assemblersprache
 Anweisung
+Adresseingang
 Name
 Nun
 Näherung
@@ -361,6 +365,7 @@ Sekundärspeicher
 Statusreigster
 Sprache
 Suffix
+Speicheradresse
 Definitionsbereich
 Determinante
 Das
@@ -402,6 +407,9 @@ Daten
 Durch
 Denkmuster
 Darstellungsarten
+Datenpfad
+Destination
+Data
 Bild
 Bedingungen
 Bei
@@ -450,6 +458,10 @@ Befehlsdekodierung
 Befehlsausführung
 Beispielen
 Bedinungen
+Bit
+Berechnung
+Basisadresse
+Befehls
 funktion
 falls
 für
@@ -501,6 +513,7 @@ natürliche
 nachfolgende
 nächsten
 nutzbaren
+nächste
 Logarithmus
 Links
 Limes
@@ -528,6 +541,7 @@ LO
 LS
 LT
 LE
+Lesen
 Cosinus
 Cauchy
 Case
@@ -582,6 +596,7 @@ Transparent
 Teildisziplin
 Quotientenregel
 Quicksort
+Quell
 Kettenregel
 Konstante
 Konvergenz
@@ -693,6 +708,7 @@ Fach
 Fortschritt
 Flag
 Flags
+Files
 aliases
 aber
 ad
@@ -760,6 +776,8 @@ abstrahieren
 abgelegten
 ausformulierbar
 anhand
+auslesen
+angelegt
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -797,6 +815,8 @@ Erfüllbarkeitstest
 EOR
 Explizit
 EQ
+Eintakt
+Erweiterung
 in
 indefinit
 ist
@@ -823,6 +843,9 @@ implizit
 interner
 indirekt
 ihre
+immediates
+imm
+immediate
 mehreren
 mit
 man
@@ -970,6 +993,8 @@ Paradigma
 Programmiert
 PL
 Positiv
+Programmcounter
+Programcounter
 gleich
 globales
 gilt
@@ -1056,6 +1081,7 @@ wechseln
 word
 während
 welches
+wo
 komplizierter
 kein
 kann
@@ -1089,6 +1115,7 @@ kleinstes
 kleine
 klassifiziert
 klar
+kopiert
 da
 darin
 dass
@@ -1268,6 +1295,9 @@ explizit
 erlauben
 execute
 en
+eingelesen
+erweitert
+erhalten
 relatives
 relativen
 rechtsseitiger
@@ -1351,6 +1381,7 @@ Wahrheitswerte
 Wie
 Während
 Wirkung
+WD
 zuerst
 zur
 zwei
@@ -1388,6 +1419,7 @@ long
 level
 langsamer
 lesbare
+ldr
 über
 übergeordnetes
 Reihe
@@ -1418,6 +1450,9 @@ Registers
 RISC
 Rechnersystems
 Registersatz
+Registerfeld
+Rn
+Rd
 Hospital
 Hesse
 Häufungspunkt
@@ -1510,6 +1545,7 @@ Operationen
 Operation
 Overflowflag
 Overflow
+Offset
 ändern
 qZfX
 qNzs
@@ -1518,3 +1554,4 @@ YzYxK
 Überlauf
 Übetragungsflag
 Überlaufflag
+Über
