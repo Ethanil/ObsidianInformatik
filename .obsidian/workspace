@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/RO/Condition Codes.md",
+            "file": "Informatik/Semester_02/RO/Assembler-Befehle.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/RO/Condition Codes.md",
+                "file": "Informatik/Semester_02/RO/Assembler-Befehle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_02/RO/Condition Codes.md",
     "Informatik/Semester_02/RO/Maschinensprache bzw Assemblersprache.md",
     "Informatik/Semester_02/RO/Paradigma.md",
     "Informatik/Semester_02/RO/Phasen der Maschinenbefehlausführung.md",
@@ -148,7 +149,6 @@
     "Informatik/Semester_02/RO/Statusflags.md",
     "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
     "Informatik/Semester_02/RO/Terminologie.md",
-    "Informatik/Semester_02/RO/Assembler-Befehle.md",
-    "Informatik/Semester_01/Digitaltechnik/Theoreme der Boolschen Algebra.md"
+    "Informatik/Semester_02/RO/Assembler-Befehle.md"
   ]
 }
