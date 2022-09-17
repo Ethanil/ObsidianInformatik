@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
+            "file": "Informatik/Semester_01/Digitaltechnik/Theoreme der Boolschen Algebra.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dnf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/Theoreme der Boolschen Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
-    "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
+    "Informatik/Semester_01/Digitaltechnik/Operatorpräzedenz in DT.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
     "Informatik/Semester_01/FOP/Schleife.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Königs Lemma.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
-    "Informatik/Semester_01/Digitaltechnik/Sum-of-products.md"
+    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md"
   ]
 }

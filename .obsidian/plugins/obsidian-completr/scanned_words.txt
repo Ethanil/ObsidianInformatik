@@ -198,6 +198,9 @@ Arten
 Ausführung
 Addition
 Anders
+Algebra
+Assoziativität
+Absorption
 Name
 Nun
 Näherung
@@ -212,6 +215,7 @@ Normalformen
 Namen
 Niemals
 NICHT
+Neutralität
 Symbol
 Sinus
 Sind
@@ -306,6 +310,10 @@ Dieses
 Disjunktive
 DNF
 Damit
+DT
+Duales
+Distributivität
+De
 Bild
 Bedingungen
 Bei
@@ -339,6 +347,8 @@ Berechne
 Bruchstriches
 Bemerkung
 Bedingung
+Boolschen
+Bedeutung
 funktion
 falls
 für
@@ -434,6 +444,8 @@ Termstrukturen
 Total
 Totalordnung
 Transitiv
+Theoreme
+Theorem
 Quotientenregel
 Quicksort
 Kettenregel
@@ -472,6 +484,9 @@ Konstantensymbol
 Königs
 Konsequenz
 Kontrollstruktur
+Komplement
+Kommutativität
+Konsensus
 von
 vergleichbar
 verwendet
@@ -715,6 +730,8 @@ Iry
 Interpretation
 Interpretationen
 Interpetation
+Idempotenz
+Involution
 Prinzip
 Produkt
 Potenzreihe
@@ -933,6 +950,8 @@ Modellbeziehung
 Multisets
 Mittels
 Multiplikation
+Mathematik
+Morgan
 ein
 existiert
 einem
@@ -1024,6 +1043,7 @@ plugin
 parsed
 pq
 products
+präzedenz
 Unterminoren
 Um
 Untervektorraum
@@ -1153,6 +1173,7 @@ Zu
 Zertifikat
 Zeichen
 Ziffer
+Zusammenfassen
 Jede
 Jacobi
 Jeden
@@ -1171,6 +1192,7 @@ Omm
 ON
 Ordnungsrelationen
 Ordnungsrelation
+Operatorpräzedenz
 ändern
 qZfX
 qNzs
