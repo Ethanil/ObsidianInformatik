@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Pipelined-Implementierung
 ---
 # Pipeline-Prozessor 
 Die Phasen der Befehlsausführung werden in fünf Phasen eingeteilt:

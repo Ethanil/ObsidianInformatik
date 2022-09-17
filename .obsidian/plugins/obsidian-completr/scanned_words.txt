@@ -75,6 +75,9 @@ stammen
 signed
 soll
 speichern
+synchron
+stall
+selbe
 und
 um
 unten
@@ -100,6 +103,7 @@ unterschiedlichen
 ungesetzt
 unsigned
 unsingend
+umgehen
 cos
 char
 case
@@ -188,6 +192,8 @@ bestimmtes
 beispielsweise
 bestimmte
 bekanntest
+bezogen
+berechnete
 Ableitungen
 Ableitung
 Arcussinus
@@ -257,6 +263,9 @@ Aufgebaut
 Assemblersprache
 Anweisung
 Adresseingang
+Architektur
+Ausführen
+Aus
 Name
 Nun
 Näherung
@@ -279,6 +288,7 @@ Nullflag
 Negativflag
 NE
 Null
+Neumann
 Symbol
 Sinus
 Sind
@@ -366,6 +376,8 @@ Statusreigster
 Sprache
 Suffix
 Speicheradresse
+Speichers
+Schreibe
 Definitionsbereich
 Determinante
 Das
@@ -410,6 +422,10 @@ Darstellungsarten
 Datenpfad
 Destination
 Data
+Datenspeicher
+Decode
+Da
+Direktwert
 Bild
 Bedingungen
 Bei
@@ -462,6 +478,9 @@ Bit
 Berechnung
 Basisadresse
 Befehls
+Befehlsspeicher
+Bypassing
+Behandlung
 funktion
 falls
 für
@@ -485,6 +504,7 @@ funktionalen
 funktionale
 flags
 fetch
+fünf
 nat
 nur
 nicht
@@ -514,6 +534,9 @@ nachfolgende
 nächsten
 nutzbaren
 nächste
+nachdem
+nops
+nochmals
 Logarithmus
 Links
 Limes
@@ -542,6 +565,7 @@ LS
 LT
 LE
 Lesen
+Lese
 Cosinus
 Cauchy
 Case
@@ -562,6 +586,8 @@ Condition
 Codes
 CS
 CC
+Compile
+Control
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -594,9 +620,12 @@ Transportbefehle
 Terminologie
 Transparent
 Teildisziplin
+Takt
+Takte
 Quotientenregel
 Quicksort
 Quell
+Quelloperand
 Kettenregel
 Konstante
 Konvergenz
@@ -640,6 +669,7 @@ Keine
 Kontroll
 Komponenten
 Kein
+Komponente
 von
 vergleichbar
 verwendet
@@ -670,6 +700,9 @@ vextor
 very
 vereinfachte
 verwirklicht
+vollständig
+verrechnet
+verschaltet
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -709,6 +742,8 @@ Fortschritt
 Flag
 Flags
 Files
+Fetch
+Forwarding
 aliases
 aber
 ad
@@ -778,6 +813,13 @@ ausformulierbar
 anhand
 auslesen
 angelegt
+asynchron
+after
+abzuarbeiten
+aktualisiert
+auftritt
+anders
+alte
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -817,6 +859,7 @@ Explizit
 EQ
 Eintakt
 Erweiterung
+Execute
 in
 indefinit
 ist
@@ -846,6 +889,8 @@ ihre
 immediates
 imm
 immediate
+iR
+ins
 mehreren
 mit
 man
@@ -909,6 +954,7 @@ Vorzeichenflag
 Verwendung
 VS
 VC
+Von
 Im
 Ist
 Intervall
@@ -947,6 +993,11 @@ ILP
 Interface
 ICs
 Informatik
+Instruktions
+Instruktion
+Instruktionsregister
+Immediate
+Ihrerseits
 Prinzip
 Produkt
 Potenzreihe
@@ -995,6 +1046,10 @@ PL
 Positiv
 Programmcounter
 Programcounter
+Pipeline
+Pipelinen
+Problem
+Pipelined
 gleich
 globales
 gilt
@@ -1054,6 +1109,10 @@ gesetzt
 großer
 gelesen
 ganze
+gemeinsamer
+getrennt
+gewünschte
+geladen
 wie
 wir
 welche
@@ -1082,6 +1141,7 @@ word
 während
 welches
 wo
+weiter
 komplizierter
 kein
 kann
@@ -1116,6 +1176,7 @@ kleine
 klassifiziert
 klar
 kopiert
+kombinierte
 da
 darin
 dass
@@ -1172,6 +1233,8 @@ dargestellt
 direkt
 decode
 dekodiert
+diesen
+doppelt
 title
 ten
 te
@@ -1232,6 +1295,9 @@ Mithilfe
 Maschinenbefehlen
 Menschen
 MI
+Mikroarchitektur
+Mehrtakt
+Multiplexer
 ein
 existiert
 einem
@@ -1298,6 +1364,11 @@ en
 eingelesen
 erweitert
 erhalten
+eingeteilt
+erst
+einplanen
+erstmal
+erhöhte
 relatives
 relativen
 rechtsseitiger
@@ -1353,6 +1424,8 @@ prediction
 permanente
 prozessorintern
 primitives
+passende
+pc
 Unterminoren
 Um
 Untervektorraum
@@ -1365,6 +1438,7 @@ Unerfüllbarkeit
 Unterschied
 Uni
 Ungleich
+Umgang
 Wir
 Wenn
 Weierstraß
@@ -1382,6 +1456,8 @@ Wie
 Während
 Wirkung
 WD
+Write
+Wartezeit
 zuerst
 zur
 zwei
@@ -1453,6 +1529,10 @@ Registersatz
 Registerfeld
 Rn
 Rd
+Read
+RAW
+RegisterFile
+RegisterFiles
 Hospital
 Hesse
 Häufungspunkt
@@ -1477,6 +1557,10 @@ Hierauf
 Hier
 HS
 HI
+Harvard
+Hazard
+Hazards
+Hole
 Grenzwert
 Grades
 Grenzwertbegriff
@@ -1520,6 +1604,7 @@ Zieht
 Zyklus
 Zeroflag
 Zugriff
+Zeit
 Jede
 Jacobi
 Jeden

@@ -5,10 +5,10 @@ aliases:
 ## [[Eintakt-Prozessor]]
  
 
-## Mehrtakt-Implementierung
+## [[Mehrtakt-Prozessor|Mehrtakt-Implementierung]]
 
 
-## Pipelined-Implementierung
+## [[Pipeline-Prozessor|Pipelined-Implementierung]]
 
 
 ## Links

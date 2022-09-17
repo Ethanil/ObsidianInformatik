@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Mehrtakt-Implementierung
 ---
 # Mehrtakt-Prozessor
 Der Mehrtakt-Prozessor hat eine kombinierte Komponente für Instruction und Data Memory, anders als der Eintakt-Prozessor.
