@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatik/Semester_02/RO/Terminologie.md",
+            "file": "Informatik/Semester_01/Digitaltechnik/Pipelines.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pipeline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/RO/Terminologie.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +141,8 @@
   },
   "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_01/Digitaltechnik/Parallelität.md",
+    "Informatik/Semester_02/RO/Terminologie.md",
     "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
     "Informatik/Semester_02/RO/Statusflags.md",
     "Informatik/Semester_02/RO/Speicherhierarchie.md",
@@ -147,8 +150,6 @@
     "Informatik/Semester_02/RO/Phasen der Maschinenbefehlausführung.md",
     "Informatik/Semester_02/RO/Maschinensprache bzw Assemblersprache.md",
     "Informatik/Semester_02/RO/Paradigma.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
-    "Informatik/Semester_02/RO/Assembler-Befehle.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md"
+    "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md"
   ]
 }
