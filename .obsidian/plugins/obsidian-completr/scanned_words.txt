@@ -285,6 +285,8 @@ Arbeitsschritte
 Ausgabewerten
 Ausdruck
 Ausdrucks
+Abiildungen
+Abbildungen
 Name
 Nun
 Näherung
@@ -1012,6 +1014,9 @@ Verwendung
 VS
 VC
 Von
+Verknüpfung
+Verknüpfungen
+Verhältnis
 Im
 Ist
 Intervall
@@ -1439,6 +1444,7 @@ erstmal
 erhöhte
 einzelner
 einzelnen
+einfaches
 relatives
 relativen
 rechtsseitiger
@@ -1552,6 +1558,7 @@ zugreifen
 zeitliche
 zugehörigen
 zweiten
+zueinander
 letzten
 linksseitiger
 linksseitigen
