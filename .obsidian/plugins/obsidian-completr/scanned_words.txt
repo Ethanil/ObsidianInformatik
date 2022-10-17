@@ -283,6 +283,8 @@ Autofertigung
 Arbeitsschritt
 Arbeitsschritte
 Ausgabewerten
+Ausdruck
+Ausdrucks
 Name
 Nun
 Näherung
@@ -601,6 +603,7 @@ LE
 Lesen
 Lese
 Latenz
+Lambda
 Cosinus
 Cauchy
 Case
@@ -623,6 +626,7 @@ CS
 CC
 Compile
 Control
+Closure
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -908,6 +912,7 @@ Execute
 Eingabewerten
 Eingabe
 Ergebnisses
+Entstehungskontext
 in
 indefinit
 ist
@@ -975,6 +980,8 @@ maschinennaher
 manifestiert
 maschinenlesbares
 mehrfachen
+mitgespeichert
+mitverwendet
 Variablen
 Vektoren
 Vektorraum
@@ -1048,6 +1055,7 @@ Instruktion
 Instruktionsregister
 Immediate
 Ihrerseits
+Information
 Prinzip
 Produkt
 Potenzreihe
