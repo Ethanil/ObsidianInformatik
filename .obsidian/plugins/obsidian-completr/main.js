@@ -85,12 +85,15 @@ function editorToCodeMirrorState(editor) {
 function editorToCodeMirrorView(editor) {
   return editor.cm;
 }
-function matchWordBackwards(editor, cursor, charValidator, maxLookBackDistance = 50) {
+function maybeLowerCase(str, lowerCase) {
+  return lowerCase ? str.toLowerCase() : str;
+}
+function matchWordBackwards(editor, cursor, charPredicate, maxLookBackDistance = 50) {
   let query = "", separatorChar = null;
   let lookBackEnd = Math.max(0, cursor.ch - maxLookBackDistance);
   for (let i = cursor.ch - 1; i >= lookBackEnd; i--) {
     const prevChar = editor.getRange(__spreadProps(__spreadValues({}, cursor), { ch: i }), __spreadProps(__spreadValues({}, cursor), { ch: i + 1 }));
-    if (!charValidator(prevChar)) {
+    if (!charPredicate(prevChar)) {
       separatorChar = prevChar;
       break;
     }
@@ -153,7 +156,7 @@ BlockType.CODE_SINGLE = new _BlockType("`", false, _BlockType.CODE_MULTI);
   _BlockType.CODE_MULTI.otherType0 = _BlockType.CODE_SINGLE;
 })();
 BlockType.SINGLE_TYPES = [_BlockType.DOLLAR_SINGLE, _BlockType.CODE_SINGLE];
-function isInLatexBlock(editor, cursorPos, triggerInCodeBlocks) {
+function getLatexBlockType(editor, cursorPos, triggerInCodeBlocks) {
   var _a;
   const frontMatterBounds = (_a = getFrontMatterBounds(editor)) != null ? _a : { startLine: -1, endLine: -1 };
   const blockTypeStack = [];
@@ -176,21 +179,21 @@ function isInLatexBlock(editor, cursorPos, triggerInCodeBlocks) {
     }
   }
   if (blockTypeStack.length < 1)
-    return false;
+    return null;
   let currentIndex = 0;
   while (true) {
     if (currentIndex >= blockTypeStack.length)
-      return false;
+      return null;
     const currentBlock = blockTypeStack[currentIndex];
     const otherBlockIndex = findIndex(blockTypeStack, ({ type }) => type === currentBlock.type, currentIndex + 1);
     if (otherBlockIndex === -1) {
       if (!triggerInCodeBlocks && currentBlock.type.isCodeBlock)
-        return false;
+        return null;
       if (currentBlock.type.isCodeBlock || currentBlock.type === BlockType.DOLLAR_SINGLE && currentBlock.line !== cursorPos.line) {
         currentIndex++;
         continue;
       }
-      return true;
+      return currentBlock.type;
     } else {
       currentIndex = otherBlockIndex + 1;
     }
@@ -300,7 +303,10 @@ var SnippetManager = class {
             class: "completr-suggestion-placeholder" + colorIndex
           },
           reference
-        }).range(indexFromPos(editorView.state.doc, { line: start.line + lineIndex, ch: lineBaseOffset + i }), indexFromPos(editorView.state.doc, { line: start.line + lineIndex, ch: lineBaseOffset + i + 1 }));
+        }).range(
+          indexFromPos(editorView.state.doc, { line: start.line + lineIndex, ch: lineBaseOffset + i }),
+          indexFromPos(editorView.state.doc, { line: start.line + lineIndex, ch: lineBaseOffset + i + 1 })
+        );
         editorView.dispatch({ effects: addMark.of(mark) });
         this.currentPlaceholderReferences.unshift(reference);
       }
@@ -370,7 +376,7 @@ var SnippetManager = class {
 // src/provider/provider.ts
 function getSuggestionDisplayName(suggestion, lowerCase = false) {
   const res = typeof suggestion === "string" ? suggestion : suggestion.displayName;
-  return lowerCase ? res.toLowerCase() : res;
+  return maybeLowerCase(res, lowerCase);
 }
 function getSuggestionReplacement(suggestion) {
   return typeof suggestion === "string" ? suggestion : suggestion.replacement;
@@ -432,15 +438,19 @@ var LatexSuggestionProvider = class {
     if (!settings.latexProviderEnabled || !context.query || context.query.length < settings.latexMinWordTriggerLength)
       return [];
     let editor = context.editor;
-    if (!isInLatexBlock(editor, context.start, settings.latexTriggerInCodeBlocks))
+    const latexBlockType = getLatexBlockType(editor, context.start, settings.latexTriggerInCodeBlocks);
+    const isSingleBlock = latexBlockType === BlockType.DOLLAR_SINGLE;
+    if (!latexBlockType)
       return [];
-    const query = settings.latexIgnoreCase ? context.query.toLowerCase() : context.query;
+    const query = maybeLowerCase(context.query, settings.latexIgnoreCase);
     const isSeparatorBackslash = context.separatorChar === "\\";
     return this.loadedCommands.filter((s) => getSuggestionDisplayName(s, settings.latexIgnoreCase).contains(query)).map((s) => {
-      const replacement = getSuggestionReplacement(s);
+      let replacement = getSuggestionReplacement(s);
+      replacement = isSeparatorBackslash ? replacement.substring(1) : replacement;
+      replacement = isSingleBlock ? replacement.replace(/\n/g, "") : replacement;
       return {
         displayName: getSuggestionDisplayName(s),
-        replacement: isSeparatorBackslash ? replacement.substring(1) : replacement,
+        replacement,
         priority: getSuggestionDisplayName(s, settings.latexIgnoreCase).indexOf(query)
       };
     }).sort((a, b) => {
@@ -1574,7 +1584,8 @@ var DEFAULT_SETTINGS = {
   fileScannerScanCurrent: true,
   wordListProviderEnabled: true,
   frontMatterProviderEnabled: true,
-  frontMatterTagAppendSuffix: true
+  frontMatterTagAppendSuffix: true,
+  frontMatterIgnoreCase: true
 };
 
 // src/provider/dictionary_provider.ts
@@ -1584,7 +1595,7 @@ var DictionaryProvider = class {
     if (!this.isEnabled(settings) || !context.query || context.query.length < settings.minWordTriggerLength)
       return [];
     const ignoreCase = settings.wordInsertionMode != "Match-Case & Replace" /* MATCH_CASE_REPLACE */;
-    let query = ignoreCase ? context.query.toLowerCase() : context.query;
+    let query = maybeLowerCase(context.query, ignoreCase);
     const ignoreDiacritics = settings.ignoreDiacriticsWhenFiltering;
     if (ignoreDiacritics)
       query = removeDiacritics(query);
@@ -1592,7 +1603,7 @@ var DictionaryProvider = class {
     const list = ignoreCase ? [(_a = this.wordMap.get(firstChar)) != null ? _a : [], (_b = this.wordMap.get(firstChar.toUpperCase())) != null ? _b : []] : [(_c = this.wordMap.get(firstChar)) != null ? _c : []];
     if (ignoreDiacritics) {
       for (let [key, value] of this.wordMap.entries()) {
-        let keyFirstChar = ignoreCase ? key.charAt(0).toLowerCase() : key.charAt(0);
+        let keyFirstChar = maybeLowerCase(key.charAt(0), ignoreCase);
         if (removeDiacritics(keyFirstChar) === firstChar)
           list.push(value);
       }
@@ -1601,12 +1612,17 @@ var DictionaryProvider = class {
       return [];
     const result = /* @__PURE__ */ new Set();
     for (let el of list) {
-      filterMapIntoSet(result, el, (s) => {
-        let match = ignoreCase ? s.toLowerCase() : s;
-        if (ignoreDiacritics)
-          match = removeDiacritics(match);
-        return match.startsWith(query);
-      }, settings.wordInsertionMode === "Ignore-Case & Append" /* IGNORE_CASE_APPEND */ ? (s) => context.query + s.substring(query.length, s.length) : (s) => s);
+      filterMapIntoSet(
+        result,
+        el,
+        (s) => {
+          let match = maybeLowerCase(s, ignoreCase);
+          if (ignoreDiacritics)
+            match = removeDiacritics(match);
+          return match.startsWith(query);
+        },
+        settings.wordInsertionMode === "Ignore-Case & Append" /* IGNORE_CASE_APPEND */ ? (s) => context.query + s.substring(query.length, s.length) : (s) => s
+      );
     }
     return [...result].sort((a, b) => a.length - b.length);
   }
@@ -1777,8 +1793,9 @@ var PUBLISH_SUGGESTION = {
   displayName: "publish: #",
   replacement: "publish: ~"
 };
-function findTagCompletionType(keyInfo, currentLineIndex, currentLine, editor) {
-  const { key, isList } = keyInfo;
+function findTagCompletionType(keyInfo, editor, currentLineIndex, currentLine, ignoreCase) {
+  const key = maybeLowerCase(keyInfo.key, ignoreCase);
+  const isList = keyInfo.isList;
   if (currentLine.startsWith(key + ": "))
     return "inline";
   if (!currentLine.startsWith("- ") || !isList)
@@ -1793,37 +1810,38 @@ function findTagCompletionType(keyInfo, currentLineIndex, currentLine, editor) {
   }
   return foundListStart ? "multiline" : "none";
 }
+var YAMLKeyInfo = class {
+  constructor(key) {
+    this.key = key;
+    this.completions = /* @__PURE__ */ new Set();
+  }
+  addCompletion(value) {
+    this.completions.add(value);
+  }
+};
 var YAMLKeyCache = class {
   constructor() {
-    this.listKeys = [];
     this.keyMap = /* @__PURE__ */ new Map();
   }
   addEntry(key, value) {
-    let values = this.keyMap.get(key);
-    if (!values) {
-      values = /* @__PURE__ */ new Set();
-      this.keyMap.set(key, values);
-    }
-    values.add(value);
+    let info = this.keyMap.get(key);
+    if (!info)
+      this.keyMap.set(key, info = new YAMLKeyInfo(key));
+    info.addCompletion(value);
   }
   addEntries(key, values) {
-    let set = this.keyMap.get(key);
-    if (!set) {
-      set = /* @__PURE__ */ new Set();
-      this.keyMap.set(key, set);
-    }
+    let info = this.keyMap.get(key);
+    if (!info)
+      this.keyMap.set(key, info = new YAMLKeyInfo(key));
     for (let value of values) {
       if (!value)
         continue;
-      set.add(value);
+      info.addCompletion(value);
     }
-    this.listKeys.push(key);
-  }
-  isListKey(key) {
-    return this.listKeys.contains(key);
+    info.isList = true;
   }
   getCompletions() {
-    return [...this.keyMap.entries()].map(([e, v]) => ({ key: e, isList: this.isListKey(e), completions: v }));
+    return this.keyMap.values();
   }
 };
 var FrontMatterSuggestionProvider = class {
@@ -1840,12 +1858,13 @@ var FrontMatterSuggestionProvider = class {
       return [];
     const firstLine = context.editor.getLine(0);
     const isInFrontMatter = isInFrontMatterBlock(context.editor, context.start);
-    if (!isInFrontMatter && context.start.line === 0 && (firstLine === "" || "front-matter".startsWith(firstLine))) {
+    const ignoreCase = settings.frontMatterIgnoreCase;
+    if (!isInFrontMatter && context.start.line === 0 && (firstLine === "" || "front-matter".startsWith(maybeLowerCase(firstLine, ignoreCase)))) {
       return [BASE_SUGGESTION];
     } else if (!isInFrontMatter) {
       return [];
     }
-    const lowerCaseQuery = context.query.toLowerCase();
+    const query = maybeLowerCase(context.query, ignoreCase);
     if (context.start.ch === 0) {
       const suggestions = this.getPossibleCompletions().flatMap((i) => {
         if (!i.isList) {
@@ -1867,26 +1886,30 @@ var FrontMatterSuggestionProvider = class {
       });
       suggestions.push(PUBLISH_SUGGESTION);
       return suggestions.filter((snippet) => {
-        const displayName = getSuggestionDisplayName(snippet);
+        const displayName = getSuggestionDisplayName(snippet, ignoreCase);
         const key2 = displayName.substring(0, displayName.indexOf(":"));
-        return key2.startsWith(lowerCaseQuery);
+        return key2.startsWith(query);
       });
     }
-    const currentLine = context.editor.getLine(context.start.line);
-    if (currentLine.startsWith("publish:")) {
-      return FrontMatterSuggestionProvider.getPublishSuggestions(lowerCaseQuery);
-    }
+    const currentLine = maybeLowerCase(context.editor.getLine(context.start.line), ignoreCase);
+    if (currentLine.startsWith("publish:"))
+      return FrontMatterSuggestionProvider.getPublishSuggestions(query);
     const { key, type } = (_a = this.getPossibleCompletions().map((possibleKey) => ({
       key: possibleKey,
-      type: findTagCompletionType(possibleKey, context.start.line, currentLine, context.editor)
+      type: findTagCompletionType(possibleKey, context.editor, context.start.line, currentLine, ignoreCase)
     })).filter(({ type: type2 }) => type2 !== "none").shift()) != null ? _a : {};
     if (!key)
       return [];
-    const { query } = matchWordBackwards(context.editor, context.end, (char) => new RegExp("[" + settings.characterRegex + "/\\-_]", "u").test(char), settings.maxLookBackDistance);
-    return [...key.completions].filter((tag) => tag.startsWith(query)).map((tag) => ({
+    const customQuery = maybeLowerCase(matchWordBackwards(
+      context.editor,
+      context.end,
+      (char) => new RegExp("[" + settings.characterRegex + "/\\-_]", "u").test(char),
+      settings.maxLookBackDistance
+    ).query, ignoreCase);
+    return [...key.completions].filter((tag) => maybeLowerCase(tag, ignoreCase).startsWith(customQuery)).map((tag) => ({
       displayName: tag,
       replacement: tag + (settings.frontMatterTagAppendSuffix && key.isList ? type === "inline" ? ", " : "\n- " : ""),
-      overrideStart: __spreadProps(__spreadValues({}, context.end), { ch: context.end.ch - query.length })
+      overrideStart: __spreadProps(__spreadValues({}, context.end), { ch: context.end.ch - customQuery.length })
     })).sort((a, b) => a.displayName.length - b.displayName.length);
   }
   loadYAMLKeyCompletions(cache, files) {
@@ -1917,33 +1940,25 @@ var FrontMatterSuggestionProvider = class {
       keyCache.addEntries("tags", tags.map((t) => t.substring(1)));
   }
   getPossibleCompletions() {
-    const listKeys = /* @__PURE__ */ new Set();
     const allKeys = /* @__PURE__ */ new Map();
     for (let cache of this.fileSuggestionCache.values()) {
       for (let keyInfo of cache.getCompletions()) {
-        let completions = allKeys.get(keyInfo.key);
-        if (!completions) {
-          completions = /* @__PURE__ */ new Set();
-          allKeys.set(keyInfo.key, completions);
-        }
-        keyInfo.completions.forEach((c) => completions.add(c));
-        if (keyInfo.isList)
-          listKeys.add(keyInfo.key);
+        let combinedKeyInfo = allKeys.get(keyInfo.key);
+        if (!combinedKeyInfo)
+          allKeys.set(keyInfo.key, combinedKeyInfo = new YAMLKeyInfo(keyInfo.key));
+        keyInfo.completions.forEach((c) => combinedKeyInfo.addCompletion(c));
+        combinedKeyInfo.isList = combinedKeyInfo.isList || keyInfo.isList;
       }
     }
-    return [...allKeys.entries()].map(([k, completions]) => ({
-      key: k,
-      isList: listKeys.has(k),
-      completions
-    }));
+    return [...allKeys.values()];
   }
-  static getPublishSuggestions(lowerCaseQuery) {
+  static getPublishSuggestions(query) {
     const possibilities = ["true", "false"];
-    const partialMatches = possibilities.filter((val) => val.startsWith(lowerCaseQuery) && val !== lowerCaseQuery);
+    const partialMatches = possibilities.filter((val) => val.startsWith(query) && val !== query);
     if (partialMatches.length > 0)
       return partialMatches;
-    else if (lowerCaseQuery === "true" || lowerCaseQuery === "false")
-      return lowerCaseQuery === "true" ? possibilities.reverse() : possibilities;
+    else if (query === "true" || query === "false")
+      return query === "true" ? possibilities.reverse() : possibilities;
     return [];
   }
 };
@@ -2021,7 +2036,7 @@ var SuggestionPopup = class extends import_obsidian3.EditorSuggest {
   }
   selectNextItem(dir) {
     const self = this;
-    self.suggestions.setSelectedItem(self.suggestions.selectedItem + dir, true);
+    self.suggestions.setSelectedItem(self.suggestions.selectedItem + dir, new KeyboardEvent("keydown"));
   }
   getSelectedItem() {
     const self = this;
@@ -2082,11 +2097,13 @@ var CompletrSettingsTab = class extends import_obsidian4.PluginSettingTab {
         yield this.plugin.saveSettings();
       }));
     });
-    new import_obsidian4.Setting(containerEl).setName("Word insertion mode").setDesc("The insertion mode that is used. Ignore-case would suggest 'Hello' if the typed text is 'hello', match-case would not. Append would complete 'Hell' with 'Hello' while replace would complete it with 'hello' instead (if only 'hello' was a known word).").addDropdown((dropdown) => dropdown.addOption("Ignore-Case & Replace" /* IGNORE_CASE_REPLACE */, "Ignore-Case & Replace" /* IGNORE_CASE_REPLACE */).addOption("Ignore-Case & Append" /* IGNORE_CASE_APPEND */, "Ignore-Case & Append" /* IGNORE_CASE_APPEND */).addOption("Match-Case & Replace" /* MATCH_CASE_REPLACE */, "Match-Case & Replace" /* MATCH_CASE_REPLACE */).setValue(this.plugin.settings.wordInsertionMode).onChange((val) => __async(this, null, function* () {
-      this.plugin.settings.wordInsertionMode = val;
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian4.Setting(containerEl).setName("Ignore diacritics when filtering").setDesc("When enabled, the query 'Hello' can suggest 'H\xE8ll\xF2', meaning diacritics will be ignored when filtering the suggestions.").addToggle((toggle) => toggle.setValue(this.plugin.settings.ignoreDiacriticsWhenFiltering).onChange((val) => __async(this, null, function* () {
+    new import_obsidian4.Setting(containerEl).setName("Word insertion mode").setDesc("The insertion mode that is used. Ignore-case would suggest 'Hello' if the typed text is 'hello', match-case would not. Append would complete 'Hell' with 'Hello' while replace would complete it with 'hello' instead (if only 'hello' was a known word). Only used by the file scanner and word list provider.").addDropdown(
+      (dropdown) => dropdown.addOption("Ignore-Case & Replace" /* IGNORE_CASE_REPLACE */, "Ignore-Case & Replace" /* IGNORE_CASE_REPLACE */).addOption("Ignore-Case & Append" /* IGNORE_CASE_APPEND */, "Ignore-Case & Append" /* IGNORE_CASE_APPEND */).addOption("Match-Case & Replace" /* MATCH_CASE_REPLACE */, "Match-Case & Replace" /* MATCH_CASE_REPLACE */).setValue(this.plugin.settings.wordInsertionMode).onChange((val) => __async(this, null, function* () {
+        this.plugin.settings.wordInsertionMode = val;
+        yield this.plugin.saveSettings();
+      }))
+    );
+    new import_obsidian4.Setting(containerEl).setName("Ignore diacritics when filtering").setDesc("When enabled, the query 'Hello' can suggest 'H\xE8ll\xF2', meaning diacritics will be ignored when filtering the suggestions. Only used by the file scanner and word list provider.").addToggle((toggle) => toggle.setValue(this.plugin.settings.ignoreDiacriticsWhenFiltering).onChange((val) => __async(this, null, function* () {
       this.plugin.settings.ignoreDiacriticsWhenFiltering = val;
       yield this.plugin.saveSettings();
     })));
@@ -2111,18 +2128,34 @@ var CompletrSettingsTab = class extends import_obsidian4.PluginSettingTab {
     });
     new import_obsidian4.Setting(containerEl).setName("Front matter provider").addExtraButton((button) => button.setIcon("link").setTooltip("Obsidian Front-Matter wiki").onClick(() => window.open("https://help.obsidian.md/Advanced+topics/YAML+front+matter"))).setHeading();
     this.createEnabledSetting("frontMatterProviderEnabled", "Whether the front matter provider is enabled", containerEl);
+    new import_obsidian4.Setting(containerEl).setName("Ignore case").setDesc("Whether the Front matter provider should ignore the casing of the typed text. If so, the input 'MaThbb' could suggest 'mathbb'.").addToggle((toggle) => toggle.setValue(this.plugin.settings.frontMatterIgnoreCase).onChange((val) => __async(this, null, function* () {
+      this.plugin.settings.frontMatterIgnoreCase = val;
+      yield this.plugin.saveSettings();
+    })));
     new import_obsidian4.Setting(containerEl).setName("Add suffix to tag completion").setDesc("Whether each completed tag should be suffixed with a comma or a newline (when typing in a multi-line list). Allows faster insertion of multiple tags.").addToggle((toggle) => toggle.setValue(this.plugin.settings.frontMatterTagAppendSuffix).onChange((val) => __async(this, null, function* () {
       this.plugin.settings.frontMatterTagAppendSuffix = val;
       yield this.plugin.saveSettings();
     })));
     new import_obsidian4.Setting(containerEl).setName("File scanner provider").setHeading().addExtraButton((button) => button.setIcon("search").setTooltip("Immediately scan all .md files currently in your vault.").onClick(() => {
-      new ConfirmationModal(this.plugin.app, "Start scanning?", "Depending on the size of your vault and computer, this may take a while.", (button2) => button2.setButtonText("Scan").setCta(), () => __async(this, null, function* () {
-        yield FileScanner.scanFiles(this.plugin.settings, this.plugin.app.vault.getMarkdownFiles());
-      })).open();
+      new ConfirmationModal(
+        this.plugin.app,
+        "Start scanning?",
+        "Depending on the size of your vault and computer, this may take a while.",
+        (button2) => button2.setButtonText("Scan").setCta(),
+        () => __async(this, null, function* () {
+          yield FileScanner.scanFiles(this.plugin.settings, this.plugin.app.vault.getMarkdownFiles());
+        })
+      ).open();
     })).addExtraButton((button) => button.setIcon("trash").setTooltip("Delete all known words.").onClick(() => __async(this, null, function* () {
-      new ConfirmationModal(this.plugin.app, "Delete all known words?", "This will delete all words that have been scanned. No suggestions from this provider will show up anymore until new files are scanned.", (button2) => button2.setButtonText("Delete").setWarning(), () => __async(this, null, function* () {
-        yield FileScanner.deleteAllWords(this.plugin.app.vault);
-      })).open();
+      new ConfirmationModal(
+        this.plugin.app,
+        "Delete all known words?",
+        "This will delete all words that have been scanned. No suggestions from this provider will show up anymore until new files are scanned.",
+        (button2) => button2.setButtonText("Delete").setWarning(),
+        () => __async(this, null, function* () {
+          yield FileScanner.deleteAllWords(this.plugin.app.vault);
+        })
+      ).open();
     })));
     this.createEnabledSetting("fileScannerProviderEnabled", "Whether or not the file scanner provider is enabled.", containerEl);
     new import_obsidian4.Setting(containerEl).setName("Scan active file").setDesc("If this setting is enabled, the currently opened file will be scanned to find new words.").addToggle((toggle) => toggle.setValue(this.plugin.settings.fileScannerScanCurrent).onChange((val) => __async(this, null, function* () {
@@ -2164,13 +2197,21 @@ var CompletrSettingsTab = class extends import_obsidian4.PluginSettingTab {
     const wordListDiv = containerEl.createDiv();
     WordList.getRelativeFilePaths(this.app.vault).then((names) => {
       for (const name of names) {
-        new import_obsidian4.Setting(wordListDiv).setName(name).addExtraButton((button) => button.setIcon("trash").setTooltip("Remove").onClick(() => __async(this, null, function* () {
-          new ConfirmationModal(this.app, "Delete " + name + "?", "The file will be removed and the words inside of it won't show up as suggestions anymore.", (button2) => button2.setButtonText("Delete").setWarning(), () => __async(this, null, function* () {
-            yield WordList.deleteWordList(this.app.vault, name);
-            yield this.reloadWords();
-            this.display();
-          })).open();
-        }))).settingEl.addClass("completr-settings-list-item");
+        new import_obsidian4.Setting(wordListDiv).setName(name).addExtraButton(
+          (button) => button.setIcon("trash").setTooltip("Remove").onClick(() => __async(this, null, function* () {
+            new ConfirmationModal(
+              this.app,
+              "Delete " + name + "?",
+              "The file will be removed and the words inside of it won't show up as suggestions anymore.",
+              (button2) => button2.setButtonText("Delete").setWarning(),
+              () => __async(this, null, function* () {
+                yield WordList.deleteWordList(this.app.vault, name);
+                yield this.reloadWords();
+                this.display();
+              })
+            ).open();
+          }))
+        ).settingEl.addClass("completr-settings-list-item");
       }
     });
   }
@@ -2297,6 +2338,7 @@ var CompletrPlugin = class extends import_obsidian5.Plugin {
           modifiers: []
         }
       ],
+      repeatable: true,
       editorCallback: (editor) => {
         this.suggestionPopup.selectNextItem(1 /* NEXT */);
       },
@@ -2311,6 +2353,7 @@ var CompletrPlugin = class extends import_obsidian5.Plugin {
           modifiers: []
         }
       ],
+      repeatable: true,
       editorCallback: (editor) => {
         this.suggestionPopup.selectNextItem(-1 /* PREVIOUS */);
       },
