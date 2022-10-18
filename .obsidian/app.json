@@ -12,5 +12,6 @@
   "newFileLocation": "current",
   "legacyEditor": false,
   "livePreview": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "attachmentFolderPath": "Informatik/Screenshots"
 }

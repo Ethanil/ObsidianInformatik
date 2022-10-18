@@ -11,27 +11,32 @@
             "id": "e7c9efd496fb3f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Abbildung.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md"
               }
             }
           },
           {
-            "id": "a64f542de7293d8d",
+            "id": "e8aa5c581a63a3ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md"
               }
+            }
+          },
+          {
+            "id": "f845adceafe30ce3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,17 +162,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a64f542de7293d8d",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20221018103506.png",
+    "Informatik/Semester_03/Untitled.md",
+    "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md",
+    "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
+    "Informatik/Semester_02/Screenshots/Pasted image 20220824195833.png",
+    "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
+    "Informatik/Semester_02/Screenshots/Pasted image 20220827103558.png",
     "Informatik/Semester_01/Mathe_1/Abbildung.md",
     "Informatik/Semester_01/FOP/Closure.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
-    "Informatik/Semester_01/Digitaltechnik/Pipelines.md",
-    "Informatik/Semester_01/Digitaltechnik/Parallelität.md",
-    "Informatik/Semester_02/RO/Terminologie.md",
-    "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
-    "Informatik/Semester_02/RO/Statusflags.md",
-    "Informatik/Semester_02/RO/Speicherhierarchie.md"
+    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md"
   ]
 }
