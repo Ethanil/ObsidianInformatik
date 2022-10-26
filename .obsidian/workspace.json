@@ -11,9 +11,12 @@
             "id": "e7c9efd496fb3f40",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md"
+                "file": "Informatik/Semester_01/AFE/Grammatik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -35,8 +38,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_01/AFE/Grammatik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +165,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5eea3979e64f9247",
+  "active": "e7c9efd496fb3f40",
   "lastOpenFiles": [
+    "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
+    "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
     "Informatik/Screenshots/Pasted image 20221018103506.png",
     "Informatik/Semester_03/Untitled.md",
     "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md",
-    "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
     "Informatik/Semester_02/Screenshots/Pasted image 20220824195833.png",
     "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
     "Informatik/Semester_02/Screenshots/Pasted image 20220827103558.png",
     "Informatik/Semester_01/Mathe_1/Abbildung.md",
-    "Informatik/Semester_01/FOP/Closure.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md"
+    "Informatik/Semester_01/FOP/Closure.md"
   ]
 }

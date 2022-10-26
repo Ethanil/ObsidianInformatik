@@ -245,6 +245,7 @@ buR
 bD
 bT
 bb
+bilden
 Ableitungen
 Ableitung
 Arcussinus
@@ -329,6 +330,8 @@ Abbildungen
 AY
 AB
 AH
+Alphabete
+Alphabets
 Name
 Nun
 Näherung
@@ -468,6 +471,10 @@ Sp
 Sn
 SZ
 SIv
+Sprachen
+Spezifikation
+Startvariable
+Startsymbol
 Definitionsbereich
 Determinante
 Das
@@ -597,6 +604,7 @@ BR
 Bw
 Bht
 Bs
+Betragsstrichen
 funktion
 falls
 für
@@ -669,6 +677,7 @@ nVYe
 nC
 nH
 nk
+nichtleere
 Logarithmus
 Links
 Limes
@@ -777,6 +786,7 @@ TF
 TG
 TVJW
 Tu
+Terminalalphabet
 Quotientenregel
 Quicksort
 Quell
@@ -785,6 +795,7 @@ Ql
 QQZ
 QG
 Qw
+Quatupel
 Kettenregel
 Konstante
 Konvergenz
@@ -1071,6 +1082,7 @@ EV
 EY
 Et
 EE
+Erzeugungsprozesse
 in
 indefinit
 ist
@@ -1110,6 +1122,7 @@ iS
 iBPf
 iDsDZJKT
 idr
+identifiziert
 mehreren
 mit
 man
@@ -1311,6 +1324,7 @@ PQZf
 PG
 Pg
 PV
+Produktionen
 gleich
 globales
 gilt
@@ -1384,6 +1398,7 @@ gc
 gukV
 gx
 gQ
+gekennzeichnet
 wie
 wir
 welche
@@ -1804,6 +1819,10 @@ WF
 WQ
 Wd
 WG
+Wort
+Wörter
+Worts
+Wörtern
 zuerst
 zur
 zwei
@@ -1962,6 +1981,7 @@ GC
 GKp
 Go
 Gk
+Grammatik
 jedes
 jede
 jeweils
@@ -2023,6 +2043,7 @@ JR
 JCGEi
 JS
 JG
+Jedes
 Änderungsverhalten
 Äquivalenz
 Obersumme
