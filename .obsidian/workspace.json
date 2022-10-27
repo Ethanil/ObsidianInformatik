@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79ad314032224664",
+            "id": "0dde4f9ce4b774a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/AFE/Grammatik.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5eea3979e64f9247",
+  "active": "0dde4f9ce4b774a4",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Einführung in den Compilerbau/Untitled.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bucketsort.md",
+    "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
+    "Informatik/Semester_01/AFE/Grammatik.md",
     "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
     "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
     "Informatik/Screenshots/Pasted image 20221018103506.png",
     "Informatik/Semester_03/Untitled.md",
-    "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md",
-    "Informatik/Semester_02/Screenshots/Pasted image 20220824195833.png",
-    "Informatik/Semester_02/RO/Struktur eines Rechnersystems.md",
-    "Informatik/Semester_02/Screenshots/Pasted image 20220827103558.png",
-    "Informatik/Semester_01/Mathe_1/Abbildung.md",
-    "Informatik/Semester_01/FOP/Closure.md"
+    "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md"
   ]
 }

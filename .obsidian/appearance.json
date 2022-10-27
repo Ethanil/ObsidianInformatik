@@ -1,7 +1,9 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Everforest",
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": false
 }

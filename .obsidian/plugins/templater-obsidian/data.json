@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "Informatik/Templates",
   "templates_pairs": [
     [
       "gcalcli2",
@@ -16,7 +16,7 @@
     ]
   ],
   "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -24,7 +24,7 @@
   "folder_templates": [
     {
       "folder": "",
-      "template": ""
+      "template": "Informatik/Templates/default Template.md"
     }
   ],
   "syntax_highlighting": true,
@@ -33,5 +33,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }

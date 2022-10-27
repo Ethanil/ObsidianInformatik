@@ -13,5 +13,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "autoPairMarkdown": false,
-  "attachmentFolderPath": "Informatik/Screenshots"
+  "attachmentFolderPath": "Informatik/Screenshots",
+  "showInlineTitle": false
 }
