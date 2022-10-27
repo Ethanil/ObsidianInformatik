@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "5f4d4f5662c57939",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "e8aa5c581a63a3ac",
             "type": "leaf",
             "state": {
@@ -29,16 +39,9 @@
                 "file": "Informatik/Semester_02/Excalidraw/Baum 26.04.2022 16-52-12.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "f845adceafe30ce3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +165,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e7c9efd496fb3f40",
+  "active": "5f4d4f5662c57939",
   "lastOpenFiles": [
     "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
     "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
