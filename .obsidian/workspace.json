@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d15474b42f90099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,17 +172,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "4cb0c5c7213a8686",
+  "active": "6d15474b42f90099",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Einführung in den Compilerbau/Terminalsymbol.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/test.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bucketsort.md",
     "Informatik/Semester_02/AuD/Algorithmen/Sortieren/Bubblesort.md",
     "Informatik/Semester_01/AFE/Grammatik.md",
     "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
-    "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md",
-    "Informatik/Screenshots/Pasted image 20221018103506.png",
-    "Informatik/Semester_03/Untitled.md"
+    "Informatik/Semester_02/Excalidraw/Resolutionskalkül 02.05.2022 10-22-21.excalidraw.md"
   ]
 }

@@ -479,6 +479,7 @@ Spezifikation
 Startvariable
 Startsymbol
 Syntaxbäume
+Syntaxbaum
 Definitionsbereich
 Determinante
 Das
@@ -609,6 +610,7 @@ Bw
 Bht
 Bs
 Betragsstrichen
+Blätter
 funktion
 falls
 für
@@ -859,6 +861,8 @@ KF
 KZ
 Kette
 Kontextfreien
+Kinder
+Knotens
 von
 vergleichbar
 verwendet
@@ -1131,6 +1135,7 @@ iBPf
 iDsDZJKT
 idr
 identifiziert
+inneren
 mehreren
 mit
 man
@@ -1172,6 +1177,8 @@ mM
 moA
 mg
 mHN
+markierter
+markiert
 Variablen
 Vektoren
 Vektorraum
@@ -1334,6 +1341,7 @@ Pg
 PV
 Produktionen
 Phrase
+Produktion
 gleich
 globales
 gilt
@@ -1408,6 +1416,7 @@ gukV
 gx
 gQ
 gekennzeichnet
+geordneter
 wie
 wir
 welche
