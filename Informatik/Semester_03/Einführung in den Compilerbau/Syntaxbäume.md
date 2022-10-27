@@ -6,5 +6,7 @@ Ein Syntaxbaum ist ein geordneter, markierter Baum der folgende Eigenschaften ha
 - Die Blätter sind mit [[Terminalsymbol|Terminalsymbolen]] markiert
 - Die inneren Knoten sind mit [[Nicht-Terminalsymbol|Nicht-Terminalsymbolen]] markiert
 - Die Kinder $X_{1},\dotso X_{n}$ eines Knotens $N$ können aus der Produktion $N:=X_{1} \dotso X_{n}$ erzeugt werden. 
-
+## Konkrete und Abstrakte Syntaxbäume
+### Konkreter Syntaxbaum
+Bei einem konkreten Syntaxbaum kommt a
 ## Links
