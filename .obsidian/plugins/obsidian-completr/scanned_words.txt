@@ -141,6 +141,7 @@ cY
 cKx
 cX
 cGuIN
+cursor
 hyperbolische
 hyperbolicus
 hyp
@@ -170,6 +171,7 @@ hw
 hs
 hE
 hU
+herleitbare
 bes
 bzw
 berechnen
@@ -364,6 +366,7 @@ NVk
 NR
 NJVY
 NVabkc
+Nicht
 Symbol
 Sinus
 Sind
@@ -475,6 +478,7 @@ Sprachen
 Spezifikation
 Startvariable
 Startsymbol
+Syntaxbäume
 Definitionsbereich
 Determinante
 Das
@@ -787,6 +791,8 @@ TG
 TVJW
 Tu
 Terminalalphabet
+Terminalsymbal
+Terminalsymbolen
 Quotientenregel
 Quicksort
 Quell
@@ -851,6 +857,8 @@ KeH
 KD
 KF
 KZ
+Kette
+Kontextfreien
 von
 vergleichbar
 verwendet
@@ -1325,6 +1333,7 @@ PG
 Pg
 PV
 Produktionen
+Phrase
 gleich
 globales
 gilt
@@ -1565,6 +1574,7 @@ tNt
 tL
 tc
 tA
+tp
 Man
 Maximum
 Minimum
@@ -1796,6 +1806,7 @@ UW
 UhE
 Ut
 UZ
+Untitled
 Wir
 Wenn
 Weierstraß
