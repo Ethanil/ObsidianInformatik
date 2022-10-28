@@ -88,6 +88,7 @@ se
 sI
 sX
 sb
+stehen
 und
 um
 unten
@@ -334,6 +335,8 @@ AB
 AH
 Alphabete
 Alphabets
+Abstrakte
+Abstrakter
 Name
 Nun
 Näherung
@@ -480,6 +483,8 @@ Startvariable
 Startsymbol
 Syntaxbäume
 Syntaxbaum
+Syntaxbäumen
+Schlüsselwörter
 Definitionsbereich
 Determinante
 Das
@@ -611,6 +616,7 @@ Bht
 Bs
 Betragsstrichen
 Blätter
+Begrenzer
 funktion
 falls
 für
@@ -863,6 +869,8 @@ Kette
 Kontextfreien
 Kinder
 Knotens
+Konkrete
+Konkreter
 von
 vergleichbar
 verwendet
@@ -1044,6 +1052,8 @@ ai
 aY
 aZ
 aAR
+alles
+abstrakten
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -1136,6 +1146,7 @@ iDsDZJKT
 idr
 identifiziert
 inneren
+irrelevant
 mehreren
 mit
 man
@@ -1179,6 +1190,7 @@ mg
 mHN
 markierter
 markiert
+modelliert
 Variablen
 Vektoren
 Vektorraum
@@ -1270,6 +1282,7 @@ IDATx
 IQ
 IC
 IaToHZxA
+Informationen
 Prinzip
 Produkt
 Potenzreihe
@@ -1342,6 +1355,7 @@ PV
 Produktionen
 Phrase
 Produktion
+Programm
 gleich
 globales
 gilt
@@ -1453,6 +1467,7 @@ wr
 wyaY
 woqo
 wqW
+weggelassen
 komplizierter
 kein
 kann
@@ -1496,6 +1511,7 @@ kX
 keL
 kO
 kA
+konkreten
 da
 darin
 dass
@@ -1713,6 +1729,7 @@ eA
 ec
 eV
 eO
+essentielle
 relatives
 relativen
 rechtsseitiger
@@ -2099,6 +2116,7 @@ qQ
 qq
 qBeQ
 qM
+quasi
 yG
 yw
 ye
