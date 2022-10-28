@@ -1,0 +1,1 @@
+\cdot \hspace{-7pt}\cup

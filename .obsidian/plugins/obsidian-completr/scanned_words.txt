@@ -249,6 +249,7 @@ bD
 bT
 bb
 bilden
+besitzt
 Ableitungen
 Ableitung
 Arcussinus
@@ -543,6 +544,7 @@ DvF
 DY
 Dv
 DR
+Disjunkte
 Bild
 Bedingungen
 Bei
@@ -617,6 +619,9 @@ Bs
 Betragsstrichen
 Blätter
 Begrenzer
+Beispiele
+Beschreibt
+Bedeutet
 funktion
 falls
 für
@@ -649,6 +654,7 @@ fr
 fX
 fC
 fx
+folgt
 nat
 nur
 nicht
@@ -801,6 +807,7 @@ Tu
 Terminalalphabet
 Terminalsymbal
 Terminalsymbolen
+Tupels
 Quotientenregel
 Quicksort
 Quell
@@ -1054,6 +1061,9 @@ aZ
 aAR
 alles
 abstrakten
+aufzählen
+angenehmer
+ausgesondert
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -1231,6 +1241,7 @@ VB
 Vl
 VCh
 VQ
+Vereinigung
 Im
 Ist
 Intervall
@@ -1356,6 +1367,7 @@ Produktionen
 Phrase
 Produktion
 Programm
+Potenzmenge
 gleich
 globales
 gilt
@@ -1468,6 +1480,7 @@ wyaY
 woqo
 wqW
 weggelassen
+wieviele
 komplizierter
 kein
 kann
@@ -1512,6 +1525,8 @@ keL
 kO
 kA
 konkreten
+kleinen
+kartesisches
 da
 darin
 dass
@@ -1575,6 +1590,7 @@ dH
 dY
 dX
 dF
+definierende
 title
 ten
 te
@@ -1649,6 +1665,8 @@ Multiplexer
 Mg
 MzAJvGe
 MJ
+Mengengesetze
+Mächtigkeit
 ein
 existiert
 einem
@@ -2019,6 +2037,7 @@ GKp
 Go
 Gk
 Grammatik
+Grundmenge
 jedes
 jede
 jeweils
