@@ -42,4 +42,38 @@ Entstehen aus der Domäne für die die App entwickelt wird.
 - Die Anforderungen werden von den Experten aus der Domäne häufig als offensichtlich angesehen und gar nicht formuliert.
 - Können Funktional oder Nicht-Funktional sein.
 
+## Viewpoint-oriented approach
+Das System kann aus verschiedenen Sichtweisen betrachtet werden
+### Interactor viewpoint (Benutzer)
+Personen (oder Systeme), die direkt mit dem System interagieren, wie Endverbraucher, Administratoren oder Service-Personal
+### Indirect viewpoint (Stakeholder)
+Personen, die Interesse am System haben, obwohl sie nicht direkt mit dem System interagieren. Beispielsweise CFO oder Datenzschutzbeauftragte
+### Domain viewpoints
+Domänen Besonderheiten und Beschränkungen die die Systemanforderungen beschränken, wie beispielsweise Gesetzesvorschriften.
+
+## Arten die Anforderungen zu erfassen
+### Interviews
+#### Closed Interviews
+Bei geschlossenen Interviews werden vorgefertigte Fragen gestellt (zum Beispiel via Fragebogen)
+#### Open Interviews
+Bei offenen Interviews werden verschiedene Fragen gestellt.
+#### Problematik mit Interviews
+Interviews sollten nur als zusätzliche Informationsquelle verwendet werden, da beispielsweise die Kooperation nicht immer gegeben ist (Der Interviewte hat bspw. Angst seinen Job zu verlieren) oder weil Domänen-Wissen vom Interviewten vorausgesetzt/verwendet wird.
+### Szenarien
+Sequenz von Interaktionen mit dem System.
+
+## Anforderungen klassifizieren
+Mittels des `FURPS+`-Modells
+- **F**unctional
+- **U**sability
+- **R**eliability
+- **P**erformance
+- **S**upportability
+- +
+	- Implementation
+	- interfaceOperations
+	- Packaging
+	- Legal
+### Priorisierung der Anforderungen
+Es kann vorkommen, dass nicht alle Anforderungen erfüllt werden können, dann müssen manche priorisiert werden und Konflikte durch Gespräche aufgelöst werden.
 ## Links
