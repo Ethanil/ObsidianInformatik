@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2022/10/1": 225
+    "2022/10/1": 445
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md": {
@@ -13,7 +13,19 @@
     },
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/Anfänge mit C.md": {
       "initial": 6,
-      "current": 32
+      "current": 41
+    },
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/gcc.md": {
+      "initial": 4,
+      "current": 61
+    },
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/Makefile.md": {
+      "initial": 4,
+      "current": 71
+    },
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md": {
+      "initial": 6,
+      "current": 93
     }
   }
 }

@@ -99,6 +99,7 @@ spezifischer
 schwer
 sollten
 sability
+source
 und
 um
 unten
@@ -156,6 +157,8 @@ cKx
 cX
 cGuIN
 cursor
+compiled
+code
 hyperbolische
 hyperbolicus
 hyp
@@ -368,6 +371,7 @@ App
 Außenstehende
 Administratoren
 Angst
+Anfänge
 Name
 Nun
 Näherung
@@ -600,6 +604,7 @@ Domänen
 Domäne
 Datenzschutzbeauftragte
 Domain
+Dateien
 Bild
 Bedingungen
 Bei
@@ -719,6 +724,8 @@ fx
 folgt
 funktioniert
 formuliert
+files
+functions
 nat
 nur
 nicht
@@ -797,6 +804,7 @@ LI
 LX
 Lx
 Legal
+Linken
 Cosinus
 Cauchy
 Case
@@ -831,6 +839,7 @@ Customer
 Client
 CFO
 Closed
+Compilen
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -1007,6 +1016,9 @@ via
 verlieren
 vorausgesetzt
 vorkommen
+verbinden
+variablen
+verwendbar
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -1314,6 +1326,8 @@ modelliert
 möchte
 modellieren
 manche
+machine
+machen
 Variablen
 Vektoren
 Vektorraum
@@ -1588,6 +1602,7 @@ gar
 geschlossenen
 gestellt
 gegeben
+gelinked
 wie
 wir
 welche
@@ -1965,6 +1980,7 @@ oe
 offensichtlich
 oriented
 offenen
+object
 positiv
 part
 pro
