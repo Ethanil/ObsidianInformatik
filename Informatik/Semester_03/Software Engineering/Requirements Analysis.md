@@ -35,5 +35,11 @@ Kann auch häufig nicht nur durch Software umgesetzt werden.
 - Standards (ISO 9000)
 - Interoperabilität (Funktioniert mit anderen Systemen)
 - Ethische Betrachtungen
-- Gesetzliche Vorschriften (safety, security, privacy) 
+- Gesetzliche Vorschriften (safety, security, privacy) z
+#### Domänen Anforderungen
+Entstehen aus der Domäne für die die App entwickelt wird. 
+- Die Anforderungen sind häufig in Domänen-spezifischer Sprache formuliert und dadurch schwer für "Außenstehende"(Also dem Software-Entwickler) zu verstehen.
+- Die Anforderungen werden von den Experten aus der Domäne häufig als offensichtlich angesehen und gar nicht formuliert.
+- Können Funktional oder Nicht-Funktional sein.
+
 ## Links
