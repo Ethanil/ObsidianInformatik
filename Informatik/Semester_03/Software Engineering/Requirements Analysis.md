@@ -25,7 +25,7 @@ Welches Verhalten soll das System in spezifischen Situationen haben.
 Einschränkungen/Nebenbedinungen die wir an das System stellen. Beispielsweise wie schnell das System auf einen Input reagiert.
 NFRs beziehen sich häufig auf verschiedene Module im System und nicht nur ein spezifisches (anders als idR die FR).
 Kann auch häufig nicht nur durch Software umgesetzt werden.
-##### Beispiele
+##### Arten von Nicht-Funktionalen Anforderungen
 - Portabilität
 - Verlässlichkeit
 - Effizienz (Perfomanz, Größe)
