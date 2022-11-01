@@ -89,6 +89,7 @@ sI
 sX
 sb
 stehen
+schaffe
 und
 um
 unten
@@ -250,6 +251,9 @@ bT
 bb
 bilden
 besitzt
+bezahle
+baue
+bereitstellt
 Ableitungen
 Ableitung
 Arcussinus
@@ -338,6 +342,14 @@ Alphabete
 Alphabets
 Abstrakte
 Abstrakter
+Auftraggeber
+Anforderungsanalyse
+Anwendungsfälle
+Anwendungsfallanalyse
+Anwendungsdomäne
+Anforderungen
+Auftragsgeber
+Analysis
 Name
 Nun
 Näherung
@@ -371,6 +383,8 @@ NR
 NJVY
 NVabkc
 Nicht
+Nutzer
+Nebenbedingungen
 Symbol
 Sinus
 Sind
@@ -486,6 +500,8 @@ Syntaxbäume
 Syntaxbaum
 Syntaxbäumen
 Schlüsselwörter
+Software
+Spezifikationen
 Definitionsbereich
 Determinante
 Das
@@ -545,6 +561,10 @@ DY
 Dv
 DR
 Disjunkte
+Dienste
+Diagrammen
+Dienstleistungen
+Dienst
 Bild
 Bedingungen
 Bei
@@ -622,6 +642,9 @@ Begrenzer
 Beispiele
 Beschreibt
 Bedeutet
+Beschreibungen
+Benutzer
+Beschreiben
 funktion
 falls
 für
@@ -655,6 +678,7 @@ fX
 fC
 fx
 folgt
+funktioniert
 nat
 nur
 nicht
@@ -696,6 +720,7 @@ nC
 nH
 nk
 nichtleere
+natürlicher
 Logarithmus
 Links
 Limes
@@ -761,6 +786,8 @@ Ch
 CpM
 CR
 Cl
+Customer
+Client
 Tangens
 Taylorreihe
 Taylorpolynom
@@ -923,6 +950,7 @@ vfL
 vh
 vni
 vO
+vs
 Fourrierreihe
 Funktionalgleichung
 Funktionen
@@ -1065,6 +1093,7 @@ abstrakten
 aufzählen
 angenehmer
 ausgesondert
+arbeitet
 Extremwertprobleme
 Extremum
 Exponentialfunktionen
@@ -1116,6 +1145,8 @@ EY
 Et
 EE
 Erzeugungsprozesse
+Entwurfspraktikten
+Entwicklung
 in
 indefinit
 ist
@@ -1158,6 +1189,7 @@ idr
 identifiziert
 inneren
 irrelevant
+ich
 mehreren
 mit
 man
@@ -1202,6 +1234,8 @@ mHN
 markierter
 markiert
 modelliert
+möchte
+modellieren
 Variablen
 Vektoren
 Vektorraum
@@ -1243,6 +1277,8 @@ Vl
 VCh
 VQ
 Vereinigung
+Verifikation
+Validierung
 Im
 Ist
 Intervall
@@ -1370,6 +1406,7 @@ Phrase
 Produktion
 Programm
 Potenzmenge
+Prozess
 gleich
 globales
 gilt
@@ -1445,6 +1482,9 @@ gx
 gQ
 gekennzeichnet
 geordneter
+gehe
+gewünsche
+gebaut
 wie
 wir
 welche
@@ -1483,6 +1523,7 @@ woqo
 wqW
 weggelassen
 wieviele
+welchem
 komplizierter
 kein
 kann
@@ -1594,6 +1635,7 @@ dX
 dF
 definierende
 disjunkten
+detailierte
 title
 ten
 te
@@ -1670,6 +1712,7 @@ MzAJvGe
 MJ
 Mengengesetze
 Mächtigkeit
+Maintainer
 ein
 existiert
 einem
@@ -1752,6 +1795,8 @@ eV
 eO
 essentielle
 entspricht
+erfüllen
+erwartet
 relatives
 relativen
 rechtsseitiger
@@ -1836,6 +1881,7 @@ pM
 pL
 pC
 pxO
+präzise
 Unterminoren
 Um
 Untervektorraum
@@ -1855,6 +1901,8 @@ UhE
 Ut
 UZ
 Untitled
+User
+Umfeld
 Wir
 Wenn
 Weierstraß
@@ -1882,6 +1930,13 @@ Wort
 Wörter
 Worts
 Wörtern
+What
+Wieviel
+Was
+Welche
+Warter
+Wartung
+Weiterentwicklung
 zuerst
 zur
 zwei
@@ -1935,6 +1990,7 @@ ly
 lL
 lX
 lO
+lösen
 über
 übergeordnetes
 überhaupt
@@ -1985,6 +2041,8 @@ REQ
 Ru
 RX
 RAyhHe
+Requirements
+Randbedingungen
 Hospital
 Hesse
 Häufungspunkt
@@ -2017,6 +2075,9 @@ Hv
 HZ
 HCZUBxNx
 Hn
+How
+Hersteller
+Haben
 Grenzwert
 Grades
 Grenzwertbegriff
@@ -2131,7 +2192,9 @@ Oy
 Og
 Oh
 ORp
+Operationelle
 ändern
+änderndernden
 qZfX
 qNzs
 qD

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/What vs How.md",
+                "file": "Informatik/Semester_03/Software Engineering/Übersicht.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -161,7 +161,8 @@
   },
   "active": "8dd9b8d21efa6cb2",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Software Engineering/What vs How.md",
+    "Informatik/Semester_03/Software Engineering/Übersicht.md",
+    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Templates/DisjunkteVereinigung.md",
     "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md",
@@ -169,7 +170,6 @@
     "Informatik/Semester_01/Mathe_1/Potenzmenge.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Terminalsymbol.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/test.md"
+    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md"
   ]
 }

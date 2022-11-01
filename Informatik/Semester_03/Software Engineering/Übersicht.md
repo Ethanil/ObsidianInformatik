@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-# What vs How 
+Übersicht
 ## What
 ### Customer/Client (Auftraggeber)
 - "Wieviel bezahle ich"
