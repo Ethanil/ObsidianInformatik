@@ -808,6 +808,7 @@ Terminalalphabet
 Terminalsymbal
 Terminalsymbolen
 Tupels
+Tupel
 Quotientenregel
 Quicksort
 Quell
@@ -1294,6 +1295,7 @@ IQ
 IC
 IaToHZxA
 Informationen
+Index
 Prinzip
 Produkt
 Potenzreihe
@@ -1591,6 +1593,7 @@ dY
 dX
 dF
 definierende
+disjunkten
 title
 ten
 te
@@ -1748,6 +1751,7 @@ ec
 eV
 eO
 essentielle
+entspricht
 relatives
 relativen
 rechtsseitiger
