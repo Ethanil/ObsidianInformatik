@@ -34,11 +34,16 @@
             }
           },
           {
-            "id": "e1641a9df0bcbce4",
+            "id": "04c79b93894e8ce5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/Anfänge mit C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/Anfänge mit C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +180,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e1641a9df0bcbce4",
+  "active": "04c79b93894e8ce5",
   "lastOpenFiles": [
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
