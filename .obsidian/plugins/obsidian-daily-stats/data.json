@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2022/10/1": 445
+    "2022/10/1": 503
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md": {
@@ -25,7 +25,7 @@
     },
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md": {
       "initial": 6,
-      "current": 93
+      "current": 151
     }
   }
 }

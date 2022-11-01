@@ -22,9 +22,39 @@ enthalten.
 | `float`  | Floating point number                               | 32 bit            |
 | `double` | Double-precision floating point number              | 64 bit            |
 
-| Modifier | Beschreibung         | Verwendbar für    |
-| -------- | -------------------- | ----------------- |
-| unsigned | Immer positiv oder 0 | `int` oder `char` |
-| long         |                      |                   |
+| Modifier | Beschreibung                                          | Verwendbar für    |
+| -------- | ----------------------------------------------------- | ----------------- |
+| unsigned | Immer positiv oder 0                                  | `int` oder `char` |
+| long     | Mindestens so lang wie `int`                          | `int`             |
+| short    | Mindestnes 16-bit groß, maximal so groß wie ein `int` | `int`                  |
+
+## Konstanten
+| Beispiel      | Typ      |
+| ------------- | -------- |
+| 3343          | `int`    |
+| 3L            | `long`   |
+| 's'           | `char`   |
+| 3.0f          | `float`  |
+| 27.0          | `double` |
+| "some string" | A string         |
+
+## Special Characters
+| Character | Beschreibung   |
+| --------- | -------------- |
+| `\n`      | newline        |
+| `\t`      | horizontal tab |
+| `\v`      | vertical tab   |
+| `\\`      | backslash      |
+| `\b`      | Backspace      |
+| `\'`      | single quote   |
+| `\"`      | double quote               |
+
+## Operator Präzedenz
+- `()`
+- `++, --`
+- `*, \`
+- `+, -`
+- `=, +=, -=, *=, \=`
+
 
 ## Links
