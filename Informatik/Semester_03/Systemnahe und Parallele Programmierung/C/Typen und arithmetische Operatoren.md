@@ -56,5 +56,6 @@ enthalten.
 - `+, -`
 - `=, +=, -=, *=, \=`
 
-
+## static Variable
+static variable behalten ihren Wert zwischen aufrufen. Wenn wir also bspw. eine `counter` variable in einer Funktion haben, die zählt wie oft die Funktion schon aufgerufen wurde und jedes mal in der Funktion damit um 1 erhöht wird, ist sie beim ersten Aufruf 1, danach 2, dann 3 usw.
 ## Links
