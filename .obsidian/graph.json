@@ -5,62 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Semester_01/AFE",
+      "query": "path:Semester_01",
       "color": {
         "a": 1,
         "rgb": 16748431
       }
     },
     {
-      "query": "path:Semester_02/APL",
-      "color": {
-        "a": 1,
-        "rgb": 16726564
-      }
-    },
-    {
-      "query": "path:Semester_01/Digitaltechnik",
-      "color": {
-        "a": 1,
-        "rgb": 14548889
-      }
-    },
-    {
-      "query": "path:Semester_02/RO",
+      "query": "path:Semester_02",
       "color": {
         "a": 1,
         "rgb": 10276370
       }
     },
     {
-      "query": "path:Semester_01/FOP",
+      "query": "path:Informatik/Semester_03",
       "color": {
         "a": 1,
-        "rgb": 11075554
-      }
-    },
-    {
-      "query": "path:Semester_02/AuD",
-      "color": {
-        "a": 1,
-        "rgb": 182909
-      }
-    },
-    {
-      "query": "path:Semester_01/Mathe_1",
-      "color": {
-        "a": 1,
-        "rgb": 13020671
-      }
-    },
-    {
-      "query": "path:Semester_02/Mathe_2",
-      "color": {
-        "a": 1,
-        "rgb": 5452207
+        "rgb": 3284680
       }
     }
   ],
@@ -74,6 +39,6 @@
   "repelStrength": 12.3603999024628,
   "linkStrength": 0.384052670080468,
   "linkDistance": 185,
-  "scale": 0.11899285644242737,
+  "scale": 0.08487468472773853,
   "close": false
 }
