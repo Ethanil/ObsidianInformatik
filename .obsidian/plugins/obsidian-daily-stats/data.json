@@ -1,12 +1,16 @@
 {
   "dayCounts": {
     "2022/10/1": 503,
-    "2022/10/2": 51
+    "2022/10/2": 144
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md": {
       "initial": 151,
       "current": 202
+    },
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Pointer und Arrays.md": {
+      "initial": 6,
+      "current": 99
     }
   }
 }
