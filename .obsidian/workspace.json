@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Pointer und Arrays.md",
+                "file": "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Pointer und Arrays.md",
+                "file": "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,7 @@
   },
   "active": "bf4dfb33d9a6404e",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Pointer und Arrays.md",
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md",
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Makefile.md",
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Anfänge mit C.md",
@@ -203,7 +204,6 @@
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_03/Software Engineering/Stakeholder.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
-    "Informatik/Templates/DisjunkteVereinigung.md",
-    "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md"
+    "Informatik/Templates/DisjunkteVereinigung.md"
   ]
 }
