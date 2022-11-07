@@ -1,16 +1,21 @@
 {
   "dayCounts": {
     "2022/10/1": 503,
-    "2022/10/2": 144
+    "2022/10/2": 144,
+    "2022/10/7": 156
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md": {
-      "initial": 151,
-      "current": 202
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md": {
+      "initial": 5,
+      "current": 33
     },
-    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Pointer und Arrays.md": {
-      "initial": 6,
-      "current": 99
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md": {
+      "initial": 4,
+      "current": 32
+    },
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md": {
+      "initial": 5,
+      "current": 105
     }
   }
 }
