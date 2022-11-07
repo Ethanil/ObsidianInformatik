@@ -2,7 +2,7 @@
   "dayCounts": {
     "2022/10/1": 503,
     "2022/10/2": 144,
-    "2022/10/7": 225
+    "2022/10/7": 241
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md": {
@@ -27,7 +27,11 @@
     },
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md": {
       "initial": 4,
-      "current": 25
+      "current": 39
+    },
+    "Informatik/Semester_01/AFE/Tupel.md": {
+      "initial": 81,
+      "current": 83
     }
   }
 }

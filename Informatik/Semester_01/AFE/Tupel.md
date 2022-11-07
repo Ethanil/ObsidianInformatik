@@ -2,7 +2,7 @@
 aliases: Tupeln
 ---
 # Tupel
-Ein Tupel ist ein geordnetes Paar $(a,b)$, bei dem die Reihenfolge entscheidend ist.
+Ein Tupel ist eine List endlich vieler Objekte, wobei die Reihenfolge der Objekte eine Rolle spielt.
 
 ## n-Tupel
 Ein $n$-Tupel hat $n$ Komponenten, also $(a_1,a_2,\dotso,a_n)$.
