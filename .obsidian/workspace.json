@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da1c051118ff8847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a8ac821c3097ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +206,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "7f587fd4b5a8bddb",
+  "active": "7a8ac821c3097ffd",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Schnittoperator.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Anfänge mit C.md",
     "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Makefile.md",
-    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md",
-    "Informatik/Semester_01/FOP/Verzweigungen.md",
-    "Informatik/Semester_01/FOP/Variable.md",
-    "Informatik/Semester_01/FOP/PascalCase.md",
-    "Informatik/Semester_01/FOP/Operatoren.md"
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md"
   ]
 }

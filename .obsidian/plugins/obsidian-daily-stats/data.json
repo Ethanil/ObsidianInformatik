@@ -2,7 +2,7 @@
   "dayCounts": {
     "2022/10/1": 503,
     "2022/10/2": 144,
-    "2022/10/7": 156
+    "2022/10/7": 225
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md": {
@@ -16,6 +16,18 @@
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md": {
       "initial": 5,
       "current": 105
+    },
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md": {
+      "initial": 4,
+      "current": 52
+    },
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Schnittoperator.md": {
+      "initial": 55,
+      "current": 52
+    },
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md": {
+      "initial": 4,
+      "current": 25
     }
   }
 }
