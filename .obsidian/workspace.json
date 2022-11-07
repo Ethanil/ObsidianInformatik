@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce33a506f8c9c8b",
+        "id": "1aae36c41f5cf786",
         "type": "tabs",
         "children": [
           {
-            "id": "84416dbea21e66cb",
+            "id": "15436de680fe6759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Anfänge mit C.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1828f20aa82e6f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Makefile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a17fd57fe1610ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf4dfb33d9a6404e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_01/FOP/Verzweigungen.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/FOP/Verzweigungen.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +153,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "bf4dfb33d9a6404e",
+  "active": "15436de680fe6759",
   "lastOpenFiles": [
-    "Informatik/Semester_01/FOP/Variable.md",
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Anfänge mit C.md",
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Makefile.md",
+    "Informatik/Semester_03/Systemnahe und Parallele Programmierung/C/Typen und arithmetische Operatoren.md",
     "Informatik/Semester_01/FOP/Verzweigungen.md",
+    "Informatik/Semester_01/FOP/Variable.md",
     "Informatik/Semester_01/FOP/PascalCase.md",
     "Informatik/Semester_01/FOP/Operatoren.md",
     "Informatik/Semester_01/FOP/Generics.md",
     "Informatik/Semester_01/FOP/integer.md",
-    "Informatik/Semester_01/FOP/Arithmetische Ergebnistypen.md",
-    "Informatik/Semester_01/FOP/Arrays.md",
-    "Informatik/Semester_01/FOP/Boolsche Variable.md",
-    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md"
+    "Informatik/Semester_01/FOP/Arithmetische Ergebnistypen.md"
   ]
 }
