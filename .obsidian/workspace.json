@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,8 +208,8 @@
   },
   "active": "0c91200661efc0c6",
   "lastOpenFiles": [
-    "Informatik/Semester_01/Mathe_1/Linkstotal.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
+    "Informatik/Semester_01/Mathe_1/Linkstotal.md",
     "Informatik/Semester_01/Mathe_1/Rechtstotal.md",
     "Informatik/Semester_01/Mathe_1/Relationen.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
