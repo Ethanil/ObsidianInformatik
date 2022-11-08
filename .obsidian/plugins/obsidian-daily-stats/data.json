@@ -2,44 +2,17 @@
   "dayCounts": {
     "2022/10/1": 503,
     "2022/10/2": 144,
-    "2022/10/7": 260
+    "2022/10/7": 260,
+    "2022/10/8": 39
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md": {
-      "initial": 5,
-      "current": 33
+    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md": {
+      "initial": 7,
+      "current": 45
     },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md": {
-      "initial": 4,
-      "current": 32
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md": {
-      "initial": 5,
-      "current": 105
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md": {
-      "initial": 4,
-      "current": 52
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Schnittoperator.md": {
-      "initial": 55,
-      "current": 52
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md": {
-      "initial": 4,
-      "current": 39
-    },
-    "Informatik/Semester_01/AFE/Tupel.md": {
-      "initial": 81,
-      "current": 83
-    },
-    "Informatik/Semester_01/Mathe_1/Linkstotal.md": {
-      "initial": 34,
-      "current": 34
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md": {
-      "initial": 4,
-      "current": 23
+    "Informatik/Semester_01/AFE/Grammatik.md": {
+      "initial": 53,
+      "current": 54
     }
   }
 }

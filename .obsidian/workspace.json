@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7168bfdbd5e6a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +219,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0c91200661efc0c6",
+  "active": "c7168bfdbd5e6a7c",
   "lastOpenFiles": [
+    "Informatik/Semester_01/AFE/Grammatik.md",
+    "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
+    "Informatik/Semester_01/AFE/Reguläre Sprache.md",
+    "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
     "Informatik/Semester_01/Mathe_1/Linkstotal.md",
-    "Informatik/Semester_01/Mathe_1/Rechtstotal.md",
-    "Informatik/Semester_01/Mathe_1/Relationen.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
-    "Informatik/Semester_01/AFE/Tupel.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Schnittoperator.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md"
+    "Informatik/Semester_01/Mathe_1/Rechtstotal.md"
   ]
 }
