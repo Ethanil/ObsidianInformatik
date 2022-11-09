@@ -4,7 +4,7 @@
     "2022/10/2": 144,
     "2022/10/7": 260,
     "2022/10/8": 39,
-    "2022/10/9": 464
+    "2022/10/9": 576
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md": {
@@ -21,7 +21,11 @@
     },
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md": {
       "initial": 5,
-      "current": 26
+      "current": 77
+    },
+    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md": {
+      "initial": 7,
+      "current": 68
     }
   }
 }
