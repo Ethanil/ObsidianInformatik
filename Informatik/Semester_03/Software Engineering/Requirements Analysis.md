@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Requirement, Requirements
 ---
 # Requirements Analysis 
 

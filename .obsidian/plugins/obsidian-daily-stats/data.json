@@ -3,16 +3,17 @@
     "2022/10/1": 503,
     "2022/10/2": 144,
     "2022/10/7": 260,
-    "2022/10/8": 39
+    "2022/10/8": 39,
+    "2022/10/9": 52
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md": {
-      "initial": 7,
-      "current": 45
+    "Informatik/Semester_03/Software Engineering/Use Case Analysis.md": {
+      "initial": 5,
+      "current": 56
     },
-    "Informatik/Semester_01/AFE/Grammatik.md": {
-      "initial": 53,
-      "current": 54
+    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md": {
+      "initial": 422,
+      "current": 423
     }
   }
 }
