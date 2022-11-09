@@ -2,13 +2,18 @@
 aliases: 
 ---
 # Template für Fully Dressed Use Case 
-| Use Case Section         | Purpose/Guidelines                                            |
-| ------------------------ | ------------------------------------------------------------- |
-| Name des Anwendungsfalls | Fängt mit einem Verb an                                       |
-| Scope                    | Corporate, System, Subsystem                                  |
-| Level                    | Ziel des Benutzers, ein zusammenfassendes Ziel, Unterfunktion |
-| Primary Actor            | Initiiert den Anwendungsfall                                  |
-|                          |                                                               |
+| Use Case Section                       | Purpose/Guidelines                                               |
+| -------------------------------------- | ---------------------------------------------------------------- |
+| Name des Anwendungsfalls               | Fängt mit einem Verb an                                          |
+| Scope                                  | Corporate, System, Subsystem                                     |
+| Level                                  | Ziel des Benutzers, ein zusammenfassendes Ziel, Unterfunktion    |
+| Primary Actor                          | Initiiert den Anwendungsfall                                     |
+| Stakeholder and Interest               | Wen interesiert den Anwendungsfall und was wollen sie?           |
+| Vorbedingungen                         | Was für relevante Dinge müssen am Anfang wahr sein               |
+| Minimale Garantie                      | Die minmale Garantie, die das System machen muss in jedem Fall   |
+| Garantie im Erfolgsfall                | Was für relevante Dinge sind wahr, wenn der Erfolgsfall eintritt |
+| Detailiert ausgeführte Erfolgsszenario | Represantives Szenario für einen erfolgreichen Anwendungsfall    |
+| Erweiterungen                          | Alternative Szenarien bei Erfolg oder Misserfolg                 |
 
 ## Kinds of Goals
 ### User Goal

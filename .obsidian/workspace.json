@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ac13944d92d0a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
+                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,12 +258,12 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "18f405fecbd05c04",
+  "active": "1ac13944d92d0a64",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
-    "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
