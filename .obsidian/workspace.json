@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +221,15 @@
   },
   "active": "c7168bfdbd5e6a7c",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
     "Informatik/Semester_01/AFE/Grammatik.md",
     "Informatik/Semester_01/AFE/Alphabet, Wörter und Sprachen.md",
     "Informatik/Semester_01/AFE/Reguläre Sprache.md",
     "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
-    "Informatik/Semester_01/Mathe_1/Linkstotal.md",
-    "Informatik/Semester_01/Mathe_1/Rechtstotal.md"
+    "Informatik/Semester_01/Mathe_1/Linkstotal.md"
   ]
 }
