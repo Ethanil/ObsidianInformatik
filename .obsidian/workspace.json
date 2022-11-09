@@ -8,136 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15436de680fe6759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17a10c7a71bbb1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Arten von Ordnungen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f587fd4b5a8bddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1c051118ff8847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Rechtstotal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c91200661efc0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7168bfdbd5e6a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd99059319b3f531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f405fecbd05c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ac13944d92d0a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a819ef0f8bdc391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc1031d923e581a1",
             "type": "leaf",
             "state": {
@@ -149,9 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b7eaefd92bda329",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md",
+                "file": "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,17 +164,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "cc1031d923e581a1",
+  "active": "6b7eaefd92bda329",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md",
+    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md",
     "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
+    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-19.excalidraw.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
     "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
-    "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
-    "Informatik/Semester_01/AFE/Grammatik.md"
+    "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md"
   ]
 }
