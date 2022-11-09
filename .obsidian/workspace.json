@@ -24,9 +24,12 @@
             "id": "6b7eaefd92bda329",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md"
+                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md",
+                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,14 +169,14 @@
   },
   "active": "6b7eaefd92bda329",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md",
-    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md",
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
-    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-19.excalidraw.md",
+    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
+    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md",
+    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
+    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-01.excalidraw.md",
+    "Excalidraw/Anwendungsfalldiagramme in UML 09.11.2022 15-32-19.excalidraw.md",
     "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
-    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md"
   ]
