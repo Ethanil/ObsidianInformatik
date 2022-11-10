@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
+                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "6b7eaefd92bda329",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
     "Informatik/Semester_01/FOP/Kernelemente des Objektorientierten Programmdesigns.md",
     "Informatik/Semester_01/FOP/Sichtbarkeit von Methoden.md",
     "Informatik/Semester_01/FOP/FOP Übungsblatt 00.md",
@@ -177,7 +178,6 @@
     "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
-    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md",
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md"
+    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md"
   ]
 }
