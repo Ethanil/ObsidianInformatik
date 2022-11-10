@@ -4,32 +4,13 @@
     "2022/10/2": 144,
     "2022/10/7": 260,
     "2022/10/8": 39,
-    "2022/10/9": 576
+    "2022/10/9": 576,
+    "2022/10/10": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Software Engineering/Use Case Analysis.md": {
-      "initial": 5,
-      "current": 304
-    },
-    "Informatik/Semester_03/Software Engineering/Requirements Analysis.md": {
-      "initial": 422,
-      "current": 423
-    },
-    "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md": {
-      "initial": 8,
-      "current": 151
-    },
-    "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md": {
-      "initial": 5,
-      "current": 77
-    },
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md": {
-      "initial": 7,
-      "current": 68
-    },
-    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md": {
-      "initial": 15,
-      "current": 15
+    "Informatik/Semester_01/FOP/FOP Übungsblatt 00.md": {
+      "initial": 308,
+      "current": 308
     }
   }
 }
