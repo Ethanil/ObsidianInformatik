@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Semester_01",
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.3982905982906,
-  "lineSizeMultiplier": 0.980898876404494,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 2.95833333333333,
+  "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": true,
-  "centerStrength": 0.432584269662921,
-  "repelStrength": 12.3603999024628,
-  "linkStrength": 0.384052670080468,
-  "linkDistance": 185,
-  "scale": 0.08487468472773853,
+  "centerStrength": 0.385416666666667,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 1,
+  "linkDistance": 285,
+  "scale": 0.45971825916966386,
   "close": false
 }
