@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
+                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
+                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "6b7eaefd92bda329",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
+    "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
-    "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
-    "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
-    "Informatik/Semester_03/Software Engineering/Anwendungsfalldiagramme in UML.md"
+    "Informatik/Semester_03/Software Engineering/Domain Modelling.md"
   ]
 }
