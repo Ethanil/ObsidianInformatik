@@ -19,8 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c249d5ca0638ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a28f294cc4f5dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4211e68c56ed09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +193,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "6b7eaefd92bda329",
+  "active": "a4211e68c56ed09e",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
+    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
-    "Informatik/Semester_03/Software Engineering/Domain Modelling.md"
+    "Informatik/Semester_02/APL/Aussagenlogik/Syntax und Semantik der AL.md"
   ]
 }

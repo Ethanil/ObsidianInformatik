@@ -5,16 +5,21 @@
     "2022/10/7": 260,
     "2022/10/8": 39,
     "2022/10/9": 576,
-    "2022/10/10": 0
+    "2022/10/10": 0,
+    "2022/10/23": 194
   },
   "todaysWordCount": {
-    "Informatik/Semester_01/FOP/FOP Übungsblatt 00.md": {
-      "initial": 308,
-      "current": 308
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM/aexpr.md": {
+      "initial": 3,
+      "current": 19
     },
-    "Informatik/Semester_01/FOP/Kernelemente des Objektorientierten Programmdesigns.md": {
-      "initial": 51,
-      "current": 51
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md": {
+      "initial": 18,
+      "current": 66
+    },
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md": {
+      "initial": 4,
+      "current": 134
     }
   }
 }
