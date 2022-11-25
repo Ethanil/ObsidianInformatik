@@ -13,7 +13,7 @@ n | X | (aexpr $\oplus$ aexpr ) | (aexpr $\ominus$ aexpr ) | (aexpr $\odot$ aexp
 ```ad-abstract
 title: bexpr
 bexpr ::= 
-true | false | (aexpr eq aexpr) | (aexpr leq aexpr) | not bexpr | (bexpr and bexpr) | bexpr or bexpr
+true | false | (aexpr eq aexpr) | (aexpr leq aexpr) | not bexpr | (bexpr and bexpr) | (bexpr or bexpr)
 ```
 ## c
 ```ad-abstract

@@ -6,24 +6,13 @@
     "2022/10/8": 39,
     "2022/10/9": 576,
     "2022/10/10": 0,
-    "2022/10/23": 249
+    "2022/10/23": 249,
+    "2022/10/25": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM/aexpr.md": {
-      "initial": 3,
-      "current": 19
-    },
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md": {
-      "initial": 18,
+      "initial": 66,
       "current": 66
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md": {
-      "initial": 4,
-      "current": 134
-    },
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md": {
-      "initial": 4,
-      "current": 59
     }
   }
 }
