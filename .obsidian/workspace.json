@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,9 +195,9 @@
   },
   "active": "a4211e68c56ed09e",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
     "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
