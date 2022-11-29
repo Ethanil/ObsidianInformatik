@@ -31,6 +31,6 @@ $$\begin{align}
 &\text{rift}\frac{<bexpr, \sigma> \Downarrow true \ \ \ <c_{1}\sigma> \rightarrow \sigma'}{<if\ bexpr\ then\ c_{1}\ else\ c_{2}\ fi,\sigma>\rightarrow \sigma'}\\ \\
 &\text{riff}\frac{<bexpr, \sigma> \Downarrow false \ \ \ <c_{2}\sigma> \rightarrow \sigma'}{<if\ bexpr\ then\ c_{1}\ else\ c_{2}\ fi,\sigma>\rightarrow \sigma'}\\ \\
 &\text{rwhf}\frac{<bexpr, \sigma> \Downarrow false}{<while\ bexpr\ do\ c\ od,\sigma>\rightarrow \sigma'}\\ \\
-&\text{rwhf}\frac{<bexpr, \sigma> \Downarrow true \ \ \ <c,\sigma> \rightarrow \sigma''\ \ \ }{<while\ bexpr\ do\ c\ od,\sigma>\rightarrow \sigma'}\\ \\
+&\text{rwhf}\frac{<bexpr, \sigma> \Downarrow true \ \ \ <c,\sigma> \rightarrow \sigma''\ \ \ <while\ bexpr\ do\ c\ od,\sigma''> \rightarrow \sigma'}{<while\ bexpr\ do\ c\ od,\sigma>\rightarrow \sigma'}\\ \\
 \end{align}$$
 ## Links
