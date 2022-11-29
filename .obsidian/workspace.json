@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baca61edadc9ba63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Kalkülregeln.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Kalkülregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +206,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "a4211e68c56ed09e",
+  "active": "baca61edadc9ba63",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
+    "Informatik/Semester_03/Einführung in den Compilerbau/Terminologie.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Terminalsymbol.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Syntaxbäume.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Nicht-Terminalsymbol.md",
     "Informatik/Semester_03/Einführung in den Compilerbau/Extended Backus-Naur-Form.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
-    "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md"
+    "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md"
   ]
 }
