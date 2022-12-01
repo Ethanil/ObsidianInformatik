@@ -5,9 +5,9 @@ aliases:
 $$\begin{align}
 &\text{rNum}\frac{}{<n, \sigma > \Downarrow n}\\ \\
 &\text{rVar}\frac{}{< X, \sigma > \Downarrow n}n = \sigma(X) \\ \\
-&\text{r}\oplus \frac{<aexpr_{1}\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \oplus aexpr_{2}),\sigma > \Downarrow n}n = n_{1} + n_{2} \\ \\
-&\text{r}\ominus \frac{<aexpr_{1}\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \ominus aexpr_{2}),\sigma > \Downarrow n}n = n_{1} - n_{2} \\ \\
-&\text{r}\odot \frac{<aexpr_{1}\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \odot aexpr_{2}),\sigma > \Downarrow n}n = n_{1} \cdot n_{2} \\ \\
+&\text{r}\oplus \frac{<aexpr_{1},\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \oplus aexpr_{2}),\sigma > \Downarrow n}n = n_{1} + n_{2} \\ \\
+&\text{r}\ominus \frac{<aexpr_{1},\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \ominus aexpr_{2}),\sigma > \Downarrow n}n = n_{1} - n_{2} \\ \\
+&\text{r}\odot \frac{<aexpr_{1},\sigma>\Downarrow n_{1}\ \ \ <aexpr_{2},\sigma> \Downarrow n_{2}}{<(aexpr_{1} \odot aexpr_{2}),\sigma > \Downarrow n}n = n_{1} \cdot n_{2} \\ \\
 \\
 &\text{rtrue}\frac{}{< true, \sigma> \Downarrow true}\\ \\
 &\text{rfalse}\frac{}{< false, \sigma> \Downarrow false}\\ \\
@@ -33,4 +33,5 @@ $$\begin{align}
 &\text{rwhf}\frac{<bexpr, \sigma> \Downarrow false}{<while\ bexpr\ do\ c\ od,\sigma>\rightarrow \sigma'}\\ \\
 &\text{rwhf}\frac{<bexpr, \sigma> \Downarrow true \ \ \ <c,\sigma> \rightarrow \sigma''\ \ \ <while\ bexpr\ do\ c\ od,\sigma''> \rightarrow \sigma'}{<while\ bexpr\ do\ c\ od,\sigma>\rightarrow \sigma'}\\ \\
 \end{align}$$
+
 ## Links
