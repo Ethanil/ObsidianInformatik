@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
+                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
+                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,15 +155,15 @@
   },
   "active": "baca61edadc9ba63",
   "lastOpenFiles": [
+    "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
+    "Informatik/Semester_01/AFE/Satz von Kleene.md",
+    "Informatik/Semester_01/AFE/Pumping Lemma.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Schnittoperator.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Kalkülregeln.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Hasse Diagramm.md"
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md"
   ]
 }
