@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +154,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "baca61edadc9ba63",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
     "Informatik/Semester_01/AFE/Satz von Kleene.md",
