@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
+                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "277a21d370bc5a0f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moore",
+                "query": "float",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
+                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +165,30 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "732fc5a8a5139dc3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "277a21d370bc5a0f",
   "lastOpenFiles": [
+    "Informatik/Semester_01/FOP/double.md",
+    "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
     "Informatik/Semester_01/AFE/Satz von Kleene.md",
-    "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md"
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md"
   ]
 }

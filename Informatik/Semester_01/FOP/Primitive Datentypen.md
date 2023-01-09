@@ -11,10 +11,11 @@
 Beim unter- bzw überschreiten des Bereichs in der Anwendung erhalten wir Werte aus dem Extrem des anderen Bereichs
 
 ## Gebrochene Zahlen
-Typ|Bits|Bereich|Genauigkeit
-|---|---|---|---|
-|[[float]]|32|±3.402...\*10³⁸|1 zu 8,388,608
-|[[double]]|64|±1.797...\*10³⁰⁸|ca. 1 zu 4,5 Billiarden
+| Typ        | Bits | Bereich          | Genauigkeit             |
+| ---------- | ---- | ---------------- | ----------------------- |
+| [[float]]  | 32   | ±3.402...\*10³⁸  | 1 zu 8,388,608          |
+| [[double]] | 64   | ±1.797...\*10³⁰⁸ | ca. 1 zu 4,5 Billiarden |
+
 ## Logic
 [[boolean]]
 ## Zeichen
