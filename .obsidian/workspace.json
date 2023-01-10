@@ -24,9 +24,12 @@
             "id": "96692eeb8ef234b8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -60,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +183,15 @@
   },
   "active": "96692eeb8ef234b8",
   "lastOpenFiles": [
+    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
+    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
+    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/FOP/double.md",
     "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
     "Informatik/Semester_01/AFE/Satz von Kleene.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Alternativ.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vereinigungsoperator.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md"
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md"
   ]
 }
