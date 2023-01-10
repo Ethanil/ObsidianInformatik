@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "96692eeb8ef234b8",
+            "id": "23e2469f2e2cd6f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +180,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "96692eeb8ef234b8",
+  "active": "23e2469f2e2cd6f5",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
     "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
-    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/FOP/double.md",
     "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
-    "Informatik/Semester_01/AFE/Satz von Kleene.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Funktion.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/COM-Grammatik.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Disjunkte Vereinigung.md"
+    "Informatik/Semester_01/AFE/Satz von Kleene.md"
   ]
 }
