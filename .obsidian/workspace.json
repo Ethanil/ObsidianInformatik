@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96692eeb8ef234b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "96692eeb8ef234b8",
   "lastOpenFiles": [
     "Informatik/Semester_01/FOP/double.md",
     "Informatik/Semester_01/AFE/Pumping Lemma.md",
