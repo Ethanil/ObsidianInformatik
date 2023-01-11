@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c81ccf7081d67890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +193,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "23e2469f2e2cd6f5",
+  "active": "c81ccf7081d67890",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
     "Informatik/Semester_01/FOP/Primitive Datentypen.md",
     "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",

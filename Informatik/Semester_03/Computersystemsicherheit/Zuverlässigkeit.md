@@ -51,7 +51,7 @@ und konkret für unser exponentielles Modell dann
 $$MTTF = \int^{\infty}_{0}e^{-\lambda t} dt = \frac{1}{\lambda}$$
 ## Systeme mit mehreren Komponenten
 ### Reihenschaltung
-Bei in Reihe geschalteten, unabhängigen Komponenten müssen die Wahrscheinlichkeit für ein Failure für jede Komponente multipliziert werden
+Bei in Reihe geschalteten, unabhängigen Komponenten reicht es, dass eine Komponente ausfällt, damit das ganze System ausfällt, daher müssen die für die Überlebenswahrscheinlichkeit des Systems die Wahrscheinlichkeit für ein Failure für jede Komponente multiplizieren.
 ### Parallelschaltung
-Bei einer Parallelschaltung müssen alle Komponenten ausfallen, damit das ganze System ausfällt, wodurch wir die Gegenwahrscheinlich
+Bei einer Parallelschaltung müssen alle Komponenten ausfallen, damit das ganze System ausfällt, wodurch wir für die Überlebenswahrscheinlichkeit die Gegenwahrscheinlichkeit berechnen müssen, dass alle Komponenten ausfallen.
 ## Links
