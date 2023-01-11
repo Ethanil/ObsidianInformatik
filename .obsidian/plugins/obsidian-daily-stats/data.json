@@ -12,20 +12,13 @@
     "2022/11/1": 0,
     "2022/11/8": 0,
     "2022/11/22": 0,
-    "2023/0/10": 461
+    "2023/0/10": 461,
+    "2023/0/11": 119
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md": {
-      "initial": 4,
-      "current": 106
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md": {
-      "initial": 4,
-      "current": 271
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md": {
-      "initial": 3,
-      "current": 95
+    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md": {
+      "initial": 5,
+      "current": 124
     }
   }
 }
