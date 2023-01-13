@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moore",
+                "query": "ersho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4debe861ca17d62b",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
     "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
