@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+                "file": "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ersho",
+                "query": "rechenre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+                "file": "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,17 +207,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "4debe861ca17d62b",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
     "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
-    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
     "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
     "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
     "Informatik/Semester_01/FOP/double.md",
-    "Informatik/Semester_01/AFE/Pumping Lemma.md",
-    "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md"
+    "Informatik/Semester_01/AFE/Pumping Lemma.md"
   ]
 }
