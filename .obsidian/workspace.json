@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "e9630b9e1197c3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23e2469f2e2cd6f5",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rechenre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
+                "file": "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,28 +208,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4debe861ca17d62b",
+  "active": "e9630b9e1197c3eb",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
-    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+    "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
+    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
     "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
     "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
     "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
-    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
-    "Informatik/Semester_01/FOP/double.md",
-    "Informatik/Semester_01/AFE/Pumping Lemma.md"
+    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md"
   ]
 }
