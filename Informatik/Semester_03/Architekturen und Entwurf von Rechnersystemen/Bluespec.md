@@ -22,9 +22,10 @@ module mkMult (Mult_ifc);
 	Reg #(int)     x         <- mkRegU;
 	Reg #(int)     y         <- mkRegU;
 	Reg #(Bool)    got_x     <- mkReg (False);
-	Reg #(Bool)    got_y     <- mkReg ();
-	
+	Reg #(Bool)    got_y     <- mkReg (False);
+```
+Hierbei werden 5 Variablen deklariert, die ersten 3 bleiben uninitialisiert (`mkRegU`) und 2 werden mit `False` initialisiert (`mkReg (False)`)
 
 
 
-## Li
+## Links
