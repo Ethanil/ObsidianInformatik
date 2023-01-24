@@ -26,6 +26,12 @@ module mkMult (Mult_ifc);
 ```
 Hierbei werden 5 Variablen deklariert, die ersten 3 bleiben uninitialisiert (`mkRegU`) und 2 werden mit `False` initialisiert (`mkReg (False)`)
 
-
+## Arten von Methoden
+### Wert-Methoden
+Value Methods sind äquivalent zu mathematischen Funktionen, können also den Zustand der Schaltung nicht ändern sondern nur lokale Zwischenwerte via `=` berechnen. Das heißt `<=` oder `<-` ist hier **verboten**. Sie haben einen Rückgabewert. (zum Beispiel um die Summe aller Werte zu berechnen)
+### Aktions-Methoden
+Action Methods dürfen den Zustand der Schaltung ändern, haben aber keinen Rückgabewert
+### Aktionswert Methoden
+Action Value Methods können den Zustand der Schaltung ändern und haben einen Rückgabewert an Aufrufer.
 
 ## Links
