@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/SystemVerilog.md",
+                "file": "Informatik/Semester_01/FOP/Closure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/SystemVerilog.md",
+                "file": "Informatik/Semester_01/FOP/Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +220,7 @@
   },
   "active": "baca61edadc9ba63",
   "lastOpenFiles": [
+    "Informatik/Semester_01/Digitaltechnik/SystemVerilog.md",
     "Informatik/Semester_01/Digitaltechnik/DT Übung 02.md",
     "Informatik/Semester_01/Digitaltechnik/DT_ÜB_01_V1.pdf.md",
     "Informatik/Semester_01/Digitaltechnik/DT Übung 01.md",
@@ -228,7 +229,6 @@
     "Informatik/Semester_01/Digitaltechnik/Product-of-sums.md",
     "Informatik/Semester_01/Digitaltechnik/Physikalische Realisierung von Logikgattern.md",
     "Informatik/Semester_01/Digitaltechnik/Parallelität.md",
-    "Informatik/Semester_01/Digitaltechnik/Netzliste.md",
-    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md"
+    "Informatik/Semester_01/Digitaltechnik/Netzliste.md"
   ]
 }
