@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/SystemVerilog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/SystemVerilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,15 +220,15 @@
   },
   "active": "baca61edadc9ba63",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
-    "Informatik/Semester_01/FOP/Primitive Datentypen.md",
-    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
-    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
-    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
-    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md"
+    "Informatik/Semester_01/Digitaltechnik/DT Übung 02.md",
+    "Informatik/Semester_01/Digitaltechnik/DT_ÜB_01_V1.pdf.md",
+    "Informatik/Semester_01/Digitaltechnik/DT Übung 01.md",
+    "Informatik/Semester_01/Digitaltechnik/Schieberegister.md",
+    "Informatik/Semester_01/Digitaltechnik/Sequentielle Schaltungen.md",
+    "Informatik/Semester_01/Digitaltechnik/Product-of-sums.md",
+    "Informatik/Semester_01/Digitaltechnik/Physikalische Realisierung von Logikgattern.md",
+    "Informatik/Semester_01/Digitaltechnik/Parallelität.md",
+    "Informatik/Semester_01/Digitaltechnik/Netzliste.md",
+    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md"
   ]
 }
