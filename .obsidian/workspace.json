@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
+                "file": "Informatik/Semester_01/FOP/Primitive Datentypen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9630b9e1197c3eb",
+  "active": "baca61edadc9ba63",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_01/FOP/Primitive Datentypen.md",
     "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
