@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
+                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
+                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,8 +255,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "4debe861ca17d62b",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Software Engineering/Übersicht.md",
+    "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
     "Informatik/Screenshots/Pasted image 20230301144757.png",
@@ -270,10 +272,8 @@
     "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
     "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
     "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
-    "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
-    "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
     "Informatik/Semester_03/Software Engineering/Coverage.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
