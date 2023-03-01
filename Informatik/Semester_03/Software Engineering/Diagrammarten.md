@@ -26,9 +26,6 @@ aliases:
 ## Objektdiagramm
 Wie Klassendiagramm nur halt Objekte, die Namen haben
 ![[Pasted image 20230301144658.png]]
-## Strategie Diagramm
-Wie Klassendiagramm, nur Strategie
-![[Pasted image 20230301144855.png]]
 ## Domänendiagramm
 An sich ein Klassendiagramm, aber wir haben keine komposition. Jede Kante hat einen Namen und wie oft es vorkommt.
 ![[Pasted image 20230301144630.png]]

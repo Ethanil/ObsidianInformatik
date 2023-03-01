@@ -15,7 +15,7 @@
     "2023/0/10": 461,
     "2023/0/11": 141,
     "2023/0/24": 233,
-    "2023/2/1": 475
+    "2023/2/1": 465
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Software Engineering/Coverage.md": {
@@ -24,7 +24,7 @@
     },
     "Informatik/Semester_03/Software Engineering/Diagrammarten.md": {
       "initial": 3,
-      "current": 266
+      "current": 256
     }
   }
 }
