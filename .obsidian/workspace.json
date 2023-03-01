@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "05b4d8f5f6507d38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "e9630b9e1197c3eb",
             "type": "leaf",
             "state": {
@@ -72,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "baca61edadc9ba63",
+  "active": "05b4d8f5f6507d38",
   "lastOpenFiles": [
     "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
