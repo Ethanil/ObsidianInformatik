@@ -6,16 +6,16 @@ aliases:
 - Javacode in basic blocks aufteilen und an JEDE Kante eine EINZELNE Bedingung schreiben
 ![[Pasted image 20230301144728.png]]
 ## Feature Diagramm
-| Beschreibung                                    | Was ist es   |
-| ----------------------------------------------- | ------------ |
-| ausgefüllter winkel                             | or           |
-| nichts                                          | and          |
-| leerer Kreis                                    | optional     |
-| ausgefüllter Kreis(braucht ausgefüllter Winkel) | mandatory    |
-| leerer Winkel                                   | xor          |
-| requires auf gestr. Pfeil                       | requires     |
-| excludes                                        | schließt aus |
-| param mit i                                     | joa param    |
+| Beschreibung                                    | Was ist es                      |
+| ----------------------------------------------- | ------------------------------- |
+| ausgefüllter winkel                             | or                              |
+| nichts                                          | and                             |
+| leerer Kreis                                    | optional                        |
+| ausgefüllter Kreis(braucht ausgefüllter Winkel) | mandatory                       |
+| leerer Winkel                                   | xor                             |
+| requires auf gestr. Pfeil                       | requires                        |
+| excludes                                        | schließt aus                    |
+| param mit i                                     | joa param(typ nicht vergessen!) |
 ![[Pasted image 20230301145015.png]]
 ## Klassendiagramm
 | Art des Pfeils               | Bedeutung                             |
@@ -54,7 +54,4 @@ An sich ein Klassendiagramm, aber wir haben keine komposition. Jede Kante hat ei
 	- es gibt zusätzlich noch eine methode die bei dem übergang gecalled wird und was machen kann
 ![[Pasted image 20230301144642.png]]
 
-## Strategie Diagramm
-Wie Klassendiagramm, nur Strategie
-![[Pasted image 20230301144855.png]]
 ## Links
