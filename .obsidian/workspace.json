@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
+                "file": "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
+                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mealy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,12 +255,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e3354bf27c1c418",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20230301145015.png",
+    "Informatik/Screenshots/Pasted image 20230301144855.png",
+    "Informatik/Screenshots/Pasted image 20230301144757.png",
+    "Informatik/Screenshots/Pasted image 20230301144728.png",
+    "Informatik/Screenshots/Pasted image 20230301144658.png",
+    "Informatik/Screenshots/Pasted image 20230301144642.png",
+    "Informatik/Screenshots/Pasted image 20230301144630.png",
+    "Informatik/Screenshots/Pasted image 20230301144611.png",
+    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
     "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
+    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
+    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
+    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
+    "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
-    "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
     "Informatik/Semester_03/Software Engineering/Coverage.md",
