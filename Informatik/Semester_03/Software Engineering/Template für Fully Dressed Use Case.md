@@ -5,7 +5,7 @@ aliases:
 | Use Case Section                       | Purpose/Guidelines                                               |
 | -------------------------------------- | ---------------------------------------------------------------- |
 | Name des Anwendungsfalls               | Fängt mit einem Verb an                                          |
-| Scope                                  | Corporate, System, Subsystem                                     |
+| Scope                                  | Wo der Use Case relevant ist                                     |
 | Level                                  | Ziel des Benutzers, ein zusammenfassendes Ziel, Unterfunktion    |
 | Primary Actor                          | Initiiert den Anwendungsfall                                     |
 | Stakeholder and Interest               | Wen interesiert den Anwendungsfall und was wollen sie?           |
