@@ -107,9 +107,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5413f71c7871aebf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4debe861ca17d62b",
+  "active": "5413f71c7871aebf",
   "lastOpenFiles": [
     "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Semester_03/Software Engineering/Coverage.md",
