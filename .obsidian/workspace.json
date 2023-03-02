@@ -112,9 +112,12 @@
             "id": "5413f71c7871aebf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -185,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
+                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
