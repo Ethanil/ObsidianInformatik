@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Der Euklidische Algorithmus.md",
+                "file": "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Der Euklidische Algorithmus.md",
+                "file": "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,8 +297,9 @@
   },
   "active": "e21fac38810a718c",
   "lastOpenFiles": [
-    "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
+    "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Semester_01/Mathe_1/Der Euklidische Algorithmus.md",
+    "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
