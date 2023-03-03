@@ -120,9 +120,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3eef87e04f748b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21fac38810a718c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,8 +294,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5413f71c7871aebf",
+  "active": "e21fac38810a718c",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
+    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
     "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Semester_03/Software Engineering/Coverage.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
