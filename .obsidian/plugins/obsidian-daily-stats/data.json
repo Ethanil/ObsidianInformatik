@@ -17,24 +17,17 @@
     "2023/0/24": 233,
     "2023/2/1": 465,
     "2023/2/2": 5,
-    "2023/2/3": 0
+    "2023/2/3": 0,
+    "2023/2/5": 136
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokoll CSS SoSe 22.md": {
-      "initial": 445,
-      "current": 445
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md": {
+      "initial": 4,
+      "current": 79
     },
-    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Untitled.md": {
-      "initial": 6,
-      "current": 6
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md": {
-      "initial": 796,
-      "current": 796
-    },
-    "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md": {
-      "initial": 185,
-      "current": 181
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md": {
+      "initial": 4,
+      "current": 65
     }
   }
 }

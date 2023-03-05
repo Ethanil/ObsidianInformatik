@@ -146,9 +146,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35766c5e1416378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55293afda00b17ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -214,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,10 +320,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e21fac38810a718c",
+  "active": "55293afda00b17ca",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_01/Digitaltechnik/SR-Latch.md",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
