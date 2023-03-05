@@ -18,7 +18,7 @@
     "2023/2/1": 465,
     "2023/2/2": 5,
     "2023/2/3": 0,
-    "2023/2/5": 257
+    "2023/2/5": 392
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md": {
@@ -32,6 +32,10 @@
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md": {
       "initial": 182,
       "current": 182
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 3.md": {
+      "initial": 9,
+      "current": 144
     }
   }
 }
