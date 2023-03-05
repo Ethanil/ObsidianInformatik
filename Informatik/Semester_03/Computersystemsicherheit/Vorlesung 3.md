@@ -28,6 +28,8 @@ title:Definition - Blockchiffren
 |  CTR    | Wir verschlüsseln Nonce+Counter und xorn das mit Block  |
 ```
 
-## Stromchiffre
+```ad-abstract
+title:Definition - Stromchiffre
 Wir haben einen Strom aus Schlüsseln, mit denen wir jeweils Teile des Plaintextes verschlüsseln (CTR ist eine Stromchiffre)
+```
 ## Links
