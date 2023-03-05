@@ -18,4 +18,14 @@ e*d \text{ mod } \varphi(n) &= 1
 - $K=e^r$ berechnen
 - Berechne $C = m * K$ und gebe $(R,C)$ als Chiffrat mit
 - Entschlüsseln: $K = R^a$ und $C*K^{-1} = m$
+
+## HMAC
+wir wählen
+- opad ist $(0x5C)^{n}$ und ipad ist $(0x36)^{n}$ aus $\mathbb{Z}^{8n}_{2}$
+- Einen Key $K$ abhängig vom übergebenem $k$(entweder fügen wir $0$'en hinzu, hashen $k$ oder übernehmen $k$ direkt als $K$)
+- $x$ ist die zu hashende Nachricht, $H$ die Hashfunktion
+```ad-abstract
+title:Definition - HMAC
+$$HMAC(x,k) = H(\text{conc}(K \oplus opad, H(\text{conc}(K \oplus ipad,x))))$$
+```
 ## Links
