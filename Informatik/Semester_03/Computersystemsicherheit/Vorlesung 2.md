@@ -26,7 +26,7 @@ title:Definition - Schutzziele
 title:Definition - 
 |Abkürzung|Bedeutung|Beschreibung|
 |----|----|----|
-|COA|known-chipertext attack|Der Angreifer kennt Chiffretexte|
+|COA|ciphertext-only-attack oder known-chipertext attack|Der Angreifer kennt Chiffretexte|
 |KPA|known-plaintext attack|Angreifer kennt Klartext + Chiffrate|
 |CPA|chosen-plaintext attack|Angreifer kann Klartexte seine Wahl verschlüsseln lassen|
 |CCA|chosen-chipertext attack|Angreifer kann Chiffrate seiner Wahl entschlüsseln und enthält somit die zugehörigen Klartexte erhalten.|
@@ -37,8 +37,19 @@ title:Definition - Eigenschaften von Teilbarkeit
 $$\begin{align}
 a|b &\land b|c &\Rightarrow a|c \\
 a|b &\land b \neq 0 &\Rightarrow |a| \leq |b| \\
-a|b &\land b|a &\Rightarrow |a| = |b|
+a|b &\land b|a &\Rightarrow |a| = |b| \\
+a|b &\land b|c &\Rightarrow a|c
 \end{align}$$
+```
+
+```ad-abstract
+title:Definition - Euklid
+$ggT(a,b) = k*a+l*b$
+
+| a     | b   | $\lfloor\frac{a}{b}\rfloor$ | k    | l      |
+|---|---|---|---|---|
+
+$k_{i-1}=l_{i}$ und $l_{i-1} = k_{i} - \lfloor\frac{a}{b}\rfloor * l_{i}$ (i ist der Index der Zeile)
 ```
 
 ```ad-abstract
