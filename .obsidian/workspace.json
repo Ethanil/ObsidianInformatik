@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,13 +320,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55293afda00b17ca",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_01/Digitaltechnik/SR-Latch.md",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
