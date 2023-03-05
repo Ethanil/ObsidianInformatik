@@ -18,44 +18,13 @@
     "2023/2/1": 465,
     "2023/2/2": 5,
     "2023/2/3": 0,
-    "2023/2/5": 1224
+    "2023/2/5": 1224,
+    "2023/2/6": 47
   },
   "todaysWordCount": {
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md": {
-      "initial": 4,
-      "current": 272
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md": {
-      "initial": 4,
-      "current": 380
-    },
-    "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md": {
-      "initial": 182,
-      "current": 182
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 3.md": {
-      "initial": 9,
-      "current": 143
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Untitled.md": {
-      "initial": 1,
-      "current": 0
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 4.md": {
-      "initial": 4,
-      "current": 169
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 5.md": {
-      "initial": 4,
-      "current": 235
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Untitled.md": {
-      "initial": 0,
-      "current": 0
-    },
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md": {
-      "initial": 0,
-      "current": 50
+      "initial": 50,
+      "current": 97
     }
   }
 }
