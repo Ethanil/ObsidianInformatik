@@ -13,25 +13,19 @@ Bei gegenemen Chiffretext ist **jeder** Klartext gleichwahrscheinlich
 title:Definition - Semantische Sicherheit
 Es ist nicht wesentlich einfacher auf den Inhalt einer Nachricht zu schließen, wenn man die Länge der Nachricht+Chiffrat hat, als wenn man nur Länge der Nachricht hat.
 ```
-
+## Chiffren
 ```ad-abstract
 title:Definition - Vignere-Chiffre
-Cesar-Chiffre mit repetitierendem Key
-```
-## Blockchiffre
-```ad-abstract
-title:Definition - ECB
-Blockchifre, wobei der key einfach auf jeden Block angewendet wird
+Ceasar-Chiffre mit repetitierendem Key
 ```
 
 ```ad-abstract
-title:Definition - CBC
-Wir haben noch einen init-vector(IV). Wir xor'n den block damit und verschlüsseln dann mit key. IV für nächsten Block ist der verschlüsselte Block.
-```
-
-```ad-abstract
-title:Definition - CTR
-Wir verschlüsseln Nonce+Counter und xorn das mit Block
+title:Definition - Blockchiffren
+| Name | Bedeutung |
+| ---- | --------- |
+|  ECB    | Blockchifre, wobei der key einfach auf jeden Block angewendet wird          |
+|  CBC    |Wir haben noch einen init-vector(IV). Wir xor'n den block damit und verschlüsseln dann mit key. IV für nächsten Block ist der verschlüsselte Block.|
+|  CTR    | Wir verschlüsseln Nonce+Counter und xorn das mit Block  |
 ```
 
 ## Stromchiffre
