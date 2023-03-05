@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+                "file": "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "euklid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +220,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+                "file": "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,10 +321,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "55293afda00b17ca",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",

@@ -1,5 +1,5 @@
 # Erweiterter Euklidischer Algorithmus
-Beim erweiterten eukdlischen Algorithmus wird im Vergleich zum [[Der Euklidische Algorithmus|normalen]] nicht nur der [[ggT]] sondern auch zwei ganze Zahlen ermittelt für die gilt
+Beim erweiterten eukdlischen Algorithmus wird im Vergleich zum e[[Der Euklidische Algorithmus|normalen]] nicht nur der [[ggT]] sondern auch zwei ganze Zahlen ermittelt für die gilt
 $$ggT(a,b) = k*a+l*b$$
 
 Um dies zu ermitteln führen wir zuerst den normale Euklidischen Algorithmus durch, bis wir $0$ für $b$ erhalten, dabei schreiben wir uns gleich $\lfloor\frac{a}{b}\rfloor$ auf:
