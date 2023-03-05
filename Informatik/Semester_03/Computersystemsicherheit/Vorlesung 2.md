@@ -64,4 +64,8 @@ Es gilt für eine Primzahl $p$
 $$p|ab \Rightarrow p|a \land p|b$$
 ```
 
+```ad-abstract
+title:Definition - lineare Diophantische Gleichung
+a*x + b*y = 1
+```
 ## Links
