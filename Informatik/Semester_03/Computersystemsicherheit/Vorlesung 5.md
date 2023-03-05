@@ -32,5 +32,5 @@ aliases:
 - Berechne $i_{1}=H(m)*w \text{ mod }q$
 - Berechne $u_{2}=r*w \text{ mod }q$
 - Berechne $v = (g^{u_{1}}*y^{u_{2}}\text{ mod }p)\text{ mod }q$
-- 
+- Falls $v=r \Rightarrow$ akzeptiert
 ## Links
