@@ -187,6 +187,19 @@
             }
           },
           {
+            "id": "3350944e2faa3934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55293afda00b17ca",
             "type": "leaf",
             "state": {
@@ -200,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,11 +359,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8663439277c6f298",
+  "active": "3350944e2faa3934",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 5.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 4.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesung 3.md",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
@@ -382,7 +396,6 @@
     "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
     "Informatik/Semester_03/Software Engineering/Use Case Analysis.md",
     "Informatik/Semester_03/Software Engineering/Anwendungsfälle entwickeln.md",
-    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md",
-    "Informatik/Semester_01/FOP/Closure.md"
+    "Informatik/Semester_03/Software Engineering/Anforderungen an einen Anwendungsfall.md"
   ]
 }

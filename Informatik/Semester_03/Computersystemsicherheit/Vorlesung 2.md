@@ -68,7 +68,7 @@ $$p|ab \Rightarrow p|a \land p|b$$
 title:Definition - lineare Diophantische Gleichung
 $$\begin{align}
 a*x + b*y = 1 \\
-a^{-1} = b % y
+a^{-1} = b \text{ mod } y
 \end{align}$$
 ```
 ## Links
