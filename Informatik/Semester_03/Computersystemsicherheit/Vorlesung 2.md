@@ -49,20 +49,24 @@ $ggT(a,b) = k*a+l*b$
 | a     | b   | $\lfloor\frac{a}{b}\rfloor$ | k    | l      |
 |---|---|---|---|---|
 
-$k_{i-1}=l_{i}$ und $l_{i-1} = k_{i} - \lfloor\frac{a}{b}\rfloor * l_{i}$ (i ist der Index der Zeile)
+$i \in [1..j]: j = \text{Anzahl Iterationen des Euklid}$
+
+unterstes $k_{j} = 1$ $i_{j}=0$
+
+$k_{i-1}=l_{i}$ und $l_{i-1} = k_{i} - \lfloor\frac{a}{b}\rfloor * l_{i}$
 ```
 
 ```ad-abstract
 title:Definition - Lemma von Euklid
 Es gilt für eine Primzahl $p$
-$$p|ab \Rightarrow p|a \land p|b$$
+$$p|ab \Rightarrow p|a \lor p|b$$
 ```
 
 ```ad-abstract
 title:Definition - lineare Diophantische Gleichung
 $$\begin{align}
-a*x + b*y = 1 \\
-a^{-1} = b \text{ mod } y
+a,b,c,x,y \in \mathbb{Z} \\
+a*x + b*y &= c = ggT(a,b) \Leftrightarrow ggT(a,b)|c \\
 \end{align}$$
 ```
 ## Links
