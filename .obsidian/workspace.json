@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,12 +325,17 @@
   },
   "active": "feda49f8c2fc49bf",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Konvexe Mengen, Schrankensatz.md",
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Mittelwertsatz.md",
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Totale Differenzierbarkeit.md",
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
@@ -347,13 +352,8 @@
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Redundanz.md",
-    "Informatik/Semester_01/Digitaltechnik/SR-Latch.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
-    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
-    "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
     "Informatik/Screenshots/Pasted image 20230301144757.png",
