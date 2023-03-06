@@ -2,6 +2,10 @@
 aliases: 
 ---
 # Vorlesung 9 
+- Identität (Menge von Attributen)
+- Authentisierung(Bereitstellung von Unterlagen zur Identitätsprüfung)
+- Authentifikation (Prüfung der Unterlagen)
+- Autorisierung(Gewährung von Rechten)
 ## Überprüfung und Bestätigung einer Identität
 - Wissen(Passwort)
 - Besitz(Smartcard)
@@ -15,5 +19,7 @@ aliases:
 - Server vergleicht Lösung der Challenge mit seiner eigenen
 
 ## Kerberos
-Keine Ahnung
+- AS stellt Ticket-Granting-Ticket(TGT) aus
+- Mit TGT können wir zum Ticket-Granting-Server(TGS) gehen und uns dort ein Ticket für einen Service holen
+- Mit diesem Ticket können wir den Service nutzen
 ## Links

@@ -104,7 +104,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17b396227044839e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,9 +271,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0afc5a7e48500cdc",
+  "active": "17b396227044839e",
   "lastOpenFiles": [
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
@@ -295,7 +309,6 @@
     "Informatik/Screenshots/Pasted image 20230301144658.png",
     "Informatik/Screenshots/Pasted image 20230301144642.png",
     "Informatik/Screenshots/Pasted image 20230301144630.png",
-    "Informatik/Screenshots/Pasted image 20230301144611.png",
-    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md"
+    "Informatik/Screenshots/Pasted image 20230301144611.png"
   ]
 }
