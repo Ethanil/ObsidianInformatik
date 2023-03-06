@@ -8,4 +8,9 @@ aliases:
 - Integrität der Daten
 - Replay-Protection
 - forward secrecy
+CA stellt Zertifikat für Domains aus.
+TLS ist auf Anwendungsebene.
+## IPSEC/VPN
+- Transportmodus (nur Daten werden encrypted)
+- Tunnelmodus (Daten+header werden encrypted)
 ## Links
