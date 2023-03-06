@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "472cd1219122c3b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,10 +284,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17b396227044839e",
+  "active": "472cd1219122c3b7",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
@@ -301,7 +315,6 @@
     "Informatik/Semester_03/Software Engineering/Coverage.md",
     "Informatik/Semester_03/Software Engineering/Requirements Analysis.md",
     "Informatik/Semester_03/Software Engineering/Template für Fully Dressed Use Case.md",
-    "Informatik/Semester_03/Software Engineering/Übersicht.md",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
     "Informatik/Screenshots/Pasted image 20230301144757.png",
