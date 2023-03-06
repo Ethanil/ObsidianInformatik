@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
+                "file": "Informatik/Semester_01/Mathe_1/Abbildung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "euklid",
+                "query": "injektiv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
+                "file": "Informatik/Semester_01/Mathe_1/Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,6 +326,7 @@
   },
   "active": "feda49f8c2fc49bf",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
@@ -345,7 +347,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
