@@ -7,6 +7,8 @@ title:Definition - Zertifikat
 Beinhalten üblicherweise Öffi, Name, Gültigkeitszeitraum, Aussteller, ... und kommt von einer vertraueneswürdigen dritten Partei.
 
 Wird mit einer digitalen Signatur versehen.
+CRL: Zertifikatsperrlisten (negativer check)
+OCSP: Online Certificate status protocol (positiver check)
 ```
 
 ```ad-abstract

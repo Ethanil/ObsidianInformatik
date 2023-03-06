@@ -13,4 +13,6 @@ TLS ist auf Anwendungsebene.
 ## IPSEC/VPN
 - Transportmodus (nur Daten werden encrypted)
 - Tunnelmodus (Daten+header werden encrypted)
+## Tor
+- Mehrere Tunnelmodi aneinandergereiht
 ## Links

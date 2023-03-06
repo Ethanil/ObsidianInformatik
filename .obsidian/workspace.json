@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "feda49f8c2fc49bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,22 +323,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4768e663ba8fd76",
+  "active": "feda49f8c2fc49bf",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
@@ -340,7 +354,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
     "Informatik/Semester_03/Software Engineering/Diagrammarten.md",
-    "Informatik/Semester_03/Software Engineering/Coverage.md",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
     "Informatik/Screenshots/Pasted image 20230301144757.png",
