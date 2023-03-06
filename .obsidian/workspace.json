@@ -45,9 +45,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b75ab60205a98393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0704250173d93d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "150c5cd0fc4bd92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +232,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b783d0b7b96a5551",
+  "active": "150c5cd0fc4bd92a",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
@@ -228,9 +270,6 @@
     "Informatik/Screenshots/Pasted image 20230301144611.png",
     "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
     "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md",
-    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md",
-    "Informatik/Semester_01/Digitaltechnik/Moore Automat.md",
-    "Informatik/Semester_03/Software Engineering/Domain Modelling.md",
-    "Informatik/Semester_03/Software Engineering/Use Case Analysis.md"
+    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 09 15.12.2021.md"
   ]
 }
