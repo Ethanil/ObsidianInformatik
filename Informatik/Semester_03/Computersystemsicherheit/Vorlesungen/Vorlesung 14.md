@@ -10,4 +10,6 @@ aliases:
 - BGP Hijacking
 	- Manipuliere Prefix, damit der länger(spezifischer) ist -> alle Daten laufen über dieses Netzwerk (Redirection)
 	- Manipuliere Prefix, damit er gleich ist -> die spezifischen Daten gehen an mich(Subversion)
+		- Resource Public Key Infrastructure(RPKI)
+			- Resourcen die BGP-table Entscheidung ergänzen
 ## Links
