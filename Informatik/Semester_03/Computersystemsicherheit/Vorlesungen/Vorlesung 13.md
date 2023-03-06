@@ -25,4 +25,8 @@ aliases:
 	- In DNS-Einträgen steht, wer E-Mails senden darf, andere werden geblockt
 - DKIM
 	- E-Mail wird signiert und öffi steht im DNS
+- Domain Validation
+	- TLS-Zertifikate binden öffi an Domain-Namen
+- DANE
+	- TLS-Zertifikate werden durch Referenz im DNS zertifiziert
 ## Links
