@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Abbildung.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,8 +323,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "feda49f8c2fc49bf",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
+    "Informatik/Semester_01/Mathe_1/Abbildung.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
@@ -334,16 +342,8 @@
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Mittelwertsatz.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Totale Differenzierbarkeit.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
@@ -352,7 +352,6 @@
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
     "Informatik/Semester_01/Mathe_1/Der Euklidische Algorithmus.md",
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
