@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,6 +325,8 @@
   },
   "active": "feda49f8c2fc49bf",
   "lastOpenFiles": [
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Konvexe Mengen, Schrankensatz.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Mittelwertsatz.md",
@@ -344,14 +346,12 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Semester_01/Mathe_1/Erweiterter Euklidischer Algorithmus.md",
     "Informatik/Semester_01/Mathe_1/Der Euklidische Algorithmus.md",
     "Informatik/Semester_03/Computersystemsicherheit/Kerckhoffs Prinzipien.md",
     "Informatik/Semester_03/Computersystemsicherheit/Zuverlässigkeit.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Verfügbarkeit.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
