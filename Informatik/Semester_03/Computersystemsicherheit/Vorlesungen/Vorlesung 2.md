@@ -51,9 +51,9 @@ $ggT(a,b) = k*a+l*b$
 
 $i \in [1..j]: j = \text{Anzahl Iterationen des Euklid}$
 
-unterstes $k_{j} = 1$ $i_{j}=0$
+unterstes $k_{j} = 1$ $l_{j}=0$
 
-$k_{i-1}=l_{i}$ und $l_{i-1} = k_{i} - \lfloor\frac{a}{b}\rfloor * l_{i}$
+$k_{i-1}=l_{i}$ und $l_{i-1} = k_{i} - \lfloor\frac{a}{b}\rfloor_{i-1} * l_{i}$
 ```
 
 ```ad-abstract
