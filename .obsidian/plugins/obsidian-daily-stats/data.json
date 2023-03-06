@@ -19,7 +19,7 @@
     "2023/2/2": 5,
     "2023/2/3": 0,
     "2023/2/5": 1224,
-    "2023/2/6": 392
+    "2023/2/6": 409
   },
   "todaysWordCount": {
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md": {
@@ -40,7 +40,11 @@
     },
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md": {
       "initial": 4,
-      "current": 40
+      "current": 54
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md": {
+      "initial": 4,
+      "current": 7
     }
   }
 }

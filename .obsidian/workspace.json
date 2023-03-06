@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0afc5a7e48500cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,10 +258,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59d13c1fdac7adfa",
+  "active": "0afc5a7e48500cdc",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
@@ -282,7 +296,6 @@
     "Informatik/Screenshots/Pasted image 20230301144642.png",
     "Informatik/Screenshots/Pasted image 20230301144630.png",
     "Informatik/Screenshots/Pasted image 20230301144611.png",
-    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
-    "Informatik/Semester_01/Digitaltechnik/Mealy Automat.md"
+    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md"
   ]
 }
