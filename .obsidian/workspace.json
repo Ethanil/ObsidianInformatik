@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Einführung in die formale Modellierung.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Formale Modellierung und Spezifikation von Struktur und Eigenschaften.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Einführung in die formale Modellierung.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Formale Modellierung und Spezifikation von Struktur und Eigenschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,8 +338,11 @@
   },
   "active": "046792e913b5dcc2",
   "lastOpenFiles": [
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Formale Modellierung und Spezifikation von Struktur und Eigenschaften.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Einführung in die formale Modellierung.md",
+    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Formale Modellierung und Spezifikation von Struktur und Eigenschaften.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
@@ -362,9 +365,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_01/Mathe_1/Abbildung.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
-    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Konvexe Mengen, Schrankensatz.md",
-    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Mittelwertsatz.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle",
