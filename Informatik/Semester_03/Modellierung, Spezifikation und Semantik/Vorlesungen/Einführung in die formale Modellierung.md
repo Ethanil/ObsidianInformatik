@@ -12,18 +12,18 @@ aliases:
 	- $E:= \{\text{fahre}(T)|T = \{m\} \lor T=\{m,x\} \land x \in O \backslash \{m\}\}$
 - Zustandsübergang: 
 	- $\rightarrow \subseteq Z \times E \times Z$
-	- $\rightarrow:=\{((L,R),\text{fahre}(T),(L',R') \in Z \times E \times Z)\}$
-- Beschränkungen: 
-	- $$\begin{align}
+- Beschränkungen: $$
 
-&T \subseteq L \land \\
+    \begin{align}
+\rightarrow:=\{((L,R),\text{fahre}(T),(L',R') \in Z \times E \times Z)\}|& \\
+&(T \subseteq L \land \\
 &L' = L \backslash T \land \\
 &R' = R \cup T \land \\
-&(z \notin L' \lor \{w,k\}\cap L' = \emptyset) \lor \\
-&T \subseteq R \land \\
+&(z \notin L' \lor \{w,k\}\cap L' = \emptyset) )\lor \\ \\
+&(T \subseteq R \land \\
 &R' = R \backslash T \land \\
 &L' = L \cup T \land \\
-&(z \notin R' \lor \{w,k\} \cap R' = \emptyset)
+&(z \notin R' \lor \{w,k\} \cap R' = \emptyset))
 \end{align}$$
 
 
