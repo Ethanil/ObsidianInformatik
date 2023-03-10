@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "046792e913b5dcc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e85f16bf6d9a503c",
             "type": "leaf",
             "state": {
@@ -58,139 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b783d0b7b96a5551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b75ab60205a98393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0704250173d93d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "150c5cd0fc4bd92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d13c1fdac7adfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b396227044839e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "472cd1219122c3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c33dc043af919efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4768e663ba8fd76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feda49f8c2fc49bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Abbildung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
+                "file": "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Einführung in die formale Modellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,8 +194,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "046792e913b5dcc2",
+  "active": "f1a8a6267f788fda",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
     "Informatik/Semester_01/Digitaltechnik/Product-of-sums.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_01/AFE/Pumping Lemma.md",
@@ -364,7 +222,6 @@
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Substitution.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Urteil.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Verband.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen/Einführung in die formale Modellierung.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
