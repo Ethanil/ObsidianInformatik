@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_01/AFE/Pumping Lemma.md",
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,6 +338,7 @@
   },
   "active": "046792e913b5dcc2",
   "lastOpenFiles": [
+    "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Kompaktheitssatz.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Königs Lemma.md",
@@ -351,7 +352,6 @@
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
     "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
     "Informatik/Semester_01/AFE/Reguläre Sprache.md",
-    "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_01/AFE/Präfixrelation.md",
     "Informatik/Semester_01/AFE/Konkatenation.md",
     "Informatik/Semester_01/AFE/Kantenrelation.md",
