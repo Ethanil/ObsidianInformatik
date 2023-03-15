@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e85f16bf6d9a503c",
+            "id": "60448784468ef146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minoren",
+                "query": "fixp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,11 @@
   },
   "active": "f1a8a6267f788fda",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
+    "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
     "Informatik/Semester_02/Mathe_2/Extremwertprobleme in mehreren Variablen/Extremwertprobleme in mehreren Variablen.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Partielle Ableitungen/Jacobi-Matrix.md",
     "Informatik/Semester_02/Mathe_2/Extremwerte/Extremwerte.md",
@@ -217,11 +222,6 @@
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
     "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
     "Informatik/Semester_01/AFE/Reguläre Sprache.md",
-    "Informatik/Semester_01/AFE/Präfixrelation.md",
-    "Informatik/Semester_01/AFE/Konkatenation.md",
-    "Informatik/Semester_01/AFE/Kantenrelation.md",
-    "Informatik/Semester_01/AFE/Graph.md",
-    "Informatik/Semester_01/AFE/Grammatik.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
