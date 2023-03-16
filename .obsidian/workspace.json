@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +195,9 @@
   },
   "active": "f1a8a6267f788fda",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
@@ -212,7 +212,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Kompaktheitssatz.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Königs Lemma.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende semantische Begriffe.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
     "Informatik/Semester_01/AFE/Tupel.md",
