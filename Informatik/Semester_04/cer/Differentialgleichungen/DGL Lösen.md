@@ -18,4 +18,6 @@ $$\begin{align}
 \lambda c e^{\lambda t}=ace^{\lambda t} \stackrel{ce^{\lambda t}\neq 0}{\longrightarrow}\lambda = a
 \end{align}$$
 Die Konstante $c$ lässt sich über den Anfangswert $x_{0}$ bestimmen
+## DGL 1.Ordnung mit höherer Dimension ($n > 1$)
+
 ## Links
