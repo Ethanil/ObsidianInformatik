@@ -1,31 +1,12 @@
 {
   "dayCounts": {
-    "2023/3/19": 286
+    "2023/3/19": 299,
+    "2023/3/20": 70
   },
   "todaysWordCount": {
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md": {
-      "initial": 1407,
-      "current": 1406
-    },
-    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md": {
-      "initial": 4,
-      "current": 141
-    },
-    "Informatik/Semester_04/cer/Differentialgleichungen/explizit.md": {
-      "initial": 4,
-      "current": 11
-    },
-    "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md": {
-      "initial": 12,
-      "current": 50
-    },
-    "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md": {
-      "initial": 9,
-      "current": 37
-    },
-    "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md": {
-      "initial": 4,
-      "current": 80
+    "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md": {
+      "initial": 18,
+      "current": 88
     }
   }
 }
