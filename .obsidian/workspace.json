@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "invert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93560e835aebfa76",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
     "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
