@@ -31,13 +31,28 @@ Dieser Ansatz ist aber sehr langsam ($O(n^{3})$) und schlecht [[Kondition|kondit
 ## Interpolationsformel von Lagrange
 Wir wählen folgendes Vorgehen:
 $$\begin{align}
-p_{n}(x)=\sum^{n}_{k=0}y_{k}L_{k,n}(x)&\text{mit}&L_{k,n}(x)=\prod^{n}_{\substack{j=0\\ j \neq k}}\frac{x-x_{j}}{x_{k}-x_{j}}
+p_{n}(x)=\sum^{n}_{k=0}y_{k}L_{k,n}(x)&&\text{mit}&&L_{k,n}(x)=\prod^{n}_{\substack{j=0\\ j \neq k}}\frac{x-x_{j}}{x_{k}-x_{j}}
 \end{align}$$
 Die Polynome $L_{k,n}(x)$ sind so gewählt, dass gilt
 $$\begin{align}
 L_{k,n}(x_{i})\begin{cases}
 1& &\text{falls }k=1 \\
 0&&\text{sonst.}
-\end{cases}
+\end{cases}&& =:\delta_{ki}
 \end{align}$$
+$\delta_{ki}$ ist das Kronecker-Symbol.
+Es gilt also insgesamt:
+$$\begin{align}
+p_{n}(x_{i})=\sum^{n}_{k=0}y_{k}L_{k,n}(x_{i})=\sum^{n}_{k=0}y_{k}\delta_{ki}=y_{i}
+\end{align}$$
+Dies ist auch die einzige Lösung, denn
+```ad-abstract
+title:Definition - Satz 1.1.1
+Es gibt genau ein Polynom $p(x)$ vom Grad $\leq n$, das die Interpolationsbedingungen erfüllt, nämlich $p_{n}(x)$
+```
+```ad-abstract
+title:Beweis
+collapse:
+Sei $p_{n}(x)$ ein Polynom vom Grad $\leq n$, welches die Interpolationsbedingung erfüllt. Sei nun $\tilde{p}_{n}(x)$ mit Grad $\leq n$ ein weiteres Polynom, das die Interpolationsbedingung erfüllt. $p_{n}(x)-\tilde{p}_{n}(x)$ wäre dann ein Polynom vom Grad $\leq n$ mit $n+1$ verschiedenen Nullstellen. $\tilde{p_{n}}$
+```
 ## Links
