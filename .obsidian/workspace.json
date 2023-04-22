@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,6 +260,7 @@
   },
   "active": "93560e835aebfa76",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
@@ -295,7 +295,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
-    "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
