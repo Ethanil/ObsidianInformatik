@@ -8,111 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b35766c5e1416378",
+            "id": "e337485732556814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1a8a6267f788fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87e1bba3b8cb7d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d661013ac0920f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93560e835aebfa76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ac32f8089b7308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c08f49c0cf18393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60448784468ef146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,8 +166,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93560e835aebfa76",
+  "active": "e337485732556814",
   "lastOpenFiles": [
+    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Interpolationsformel von Lagrange.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
@@ -267,7 +180,6 @@
     "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_04/Untitled.md",
     "Informatik/Semester_04/cer/Differentialgleichungen",
@@ -292,10 +204,6 @@
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Konvexe Mengen, Schrankensatz.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Partielle Ableitungen/Jacobi-Matrix.md",
     "Informatik/Semester_02/Mathe_2/Extremwertprobleme in mehreren Variablen/Extremwertprobleme in mehreren Variablen.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
-    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
-    "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
