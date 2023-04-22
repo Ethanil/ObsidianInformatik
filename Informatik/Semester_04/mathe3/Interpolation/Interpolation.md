@@ -6,6 +6,5 @@ Wir suchen eine einfache Ersatzfunktion $\Phi(x) = y_{i}, i=0,\dotso n$, wobei d
 Wir können dafür verschiedene Verfahren verwenden:
 ![[Polynominterpolation]]
 
-![[Interpolationsformel von Lagrange]]
 
 ## Links

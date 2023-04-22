@@ -2,7 +2,7 @@
   "dayCounts": {
     "2023/3/19": 299,
     "2023/3/20": 171,
-    "2023/3/22": 184
+    "2023/3/22": 311
   },
   "todaysWordCount": {
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md": {
@@ -19,11 +19,15 @@
     },
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md": {
       "initial": 4,
-      "current": 40
+      "current": 37
     },
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md": {
       "initial": 4,
-      "current": 34
+      "current": 146
+    },
+    "Informatik/Semester_04/mathe3/Kondition.md": {
+      "initial": 4,
+      "current": 22
     }
   }
 }
