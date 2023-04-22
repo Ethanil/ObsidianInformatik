@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invert",
+                "query": "monoton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,10 +259,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "93560e835aebfa76",
   "lastOpenFiles": [
-    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
@@ -295,7 +296,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Banachscher Fixpunktsatz.md",
     "Informatik/Semester_02/Mathe_2/vollständiger Vektorraum.md",
-    "Informatik/Semester_01/Mathe_1/Modulo Rechenregeln.md",
     "Informatik/Semester_03/Modellierung, Spezifikation und Semantik/Vorlesungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
