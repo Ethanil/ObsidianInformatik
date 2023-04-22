@@ -29,5 +29,15 @@ y_{n} \\
 \end{pmatrix}$$
 Dieser Ansatz ist aber sehr langsam ($O(n^{3})$) und schlecht [[Kondition|konditioniert]].
 ## Interpolationsformel von Lagrange
-
+Wir wählen folgendes Vorgehen:
+$$\begin{align}
+p_{n}(x)=\sum^{n}_{k=0}y_{k}L_{k,n}(x)&\text{mit}&L_{k,n}(x)=\prod^{n}_{\substack{j=0\\ j \neq k}}\frac{x-x_{j}}{x_{k}-x_{j}}
+\end{align}$$
+Die Polynome $L_{k,n}(x)$ sind so gewählt, dass gilt
+$$\begin{align}
+L_{k,n}(x_{i})\begin{cases}
+1& &\text{falls }k=1 \\
+0&&\text{sonst.}
+\end{cases}
+\end{align}$$
 ## Links
