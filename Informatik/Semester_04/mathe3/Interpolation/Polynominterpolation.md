@@ -73,5 +73,16 @@ $$\begin{align}
 &&&\vdots
 \end{align}$$
 Man bezeichnet $f_{[x_{0},\dotso,x_{i}]}:=\gamma_{i}$ als die $i$-te Differenz zu den Stützstellen $x_{0},\dotso,x_{i}$, wobei $f_{[x_{0}]}=\gamma_{0}=y_{0}$.
+Die allgemeine Rekursion lautet
+$$\begin{align}
+j=0,\dotso,n:f_{[x_{j}]}=y_{j}\\
+k=1,\dotso,n:j=0,\dotso,n-k:f_{[x_{j},\dotso,x_{j+k}]}=\frac{f_{[k_{j+1},\dotso,x_{j+k}]}-f_{[x_{j},\dotso,x_{j+k-1}]}}{x_{j+k}-x_{j}}
+\end{align}$$
+```ad-abstract
+title:Definition - Newtonsches Interpolationspolynom
+$$p_{n}(x)=\gamma_{0}+\sum^{n}_{i=1}\gamma_{i}(x-x_{0})\dotso(x-x_{i-1})=f_{[x_{0},\dotso,x_{i}]}$$
+```
+
+## Fehlerabschätzung
 
 ## Links
