@@ -89,5 +89,6 @@ Sei $f$ $(n+1)$-mal stetig differenzierbar, dann existiert zu jedem $x \in[a,b]$
 $$f(x)-p_{n}(x)=f^{(n+1)}\frac{\xi_{x}}{(n+1)!}(x-x_{0})\dotso(x-x_{n})$$
 Wir können also folgende Abschätzung machen:
 $$\substack{max\\ x \in[a,b]}|f(x)-p_{n}(x)|\leq\substack{max\\ x \in[a,b]}\frac{|f^{(n+1)}(x)|}{(n+1)!}\substack{max\\ x \in[a,b]}|\prod^{n}_{i=0}(x-x_{i})|\leq \substack{max\\ x \in[a,b]}\frac{|f^{(n+1)}(x)|}{(n+1)!}(b-a)^{n+1}$$
-
+Wir können den Fehler nicht minimieren, indem wir die Anzahl der Stützstellen erhöhen, aber indem wir als Stützstellen Tschebyschevsche-Abszissen wählen:
+$$x_{i}=\frac{b-a}{2}\cos(\frac{2i+1}{n+1}\frac{\pi}{2})+ \frac{b+a}{2},i=0,\dotso,n$$
 ## Links
