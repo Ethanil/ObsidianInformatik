@@ -84,5 +84,5 @@ $$p_{n}(x)=\gamma_{0}+\sum^{n}_{i=1}\gamma_{i}(x-x_{0})\dotso(x-x_{i-1})=f_{[x_{
 ```
 
 ## Fehlerabschätzung
-
+Wir wollen abschätzen wie gut unser Interpolationspolynom $p_{n}$ auf $[a,b]$ mit $f$ übereinstimmt
 ## Links
