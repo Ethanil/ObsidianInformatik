@@ -53,6 +53,6 @@ Es gibt genau ein Polynom $p(x)$ vom Grad $\leq n$, das die Interpolationsbeding
 ```ad-abstract
 title:Beweis
 collapse:
-Sei $p_{n}(x)$ ein Polynom vom Grad $\leq n$, welches die Interpolationsbedingung erfüllt. Sei nun $\tilde{p}_{n}(x)$ mit Grad $\leq n$ ein weiteres Polynom, das die Interpolationsbedingung erfüllt. $p_{n}(x)-\tilde{p}_{n}(x)$ wäre dann ein Polynom vom Grad $\leq n$ mit $n+1$ verschiedenen Nullstellen. $\tilde{p_{n}}$
+Sei $p_{n}(x)$ ein Polynom vom Grad $\leq n$, welches die Interpolationsbedingung erfüllt. Sei nun $\tilde{p}_{n}(x)$ mit Grad $\leq n$ ein weiteres Polynom, das die Interpolationsbedingung erfüllt. $p_{n}(x)-\tilde{p}_{n}(x)$ wäre dann ein Polynom vom Grad $\leq n$ mit $n+1$ verschiedenen Nullstellen. $\tilde{p}_{n}(x)$ muss also identisch 0 sein.
 ```
 ## Links
