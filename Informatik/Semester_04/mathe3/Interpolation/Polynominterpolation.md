@@ -84,5 +84,10 @@ $$p_{n}(x)=\gamma_{0}+\sum^{n}_{i=1}\gamma_{i}(x-x_{0})\dotso(x-x_{i-1})=f_{[x_{
 ```
 
 ## Fehlerabschätzung
-Wir wollen abschätzen wie gut unser Interpolationspolynom $p_{n}$ auf $[a,b]$ mit $f$ übereinstimmt
+Wir wollen abschätzen wie gut unser Interpolationspolynom $p_{n}$ auf $[a,b]$ mit $f$ übereinstimmt.
+Sei $f$ $(n+1)$-mal stetig differenzierbar, dann existiert zu jedem $x \in[a,b]$ ein $\xi_{x}\in[a,b]$ mit
+$$f(x)-p_{n}(x)=f^{(n+1)}\frac{\xi_{x}}{(n+1)!}(x-x_{0})\dotso(x-x_{n})$$
+Wir können also folgende Abschätzung machen:
+$$\substack{max\\ x \in[a,b]}|f(x)-p_{n}(x)|\leq\substack{max\\ x \in[a,b]}\frac{|f^{(n+1)}(x)|}{(n+1)!}\substack{max\\ x \in[a,b]}|\prod^{n}_{i=0}(x-x_{i})|\leq \substack{max\\ x \in[a,b]}\frac{|f^{(n+1)}(x)|}{(n+1)!}(b-a)^{n+1}$$
+
 ## Links
