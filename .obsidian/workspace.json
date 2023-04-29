@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,8 +182,8 @@
   },
   "active": "c808a4e5df6d4ede",
   "lastOpenFiles": [
-    "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
     "Informatik/Semester_02/Mathe_2/Folge.md",
