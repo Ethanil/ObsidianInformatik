@@ -21,6 +21,20 @@ s(x_{i})=y_{i},&&i=0,\dotso,n
 ## Interpolation mit linearen Splines
 Ein linearer Spline ist stetig und auf jedem Intervall ein Polynom vom Grad $\leq 1$. Die Interpolationsbedingung fordert daher $s_{i}(x_{i})=y_{i},s_{i}(x_{i+1})=y_{i+1}$ und legen $s_{i}$ somit eindeutig fest zu
 $$\begin{align}
-s(x)=s_{i}(x)=\frac{x_{i+1}-x}{x_{i+1}-x_{i}}y_{i}+x-x_{i}/x_
+s(x)=s_{i}(x)=\frac{x_{i+1}-x}{x_{i+1}-x_{i}}y_{i}+\frac{x-x_{i}}{x_{i+1}-x_{i}}y_{i+1}&&\forall x \in [x_{i},x_{i+1}]
 \end{align}$$
+Wir definieren eine Dachfunktion, die für alle Werte links von dem Punkt links von uns (also ab $x_{i-2}$) und alle Werte rechts von dem Punkt rechts von uns (also ab $x_{i+2})$ den Wert $0$ festlegt
+$$\begin{align}
+\varphi_{i}(x)=\begin{cases}
+0&&\text{falls }x<x_{i} \\
+\frac{x-x_{i-1}}{x_{i}-x_{i-1}}&&\text{falls }x \in[x_{i-1},x_{i}] \\
+\frac{x_{i+1}-x}{x_{i+1}-x_{i}}&&\text{falls }x \in[x_{i},x_{i+1}] \\
+0&&\text{falls }x>x_{i+1}
+\end{cases}
+\end{align}$$
+Damit erhalten wir dann folgende Darstellung
+$$\begin{align}
+s(x)=\sum^{n}_{i=0}y_{i}\varphi_{i}(x),&&x \in[a,b]
+\end{align}$$
+
 ## Links
