@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "konvergenz",
+                "query": "taylor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c808a4e5df6d4ede",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
