@@ -4,12 +4,13 @@
     "2023/3/20": 171,
     "2023/3/22": 311,
     "2023/3/23": 221,
-    "2023/3/24": 471
+    "2023/3/24": 471,
+    "2023/3/29": 256
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md": {
-      "initial": 368,
-      "current": 839
+    "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md": {
+      "initial": 4,
+      "current": 260
     }
   }
 }

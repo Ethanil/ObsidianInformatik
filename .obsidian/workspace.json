@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c808a4e5df6d4ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e337485732556814",
+  "active": "c808a4e5df6d4ede",
   "lastOpenFiles": [
+    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
     "Informatik/Semester_02/Mathe_2/Folge.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
-    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_04/mathe3/Kondition.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolationsformel von Lagrange.md",
     "Informatik/Semester_04/mathe3/Interpolation",
@@ -203,7 +218,6 @@
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Totale Differenzierbarkeit.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
-    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Mittelwertsatz.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
