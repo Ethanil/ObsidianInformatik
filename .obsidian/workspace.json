@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +182,7 @@
   },
   "active": "c808a4e5df6d4ede",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
@@ -218,7 +218,6 @@
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Partielle Ableitungen/Partielle Ableitungen.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Totale Differenzierbarkeit/Totale Differenzierbarkeit.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Taylorreihe.md",
-    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
