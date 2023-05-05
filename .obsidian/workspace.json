@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18974359ce883cc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e10785b517e41319",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -180,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c808a4e5df6d4ede",
+  "active": "18974359ce883cc7",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
