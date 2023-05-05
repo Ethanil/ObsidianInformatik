@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,11 +202,12 @@
   },
   "active": "e337485732556814",
   "lastOpenFiles": [
+    "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
-    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Konvergenz in normierten Räumen.md",
     "Informatik/Semester_02/Mathe_2/Folge.md",
     "Informatik/Semester_04/mathe3/Kondition.md",
@@ -216,7 +217,6 @@
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
