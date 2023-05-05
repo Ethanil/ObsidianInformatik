@@ -37,14 +37,16 @@
             "id": "18974359ce883cc7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18974359ce883cc7",
+  "active": "e337485732556814",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
