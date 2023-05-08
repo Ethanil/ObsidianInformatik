@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stetig diff",
+                "query": "picard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e337485732556814",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
     "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
