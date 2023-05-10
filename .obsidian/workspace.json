@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "38eb6e881eb5c71a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "18974359ce883cc7",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c808a4e5df6d4ede",
+  "active": "38eb6e881eb5c71a",
   "lastOpenFiles": [
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
