@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +214,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c808a4e5df6d4ede",
+  "active": "18974359ce883cc7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_04/mathe3/Kondition.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
@@ -230,7 +231,6 @@
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
