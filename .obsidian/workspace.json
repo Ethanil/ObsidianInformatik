@@ -68,9 +68,19 @@
                 "currentVersion": "1.3.4"
               }
             }
+          },
+          {
+            "id": "67b269bb050d3d29",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +235,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d7831f9180fc25f",
+  "active": "67b269bb050d3d29",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
