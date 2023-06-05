@@ -73,9 +73,12 @@
             "id": "67b269bb050d3d29",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -134,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
+                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,12 +239,14 @@
   },
   "active": "67b269bb050d3d29",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_01/Mathe_1/Definitheit.md",
     "Informatik/Semester_04/mathe3/Kondition.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Höhere Ableitungen.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
@@ -253,8 +257,6 @@
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Der Ableitungsbegriff.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Stetigkeit.md",
     "Informatik/Semester_04/Untitled.md",
     "Informatik/Semester_04/cer/Differentialgleichungen",
