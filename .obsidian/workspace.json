@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beweis",
+                "query": "integrie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,14 +241,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "4d7831f9180fc25f",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
+    "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_01/Mathe_1/Beweis durch Induktion.md",
     "Informatik/Semester_01/Mathe_1/Beweis (direkter).md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/autonome Differentialgleichung.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_01/Mathe_1/Definitheit.md",
@@ -273,10 +276,8 @@
     "Informatik/Semester_04/Infman",
     "Informatik/Semester_04",
     "Informatik/Semester_03/Untitled",
-    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Stammfunktionen und der Hauptsatz.md",
     "Informatik/Semester_02/Mathe_2/Integration in R/Definition des bestimmten Integrals.md",
-    "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
