@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_04/cer/Differentialgleichungen/DGL Lösen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "100123009e1fd600",
+  "active": "c808a4e5df6d4ede",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Integration in R/Rechenregeln für Integrale.md",
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
