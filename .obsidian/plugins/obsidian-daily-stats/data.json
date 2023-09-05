@@ -9,7 +9,7 @@
     "2023/4/3": 0,
     "2023/4/10": 0,
     "2023/5/8": 0,
-    "2023/8/5": 474
+    "2023/8/5": 658
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Daten.md": {
@@ -18,7 +18,7 @@
     },
     "Informatik/Semester_04/Infman/Information.md": {
       "initial": 3,
-      "current": 34
+      "current": 35
     },
     "Informatik/Semester_04/Infman/Wissen.md": {
       "initial": 3,
@@ -58,7 +58,19 @@
     },
     "Informatik/Semester_04/Infman/Datenbankentwurf.md": {
       "initial": 4,
-      "current": 52
+      "current": 71
+    },
+    "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md": {
+      "initial": 5,
+      "current": 104
+    },
+    "Informatik/Semester_04/Infman/ER-Diagramm.md": {
+      "initial": 6,
+      "current": 69
+    },
+    "Informatik/Semester_04/Infman/UML-Klassendiagramm.md": {
+      "initial": 6,
+      "current": 8
     }
   }
 }
