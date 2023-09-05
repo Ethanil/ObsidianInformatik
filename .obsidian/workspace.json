@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Datenzugang.md",
+                "file": "Informatik/Semester_04/Infman/Datenbankentwurf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Datenzugang.md",
+                "file": "Informatik/Semester_04/Infman/Datenbankentwurf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +176,17 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
+    "Informatik/Semester_04/Infman/Datenbankentwurf.md",
     "Informatik/Semester_04/Infman/Informationssystem.md",
+    "Informatik/Semester_04/Infman/Konsistenzerhaltung.md",
+    "Informatik/Semester_04/Infman/Informationserhalt.md",
+    "Informatik/Semester_04/Infman/Information.md",
     "Informatik/Semester_04/Infman/Datenzugang.md",
     "Informatik/Semester_04/Infman/Strukturierte Daten.md",
     "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
-    "Informatik/Semester_04/Infman/Konsistenzerhaltung.md",
-    "Informatik/Semester_04/Infman/Informationserhalt.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Wissen.md",
-    "Informatik/Semester_04/Infman/Information.md",
     "Informatik/Semester_04/Infman/Daten.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
@@ -200,8 +202,6 @@
     "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_01/Mathe_1/Beweis durch Induktion.md",
     "Informatik/Semester_01/Mathe_1/Beweis (direkter).md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/explizite Differentialgleichung.md",
-    "Informatik/Semester_04/cer/Differentialgleichungen/Differentialgleichungen allgemein.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",

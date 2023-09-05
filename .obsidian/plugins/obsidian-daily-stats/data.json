@@ -9,7 +9,7 @@
     "2023/4/3": 0,
     "2023/4/10": 0,
     "2023/5/8": 0,
-    "2023/8/5": 377
+    "2023/8/5": 474
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Daten.md": {
@@ -34,7 +34,7 @@
     },
     "Informatik/Semester_04/Infman/Informationssystem.md": {
       "initial": 3,
-      "current": 142
+      "current": 141
     },
     "Informatik/Semester_04/Infman/Informationserhalt.md": {
       "initial": 4,
@@ -46,7 +46,19 @@
     },
     "Informatik/Semester_04/Infman/Datenzugang.md": {
       "initial": 4,
-      "current": 37
+      "current": 83
+    },
+    "Informatik/Semester_04/Infman/Relationale Datenbanken.md": {
+      "initial": 4,
+      "current": 7
+    },
+    "Informatik/Semester_04/Infman/Logisches Datenmodell.md": {
+      "initial": 6,
+      "current": 7
+    },
+    "Informatik/Semester_04/Infman/Datenbankentwurf.md": {
+      "initial": 4,
+      "current": 52
     }
   }
 }
