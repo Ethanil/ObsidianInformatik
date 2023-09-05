@@ -73,6 +73,16 @@
             }
           },
           {
+            "id": "df9fc934c288aa2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "100123009e1fd600",
             "type": "leaf",
             "state": {
@@ -96,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d7831f9180fc25f",
+  "active": "df9fc934c288aa2a",
   "lastOpenFiles": [
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
     "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Polardarstellung komplexer Zahlen.md",
