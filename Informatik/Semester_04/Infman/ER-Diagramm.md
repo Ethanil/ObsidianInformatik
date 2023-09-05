@@ -11,6 +11,7 @@ Sie legen den Fokus auf statische Eigenschaften von Daten und haben im Gegensatz
 Sie haben eine einfache/intuitive Darstellung und ermöglichen so die Diskussion mit Endanwendern übnner Anforderungen
 
 ## Graphische Notation (nach Chen) - Chen-Notation
-Entitätstyp 
+### Entitätstype
+Wird mit einem blauen Rechteck notiert
 
 ## Links
