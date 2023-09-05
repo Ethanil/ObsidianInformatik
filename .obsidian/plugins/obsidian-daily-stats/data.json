@@ -9,7 +9,7 @@
     "2023/4/3": 0,
     "2023/4/10": 0,
     "2023/5/8": 0,
-    "2023/8/5": 98
+    "2023/8/5": 182
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Daten.md": {
@@ -23,6 +23,14 @@
     "Informatik/Semester_04/Infman/Wissen.md": {
       "initial": 3,
       "current": 37
+    },
+    "Informatik/Semester_04/Infman/Strukturierte Daten.md": {
+      "initial": 5,
+      "current": 89
+    },
+    "Informatik/Semester_04/Infman/Natural Language Processing.md": {
+      "initial": 6,
+      "current": 6
     }
   }
 }
