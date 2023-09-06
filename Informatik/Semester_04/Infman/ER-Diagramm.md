@@ -13,5 +13,5 @@ Sie haben eine einfache/intuitive Darstellung und ermöglichen so die Diskussion
 ## Graphische Notation (nach Chen) - Chen-Notation
 ### Entitätstype
 Wird mit einem blauen Rechteck notiert
-
+Ist der gemeinsame Typ aller Instanzen eines Typs - Vergleiche Entität: Ein individuell identifizierbares Objekt
 ## Links

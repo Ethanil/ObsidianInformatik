@@ -9,68 +9,13 @@
     "2023/4/3": 0,
     "2023/4/10": 0,
     "2023/5/8": 0,
-    "2023/8/5": 664
+    "2023/8/5": 664,
+    "2023/8/7": 13
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Infman/Daten.md": {
-      "initial": 8,
-      "current": 41
-    },
-    "Informatik/Semester_04/Infman/Information.md": {
-      "initial": 3,
-      "current": 35
-    },
-    "Informatik/Semester_04/Infman/Wissen.md": {
-      "initial": 3,
-      "current": 37
-    },
-    "Informatik/Semester_04/Infman/Strukturierte Daten.md": {
-      "initial": 5,
-      "current": 89
-    },
-    "Informatik/Semester_04/Infman/Natural Language Processing.md": {
-      "initial": 6,
-      "current": 6
-    },
-    "Informatik/Semester_04/Infman/Informationssystem.md": {
-      "initial": 3,
-      "current": 141
-    },
-    "Informatik/Semester_04/Infman/Informationserhalt.md": {
-      "initial": 4,
-      "current": 17
-    },
-    "Informatik/Semester_04/Infman/Konsistenzerhaltung.md": {
-      "initial": 4,
-      "current": 14
-    },
-    "Informatik/Semester_04/Infman/Datenzugang.md": {
-      "initial": 4,
-      "current": 83
-    },
-    "Informatik/Semester_04/Infman/Relationale Datenbanken.md": {
-      "initial": 4,
-      "current": 7
-    },
-    "Informatik/Semester_04/Infman/Logisches Datenmodell.md": {
-      "initial": 6,
-      "current": 7
-    },
-    "Informatik/Semester_04/Infman/Datenbankentwurf.md": {
-      "initial": 4,
-      "current": 71
-    },
-    "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md": {
-      "initial": 5,
-      "current": 104
-    },
     "Informatik/Semester_04/Infman/ER-Diagramm.md": {
-      "initial": 6,
-      "current": 75
-    },
-    "Informatik/Semester_04/Infman/UML-Klassendiagramm.md": {
-      "initial": 6,
-      "current": 8
+      "initial": 76,
+      "current": 89
     }
   }
 }
