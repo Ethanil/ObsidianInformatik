@@ -21,6 +21,9 @@ Die Vereinigung $R \cup S$ ist die Menge aller Tupel, die in $R$ *oder* $S$ enth
 Die Mengendifferenz $R - S$ ist die Menge aller Tupel, die in $R$, aber nicht in $S$ enthalten sind.
 ### $\div:$ Relationale Division
 $t \in R \div S$, falls für alle $s \in S$ ein $r \in R$ existiert, so dass $r(S)=s(S)$ und $r(R-S) = t$ gilt.
+
+### $\upchi:$ Gruppierung
+Die Gruppierung $\upchi_{\alpha, \text{AggregatFkt}(\alpha)}$ gruppiert alle Zeilen nach den Spalten $\alpha$ bzw erschafft neue Aggregat-Spalten nach der [[Anfragesprache SQL#Aggregation und Gruppierung|Aggregatfunktion]].
 ### $\bowtie:$ Natürlicher und Allgemeiner Join (Verbund)
 Der natürliche Join $L \bowtie R$ ist die Menge aller Tupel, die gleiche Einträge in den gemeinsamen Spalten von $L$ und $R$ besitzen, wobei die gemeinsamen Spalten verschmolzen werden.
 Der Allgemeine Join $L \bowtie_{P}R$ ist die Menge aller Tupel, für die die Bedingung $P$ erfüllt ist. Die Menge der Spalten der Ausgabe ist gleich der Summer der Menge der Spalten beider Eingaben.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
+                "file": "Informatik/Semester_04/Infman/Data Definition Language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
+                "file": "Informatik/Semester_04/Infman/Data Definition Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md"
+                "file": "Informatik/Semester_04/Infman/Data Definition Language.md"
               }
             }
           },
@@ -177,9 +177,14 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Data Manipulation Language.md",
+    "Informatik/Semester_04/Infman/Data Query Language.md",
+    "Informatik/Semester_04/Infman/Data Control Language.md",
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
-    "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md",
+    "Informatik/Semester_04/Infman/Data Definition Language.md",
+    "Informatik/Semester_04/Infman/Daten.md",
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+    "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md",
     "Informatik/Semester_04/Infman/ER-Diagramm.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
@@ -198,11 +203,6 @@
     "Excalidraw/ER-Diagramm 07.09.2023 01-02-35.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-00-43.excalidraw.md",
     "Informatik/Semester_04/Infman/UML-Klassendiagramm.md",
-    "Informatik/Semester_04/Infman/Informationssystem.md",
-    "Informatik/Semester_04/Infman/Strukturierte Daten.md",
-    "Informatik/Semester_03/Architekturen und Entwurf von Rechnersystemen/Bluespec.md",
-    "Informatik/Semester_04/Infman/Wissen.md",
-    "Informatik/Semester_04/Infman/Daten.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",
