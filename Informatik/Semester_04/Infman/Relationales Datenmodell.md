@@ -42,4 +42,9 @@ Eine Attributsmenge $K'$ eines Schemas $S$ heißt Fremdschlüssel bezüglich des
 
 #### Referenzielle Integrität
 Werte für $K'$ in $s(S)$ nehmen nur Werte an für die in $R$ eine Entsprechung existiert
+## Abbildung [[ER-Diagramm|ER-Modell]] in Relationales Modell
+### Regel 1: Abbildung von Entitätstypen
+Für jeden Entitätstypen wird ein eigenes Schema definiert und wir übernehmen den Schlüssel des Entitätstypen als PK (bzw minimieren ihn zuerst)
+### Regel 2: Abbildung von Beziehungstypen
+Für jeden Beziehungstyp wird ein eigenes Schema erzeugt wobei wir die Primärschlüssel aller beteiligter Schemata
 ## Links
