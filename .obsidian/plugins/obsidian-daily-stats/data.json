@@ -10,32 +10,21 @@
     "2023/4/10": 0,
     "2023/5/8": 0,
     "2023/8/5": 664,
-    "2023/8/7": 1680
+    "2023/8/7": 1728,
+    "2023/8/8": 173
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Infman/ER-Diagramm.md": {
-      "initial": 76,
-      "current": 458
+    "Informatik/Semester_04/Infman/Data Definition Language.md": {
+      "initial": 404,
+      "current": 488
     },
-    "Informatik/Semester_04/Infman/Relationales Datenmodell.md": {
-      "initial": 4,
-      "current": 470
-    },
-    "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md": {
-      "initial": 5,
-      "current": 448
-    },
-    "Informatik/Semester_04/Infman/Anfragesprache SQL.md": {
-      "initial": 5,
-      "current": 45
+    "Informatik/Semester_04/Infman/Data Manipulation Language.md": {
+      "initial": 6,
+      "current": 94
     },
     "Informatik/Semester_04/Infman/Data Query Language.md": {
       "initial": 457,
-      "current": 457
-    },
-    "Informatik/Semester_04/Infman/Data Definition Language.md": {
-      "initial": 6,
-      "current": 355
+      "current": 458
     }
   }
 }

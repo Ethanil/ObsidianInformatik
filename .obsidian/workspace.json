@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Definition Language.md",
+                "file": "Informatik/Semester_04/Infman/Data Query Language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Definition Language.md",
+                "file": "Informatik/Semester_04/Infman/Data Query Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Definition Language.md"
+                "file": "Informatik/Semester_04/Infman/Data Query Language.md"
               }
             }
           },
@@ -177,12 +177,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Data Query Language.md",
-    "Informatik/Semester_04/Infman/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Data Manipulation Language.md",
-    "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
-    "Informatik/Semester_04/Infman/Natural Language Processing.md",
+    "Informatik/Semester_04/Infman/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
+    "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+    "Informatik/Semester_04/Infman/Data Query Language.md",
+    "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Data Control Language.md",
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
     "Informatik/Semester_04/Infman/Daten.md",

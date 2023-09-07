@@ -43,6 +43,20 @@ create table ProfessorIn
 );
 ```
 bei einem zusammengesetztem PK kann nur die 2. Variante verwendet werden
+## Automatisch inkrementierende PKs
+mithilfe von `create sequence` können wir automatisch inkrementierende Primärschlüssel modellieren
+```sql
+create sequence PersNrSeq;
+create sequence PersNrSeq start with 1 increment by 1;
+```
+alternativ direkt bei Erstellung
+```sql
+create table ProfessorIn(
+PersNr serial primary key,
+Name varchar(30),
+Rang char(2)
+);
+```
 ## Entfernen einer Tabelle
 Um eine Tabelle zu entfernen, verwenden wir `drop table`
 ```SQL
@@ -100,9 +114,34 @@ Name varchar(30) not null,
 TelefonNr integer unique
 );
 ```
-Es kann mehrere unique 
+Es kann mehrere unique Spalten geben.
 ```ad-caution
 title:Vorsicht
 Unique erlaubt einen einzigen null wert, anders als PK
 ```
+## [[Relationales Datenmodell#Referenzielle Integrität|Referenzielle Integrität]]
+In SQL kann referentielle Integrität mittels `foreign key` modeliert werden
+```sql
+create table ProfersorIn(
+PersNr integer primary key,
+...
+);
+create table Vorlesung(
+VorlNr integer priamry key,
+PersNr integer not null,
+foreign key(PersNr) references ProfessorIn(PersNr)
+);
+```
+### automatisches weiterleiten von Änderungen
+mittels `on delete` bzw `on update` können Änderungen beim FK verarbeitet werden
+```sql
+create table Vorlesung(
+VorlNr integer priamry key,
+PersNr integer not null,
+foreign key(PersNr) references ProfessorIn(PersNr)
+[on delete {set null | cascade | restrict}]
+[on update {set null | cascade | restrict}]
+);
+```
+
 ## Links
