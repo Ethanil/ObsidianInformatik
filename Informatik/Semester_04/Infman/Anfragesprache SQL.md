@@ -32,6 +32,7 @@ where Prädikat
  where Prädikat
  order by Attribut1 asc/desc
  ```
+
  ## Joins und Mengenoperationen
  ### Kartesisches Produkt
  Wenn wir mehrere Tabellen angeben wird von diesen das [[kartesisches Produkt]] gebildet
@@ -66,8 +67,8 @@ left outer join hören h on s.MatrNr = h.MatrNr
 left outer join Vorlesung v on h.VorlNr = v.VorlNr
 ```
 ### Mengenoperationen
-#### Union/Union all
-[[Vereinigung]] ohne/mit Duplikaten:
+#### union (all)
+[[Vereinigung]] ohne(mit) Duplikaten:
 Gebe alle Namen aller AssistentInnen und ProfessorInnen ohne Duplikate aus
 ```SQL
 select Name
@@ -76,5 +77,33 @@ union
 select Name
 from ProfessorIn
 ```
-#### interse
+#### intersect (all)
+[[Schnittmenge]] ohne(mit) Duplikate:
+Gebe die Namen aller AssistentInnen aus, die einen gemeinsamen Namen mit mindestens einer ProfessorIn hat mit Duplikaten aus:
+```SQL
+select Name
+from AssistentIn
+intersect all
+select Name
+from ProfessorIn
+```
+#### minus/except (all)
+[[Mengendifferenz]] ohne(mit) Duplikaten:
+Gebe die NAmen aller AssistentenInnen aus, die keinen gemeinsamen Namen mit einer ProfessorIn haben ohne Duplikate:
+```SQL
+select Name
+from AssistentIn
+minus
+select Name
+from ProfessorIn
+```
+## Aggregation und Gruppierung
+Mithilfe von Aggregation fasst man große Ergebnismengen zusammen. Man verwendet dabei Aggregationsfunktionen:
+- `sum`
+- `avg`
+- `max`
+- `min`
+- `count(distinct)`
+Man kann optional noch Zeilen 
+
 ## Links
