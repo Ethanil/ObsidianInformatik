@@ -53,4 +53,6 @@ Alle Schemata mit gleichem PK können zusammengefasst werden.
 title:Ausnahme
 Schemata mit dünn besetzten Schemata sollten auch bei gleichem PK nicht zusammengefasst werden, da wir ansonsten viele `null` Einträge haben!
 ```
+### Regel 4: Schwache Entitäten modelieren
+Für jede schwache Entität wird ein eigenes Schema definiert, wobei wir den Schlüssel als PK übernehmen und den PK der "erzeugenden" Entität als FK und PK hinzufügen.
 ## Links

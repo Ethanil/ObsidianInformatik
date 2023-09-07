@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
+                "file": "Informatik/Semester_04/Infman/ER-Diagramm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
+                "file": "Informatik/Semester_04/Infman/ER-Diagramm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
     "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md",
@@ -185,7 +186,6 @@
     "Informatik/Semester_04/Infman/Datenzugang.md",
     "Informatik/Semester_04/Infman/Information.md",
     "Informatik/Semester_04/Infman/ER-Diagramm.md",
-    "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-14-56.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-10-56.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-09-19.excalidraw.md",
