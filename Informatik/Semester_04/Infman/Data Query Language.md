@@ -118,4 +118,62 @@ group by Name, PersNr
 having avg(sws) > 3;
 ```
 ## Unteranfragen
+Unteranfragen sind an allen Stellen möglich:
+- Select-Klausel
+- From-Klausel
+- Where-Klausel
+- Group-by-Klausel
+- Having-Klausel
+ProfessorInnen und deren Lehrbelastung
+```sql
+select PersNr, (select sum(v.SWS) 
+				from Vorlesung v
+				where v.gelesen = p.PersNr)
+from ProfessorIn p;
+```
+Studierende mit mehr als zwei Vorlesungen
+```sql
+select stud.MatrNr, stud.Name, stud.VorlAnzahl
+from (select s.MatrNr, s.Name, sum(*) as VorlAnzahl
+	 from StudentIn s, hören h
+	 where s.MatrNr = h.MatrNr
+	 group by s.MatrNr, s.Name) stud
+where stud.VorlAnzahl > 2;
+```
+Welche Prüfungen sind besser als durchschnittlich verlaufen
+```sql
+select *
+from prüfen
+where Note < (select avg(Note) from prüfen);
+```
+```ad-caution
+title:Achtung
+Hier muss die Unteranfrage einen skalaren Wert zum Vergleichen liefern
+```
+### Where Operatoren
+Bisher bekannte Operatoren können nur auf skalare Werte angewand werden. Damit man in der Where-Klausel auch mit ganzen Tabellen vergleichen kann benötigt man weitere
+- `exists T`: ergibt True, wenn `T` nicht leer ist
+- `s IN T`: ergibt True wenn `s` in `T` vorkommt
+- `s > ALL T`: ergibt True wenn `s` größer als jeder Wert in `T` ist
+- `s > ANY T`: ergibt True, wenn `s` größer als mindestens ein Wert in `T` ist
+## Relationale Division durch count-Aggregation
+[[Relationale Abfragesprachen#$ div $ Relationale Division|Relationale Division]] kann einfach durch eine count-Aggregation ausgedrückt werden
+```sql
+select h.MatrNr, count(*)
+from hören h, Vorlesung v
+where v.VorlNr = h.VorlNr and v.sws = 4
+group by h.MatrNr
+having count(*) = 
+(select count(*) from Vorlesung where sws = 4);
+```
+## Null-Werte
+Ein Null Wert ist ein Unbekannter bzw kein Wert. Durch Null-Einträge können sehr überraschende Anfrageergebnisse zustandekommen
+```ad-caution
+title:Achtung!
+Durch manche Anfrageauswertungen können auch null-Werte entstehen!
+```
+### Null in arithmetischen Ausdrücken
+Sobald ein Operand Null ist, ist das Ergebnis auch immer Null
+### Null in Filter Prädikaten (where/having)
+
 ## Links
