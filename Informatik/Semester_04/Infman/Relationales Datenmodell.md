@@ -16,6 +16,8 @@ Jedes Attribut in R hat einen eindeutigen Namen. Mithilfe von $dom$ ordnen wir e
 ### Relation r
 $r(R) \subseteq dom(A_{1}) \times dom(A_{2}) \times \dotso \times dom(A_{n})$
 
+### Tupel t
+$t \in r:$ Ein Tupel ist eine Abbildung $t: R \rightarrow \bigcup^{n}_{\{i=1\}}w \in D_{i}$ 
 ## Schlüssel
 Schlüssel müssen auch für Relationen definiert werden
 ### Superschlüssel
@@ -36,5 +38,8 @@ Ein Schlüsselkandidat, bzw Schlüssel ist ein minimaler Superschlüssel. Es kan
 Der Schlüsselkandidat, der für das Schema gewählt wird
 
 ### Fremdschlüssel
-Eine Attributsmenge $K'$ eines Schemas $S$ heißt Fremdschlüssel bezüglich des Schemas $R$, falls Referenz $\uprho(K')$ der Primärschlüsel von $R$ ist und refernzielle Integrität erfüll
+Eine Attributsmenge $K'$ eines Schemas $S$ heißt Fremdschlüssel bezüglich des Schemas $R$, falls Referenz $\uprho(K')$ der Primärschlüsel von $R$ ist und refernzielle Integrität erfüllt ist
+
+#### Referenzielle Integrität
+Werte für $K'$ in $s(S)$
 ## Links
