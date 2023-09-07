@@ -40,5 +40,41 @@ where Prädikat
  from Tabelle1, Tabelle2
  where Prädikat
  ```
- 
+ ### Joins
+ #### cross join
+ [[kartesisches Produkt]] genau wie oben nur andere syntax
+ #### join oder inner join
+ Um 2 Tabellen über ein spezifisches Attribut zu verbinden
+ Alle Studierenden, die in eine Vorlesung gehen:
+ ```SQL
+ select s.Name, v.Titel from StudentIn s
+ join hören h on s.MatrNr = h.MatrNr
+ join Vorlesung v on h.VorlNr = v.VorlNr 
+ ```
+Kann auch über das Kartesische Produkt modeliert werden:
+```SQL
+ select s.Name, v.Titel 
+ from StudentIn s, hören h,  Vorlesung v
+ where s.MatrNr = h.MatrNr and h.VorlNr = v.VorlNr 
+```
+ #### outer join
+ Um alle Spalten einer Tabelle zu behalten, auch wenn sie nicht mit dem Attribut der anderen matchen verwendet man einen outerjoin
+ Alle Studierenden, auch ohne Vorlesung:
+```SQL
+select s.Name, v.Titel from StudentIn s
+left outer join hören h on s.MatrNr = h.MatrNr
+left outer join Vorlesung v on h.VorlNr = v.VorlNr
+```
+### Mengenoperationen
+#### Union/Union all
+[[Vereinigung]] ohne/mit Duplikaten:
+Gebe alle Namen aller AssistentInnen und ProfessorInnen ohne Duplikate aus
+```SQL
+select Name
+from AssistentIn
+union
+select Name
+from ProfessorIn
+```
+#### interse
 ## Links
