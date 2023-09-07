@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +176,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/ER-Diagramm.md",
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+    "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
+    "Informatik/Semester_04/Infman/ER-Diagramm.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
@@ -201,7 +202,6 @@
     "Informatik/Semester_04/Infman/Wissen.md",
     "Informatik/Semester_04/Infman/Daten.md",
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
-    "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",

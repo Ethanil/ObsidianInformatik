@@ -1,0 +1,7 @@
+---
+aliases: 
+---
+# Anfragesprache SQL 
+
+
+## Links
