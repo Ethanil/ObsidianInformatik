@@ -32,7 +32,7 @@ Wie Natürliche bzw Allgemeine Joins, allerdings werden alle Einträge von $L$ b
 #### ⟗: Full Outer Join
 Wie Left Outer Join (bzw Right Outer Join) nur dass von der anderen Seite alle nicht verwendeten Einträge auch in die Ausgabe kommen.
 ### ⋉/⋊: Left/Right Semi-Join
-Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind. Außerdem 
+Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind. (nicht vergessen, das hier auch alle duplikate gelöscht werden, wie immer!) 
 ### $\uprho:$ Umbenennen
 Man kann sowohl Relationen($\rho_{\text{anderer Name}}(\text{Name})$) als auch Attribute($\rho_{A \leftarrow \text{Attribut1}, B \leftarrow \text{Attribut2}}$) umbennen.
 ## Links

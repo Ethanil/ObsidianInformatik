@@ -42,4 +42,67 @@ create table ProfessorIn
  primary key(PersNr)
 );
 ```
+bei einem zusammengesetztem PK kann nur die 2. Variante verwendet werden
+## Entfernen einer Tabelle
+Um eine Tabelle zu entfernen, verwenden wir `drop table`
+```SQL
+drop table (if exists) ProfessorIn (cascade)
+```
+`cascade` entfernt auch alle abhängigen Objekte dieser Tabelle.
+## Ändern einer Tabelle
+Mithilfe von `alter table` können wir eine existierende Tabelle berabeiten
+Attribut hinzufügen:
+```SQL
+alter table ProfessorIn add column Raum integer
+```
+PK hinzufügen:
+```SQL
+alter table ProfessorIn add constraint primary key(PersNr)
+```
+## Datenintegrität
+Beim hinzufügen von Spalten kann man diese mit Integritätsbedingungen belegen
+### not null
+Erzwingt, dass beim Einfügen von Tupeln der Attributwert angegeben werden muss
+```SQL
+create table ProfessorIn(
+PersNr integer primary key,
+Name varchar(30) not null,
+Rang char(2)
+);
+```
+PK's sind impliziert immer not null
+### default
+Ändert den default-Wert beim einfügen von `null` zum angegebenen Wert
+```sql
+create table AssistentIn(
+PersNr integer primary key,
+Name varchar(30) not null,
+Fachgebiet varchar(200) default 'Informatik'
+);
+```
+### check
+Durch eine check-Bedingung kann der Datenbereich eingegrenzt werden
+```sql
+create table Polygon(
+corner integer primary key,
+sides integer not null,
+name varchar(200)
+check (corner >= 4 and sides >= 4)
+);
+```
+In einer check-Bedingung können vollständige SQL-Anfragen angegeben werden.
+### unique
+Die Unique-Bedingung erzwingt Eindeutigkeit für alle Werte eines Attributs
+```sql
+create table ProfessorIn(
+PersNr integer primary key,
+Name varchar(30) not null,
+TelefonNr integer unique
+);
+```
+Es kann mehrere unique 
+```ad-caution
+title:Vorsicht
+Unique erlaubt einen einzigen null wert, anders als PK
+```
 ## Links
