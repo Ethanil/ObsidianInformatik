@@ -38,8 +38,8 @@ Ein Schlüsselkandidat, bzw Schlüssel ist ein minimaler Superschlüssel. Es kan
 Der Schlüsselkandidat, der für das Schema gewählt wird
 
 ### Fremdschlüssel
-Eine Attributsmenge $K'$ eines Schemas $S$ heißt Fremdschlüssel bezüglich des Schemas $R$, falls Referenz $\uprho(K')$ der Primärschlüsel von $R$ ist und refernzielle Integrität erfüllt ist
+Eine Attributsmenge $K'$ eines Schemas $S$ heißt Fremdschlüssel bezüglich des Schemas $R$, falls Referenz $\uprho(K')$ der Primärschlüsel von $R$ ist und referenzielle Integrität erfüllt ist
 
 #### Referenzielle Integrität
-Werte für $K'$ in $s(S)$
+Werte für $K'$ in $s(S)$ nehmen nur Werte an für die in $R$ eine Entsprechung existiert
 ## Links
