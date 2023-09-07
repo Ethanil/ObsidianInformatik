@@ -46,7 +46,9 @@ Wird mit einem 6-eck in dem "is-a" steht notiert, Untertypen zeigen mit einem Pf
 ![[ER-Diagramm 07.09.2023 01-14-56.excalidraw|300]]
 Damit können gemeinsame Attribute mehrerer Entitäten in einem Obertypen zusammengefasst werden. Diese Attribute werden also an die Untertypen vererbt.
 
-### Ag
+### Aggregation (Teil-Ganzes Beziehung)
+Wird wie ein Beziehungstyp mit einer Raute notiert, wobei der Typ eine "part-of" Beziehung ist.
+Beschreibt Teile aus denen ein Entitätstype besteht. Bspw das Fahrrad das aus Rädern und einem Rahmen besteht, die wiederum aus Entitätstypen bestehen.
 ## min-max-Notation
 Ist genauer als Funktionalität, da es die genaue maximale wie auch genaue minimale Anzahl darstellt.
 ![[ER-Diagramm 07.09.2023 01-02-35.excalidraw]]

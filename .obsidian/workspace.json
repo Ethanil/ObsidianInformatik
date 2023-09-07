@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/ER-Diagramm.md",
+                "file": "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/ER-Diagramm.md",
+                "file": "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +176,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Excalidraw/ER-Diagramm 07.09.2023 01-14-56.excalidraw.md",
+    "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
+    "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md",
     "Informatik/Semester_04/Infman/ER-Diagramm.md",
+    "Excalidraw/ER-Diagramm 07.09.2023 01-14-56.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-10-56.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-09-19.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-08-25.excalidraw.md",
@@ -185,7 +187,6 @@
     "Excalidraw/ER-Diagramm 07.09.2023 01-02-35.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-00-43.excalidraw.md",
     "Informatik/Semester_04/Infman/UML-Klassendiagramm.md",
-    "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md",
     "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
     "Informatik/Semester_04/Infman/Konsistenzerhaltung.md",
     "Informatik/Semester_04/Infman/Information.md",
@@ -201,7 +202,6 @@
     "Informatik/Semester_04/cer/Differentialgleichungen/Richtungsvektoren.md",
     "Informatik/Semester_02/Mathe_2/Reihen/Reihen.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",
