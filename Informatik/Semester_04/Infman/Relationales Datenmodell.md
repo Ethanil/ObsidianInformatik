@@ -46,5 +46,11 @@ Werte für $K'$ in $s(S)$ nehmen nur Werte an für die in $R$ eine Entsprechung 
 ### Regel 1: Abbildung von Entitätstypen
 Für jeden Entitätstypen wird ein eigenes Schema definiert und wir übernehmen den Schlüssel des Entitätstypen als PK (bzw minimieren ihn zuerst)
 ### Regel 2: Abbildung von Beziehungstypen
-Für jeden Beziehungstyp wird ein eigenes Schema erzeugt wobei wir die Primärschlüssel aller beteiligter Schemata
+Für jeden Beziehungstyp wird ein eigenes Schema erzeugt wobei wir die Primärschlüssel aller beteiligter Schemata als Fremdschlüssel nehmen. Der Primärschlüssel des erzeugten Schemas ist immer der Fremdschlüssel der $N$-Seite(n) bzw. einer der 1-Seiten wenn es keine $N$-Seite gibt.
+### Regel 3: Zusammenfassung von Schemata
+Alle Schemata mit gleichem PK können zusammengefasst werden.
+```ad-warning
+title:Ausnahme
+Schemata mit dünn besetzten Schemata sollten auch bei gleichem PK nicht zusammengefasst werden, da wir ansonsten viele `null` Einträge haben!
+```
 ## Links
