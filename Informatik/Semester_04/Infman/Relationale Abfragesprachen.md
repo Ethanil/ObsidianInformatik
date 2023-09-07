@@ -18,5 +18,17 @@ Das kartesische Produkt $r \times s$ ist die Menge aller möglichen Kombinatione
 ### $\cup:$ Vereinigung
 Die Vereinigung $R \cup S$ ist die Menge aller Tupel, die in $R$ *oder* $S$ enthalten sind.
 ### $-:$ Mengendifferenz
+Die Mengendifferenz $R - S$ ist die Menge aller Tupel, die in $R$, aber nicht in $S$ enthalten sind.
+### $\div:$ Relationale Division
+Relationale Division $R \div S$ ist die Menge aller Tupel, die in $R$ enthalten sind und alle Einträge der Spalten aus $S$ enthalten, aber ohne die Spalten aus $S$.
+### $\bowtie:$ Natürlicher und Allgemeiner Join (Verbund)
+Der natürliche Join $L \bowtie R$ ist die Menge aller Tupel, die gleiche Einträge in den gemeinsamen Spalten von $L$ und $R$ besitzen, wobei die gemeinsamen Spalten verschmolzen werden.
+Der Allgemeine Join $L \bowtie_{P}R$ ist die Menge aller Tupel, für die die Bedingung $P$ erfüllt ist. Die Menge der Spalten der Ausgabe ist gleich der Summer der Menge der Spalten beider Eingaben.
+### Äußere Joins
+#### ⟕/⟖: Left/Right Outer Join
+Wie Natürliche bzw Allgemeine Joins, allerdings werden alle Einträge von $L$ bei einem Left- oder $R$ bei einem Right-Outer Join verwendet, egal ob es diesen Eintrag im jeweils anderen gibt oder nicht.
+#### ⟗: Full Outer Join
+Wie Left Outer Join (bzw Right Outer Join) nur dass von der anderen Seite alle nicht verwendeten Einträge auch in die Ausgabe kommen.
+### ⋉: 
 
 ## Links
