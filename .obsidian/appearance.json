@@ -4,6 +4,6 @@
   "translucency": false,
   "cssTheme": "Everforest",
   "accentColor": "",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false
 }
