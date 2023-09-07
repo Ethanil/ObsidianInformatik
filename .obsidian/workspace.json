@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Query Language.md",
+                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Query Language.md",
+                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Data Query Language.md"
+                "file": "Informatik/Semester_04/Infman/Anfragesprache SQL.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/dreiwertige Logik.md",
     "Informatik/Semester_04/Infman/Data Query Language.md",
+    "Informatik/Semester_04/Infman/dreiwertige Logik.md",
     "Informatik/Semester_01/Digitaltechnik/Boolsche Algebra.md",
     "Informatik/Semester_01/Digitaltechnik/Kombinatorische Logik.md",
     "Informatik/Semester_04/Infman/Data Manipulation Language.md",

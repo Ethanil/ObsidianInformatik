@@ -61,7 +61,9 @@ Beste 5 Prüfungsergebnise
 ```sql
 select *
 from prüfen
-order by Note 
+order by Note desc
+limit 5;
+```
  ## Joins und Mengenoperationen
  ### Kartesisches Produkt
  Wenn wir mehrere Tabellen angeben wird von diesen das [[kartesisches Produkt]] gebildet
