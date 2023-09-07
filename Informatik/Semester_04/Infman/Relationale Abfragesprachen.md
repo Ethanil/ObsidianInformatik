@@ -20,7 +20,7 @@ Die Vereinigung $R \cup S$ ist die Menge aller Tupel, die in $R$ *oder* $S$ enth
 ### $-:$ Mengendifferenz
 Die Mengendifferenz $R - S$ ist die Menge aller Tupel, die in $R$, aber nicht in $S$ enthalten sind.
 ### $\div:$ Relationale Division
-Relationale Division $R \div S$ ist die Menge aller Tupel, die in $R$ enthalten sind und alle Einträge der Spalten aus $S$ enthalten, aber ohne die Spalten aus $S$.
+$t \in R \div S$, falls für alle $s \in S$ ein $r \in R$ existiert, so dass $r(S)=s(S)$ und $r(R-S) = t$ gilt.
 ### $\bowtie:$ Natürlicher und Allgemeiner Join (Verbund)
 Der natürliche Join $L \bowtie R$ ist die Menge aller Tupel, die gleiche Einträge in den gemeinsamen Spalten von $L$ und $R$ besitzen, wobei die gemeinsamen Spalten verschmolzen werden.
 Der Allgemeine Join $L \bowtie_{P}R$ ist die Menge aller Tupel, für die die Bedingung $P$ erfüllt ist. Die Menge der Spalten der Ausgabe ist gleich der Summer der Menge der Spalten beider Eingaben.
@@ -29,6 +29,7 @@ Der Allgemeine Join $L \bowtie_{P}R$ ist die Menge aller Tupel, für die die Bed
 Wie Natürliche bzw Allgemeine Joins, allerdings werden alle Einträge von $L$ bei einem Left- oder $R$ bei einem Right-Outer Join verwendet, egal ob es diesen Eintrag im jeweils anderen gibt oder nicht.
 #### ⟗: Full Outer Join
 Wie Left Outer Join (bzw Right Outer Join) nur dass von der anderen Seite alle nicht verwendeten Einträge auch in die Ausgabe kommen.
-### ⋉: 
+### ⋉/⋊: Left/Right Semi-Join
+Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind.
 
 ## Links
