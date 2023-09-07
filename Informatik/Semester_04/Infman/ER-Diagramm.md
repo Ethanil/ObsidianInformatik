@@ -26,7 +26,7 @@ Beschreibt die Beziehung zwischen zwei oder mehr Entitätstypen, wobei eine Bezi
 #### Rekursiver Beziehungstyp
 Wird gleich wie ein normaler Beziehungstyp notiert
 Setzt eine Entität mit einer Entität des gleichen Typs in Beziehung, dabei sind Rollennamen hilfreich!
-#### Kardinalitäten bzw Funktionalitäten
+#### Kardinalitäten bzw. Funktionalitäten
 Kardinalitäten werden als Zahl zwischen Entitätstypen und Beziehungstypen notiert.
 Sie legen fest an wie vielen konkreten Beziehungen eine Entität maximal beteiligt sein kann.
 ![[ER-Diagramm 07.09.2023 01-00-43.excalidraw]]
