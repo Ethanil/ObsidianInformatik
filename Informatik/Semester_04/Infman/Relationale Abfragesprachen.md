@@ -21,7 +21,6 @@ Die Vereinigung $R \cup S$ ist die Menge aller Tupel, die in $R$ *oder* $S$ enth
 Die Mengendifferenz $R - S$ ist die Menge aller Tupel, die in $R$, aber nicht in $S$ enthalten sind.
 ### $\div:$ Relationale Division
 $t \in R \div S$, falls für alle $s \in S$ ein $r \in R$ existiert, so dass $r(S)=s(S)$ und $r(R-S) = t$ gilt.
-
 ### $\upchi:$ Gruppierung
 Die Gruppierung $\upchi_{\alpha, \text{AggregatFkt}(\alpha)}$ gruppiert alle Zeilen nach den Spalten $\alpha$ bzw erschafft neue Aggregat-Spalten nach der [[Anfragesprache SQL#Aggregation und Gruppierung|Aggregatfunktion]].
 ### $\bowtie:$ Natürlicher und Allgemeiner Join (Verbund)
@@ -33,7 +32,7 @@ Wie Natürliche bzw Allgemeine Joins, allerdings werden alle Einträge von $L$ b
 #### ⟗: Full Outer Join
 Wie Left Outer Join (bzw Right Outer Join) nur dass von der anderen Seite alle nicht verwendeten Einträge auch in die Ausgabe kommen.
 ### ⋉/⋊: Left/Right Semi-Join
-Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind.
+Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind. Außerdem 
 ### $\uprho:$ Umbenennen
 Man kann sowohl Relationen($\rho_{\text{anderer Name}}(\text{Name})$) als auch Attribute($\rho_{A \leftarrow \text{Attribut1}, B \leftarrow \text{Attribut2}}$) umbennen.
 ## Links

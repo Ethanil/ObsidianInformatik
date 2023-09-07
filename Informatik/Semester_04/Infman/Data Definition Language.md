@@ -36,7 +36,7 @@ create table ProfessorIn
 bzw
 ```SQL
 create table ProfessorIn 
-(PersNr integer primary key,
+(PersNr integer,
  Name   varchar(30),
  Rang   char(2),
  primary key(PersNr)
