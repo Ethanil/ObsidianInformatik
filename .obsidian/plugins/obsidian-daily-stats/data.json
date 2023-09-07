@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 467
+    "2023/8/8": 683
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -24,7 +24,11 @@
     },
     "Informatik/Semester_04/Infman/Data Query Language.md": {
       "initial": 457,
-      "current": 752
+      "current": 929
+    },
+    "Informatik/Semester_04/Infman/dreiwertige Logik.md": {
+      "initial": 4,
+      "current": 43
     }
   }
 }

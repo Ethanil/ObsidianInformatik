@@ -27,7 +27,41 @@ where Prädikat;
  where Prädikat
  order by Attribut1 asc/desc;
  ```
+### Between and in
+```sql
+select *
+from StudentIn
+where Semester between 1 and 4;
 
+selct *
+from StudentIn
+where Semester in (1,2,3,4);
+```
+### Like (Pattern Matching in Strings)
+Mithilfe von `like` können wir mit Strings pattern matchen, dabei haben wir die wildcards `_`(genau 1 beliebiges Zeichen) und `%`(0 bis unendlich beliebige Zeichen)
+Studierende deren Namen mit M anfängt:
+```sql
+select *
+from StudentIn
+where name like 'M%';
+```
+
+### case .. when ...
+Prüfung mit einer textuellen Bewertung
+```sql
+select MatrNr, (case when Note < 1.5 then 'sehr gut'
+			   when Note < 2.5 then 'gut'
+			   when Note < 3.5 then 'befriedigend'
+			   when Note <= 4.0 then 'ausreichend'
+			   else 'nicht bestanden' end)
+from prüfen;
+```
+### limit
+Beste 5 Prüfungsergebnise
+```sql
+select *
+from prüfen
+order by Note 
  ## Joins und Mengenoperationen
  ### Kartesisches Produkt
  Wenn wir mehrere Tabellen angeben wird von diesen das [[kartesisches Produkt]] gebildet
@@ -175,5 +209,13 @@ Durch manche Anfrageauswertungen können auch null-Werte entstehen!
 ### Null in arithmetischen Ausdrücken
 Sobald ein Operand Null ist, ist das Ergebnis auch immer Null
 ### Null in Filter Prädikaten (where/having)
-
+SQL hat eine [[dreiwertige Logik]]. Vergleichsoperationen liefern unkown wenn mindestens eines der Argumente null ist.
+### Null in Aggregation
+| Funktion    | Verhalten                 |
+| ----------- | ------------------------- |
+| count       | Null wird nicht migezählt |
+| sum         | Null wird ignoriert       |
+| avg         | sum/count                 |
+| min und max | Null wird ignoriert                          |
+Ausnahme: (sum, avg, min, max): Wenn null der ***einzige*** Wert in der Gruppe ist, dann ist das Ergebnis null.
 ## Links

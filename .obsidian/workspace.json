@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drei",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +174,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/dreiwertige Logik.md",
+    "Informatik/Semester_04/Infman/Data Query Language.md",
+    "Informatik/Semester_01/Digitaltechnik/Boolsche Algebra.md",
+    "Informatik/Semester_01/Digitaltechnik/Kombinatorische Logik.md",
     "Informatik/Semester_04/Infman/Data Manipulation Language.md",
     "Informatik/Semester_04/Infman/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
-    "Informatik/Semester_04/Infman/Data Query Language.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Data Control Language.md",
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
@@ -201,9 +202,6 @@
     "Excalidraw/ER-Diagramm 07.09.2023 01-09-19.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-08-25.excalidraw.md",
     "Excalidraw/ER-Diagramm 07.09.2023 01-07-41.excalidraw.md",
-    "Excalidraw/ER-Diagramm 07.09.2023 01-02-35.excalidraw.md",
-    "Excalidraw/ER-Diagramm 07.09.2023 01-00-43.excalidraw.md",
-    "Informatik/Semester_04/Infman/UML-Klassendiagramm.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",
