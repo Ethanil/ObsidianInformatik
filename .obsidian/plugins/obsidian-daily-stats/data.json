@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 764
+    "2023/8/8": 1094
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -33,6 +33,22 @@
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md": {
       "initial": 45,
       "current": 123
+    },
+    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md": {
+      "initial": 5,
+      "current": 42
+    },
+    "Informatik/Semester_04/Infman/Anomalien.md": {
+      "initial": 3,
+      "current": 146
+    },
+    "Informatik/Semester_04/Infman/Normalisierung.md": {
+      "initial": 4,
+      "current": 29
+    },
+    "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md": {
+      "initial": 5,
+      "current": 130
     }
   }
 }
