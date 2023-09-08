@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0491249390542da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#byte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md"
               }
             }
           },
@@ -175,9 +188,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "0491249390542da7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/2.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text/Text.md",
     "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Untitled.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing.md",
+    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text/Char Encoding.md",
     "Informatik/Semester_04/Infman/Database/Anomalien.md",
     "Informatik/Semester_04/Infman/Database/Attributhülle.md",
     "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md",
@@ -195,14 +218,6 @@
     "Informatik/Semester_04/Infman/Database/Informationserhalt.md",
     "Informatik/Semester_04/Infman/Database/Informationssystem.md",
     "Informatik/Semester_04/Infman/Database/Konsistenzerhaltung.md",
-    "Informatik/Semester_04/Infman/Database/Konzeptionelles Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Logisches Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Normalisierung.md",
-    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Strukturierte Daten.md",
-    "Informatik/Semester_04/Infman/Database/Natural Language Processing.md",
-    "Informatik/Semester_04/Infman/Database/Nichtprimattribut.md",
-    "Informatik/Semester_04/Infman/Database/Normalformen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
     "Informatik/Semester_04/Infman/Database",
     "Informatik/Semester_04/mathe3/Interpolation",
@@ -211,8 +226,6 @@
     "Informatik/Semester_04/c++",
     "Informatik/Semester_04/fmise",
     "Informatik/Semester_04/cnuvs",
-    "Informatik/Semester_04/cer",
-    "Informatik/Semester_04/Infman",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",

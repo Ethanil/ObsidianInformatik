@@ -26,7 +26,8 @@ $$sel(\sigma_{p}(R)) = \frac{|\sigma_{p}(R)|}{|R|}$$
 #### Abschätzung der Selektivität der Selektion $\sigma$
 $$sel(\sigma_{A=Konstante}(R)) = \frac{1}{|A|}$$
 $$sel(\sigma_{A=B}(R)) = \frac{1}{\max(|A|,|B|)}$$
-Hierbei wird von einer Gleiichverteilung und einer statistischen Unabhängigkeit ausgegangen.
+Hierbei wird von einer Gleichverteilung und eine
+r statistischen Unabhängigkeit ausgegangen.
 #### Komplexere Prädikate mit AND und OR
 $$sel(\sigma_{p_{1}\text{ AND }p_{2}}(R)) = sel(\sigma_{p_{1}}(R))*sel(\sigma_{p_{2}}(R))$$
 $$sel(\sigma_{p_{1}\text{ OR }p_{2}}(R)) = sel(\sigma_{p_{1}}(R))+sel(\sigma_{p_{2}}(R))-sel(\sigma_{p_{1}}(R))*sel(\sigma_{p_{2}}(R))$$
