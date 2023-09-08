@@ -17,7 +17,10 @@ $\beta$ heißt ***voll funktional Abhängig*** von $\alpha$ genau dann, wenn $\a
 $\beta$ heißt partiell funktional abhängig von $\alpha$ genau dann, wenn $\beta$ funktional von $\alpha$ ist aber nicht voll funktional abhängig.
 
 ## Schlüsselkandidaten aus FDs
-### Schritt 1
+- Bestimme Attribute, die nicht auf der rechten Seite einer FD vorkommen => diese müssen in jedem Schlüsselkandidaten enthalten sein
+- Attributshülle der einzelnen Determinanten und fehlende Attribute der Hülle bestimmen
+	- Alle $det \cup fehlt$ sind Superschlüssel
+- Minimiere Superschlüssel
 
 
 ## Links
