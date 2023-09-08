@@ -1,6 +1,7 @@
 ---
 aliases:
   - Transaktion
+  - Schedule
 ---
 # Transaktionsverarbeitung 
 Eine Transaktion ist eine Folge von logisch zusammengehörigen [[Anfragesprache SQL||SQL]]-Anfragen und SQL-Änderungsoperationen. Die Transaktionsverarbeitung in Datenbanksystemem setzt ACID-Garantien bei Ausführung um.
@@ -25,7 +26,8 @@ Die ACID-Garantien können auf Verschiedene Art und Weisen umgesetzt werden
 ### Transaktions-Scheduler
 Der Transaktions-Scheduler bestimmt die Reihenfolge in der die Schritte von nebenläufigen Transaktionen ausgeführt werden
 Datenbanken setzten sich dabei in einem vereinfachten Modell aus einer Menge von Datenbankobjekten ($o_{1},o_{2},\dotso,o_{n}$) zusammen und Transaktionen führen Lese- und Schreib-Operationen auf diesen Datenbankobjekten aus.
-Datenbankobjekte sind dabei typischerweise ein kompletter Datensatz(also eine Zeile einer Tabelle) oder nur Teile einer Zeile
+Datenbankobjekte sind dabei typischerweise ein kompletter Datensatz(also eine Zeile einer Tabelle) oder nur einzelne Attribute des Datensatzes.
+
 ```ad-abstract
 title:Definition - Transaktion
 Eine Transaktion ist eine geordnete Folge von Schritten
@@ -33,11 +35,32 @@ Eine Transaktion ist eine geordnete Folge von Schritten
 - Typische Schritte sind Lesen( $r_{i}(o_{k})$ ) oder Schreiben( $w_{i}(o_{k})$ )
 - Weiter Schritte: $b_{i}$(begin), $c_{i}$(commit), $a_{i}$(abort), wobei $b_{i}$ und $c_{i}$ häufig weggelassen werden
 ```
+
 ```ad-abstract
 title:Definition - Schedule
 Ein Schedule S für eine Menge von Transaktionen $T=\{T_{1},\dotso,T_{n}\}$ ist eine (partielle) [[Ordnungsrelation|Ordnung]] der Schritte ALLER Transaktionen
 - Bei einem Ein-Prozessor-System stellt $S$ eine totale Ordnung ansonsten eine partielle Ordnung dar
 - Die Reihenfolge der Schritte innerhalb einer Transaktion bleiben in $S$ erhalten: $s^{k}(o_{k})<s^{I}(o_{I})$ in $T_{n}\Rightarrow s^{k}(o_{k})<s^{I}(o_{I})$ in $S$
 ```
+
+```ad-abstract
+title:Definition - serieller Schedule
+Ein serieller Schedule ist ein spezieller Schedule bei dem alle Schritte einer Transaktion **konsekutiv** aufeinander folgen
+```
+
+Serielle Schedules erzeugen keine Anomalien, allerdings ist die Performanz (Durchsatz) eines seriellen Schedules idR geringer als für nicht serielle Schedules
+
+Ein Schedule $S$ heißt serialisierbar, wenn $S$ äquivalent zu irgendeinem seriellen Schedule $S'$ ist.
+Äquivalent bedeutet, dass
+- Alle Leseaktionen den gleichen Wert lesen
+- Die Werte aller geänderter Datenbankobjekte nach der Ausführung der beiden Schedules $S$ oder $S'$ gleich sind.
+### Konfliktgraph
+Die Serialisierbarkeit eines Schedules $S$ kann mit Hilfe eines Konfliktgraphen $G$ überprüft werden
+Der Graph enthält einen Knoten pro Transaktion und eine Kante pro Konflikt zwischen zwei Transaktionen
+Ein Konflikt zwischen Transaktion $T_{X}$ und $T_{Y}$ entsteht dabei wenn
+- $s_{x}(o_{k})$ vor $s_{y}(o_{y})$ auf dem gleichen Objekt $o_{k}$ im Schedule liegt und
+- $s_{x}$ oder $s_{y}$ eine Schreiboperation auf $o_{k}$ ist
+
+Wenn dieser Konfliktgraph nun **azyklisch** ist, dann ist der Schedule $S$ serialisierbar.
 
 ## Links
