@@ -32,7 +32,10 @@ Wir gehen wie folgt vor:
 1. Wir überprüfen, ob es ein ASCII-code ist (also 7 bits)
 	- Wenn ja übernehmen wir dies und sind fertig
 2. Wenn nein, brauchen wir mindestens 2 byte, wobei wir 3 bit zum encoden der länge benötigen, also noch 5 bit "frei" haben in unserem linkesten byte
-3. Wir "schneiden" die rechten 6 bit von unserem code raus, schreiben davor `10` und  und überprüfen ob die restlichen bit in unsrere "freien" bit passen
-	- Wenn ja übernehmen wir diese
+3. Wir "schneiden" die rechten 6 bit von unserem code raus, schreiben davor `10` und schreiben sie auf
+4. Wir überprüfen ob die restlichen bit in unsrere "freien" bit passen
+	- Wenn ja übernehmen schreiben wir AnzahlByte `1`en in unser linkestes byte, dann eine `0` (also für 2 byte bspw `110`) und übernehmen die restlichen bit dort hinein, wobei wir nach links mit `0`en auffüllen
+	- Wenn nein, erhöhen wir die bits die wir zum encoden brauchen um 1 und reduzieren die "freien" bits um 1 und machen mit 3. weiter
+
 
 ## Links
