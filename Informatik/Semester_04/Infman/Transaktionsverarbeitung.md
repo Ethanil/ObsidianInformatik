@@ -28,6 +28,13 @@ Der Transaktions-Scheduler bestimmt die Reihenfolge in der die Schritte von nebe
 Datenbanken setzten sich dabei in einem vereinfachten Modell aus einer Menge von Datenbankobjekten ($o_{1},o_{2},\dotso,o_{n}$) zusammen und Transaktionen führen Lese- und Schreib-Operationen auf diesen Datenbankobjekten aus.
 Datenbankobjekte sind dabei typischerweise ein kompletter Datensatz(also eine Zeile einer Tabelle) oder nur einzelne Attribute des Datensatzes.
 
+#### Scheduler-Ansätze
+Es gibt unterschiedliche Alternativen eine Scheduler zu implementieren, der serialisierbare Schedules erzeugt:
+Durch einen pessimistischen Ansatz werden Konflikte durch bspw. Sperren von vorneherein vermieden.
+Durch optimistische Ansätze lassen wir erstmal alles durchlaufen und erkennen die Konflikte im Nachhinein.
+Optimistische Ansätze haben einen höheren Durchsatz, wenn es weniger Konflikte gibt.
+### Transaktionen und Schedule
+
 ```ad-abstract
 title:Definition - Transaktion
 Eine Transaktion ist eine geordnete Folge von Schritten
