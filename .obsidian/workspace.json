@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfrageverarbeitung.md",
+                "file": "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfrageverarbeitung.md",
+                "file": "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Anfrageverarbeitung.md"
+                "file": "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md"
               }
             }
           },
@@ -178,9 +177,11 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
+    "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md",
+    "Informatik/Semester_04/Infman/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
     "Informatik/Semester_01/Mathe_1/Aussagen und ihre Verknüpfungen.md",
-    "Informatik/Semester_04/Infman/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md",
     "Informatik/Semester_04/Infman/Normalformen.md",
     "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md",
@@ -191,7 +192,6 @@
     "Informatik/Semester_04/Infman/Primattribut.md",
     "Informatik/Semester_04/Infman/Schlüsselmenge.md",
     "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md",
-    "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
     "Informatik/Semester_04/Infman/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Data Manipulation Language.md",
     "Informatik/Semester_04/Infman/Data Control Language.md",
@@ -203,7 +203,6 @@
     "Informatik/Semester_01/Digitaltechnik/Kombinatorische Logik.md",
     "Informatik/Semester_04/Infman/Natural Language Processing.md",
     "Informatik/Semester_04/Infman/Daten.md",
-    "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",

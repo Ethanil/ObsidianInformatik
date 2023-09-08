@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 2689
+    "2023/8/8": 3039
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -32,7 +32,7 @@
     },
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md": {
       "initial": 45,
-      "current": 123
+      "current": 124
     },
     "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md": {
       "initial": 5,
@@ -81,6 +81,10 @@
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md": {
       "initial": 448,
       "current": 760
+    },
+    "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md": {
+      "initial": 4,
+      "current": 353
     }
   }
 }
