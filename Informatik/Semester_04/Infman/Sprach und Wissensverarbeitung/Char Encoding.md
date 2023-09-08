@@ -12,4 +12,7 @@ Verwendet die selben Zeichen wie ASCII, allerdings hat die obere Hälfte (mit 1.
 ### Unicode
 Die Idee hinter unicode ist ein character set zu haben, das alle chars beschreiben kann.
 Dabei werden ***21*** signifikante bits verwendet, also 4 bytes.
+### UTF-32/UCS-4 Encoding
+Jeder char wird genau mit 4 bytes encoded, korrespondierend zu seinem unicode-code
+
 ## Links

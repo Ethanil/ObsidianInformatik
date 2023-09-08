@@ -7,7 +7,7 @@ Structured English Query Language(SQL) ist eine deklarative(was nicht wie) Anfra
 - [[Data Query Language]]
 - [[Data Definition Language]]
 - [[Data Manipulation Language]]
-- [[Data Control Language]]
+- [[Transaktionsverarbeitung|Data Control Language]]
 einteilt.
 ## Sichten
 Eine Sicht ist eine Tabelle die aus Teilen anderer Tabellen zusammengesetzt ist und keinen eigenen Speicher hat und idR read-only sind!

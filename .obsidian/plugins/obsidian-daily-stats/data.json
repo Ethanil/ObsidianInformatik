@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 3929
+    "2023/8/8": 3951
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -92,7 +92,7 @@
     },
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md": {
       "initial": 5,
-      "current": 103
+      "current": 121
     },
     "Informatik/Semester_04/Infman/Database/Strukturierte Daten.md": {
       "initial": 85,
@@ -113,6 +113,10 @@
     "Informatik/Semester_04/Infman/Database/Datenbankentwurf.md": {
       "initial": 71,
       "current": 73
+    },
+    "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md": {
+      "initial": 121,
+      "current": 125
     }
   }
 }
