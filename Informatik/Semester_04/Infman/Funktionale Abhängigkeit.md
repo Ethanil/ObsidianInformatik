@@ -14,5 +14,10 @@ Dabei gilt für alle Schlüsselkandidaten $K$ von $R$, dass $K \rightarrow R$ gi
 $\beta$ heißt ***voll funktional Abhängig*** von $\alpha$ genau dann, wenn $\alpha \rightarrow \beta$ gilt und es kein $\alpha'\subset \alpha$ gibt mit $\alpha'\rightarrow \beta$
 
 ## Partielle funktionale Abhängigkeit
-$\beta$ heißt partiell funktional abhängig von $\alpha$ genau dann, wenn $\beta$ nicht voll funktional von $\alpha$ ist
+$\beta$ heißt partiell funktional abhängig von $\alpha$ genau dann, wenn $\beta$ funktional von $\alpha$ ist aber nicht voll funktional abhängig.
+
+## Schlüsselkandidaten aus FDs
+### Schritt 1
+
+
 ## Links

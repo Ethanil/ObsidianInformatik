@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 1094
+    "2023/8/8": 1124
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -48,7 +48,11 @@
     },
     "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md": {
       "initial": 5,
-      "current": 130
+      "current": 138
+    },
+    "Informatik/Semester_04/Infman/Attributhülle.md": {
+      "initial": 4,
+      "current": 26
     }
   }
 }
