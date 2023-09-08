@@ -10,7 +10,7 @@ anders als die [[Data Definition Language]], die beschreibt wie die Tabelle aufg
 ## Einfügen neuer Tupel
 ```sql
 insert into ProfessorIn values (2126, 'Russel', 'C4', 232)
-insert into ProfessorIn(PersNr, Name, Rang) values((2126, 'Russel', 'C4)
+insert into ProfessorIn(PersNr, Name, Rang) values(2126, 'Russel', 'C4');
 ```
 ## Löschen von Tupeln
 Löschen aller Tupel:
