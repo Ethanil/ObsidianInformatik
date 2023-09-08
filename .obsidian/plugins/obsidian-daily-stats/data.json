@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 1443
+    "2023/8/8": 1556
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -44,19 +44,19 @@
     },
     "Informatik/Semester_04/Infman/Normalisierung.md": {
       "initial": 4,
-      "current": 127
+      "current": 133
     },
     "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md": {
       "initial": 5,
-      "current": 172
+      "current": 210
     },
     "Informatik/Semester_04/Infman/Attributhülle.md": {
       "initial": 4,
-      "current": 26
+      "current": 28
     },
     "Informatik/Semester_04/Infman/Normalformen.md": {
       "initial": 3,
-      "current": 83
+      "current": 136
     },
     "Informatik/Semester_04/Infman/Nichtprimattribut.md": {
       "initial": 4,
@@ -69,6 +69,10 @@
     "Informatik/Semester_04/Infman/Primattribut.md": {
       "initial": 4,
       "current": 24
+    },
+    "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md": {
+      "initial": 5,
+      "current": 19
     }
   }
 }

@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Normalisierung 
-Bei der Normalisierung wird ein schlechtes [[Logisches Datenmodell|relationales Modell]] in ein gutes Modell überführt.
+Bei der Normalisierung wird ein schlechtes [[Logisches Datenmodell|relationales Modell]] in ein gutes Modell überführt. (Also in eine höhere [[Normalformen|Normalform]])
 Die Idee ist ein großes Relationsschema in mehrere kleine zu zerlegen. Wobei die Zerlegung danach
 - möglichst redundanzfrei ist
 - verlustfrei vom vorherigen Modell abgelitten ist.
