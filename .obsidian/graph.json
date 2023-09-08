@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Excalidraw  -path:Informatik/Excalidraw  ",
+  "collapse-filter": false,
+  "search": "-path:Excalidraw  -path:Informatik/Excalidraw path:Informatik/Semester_04  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 15.8333333333333,
   "linkStrength": 0.416666666666667,
   "linkDistance": 253,
-  "scale": 0.06053903001411304,
+  "scale": 0.23388712837037623,
   "close": false
 }

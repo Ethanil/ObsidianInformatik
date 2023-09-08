@@ -11,13 +11,8 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,19 +169,23 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md",
+    "Informatik/Semester_04/Infman/Nichtprimattribut.md",
+    "Informatik/Semester_04/Infman/Primattribut.md",
+    "Informatik/Semester_04/Infman/Schlüsselmenge.md",
+    "Informatik/Semester_04/Infman/Normalformen.md",
+    "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md",
+    "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
+    "Informatik/Semester_04/Infman/Normalisierung.md",
+    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md",
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
     "Informatik/Semester_04/Infman/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Data Manipulation Language.md",
     "Informatik/Semester_04/Infman/Data Control Language.md",
     "Informatik/Semester_04/Infman/Data Query Language.md",
-    "Informatik/Semester_04/Infman/Normalisierung.md",
-    "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md",
     "Informatik/Semester_04/Infman/Attributhülle.md",
     "Informatik/Semester_04/Infman/Schlüsselabhängig.md",
     "Informatik/Semester_04/Infman/Anomalien.md",
-    "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/dreiwertige Logik.md",
     "Informatik/Semester_01/Digitaltechnik/Boolsche Algebra.md",
     "Informatik/Semester_01/Digitaltechnik/Kombinatorische Logik.md",
@@ -199,10 +195,6 @@
     "Informatik/Semester_04/Infman/ER-Diagramm.md",
     "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
     "Informatik/Semester_04/Infman/Konzeptionelles Datenmodell.md",
-    "Informatik/Semester_04/Infman/Konsistenzerhaltung.md",
-    "Informatik/Semester_04/Infman/Informationserhalt.md",
-    "Informatik/Semester_04/Infman/Datenbankentwurf.md",
-    "Informatik/Semester_04/Infman/Datenzugang.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",

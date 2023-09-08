@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 1256
+    "2023/8/8": 1443
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -53,6 +53,22 @@
     "Informatik/Semester_04/Infman/Attributhülle.md": {
       "initial": 4,
       "current": 26
+    },
+    "Informatik/Semester_04/Infman/Normalformen.md": {
+      "initial": 3,
+      "current": 83
+    },
+    "Informatik/Semester_04/Infman/Nichtprimattribut.md": {
+      "initial": 4,
+      "current": 49
+    },
+    "Informatik/Semester_04/Infman/Schlüsselmenge.md": {
+      "initial": 4,
+      "current": 46
+    },
+    "Informatik/Semester_04/Infman/Primattribut.md": {
+      "initial": 4,
+      "current": 24
     }
   }
 }
