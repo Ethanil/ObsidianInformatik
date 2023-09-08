@@ -38,10 +38,26 @@ Man kann sowohl Relationen($\rho_{\text{anderer Name}}(\text{Name})$) als auch A
 
 ## Äquivalenzen der Relationalen Algebra
 ### 1. Aufbrechen von Konjunktionen im Selektionsprädikat
-$$\theta_{c1\land c2 \land \dotso \land c_{n}}(R) \equiv \theta_{c1}(\theta_{c2}(\dotso(\theta_{c_{n}}(R))))$$
-### 2. $\theta$ ist kommutativ
-$$\theta_{c1}(\theta_{c2}(R))\equiv \theta_{c2}(\theta_{c1}(R))$$
+$$\sigma_{c1\land c2 \land \dotso \land c_{n}}(R) \equiv \sigma_{c1}(\sigma_{c2}(\dotso(\sigma_{c_{n}}(R))))$$
+### 2. $\sigma$ ist kommutativ
+$$\sigma_{c1}(\sigma_{c2}(R))\equiv \sigma_{c2}(\sigma_{c1}(R))$$
 ### 3. $\pi-$Kaskaden: Falls $L_{1}\subseteq L_{2}\subseteq \dotso \subseteq L_{n}$
 $$\pi_{L1}(\pi_{L2}(\dotso(\pi_{L_{n}}(R)))) \equiv \pi_{L1}(R)$$
-### 4. Vertauschen von $\theta$ und $pi$
+### 4. Vertauschen von $\sigma$ und $\pi$: Falls $\theta$ sich nur auf die Attribute $A_{1},\dotso,A_{n}$ von $\pi$ bezieht
+$$\pi_{A_{1},\dotso,A_{n}}(\sigma_{c}(R)) \equiv \sigma_{c}(\pi_{A_{1},\dotso,A_{n}}(R))$$
+### 5. $\times, \cup, \cap$ und $\bowtie$ sind kommutativ
+### 6. Vertauschen von $\sigma$ mit $\bowtie$
+Falls das Selektionsprädikat $c$ nur auf Attribute der Relation $R$ zugreift, kann man die beiden Operationen vertauschen:
+$$\sigma_{c1}(R \bowtie S) \equiv \sigma_{c1}(R) \bowtie S$$
+### 7. Vertauschung von $\pi$ mit $\bowtie$
+Die Projektionsliste $L$ sei $L=\{A_{1},\dotso,A_{n},B_{1},\dotso,B_{n}\}$ wobei $A_{i}$ Attribute aus $R$ und $B_{i}$ Attribute aus $S$ seien
+Falls sich das Joinprädikat $c$ nur auf Attribute aus $L$ bezieht, gilt folgende Umformung:
+$$\pi_{L}(R \bowtie_{c} S) \equiv (\pi_{A_{1},\dotso,A_{n}}(R))\bowtie_{c}(\pi_{B_{1},\dotso,B_{n}}(S))$$
+### 8. Die Operationen $A, \times, \cup, \cap$ sind jeweils assoziativ
+### 9. Die Operation $\sigma$ ist distirbutiv mit $\cup, \cap, -$
+### 10. Die Operation $\pi$ ist distributiv mit $\cup$
+### 11. Die Join- und/oder Selektionsprädikate können mittels [[Aussagen und ihre Verknüpfungen#de Morgan'sche Regel|de Morgan's Regeln]] umgeformt werden
+### 12. Join Ersetzung
+Sei $c$ eine Bedingung der Form $A$ $op$ $B$, mit $A$ ein Attribut aus $R$ und $B$ ein Attribut aus $S$ und $op$ ein Vergleichsoperator.
+$$\sigma_{c}(R \times S) \equiv R \bowtie_{c} S$$
 ## Links
