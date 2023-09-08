@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Relationales Datenmodell 
-Bei einem Relationalem Datenmodell werden die Daten in einem *einzigen* Konstrukt, der Relation gespeichert (Informall ist dies eine Tabelle ohne Reihenfolge und ohne Duplikate)
+Bei einem Relationalem Datenmodell werden die Daten in einem *einzigen* Konstrukt, der Relation gespeichert (Informell ist dies eine Tabelle ohne Reihenfolge und ohne Duplikate)
 ## Logischer Entwurf
 Beim logischen Entwurf wird das [[Konzeptionelles Datenmodell]], z.B. ein [[ER-Diagramm|ER-Modell]], auf ein logisches, also bspw eine relationales Datenmodell abgebildet.
 

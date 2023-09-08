@@ -8,7 +8,7 @@ In der Anforderungsanalyse wird die Reale Welt analysiert. Dabei werden die Spez
 ## [[Konzeptionelles Datenmodell]]
 In dieser Phase wird festgelegt werde [[Daten]] erfasst werden sollen. Zumeist mit einem ER- oder UML-Modell
 
-## [[Logisches Datenmodell]]
+## [[Relationales Datenmodell|Logisches Datenmodell]]
 In dieser Phase wird festgelegt ***wie*** die [[Daten]] abgespeichert werden sollen
 
 ## Physisches Datenmodell

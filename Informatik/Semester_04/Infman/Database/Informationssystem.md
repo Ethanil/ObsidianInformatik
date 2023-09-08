@@ -20,7 +20,7 @@ aliases:
 	- Fragmentierung der Daten, Synchronisation und Replikation
 4. Logischer Entwurf (logical design)
 	- Abbildung des konzeptionellen Modells auf Konzepte des eingesetzten Informationssystems, implementierungsspezifisch, aber geräteunabhängig
-	- Logische Datenmodelle, z.B. [[Logisches Datenmodell|relationales Modell]]
+	- Logische Datenmodelle, z.B. [[Relationales Datenmodell|relationales Modell]]
 5. Datendefinition (data definition)
 	- Deklaration/Programmierung des Datenmodells im Informationssystem
 	- Definitionssprachen, z.B. SQL

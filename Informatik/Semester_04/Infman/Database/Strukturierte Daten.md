@@ -28,6 +28,5 @@ title:Beispiel
 collapse:
 Text, Schaubild, Fotografie, Musikstück, Video
 ```
-Siehe [[Natural Language Processing]]
 
 ## Links
