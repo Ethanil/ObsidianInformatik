@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "0491249390542da7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/2.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text/Text.md",
     "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
@@ -217,7 +218,6 @@
     "Informatik/Semester_04/Infman/Database/Information.md",
     "Informatik/Semester_04/Infman/Database/Informationserhalt.md",
     "Informatik/Semester_04/Infman/Database/Informationssystem.md",
-    "Informatik/Semester_04/Infman/Database/Konsistenzerhaltung.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
     "Informatik/Semester_04/Infman/Database",
     "Informatik/Semester_04/mathe3/Interpolation",
