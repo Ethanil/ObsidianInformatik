@@ -15,7 +15,7 @@ Die ACID-Garantien können auf Verschiedene Art und Weisen umgesetzt werden
 - Atomicity und Durability durch Logging und Recovery (Fehlerbehandlung)
 - Consistency durch Constraint Checking
 - Isolation durch Concurrency Control
-## Isolation
+## Isolation über Concurrency Control
 ### Anomalien
 | Anomalie     | Beschreibung                                                                                                      |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -70,4 +70,7 @@ Ein Konflikt zwischen Transaktion $T_{X}$ und $T_{Y}$ entsteht dabei wenn
 
 Wenn dieser Konfliktgraph nun **azyklisch** ist, dann ist der Schedule $S$ serialisierbar.
 
+### Lock-based Concurrency Control
+Lock-based concurrency control ist eine Möglichkeit einen pessimistischen Scheduler zu implementieren, der serialisierbare Schedules mithilfe von Sperren(locks) erzeugt.
+Die Idee dahinter ist, dass sich die Transaktion zum Lesen oder Ändern ein Lock auf das Objekt holt. Nebenläufige Transaktionen müssen auf Locks warten und nach erfolgereicher Änderung geben Transaktionen das Lock wieder frei.
 ## Links
