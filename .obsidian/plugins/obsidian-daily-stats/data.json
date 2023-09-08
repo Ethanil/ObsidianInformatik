@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 1734
+    "2023/8/8": 1939
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -73,6 +73,14 @@
     "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md": {
       "initial": 5,
       "current": 197
+    },
+    "Informatik/Semester_04/Infman/Anfrageverarbeitung.md": {
+      "initial": 4,
+      "current": 131
+    },
+    "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md": {
+      "initial": 448,
+      "current": 526
     }
   }
 }

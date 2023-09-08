@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md",
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md",
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md"
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Normalformen.md",
+    "Informatik/Semester_04/Infman/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md",
+    "Informatik/Semester_04/Infman/Normalformen.md",
     "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Normalisierung.md",
@@ -202,7 +203,6 @@
     "Informatik/Semester_04/Infman/Daten.md",
     "Informatik/Semester_01/Mathe_1/kartesisches Produkt.md",
     "Informatik/Semester_04/Infman/ER-Diagramm.md",
-    "Informatik/Semester_04/Infman/Logisches Datenmodell.md",
     "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",

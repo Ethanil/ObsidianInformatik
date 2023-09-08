@@ -35,4 +35,13 @@ Wie Left Outer Join (bzw Right Outer Join) nur dass von der anderen Seite alle n
 Wie Natürlicher bzw Allgemeiner Join nur dass nur die Spalten von $L$(Bei Left) bzw $R$(Bei Right) in der Ausgabe sind. (nicht vergessen, das hier auch alle duplikate gelöscht werden, wie immer!) 
 ### $\uprho:$ Umbenennen
 Man kann sowohl Relationen($\rho_{\text{anderer Name}}(\text{Name})$) als auch Attribute($\rho_{A \leftarrow \text{Attribut1}, B \leftarrow \text{Attribut2}}$) umbennen.
+
+## Äquivalenzen der Relationalen Algebra
+### 1. Aufbrechen von Konjunktionen im Selektionsprädikat
+$$\theta_{c1\land c2 \land \dotso \land c_{n}}(R) \equiv \theta_{c1}(\theta_{c2}(\dotso(\theta_{c_{n}}(R))))$$
+### 2. $\theta$ ist kommutativ
+$$\theta_{c1}(\theta_{c2}(R))\equiv \theta_{c2}(\theta_{c1}(R))$$
+### 3. $\pi-$Kaskaden: Falls $L_{1}\subseteq L_{2}\subseteq \dotso \subseteq L_{n}$
+$$\pi_{L1}(\pi_{L2}(\dotso(\pi_{L_{n}}(R)))) \equiv \pi_{L1}(R)$$
+### 4. Vertauschen von $\theta$ und $pi$
 ## Links
