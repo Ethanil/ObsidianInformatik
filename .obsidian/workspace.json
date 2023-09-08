@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md",
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md",
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Normalisierung.md"
+                "file": "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md",
+    "Informatik/Semester_04/Infman/Normalisierung.md",
     "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md",
     "Informatik/Semester_04/Infman/Attributhülle.md",
     "Informatik/Semester_04/Infman/Schlüsselabhängig.md",
-    "Informatik/Semester_04/Infman/Normalisierung.md",
-    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md",
     "Informatik/Semester_04/Infman/Anomalien.md",
     "Informatik/Semester_04/Infman/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Anfragesprache SQL.md",
