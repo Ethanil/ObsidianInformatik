@@ -73,4 +73,28 @@ Wenn dieser Konfliktgraph nun **azyklisch** ist, dann ist der Schedule $S$ seria
 ### Lock-based Concurrency Control
 Lock-based concurrency control ist eine Möglichkeit einen pessimistischen Scheduler zu implementieren, der serialisierbare Schedules mithilfe von Sperren(locks) erzeugt.
 Die Idee dahinter ist, dass sich die Transaktion zum Lesen oder Ändern ein Lock auf das Objekt holt. Nebenläufige Transaktionen müssen auf Locks warten und nach erfolgereicher Änderung geben Transaktionen das Lock wieder frei.
+#### Naives Locking
+Beim naiven locking wird direkt vor und nach jedem Lese oder Änderungszugriff ein Lock auf das Objekt geholt/entfernt.
+Dies garantiert ***keine*** serialisierbaren Schedules
+#### Two-Phase Locking(2PL)
+Beim Two-Phase-Locking ifndet das Locking pro Transaktion in zwei Phasen statt, der Grow und der Release-Phase. Während der Release-Phase dürfen keine neuen Locks geholt werden.
+2PL garantiert seriaisierbare Schedules.
+2PL hat allerdings noch 2 Probleme: Deadlocks und Cascading Aborts.
+#### Preclaiming
+Beim Preclaiming werden alle Locks atomar vor Beginn der Transaktion angefordert. Dies verhindert offensichtlich Deadlocks.
+#### Strict 2PL
+Beim Strict 2PL werden alle Locks bis zum Ender der Transaktion gehalten und dann atomar freigegeben. Dies verhindert Cascading Aborts, da nachfolgende Transaktionen keine Änderungen lesen können, bevor die Transaktion nicht beendet ist.
+
+### Isolationsstufen
+Nicht alle Anwendungen benötigen die höchste Isolationsstufe(Serialisierbarkeit), daher ermöglicht es SQL 92 eine Isolationsstufe zu setzen. Dies führt auf kosten von mehr Anomalien zu einem höheren Durchsatz
+
+| Isolationsstufe | Beschreibung                                                                                                  | Lost Updates  | Dirty Reads   | Non-repeatable Reads | Phantom Reads |
+| --------------- | ------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------------- | ------------- |
+| Read uncommited | Transaktionen fordern keine Sperren an. Diese Stufe ist nur für Lese-Transaktionen verwendbar.                | möglich       | möglich       | möglich              | möglich       |
+| Read Commited   | Transaktionen fordern Write-Locks mit Strict 2PL an. Ihre Lese-Locks werden direkt freigegeben.               | möglich       | NICHT möglich | möglich              | möglich       |
+| Read stability  | Schreib- und Lese-Locks werden mit Strict 2PL angefordert.                                                    | NICHT möglich | NICHT möglich | NICHT möglich        | möglich       |
+| Serializable    | Schreib- und Lese-Locks werden mit Strict 2PL angefrodert mit Lösung für Phantom Problem (durch Range Locks). | NICHT möglich | NICHT möglich | NICHT möglich        | NICHT möglich |
+
+### Multi-Version Concurrency Control(MVCC)
+Hierbei liegt jedes Datenobjekt in mehreren Versionen vor und jeder Schreiber erzeugt eine neue Version, wobei alte Versionen erhalten bleiben. Hierbei ist Garbage Collection no
 ## Links
