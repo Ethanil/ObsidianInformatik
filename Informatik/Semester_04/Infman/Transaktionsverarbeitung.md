@@ -95,6 +95,18 @@ Nicht alle Anwendungen benötigen die höchste Isolationsstufe(Serialisierbarkei
 | Read stability  | Schreib- und Lese-Locks werden mit Strict 2PL angefordert.                                                    | NICHT möglich | NICHT möglich | NICHT möglich        | möglich       |
 | Serializable    | Schreib- und Lese-Locks werden mit Strict 2PL angefrodert mit Lösung für Phantom Problem (durch Range Locks). | NICHT möglich | NICHT möglich | NICHT möglich        | NICHT möglich |
 
-### Multi-Version Concurrency Control(MVCC)
-Hierbei liegt jedes Datenobjekt in mehreren Versionen vor und jeder Schreiber erzeugt eine neue Version, wobei alte Versionen erhalten bleiben. Hierbei ist Garbage Collection no
+### Multi-Version Concurrency Control (MVCC)
+Hierbei liegt jedes Datenobjekt in mehreren Versionen vor und jeder Schreiber erzeugt eine neue Version, wobei alte Versionen erhalten bleiben. Hierbei ist Garbage Collection notwendig. Durch die verschiedenen Versionen hat der Leser die Freiheit, welche Version er lesen möchte.
+Der Vorteil hiervon ist, dass Leser und Schreiber sich nicht gegenseitig blockieren.
+### Optimistische Concurrency Control (OCC)
+Bei der OOC werden Konflikte am Ende einer Transaktion erkannt
+Transaktionen werden dabei in drei Phasen ausgeführt
+
+| Phase              | Beschreibung                                                                       |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Execute Phase      | Transaktionen lesen nur Daten und Schreiben Änderungen in einen privaten Bereich   |
+| Validation Phase   | Transaktionen prüfen erst vor dem Commit, ob es Konflikte gab, wenn ja aborten sie |
+| Installation Phase | Transaktion schreibt ihre Änderung vom privaten Bereich in die Datenbank           |
+
+Validation und Installation müssen atomar erfolgen.
 ## Links
