@@ -11,7 +11,7 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 3696
+    "2023/8/8": 3847
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Data Definition Language.md": {
@@ -85,6 +85,14 @@
     "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md": {
       "initial": 4,
       "current": 1010
+    },
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text.md": {
+      "initial": 4,
+      "current": 135
+    },
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md": {
+      "initial": 5,
+      "current": 25
     }
   }
 }
