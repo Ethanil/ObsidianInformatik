@@ -17,11 +17,12 @@ Die ACID-Garantien können auf Verschiedene Art und Weisen umgesetzt werden
 - Isolation durch Concurrency Control
 ## Isolation über Concurrency Control
 ### Anomalien
-| Anomalie     | Beschreibung                                                                                                      |
-| ------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Lost Update  | Die Änderung der Transaktion1 werden durch Transaktion2 überschrieben.                                            |
-| Dirty Read   | Wiederholte Lesevorgänge der Transaktion2 liefern unterschiedliche Ergebnisse                                     |
-| Phantom Read | Transaktion2 liest bei einer gleichen Anfrage unterschiedliche Datensätze, die von Transaktion 1 eingefügt wurden |
+| Anomalie            | Beschreibung                                                                                                      |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Lost Update         | Die Änderung der Transaktion1 werden durch Transaktion2 überschrieben.                                            |
+| Dirty Read          | Wiederholte Lesevorgänge der Transaktion2 liefern unterschiedliche Ergebnisse                                     |
+| Phantom Read        | Transaktion2 liest bei einer gleichen Anfrage unterschiedliche Datensätze, die von Transaktion 1 eingefügt wurden |
+| Non-Repeatable Read | Wiederholte Lesevorgänge einer Transaktion1 liefern unterschiedliche Ergebnisse, da Transaktion2 was ändert      |
 
 ### Transaktions-Scheduler
 Der Transaktions-Scheduler bestimmt die Reihenfolge in der die Schritte von nebenläufigen Transaktionen ausgeführt werden
