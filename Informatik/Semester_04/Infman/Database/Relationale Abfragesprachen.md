@@ -54,7 +54,7 @@ Die Projektionsliste $L$ sei $L=\{A_{1},\dotso,A_{n},B_{1},\dotso,B_{n}\}$ wobei
 Falls sich das Joinprädikat $c$ nur auf Attribute aus $L$ bezieht, gilt folgende Umformung:
 $$\pi_{L}(R \bowtie_{c} S) \equiv (\pi_{A_{1},\dotso,A_{n}}(R))\bowtie_{c}(\pi_{B_{1},\dotso,B_{n}}(S))$$
 ### 8. Die Operationen $A, \times, \cup, \cap$ sind jeweils assoziativ
-### 9. Die Operation $\sigma$ ist distirbutiv mit $\cup, \cap, -$
+### 9. Die Operation $\sigma$ ist distributiv mit $\cup, \cap, -$
 ### 10. Die Operation $\pi$ ist distributiv mit $\cup$
 ### 11. Die Join- und/oder Selektionsprädikate können mittels [[Aussagen und ihre Verknüpfungen#de Morgan'sche Regel|de Morgan's Regeln]] umgeformt werden
 ### 12. Join Ersetzung
