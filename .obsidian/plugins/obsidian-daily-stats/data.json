@@ -11,132 +11,13 @@
     "2023/5/8": 0,
     "2023/8/5": 664,
     "2023/8/7": 1728,
-    "2023/8/8": 4882
+    "2023/8/8": 4882,
+    "2023/8/9": 205
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Infman/Data Definition Language.md": {
-      "initial": 404,
-      "current": 488
-    },
-    "Informatik/Semester_04/Infman/Data Manipulation Language.md": {
-      "initial": 6,
-      "current": 94
-    },
-    "Informatik/Semester_04/Infman/Data Query Language.md": {
-      "initial": 457,
-      "current": 932
-    },
-    "Informatik/Semester_04/Infman/dreiwertige Logik.md": {
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md": {
       "initial": 4,
-      "current": 43
-    },
-    "Informatik/Semester_04/Infman/Anfragesprache SQL.md": {
-      "initial": 45,
-      "current": 124
-    },
-    "Informatik/Semester_04/Infman/Relationale Entwurfstheorie.md": {
-      "initial": 5,
-      "current": 42
-    },
-    "Informatik/Semester_04/Infman/Anomalien.md": {
-      "initial": 3,
-      "current": 146
-    },
-    "Informatik/Semester_04/Infman/Normalisierung.md": {
-      "initial": 4,
-      "current": 133
-    },
-    "Informatik/Semester_04/Infman/Funktionale Abhängigkeit.md": {
-      "initial": 5,
-      "current": 210
-    },
-    "Informatik/Semester_04/Infman/Attributhülle.md": {
-      "initial": 4,
-      "current": 28
-    },
-    "Informatik/Semester_04/Infman/Normalformen.md": {
-      "initial": 3,
-      "current": 136
-    },
-    "Informatik/Semester_04/Infman/Nichtprimattribut.md": {
-      "initial": 4,
-      "current": 49
-    },
-    "Informatik/Semester_04/Infman/Schlüsselmenge.md": {
-      "initial": 4,
-      "current": 46
-    },
-    "Informatik/Semester_04/Infman/Primattribut.md": {
-      "initial": 4,
-      "current": 24
-    },
-    "Informatik/Semester_04/Infman/3NF Synthesealgorithmus.md": {
-      "initial": 5,
-      "current": 197
-    },
-    "Informatik/Semester_04/Infman/Anfrageverarbeitung.md": {
-      "initial": 4,
-      "current": 647
-    },
-    "Informatik/Semester_04/Infman/Relationale Abfragesprachen.md": {
-      "initial": 448,
-      "current": 760
-    },
-    "Informatik/Semester_04/Infman/Transaktionsverarbeitung.md": {
-      "initial": 4,
-      "current": 1010
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text.md": {
-      "initial": 4,
-      "current": 135
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Char Encoding.md": {
-      "initial": 5,
-      "current": 422
-    },
-    "Informatik/Semester_04/Infman/Database/Strukturierte Daten.md": {
-      "initial": 85,
-      "current": 85
-    },
-    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md": {
-      "initial": 470,
-      "current": 470
-    },
-    "Informatik/Semester_04/Infman/Database/Informationssystem.md": {
-      "initial": 143,
-      "current": 144
-    },
-    "Informatik/Semester_04/Infman/Database/Normalisierung.md": {
-      "initial": 132,
-      "current": 133
-    },
-    "Informatik/Semester_04/Infman/Database/Datenbankentwurf.md": {
-      "initial": 71,
-      "current": 73
-    },
-    "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md": {
-      "initial": 121,
-      "current": 125
-    },
-    "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md": {
-      "initial": 647,
-      "current": 648
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing.md": {
-      "initial": 5,
-      "current": 10
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md": {
-      "initial": 4,
-      "current": 168
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md": {
-      "initial": 9,
-      "current": 121
-    },
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md": {
-      "initial": 4,
-      "current": 352
+      "current": 209
     }
   }
 }
