@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md"
+                "file": "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "0491249390542da7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
     "Informatik/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
     "Informatik/Semester_04/Infman/Database/Data Definition Language.md",
@@ -211,7 +212,6 @@
     "Informatik/Semester_04/Infman/Database/Nichtprimattribut.md",
     "Informatik/Semester_04/Infman/Database/Normalformen.md",
     "Informatik/Semester_04/Infman/Database/Primattribut.md",
-    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
     "Informatik/Semester_04/Infman/Database/3NF Synthesealgorithmus.md",
