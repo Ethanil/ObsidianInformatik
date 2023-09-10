@@ -54,6 +54,7 @@ Nicht eindeutiger scoope von konjunktionen.
 `Schwarze Katzenund Hunde spielen gerne`
 
 ### Garden path sentences
-Die offensichtliche 
+Die offensichtliche Art und weise des Parsen ist nicht richtig
+`Der Fahrer trat auf die Bremse, weil sie ihn gestochen hatte.`
 
 ## Links

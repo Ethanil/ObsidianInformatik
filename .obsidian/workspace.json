@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0491249390542da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md"
               }
             }
           },
@@ -188,34 +174,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0491249390542da7",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+    "Informatik/Semester_01/Digitaltechnik/DT-Komplement.md",
+    "Informatik/Semester_01/Digitaltechnik/DT Hilfsblatt.md",
+    "Informatik/Semester_01/Digitaltechnik/DT Übung 02.md",
+    "Informatik/Semester_01/Digitaltechnik/DT_ÜB_01_V1.pdf.md",
+    "Informatik/Semester_01/Digitaltechnik/Espresso.md",
+    "Informatik/Semester_01/Digitaltechnik/Feldeffekt-Transistoren.md",
+    "Informatik/Semester_01/Digitaltechnik/Field Programmable Gate Array.md",
+    "Informatik/Semester_01/Digitaltechnik/DT Übung 01.md",
+    "Informatik/Semester_01/Digitaltechnik/Don't Care.md",
+    "Informatik/Semester_01/Digitaltechnik/DRAM.md",
+    "Informatik/Semester_01/Digitaltechnik/Digitaltechnik - Organisatorisches.md",
+    "Informatik/Semester_01/Digitaltechnik/Dekodierer.md",
+    "Informatik/Semester_01/Digitaltechnik/D-Flip-Flop.md",
+    "Informatik/Semester_01/Digitaltechnik/Buffer.md",
+    "Informatik/Semester_01/Digitaltechnik/Bubble Pushing.md",
+    "Informatik/Semester_01/Digitaltechnik/BSV.md",
+    "Informatik/Semester_01/Digitaltechnik/Algorithmische Logikminimierung.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md",
     "Informatik/Semester_04/Infman/Database/Data Definition Language.md",
     "Informatik/Semester_04/Infman/Database/Data Manipulation Language.md",
     "Informatik/Semester_04/Infman/Database/Data Query Language.md",
     "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
-    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
-    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
-    "Informatik/Semester_04/Infman/Database/Daten.md",
-    "Informatik/Semester_04/Infman/Database/Datenbankentwurf.md",
-    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
-    "Informatik/Semester_04/Infman/Database/ER-Diagramm.md",
-    "Informatik/Semester_04/Infman/Database/Funktionale Abhängigkeit.md",
-    "Informatik/Semester_04/Infman/Database/dreiwertige Logik.md",
-    "Informatik/Semester_04/Infman/Database/Datenzugang.md",
-    "Informatik/Semester_04/Infman/Database/Attributhülle.md",
-    "Informatik/Semester_04/Infman/Database/Anomalien.md",
-    "Informatik/Semester_04/Infman/Database/Informationssystem.md",
-    "Informatik/Semester_04/Infman/Database/Konsistenzerhaltung.md",
-    "Informatik/Semester_04/Infman/Database/Nichtprimattribut.md",
-    "Informatik/Semester_04/Infman/Database/Normalformen.md",
-    "Informatik/Semester_04/Infman/Database/Primattribut.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
