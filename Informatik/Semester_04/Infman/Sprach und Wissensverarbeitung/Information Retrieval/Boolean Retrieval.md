@@ -12,4 +12,8 @@ Für die Suche wird in der Menge dann geschaut
 ## Scaling
 Bool'sche Suche skaliert sehr schlecht, wenn wir naiv an das Problem herangehen und sowohl die enthaltenen, als auch die nicht enthaltenen Wörter, daher speichern wir nur die enthaltenen.
 
+## Probleme von Bool'scher Suche
+- Um zu suchen muss man die korrekte Syntax beherrschen
+- Feast or Famine
+	- Entweder erhalten wir zu wenige oder viel zu viele Antworten
 ## Links
