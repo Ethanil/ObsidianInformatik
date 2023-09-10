@@ -6,4 +6,7 @@ Die Lehre der Bedeutung, wobei es lexikalische Semantik (Lehre der Bedeutung lex
 
 ## Lexikalische Mehrdeutigkeit
 Ein Wort mit 2 unterschiedlichen Bedeutungen, wie Pflaster.
+
+## Pragmatik
+Was ist der Sinn/Bedeutung einer Aussage?
 ## Links
