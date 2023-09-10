@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "0491249390542da7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Database/Data Manipulation Language.md",
     "Informatik/Semester_04/Infman/Database/ER-Diagramm.md",
@@ -210,7 +211,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
-    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
     "Informatik/Semester_04/Infman/Database/3NF Synthesealgorithmus.md",
     "Informatik/Semester_04/Infman/Database/Schlüsselmenge.md",
     "Informatik/Semester_04/Infman/Database/Wissen.md",
