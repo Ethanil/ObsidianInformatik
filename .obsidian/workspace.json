@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Distributional Hypothesis.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Distributional Hypothesis.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
@@ -204,7 +205,6 @@
     "Informatik/Semester_01/Digitaltechnik/Bubble Pushing.md",
     "Informatik/Semester_01/Digitaltechnik/BSV.md",
     "Informatik/Semester_01/Digitaltechnik/Algorithmische Logikminimierung.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
