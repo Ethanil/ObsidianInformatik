@@ -13,7 +13,7 @@
     "2023/8/7": 1728,
     "2023/8/8": 4882,
     "2023/8/9": 219,
-    "2023/8/10": 218
+    "2023/8/10": 317
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md": {
@@ -27,6 +27,10 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md": {
       "initial": 4,
       "current": 50
+    },
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md": {
+      "initial": 5,
+      "current": 104
     }
   }
 }
