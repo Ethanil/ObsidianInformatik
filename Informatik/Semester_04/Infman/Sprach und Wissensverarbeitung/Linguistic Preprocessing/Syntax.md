@@ -48,5 +48,12 @@ Ein Kopf einer Phrase ist das Schlüsselwort dieser phrase, wobei ein Modifizier
 ## Mehrdeutigkeit
 ### Attachment ambiguity
 Ein Konstituent kann im parse-baum an verschiedenen Stellen stehen.
+`ich hab den den Elefant in meinem Schlafanzug erschossen`
+### Coordination ambiguity
+Nicht eindeutiger scoope von konjunktionen.
+`Schwarze Katzenund Hunde spielen gerne`
+
+### Garden path sentences
+Die offensichtliche 
 
 ## Links
