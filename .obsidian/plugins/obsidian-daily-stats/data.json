@@ -13,7 +13,7 @@
     "2023/8/7": 1728,
     "2023/8/8": 4882,
     "2023/8/9": 219,
-    "2023/8/10": 1065
+    "2023/8/10": 1267
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md": {
@@ -50,15 +50,19 @@
     },
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md": {
       "initial": 5,
-      "current": 111
+      "current": 116
     },
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md": {
       "initial": 4,
-      "current": 28
+      "current": 115
     },
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md": {
       "initial": 5,
-      "current": 33
+      "current": 41
+    },
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md": {
+      "initial": 5,
+      "current": 107
     }
   }
 }

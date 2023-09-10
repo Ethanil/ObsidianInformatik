@@ -16,4 +16,5 @@ Bool'sche Suche skaliert sehr schlecht, wenn wir naiv an das Problem herangehen 
 - Um zu suchen muss man die korrekte Syntax beherrschen
 - Feast or Famine
 	- Entweder erhalten wir zu wenige oder viel zu viele Antworten
+	- Wird von [[Ranked Retrieval]] behoben
 ## Links
