@@ -47,5 +47,6 @@ Ein Kopf einer Phrase ist das Schlüsselwort dieser phrase, wobei ein Modifizier
 
 ## Mehrdeutigkeit
 ### Attachment ambiguity
+Ein Konstituent kann im parse-baum an verschiedenen Stellen stehen.
 
 ## Links
