@@ -40,7 +40,7 @@ Eine Art der Grammatik ist die Phrasenstrukturgrammatik, bei der ein Satz in Kon
 | Prepositional phrase (PP) | Hat eine Preposition als Kopf | ***in*** der Schule      |
 | Verb Phrase(VP)           | Hat ein Verb als Kopf         | Er ***tanzt***           |
 | Adjectival Phrase (AP)    | Hat ein adjektiv als Kopf     | ***voll*** mit Spielzeug |
-| Adverbial phrase (AdvP)   | Hat ein Adverb als Kopf       | ***sprigend***                         |
+| Adverbial phrase (AdvP)   | Hat ein Adverb als Kopf       | ***springend***                         |
 
 #### Phrasenkopf vs Modifizierer
 Ein Kopf einer Phrase ist das Schlüsselwort dieser phrase, wobei ein Modifizierer ein optionales Element der Phrase ist, welches diese modifiziert.

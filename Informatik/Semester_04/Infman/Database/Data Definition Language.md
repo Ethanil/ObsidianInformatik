@@ -64,7 +64,7 @@ drop table (if exists) ProfessorIn (cascade)
 ```
 `cascade` entfernt auch alle abhängigen Objekte dieser Tabelle.
 ## Ändern einer Tabelle
-Mithilfe von `alter table` können wir eine existierende Tabelle berabeiten
+Mithilfe von `alter table` können wir eine existierende Tabelle bearbeiten
 Attribut hinzufügen:
 ```SQL
 alter table ProfessorIn add column Raum integer
