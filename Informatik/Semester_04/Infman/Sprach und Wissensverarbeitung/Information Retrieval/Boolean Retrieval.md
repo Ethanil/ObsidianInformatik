@@ -10,6 +10,6 @@ Für die Suche wird in der Menge dann geschaut
 - Enthält es Wort1 oder Wort2?
 
 ## Scaling
-Bool'sche Suche skaliert sehr schlecht, wenn wir naiv an das Problem herangehen und sowohl die enthaltenen, als auch die nicht enthaltenen Wörter 
+Bool'sche Suche skaliert sehr schlecht, wenn wir naiv an das Problem herangehen und sowohl die enthaltenen, als auch die nicht enthaltenen Wörter, daher speichern wir nur die enthaltenen.
 
 ## Links
