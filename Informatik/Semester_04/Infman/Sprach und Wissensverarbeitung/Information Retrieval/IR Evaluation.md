@@ -23,4 +23,9 @@ $P = \frac{\text{retrieved } \cap \text{ relevant}}{\text{relevant}}$
 | $\Sigma$      | SUM      | SUM           |          |
 TP = True Positives
 FP = False Positives
-FN = Fal
+TN = True Negatives
+FN = False Negatives
+## $F_{1}$ Score
+Der $F_{1}$ Score beschreibt den gewichteten Durchscnitt von Präzision und Recall:
+$F_{1} = \frac{2PR}{P+R}$
+## Links
