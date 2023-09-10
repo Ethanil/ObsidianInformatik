@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md"
               }
             }
           },
@@ -176,8 +176,13 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Distributional Hypothesis.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Kollokationen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
     "Informatik/Semester_01/Digitaltechnik/DT-Komplement.md",
@@ -197,12 +202,8 @@
     "Informatik/Semester_01/Digitaltechnik/Bubble Pushing.md",
     "Informatik/Semester_01/Digitaltechnik/BSV.md",
     "Informatik/Semester_01/Digitaltechnik/Algorithmische Logikminimierung.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Morphologie.md",
     "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md",
-    "Informatik/Semester_04/Infman/Database/Data Definition Language.md",
-    "Informatik/Semester_04/Infman/Database/Data Manipulation Language.md",
-    "Informatik/Semester_04/Infman/Database/Data Query Language.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
@@ -211,7 +212,6 @@
     "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Semester_04/mathe3",
     "Informatik/Semester_04/c++",
-    "Informatik/Semester_04/fmise",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
