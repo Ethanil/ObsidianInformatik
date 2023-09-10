@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "0491249390542da7",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/Database/Anfragesprache SQL.md",
     "Informatik/Semester_04/Infman/Database/Anomalien.md",
@@ -212,10 +215,7 @@
     "Informatik/Semester_04/Infman/Database/Normalformen.md",
     "Informatik/Semester_04/Infman/Database/Normalisierung.md",
     "Informatik/Semester_04/Infman/Database/Primattribut.md",
-    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
-    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Schlüsselmenge.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",

@@ -31,6 +31,16 @@ Verwende eine Tabelle in der Wörterbuchform -> pos tag steht. Verwende dann noc
 Schätze die Wahrscheinlichkeit, dass ein Wort ein spezifischer tag bekommen würde und nehme den wahrscheinlichsten. Die Wahrscheinlichkeiten wurden mittels manuell erstellten Trainingsdaten gelernt.
 ## Parsing
 Beim parsing finden wir die grammatikalische Struktur eines Satzes heraus. 
+Eine Art der Grammatik ist die Phrasenstrukturgrammatik, bei der ein Satz in Konstituente aufgeteilt wird. Eine Konstituente ist eine Gruppe von Wörtern die sich wie eine Einheit verhalten. In Phrasenstrukturgrammatik sind dies zumeist Phrasen.
+### Phrasen
+
+| Phrase                    | Beschreibung                  | Beispiel                 |
+| ------------------------- | ----------------------------- | ------------------------ |
+| Noun Phrase(NP)           | Hat ein Nomen als Kopf        | die schwarze ***Katze*** |
+| Prepositional phrase (PP) | Hat eine Preposition als Kopf | ***in*** der Schule      |
+| Verb Phrase(VP)           | Hat ein Verb als Kopf         | Er ***tanzt***           |
+| Adjectival Phrase (AP)    | Hat ein adjektiv als Kopf     | ***voll*** mit Spielzeug |
+| Adverbial phrase (AdvP)   | Hat ein Adverb als Kopf       | ***sprigend***                         |
 
 
 ## Links
