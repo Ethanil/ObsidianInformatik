@@ -24,13 +24,8 @@
             "id": "cc825c3839fb5b7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md"
+                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md"
               }
             }
           },
@@ -190,8 +185,9 @@
   },
   "active": "cc825c3839fb5b7a",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Automatische Klassifikation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
@@ -219,7 +215,6 @@
     "Informatik/Semester_01/Digitaltechnik/DT_ÜB_01_V1.pdf.md",
     "Informatik/Semester_01/Digitaltechnik/Espresso.md",
     "Informatik/Semester_01/Digitaltechnik/Feldeffekt-Transistoren.md",
-    "Informatik/Semester_01/Digitaltechnik/Field Programmable Gate Array.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",

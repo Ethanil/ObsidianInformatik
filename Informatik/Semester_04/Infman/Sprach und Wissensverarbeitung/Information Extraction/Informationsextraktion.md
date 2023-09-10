@@ -54,6 +54,15 @@ Anfangs wurden diese Regeln per Hand definiert, allerdings wird dies mittlerweil
 ## Speicherung
 Nachdem wir die Informationen extrahiert haben, müssen wir diese speichern. Dies tun wir in einer `Knowledge base`, bspw in Form eines `Knowledge Graphen`.
 In diesem ist eine Kollektion an Fakten. Fakten sind binäre Beziehungen.
-### 
+### Knowledge Graph
+#### Erschaffung
+##### Curated approach
+Die Tripel werden hierbei per Hand angelegt, was zu hoher Qualität aber niedriger Skalierbarkeit führt
+##### Collaborative Herangehensweise
+Die Tripel werden von einer offenen Gruppe an Freiwilligen angelegt, was zwar zu einer besseren Skalierbarkeit führt, diese ist aber immernoch limitiert.
+##### Automatisierte, semistrukturierte Herangehensweise
+Die Tripel werden hierbei automatisch von semi-strukturierten Texten extrahiert, was zu großen Graphen führt, allerdings nur einen kleinen Teil des Webs abdeckt
+##### Automatisierte unstrukturierte Herangehensweise
+Die Tripel werden hierbei automatisch von unstrukturiertem Text extrahiert, was zu riesigen Graphen führt!
 
-## L
+## Links

@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:Excalidraw  -path:Informatik/Excalidraw path:Informatik/Semester_04  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Informatik/Semester_01",
@@ -38,14 +38,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.5,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 3.95364583333333,
-  "lineSizeMultiplier": 2.396875,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.203125,
-  "repelStrength": 15.8333333333333,
-  "linkStrength": 0.416666666666667,
-  "linkDistance": 253,
-  "scale": 0.16682594968981498,
+  "centerStrength": 0.380208333333333,
+  "repelStrength": 17.9166666666667,
+  "linkStrength": 0.526041666666667,
+  "linkDistance": 30,
+  "scale": 0.23388712837037728,
   "close": false
 }
