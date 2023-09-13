@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md"
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md"
               }
             }
           },
@@ -204,10 +204,11 @@
   },
   "active": "cc825c3839fb5b7a",
   "lastOpenFiles": [
-    "Informatik/Semester_01/Mathe_1/Surjektiv.md",
-    "Informatik/Semester_01/Mathe_1/Bijektiv.md",
     "Informatik/Semester_01/Mathe_1/Injektiv.md",
+    "Informatik/Semester_01/Mathe_1/Bijektiv.md",
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
+    "Informatik/Semester_01/Mathe_1/Surjektiv.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text/Char Encoding.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Automatische Klassifikation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
@@ -233,7 +234,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
-    "Informatik/Semester_01/Digitaltechnik/DT-Komplement.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
