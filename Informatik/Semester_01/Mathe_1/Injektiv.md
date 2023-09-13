@@ -7,6 +7,7 @@ $$3\mapsto a$$
 $$5\mapsto b$$
 $$\mapsto c$$
 ist damit injektiv, da sowohl $a$, als auch $b$, als auch $c$ genau einmal getroffen wird.
+Eine Abbildung ist genau dann injektiv wenn sie [[Monotonie von Funktionen|streng monoton wachsend]] ist
 ## "Ausnahme"
 Eine Ausnahme dieser Regel ist, wenn 
 $$f(a)=c$$
