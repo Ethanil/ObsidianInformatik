@@ -32,13 +32,15 @@ impl&
 \\
  \doteq&   
  &\frac{\Gamma, t \doteq t' \Rightarrow [t/t']\Phi, \Delta}{\Gamma, t \doteq t' \Rightarrow \Phi, \Delta}&       
- &\frac{\Gamma \Rightarrow t \doteq t', [t/t']\Phi, \Delta}{\Gamma\Rightarrow t \doteq t',\Phi,  \Delta}    \\
+ &\frac{\Gamma,  t \doteq t', [t/t']\Phi \Rightarrow \Delta}{\Gamma,t\doteq t',\Phi \Rightarrow t   \Delta}    \\
 \\
- close& & & &   \\
+ equals& &\frac{}{\Gamma \Rightarrow t \doteq t,  \Delta}& &        \\
 \\
- true& &  & &  \\
+ close& &\frac{}{\Gamma, \Phi \Rightarrow \Phi, \Delta}& & &   \\
 \\
- false& &  & &        \\
+ true& &\frac{}{\Gamma \Rightarrow true, \Delta}& &  \\
+\\
+ false& &\frac{}{\Gamma, false \Rightarrow  \Delta}& &        \\
 \end{align}$$
 
 
