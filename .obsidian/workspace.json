@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "1e597596d7e926c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "48165ee0242a11e6",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,6 +191,16 @@
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "c4092f370c3cc1f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -202,7 +222,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc825c3839fb5b7a",
+  "active": "1e597596d7e926c8",
   "lastOpenFiles": [
     "Informatik/Semester_01/Mathe_1/Injektiv.md",
     "Informatik/Semester_01/Mathe_1/Bijektiv.md",
