@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
+                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bijektiv",
+                "query": "hosp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
+                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md"
+                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md"
               }
             }
           },
@@ -222,8 +221,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e597596d7e926c8",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
     "Informatik/Semester_01/Mathe_1/Injektiv.md",
     "Informatik/Semester_01/Mathe_1/Bijektiv.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
@@ -234,7 +234,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
