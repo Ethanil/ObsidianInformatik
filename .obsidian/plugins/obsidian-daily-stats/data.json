@@ -14,12 +14,13 @@
     "2023/8/8": 4882,
     "2023/8/9": 219,
     "2023/8/10": 1833,
-    "2023/8/13": 14
+    "2023/8/13": 14,
+    "2023/8/14": 23
   },
   "todaysWordCount": {
-    "Informatik/Semester_01/Mathe_1/Injektiv.md": {
-      "initial": 99,
-      "current": 113
+    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md": {
+      "initial": 3,
+      "current": 26
     }
   }
 }

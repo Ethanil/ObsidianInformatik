@@ -40,4 +40,4 @@ Ist $\Gamma, \varphi, \varphi \vdash \Delta$ (bzw. $\Gamma \vdash \Delta, \varph
 ```
 
 ## Regeln
-![[Sequenzkalkülregeln]]
+![[Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln]]

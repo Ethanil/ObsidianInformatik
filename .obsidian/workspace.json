@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hosp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md"
+                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md"
               }
             }
           },
@@ -223,6 +222,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
     "Informatik/Semester_01/Mathe_1/Injektiv.md",
     "Informatik/Semester_01/Mathe_1/Bijektiv.md",
@@ -250,9 +251,7 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Kollokationen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Text Corpus.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Semantik.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Segmentation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
