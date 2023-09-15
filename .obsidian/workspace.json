@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md"
+                "file": "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md"
               }
             }
           },
@@ -235,6 +235,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
+    "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
@@ -260,10 +262,8 @@
     "Informatik/Semester_04/Infman/Database/Informationssystem.md",
     "Informatik/Semester_04/Infman/Database/Informationserhalt.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Distributional Hypothesis.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases/Lexical Resources.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora/Kollokationen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
