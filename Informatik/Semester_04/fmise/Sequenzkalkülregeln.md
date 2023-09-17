@@ -12,7 +12,7 @@ not&
 \\
 and&         
 &\frac{\Gamma, \Psi, \Phi \Rightarrow \Delta}{\Gamma, \Psi \land \Phi \Rightarrow \Delta}&       
-&\frac{\Gamma\Rightarrow \Psi,  \Delta \ \ \ \ \ \ \Gamma\Rightarrow \Phi,  \Delta }{\Gamma, \Psi \land \Phi \Rightarrow \Delta}     \\ 
+&\frac{\Gamma\Rightarrow \Psi,  \Delta \ \ \ \ \ \ \Gamma\Rightarrow \Phi,  \Delta }{\Gamma \Rightarrow  \Psi \land \Phi, \Delta}     \\ 
 \\
 or&         
 &\frac{\Gamma, \Psi \Rightarrow \Delta \ \ \ \ \ \  \Gamma, \Phi \Rightarrow \Delta}{\Gamma, \Psi \lor \Phi \Rightarrow \Delta}&       
