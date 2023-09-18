@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md"
+                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md"
               }
             }
           },
@@ -244,14 +243,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "757c3bd5df2c299f",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
+    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
-    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
     "Informatik/Semester_01/Mathe_1/Injektiv.md",

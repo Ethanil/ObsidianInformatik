@@ -20,7 +20,7 @@ or&
 \\
 impl&       
 &\frac{\Gamma, \Psi \Rightarrow \Delta \ \ \ \ \ \  \Gamma \Rightarrow \Phi, \Delta }{\Gamma, \Phi \rightarrow \Psi \Rightarrow \Delta}&     
-&\frac{\Gamma, \Phi  \Rightarrow \Psi, \Delta}{\Gamma,\Phi \rightarrow \Psi \Rightarrow \Delta}   \\    
+&\frac{\Gamma, \Phi  \Rightarrow \Psi, \Delta}{\Gamma\Rightarrow \Phi \rightarrow \Psi , \Delta}   \\    
 \\
  \forall&  
  &\frac{\Gamma, \forall x;\Phi, [x/t']\Phi  \Rightarrow\Delta}{\Gamma, \forall x; \Phi \Rightarrow \Delta}&      
