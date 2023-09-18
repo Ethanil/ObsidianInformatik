@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "757c3bd5df2c299f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "4b0637d6bb3642dd",
             "type": "leaf",
             "state": {
@@ -69,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +244,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "357a2cd03c7615f0",
+  "active": "757c3bd5df2c299f",
   "lastOpenFiles": [
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
     "Informatik/Semester_04/mathe3/Interpolation/Interpolation.md",
