@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md"
+                "file": "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md"
               }
             }
           },
@@ -243,10 +243,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/cpp",
+    "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Boolesche Funktionen.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Syntax.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenz.md",
+    "Informatik/Semester_04/cpp",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/mathe3/Interpolation/Spline-Interpolation.md",
@@ -257,21 +272,7 @@
     "Informatik/Semester_01/Mathe_1/Injektiv.md",
     "Informatik/Semester_01/Mathe_1/Bijektiv.md",
     "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
-    "Informatik/Semester_01/Mathe_1/Surjektiv.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text/Char Encoding.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Automatische Klassifikation.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
-    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
-    "Informatik/Semester_04/Infman/Database/Konsistenzerhaltung.md",
-    "Informatik/Semester_04/Infman/Database/Konzeptionelles Datenmodell.md",
-    "Informatik/Semester_04/Infman/Database/Informationssystem.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
@@ -280,7 +281,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
     "Informatik/Semester_04/Infman/Database",
     "Informatik/Semester_04/mathe3/Interpolation",
-    "Informatik/Semester_04/cer/Differentialgleichungen",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
