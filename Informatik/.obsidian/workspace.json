@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3730e9f9eba83ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35a8f68dc25d6de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41fd500192821fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d11be6d72bbd5a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70c2e57d55e3413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790a57a8b05fd1cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27ade9f20bf637fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4dcf1f7ec93d8052",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d2fc943ea5ecf7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1aa3a014a65e9da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f0ba936370152a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad343a6ddb1b6d7f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed09e94919ae8253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4f8ee5ac821d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499.453125,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a41fd500192821fa",
+  "lastOpenFiles": [
+    "Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
+    "Semester_02/APL/Baum.md",
+    "Semester_02/RO/Speicherhierarchie.md",
+    "Semester_02/RO/Paradigma.md",
+    "Semester_02/RO/Maschinensprache bzw Assemblersprache.md",
+    "Semester_02/RO/Struktur eines Rechnersystems.md",
+    "Semester_02/RO/Programmiermodell.md",
+    "Semester_02/APL/Syntax und Semantik der AL.md",
+    "Semester_02/APL/Grundlegende semantische Begriffe.md",
+    "Semester_02/APL/Grundlegende Semantik von Logikkalküle.md"
+  ]
+}

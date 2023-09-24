@@ -4,11 +4,12 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
   "templates",
   "note-composer",
   "command-palette",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "file-recovery"
 ]
