@@ -8,7 +8,7 @@ Wir legen eine Grenze fest und setzen alle Werte unter der Grenze auf einen Wert
 Gleich wie Binarisierung nur mit mehreren Werten.
 ![[Pasted image 20230925105853.png|200]]
 ## Fensterung
-Bei der Fensterung werden bestimmte Bereiche hervorgehoben und unterdrückt.
-![[Pasted image 20230925105931.png|200]]
+Bei der Fensterung werden bestimmte Bereiche hervorgehoben und unterdrückt. ![[Pasted image 20230925105931.png|right|200]]
 ## Kontrastspreizung
-
+Bei der Kontrastspreizung werden die Werte versucht gleichmäßig zu verteilen.
+![[Pasted image 20230925111013.png]]
