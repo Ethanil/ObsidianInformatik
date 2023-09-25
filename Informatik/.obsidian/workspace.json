@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Zusammenhangskomponente.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Zusammenhangskomponente.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Zusammenhangskomponente.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,13 +168,16 @@
   },
   "active": "a41fd500192821fa",
   "lastOpenFiles": [
-    "Semester_04/Bildverarbeitung/Pfade.md",
-    "Semester_04/Bildverarbeitung/Zusammenhangskomponente.md",
-    "Semester_04/Bildverarbeitung/Zusammenhang.md",
-    "Semester_04/Bildverarbeitung/Ähnlichkeit.md",
-    "Semester_04/Bildverarbeitung/Nachbarschaft.md",
-    "Semester_04/Bildverarbeitung/Quantisierung.md",
-    "Semester_04/Bildverarbeitung/Rasterung.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
+    "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Zusammenhangskomponente.md",
+    "Semester_04/Bildverarbeitung/Definitionen",
+    "Semester_04/Bildverarbeitung/Bildverbesserung",
+    "Semester_04/Bildverarbeitung/Definitionen/Pfade.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Nachbarschaft.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
+    "Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
     "Semester_04/fmise/Sequenzkalkülregeln.md",
     "Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
     "Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
