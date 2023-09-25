@@ -18,7 +18,7 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 380
+    "2023/8/25": 517
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
@@ -43,7 +43,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md": {
       "initial": 4,
-      "current": 49
+      "current": 101
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md": {
+      "initial": 0,
+      "current": 46
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md": {
+      "initial": 1,
+      "current": 40
     }
   }
 }

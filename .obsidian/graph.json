@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Informatik/Semester_01",
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "path:Informatik/Semester_04  ",
+      "query": "path:Informatik/Semester_04/Infman  ",
       "color": {
         "a": 1,
         "rgb": 16364314
+      }
+    },
+    {
+      "query": "path:Informatik/Semester_04 ",
+      "color": {
+        "a": 1,
+        "rgb": 11381023
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 17.9166666666667,
   "linkStrength": 0.526041666666667,
   "linkDistance": 30,
-  "scale": 0.23388712837037728,
+  "scale": 0.2338871283703776,
   "close": false
 }
