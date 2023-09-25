@@ -13,66 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "757c3bd5df2c299f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "4b0637d6bb3642dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc825c3839fb5b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e597596d7e926c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "48165ee0242a11e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Monotonie von Funktionen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md"
               }
             }
           },
@@ -245,17 +186,20 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
+    "Informatik/Screenshots/Pasted image 20230925160714.png",
+    "Informatik/Screenshots/Pasted image 20230925160640.png",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
     "Informatik/Screenshots/Pasted image 20230925153851.png",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
     "Informatik/Screenshots/Pasted image 20230925153458.png",
     "Informatik/Screenshots/Pasted image 20230925151057.png",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Screenshots/Pasted image 20230925103328.png",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
@@ -274,9 +218,7 @@
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Syntax.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenz.md",
     "Informatik/Semester_04/cpp",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
@@ -288,8 +230,6 @@
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",
-    "Informatik/Screenshots/Pasted image 20230301144757.png",
-    "Informatik/Screenshots/Pasted image 20230301144728.png",
-    "Informatik/Screenshots/Pasted image 20230301144658.png"
+    "Informatik/Screenshots/Pasted image 20230301144757.png"
   ]
 }

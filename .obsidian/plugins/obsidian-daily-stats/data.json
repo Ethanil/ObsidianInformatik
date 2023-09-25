@@ -18,7 +18,7 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 636
+    "2023/8/25": 697
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
@@ -31,7 +31,7 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md": {
       "initial": 1,
-      "current": 87
+      "current": 88
     },
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbmessung.md": {
       "initial": 1,
@@ -68,6 +68,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md": {
       "initial": 60,
       "current": 65
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md": {
+      "initial": 4,
+      "current": 64
     }
   }
 }
