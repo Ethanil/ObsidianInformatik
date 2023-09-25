@@ -1,0 +1,2 @@
+![[Pasted image 20230925151057.png]]
+Hierbei wird das [[CIE-Normalfarbsystem]] verwendet. $Y$ kommt dabei "aus dem Bild heraus" und $x$ und $y$ sind konkret eingezeichnet. Der Weißpunkt (Unbuntpunkt) liegt bei $(\frac{1}{3},\frac{1}{3},\frac{1}{3})$, wobei der 3. Teil des Tupels, das $z$ nicht eingezeichnet wird.

@@ -18,7 +18,7 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 156
+    "2023/8/25": 380
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
@@ -31,7 +31,19 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md": {
       "initial": 1,
-      "current": 60
+      "current": 87
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbmessung.md": {
+      "initial": 1,
+      "current": 63
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md": {
+      "initial": 63,
+      "current": 153
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md": {
+      "initial": 4,
+      "current": 49
     }
   }
 }
