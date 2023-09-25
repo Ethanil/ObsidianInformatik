@@ -18,16 +18,20 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 71
+    "2023/8/25": 156
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
       "initial": 2,
-      "current": 55
+      "current": 81
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md": {
       "initial": 199,
       "current": 217
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md": {
+      "initial": 1,
+      "current": 60
     }
   }
 }
