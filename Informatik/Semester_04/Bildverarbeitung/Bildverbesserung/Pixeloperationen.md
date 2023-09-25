@@ -12,3 +12,7 @@ Bei der Fensterung werden bestimmte Bereiche hervorgehoben und unterdrückt. ![[
 ## Kontrastspreizung
 Bei der Kontrastspreizung werden die Werte versucht gleichmäßig zu verteilen.
 ![[Pasted image 20230925111013.png]]
+## Histogrammausgleich
+Wir Transformieren die Grauwertskala anhand der Kurve der Summenwahrscheinlichkeiten
+![[Pasted image 20230925114631.png|600]]
+Ziel ist an sich das gleiche wie die Spreizung, aber wir können bspw gut mit Ausreißern umgehen.
