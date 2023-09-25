@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md"
               }
             }
           },
@@ -243,8 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+    "Informatik/Screenshots/Pasted image 20230925103328.png",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
     "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
@@ -270,8 +273,6 @@
     "Informatik/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
-    "Informatik/Semester_01/Mathe_1/Injektiv.md",
-    "Informatik/Semester_01/Mathe_1/Bijektiv.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
@@ -280,7 +281,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
     "Informatik/Semester_04/Infman/Database",
-    "Informatik/Semester_04/mathe3/Interpolation",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",

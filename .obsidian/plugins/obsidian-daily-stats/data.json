@@ -17,12 +17,17 @@
     "2023/8/13": 14,
     "2023/8/14": 238,
     "2023/8/17": 3,
-    "2023/8/18": 3
+    "2023/8/18": 3,
+    "2023/8/25": 71
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md": {
-      "initial": 238,
-      "current": 241
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
+      "initial": 2,
+      "current": 55
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md": {
+      "initial": 199,
+      "current": 217
     }
   }
 }

@@ -14,5 +14,5 @@
   "livePreview": true,
   "autoPairMarkdown": false,
   "attachmentFolderPath": "Informatik/Screenshots",
-  "showInlineTitle": false
+  "showInlineTitle": true
 }

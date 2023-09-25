@@ -1,20 +1,22 @@
 ## negativ
-Wir negieren die Werte.
-![[Pasted image 20230925105813.png|200]]
+Wir negieren die Werte. 
+![[Pasted image 20230925105813.png# shadow 1/2 left]]
 ## Binarisierung
-Wir legen eine Grenze fest und setzen alle Werte unter der Grenze auf einen Wert und alle anderen auf einen anderen.
-![[Pasted image 20230925105832.png|200]]
+Wir legen eine Grenze fest und setzen alle Werte unter der Grenze auf einen Wert und alle anderen auf einen anderen. 
+![[Pasted image 20230925105832.png# 1/2 shadow left]]
+
 ## Quantisierung
 Gleich wie Binarisierung nur mit mehreren Werten.
-![[Pasted image 20230925105853.png|200]]
+![[Pasted image 20230925105853.png# shadow 1/2 left]]
 ## Fensterung
-Bei der Fensterung werden bestimmte Bereiche hervorgehoben und unterdrückt. ![[Pasted image 20230925105931.png|right|200]]
+Bei der Fensterung werden bestimmte Bereiche hervorgehoben und unterdrückt.
+![[Pasted image 20230925105931.png# 1/2 shadow left]]
 ## Kontrastspreizung
 Bei der Kontrastspreizung werden die Werte versucht gleichmäßig zu verteilen.
-![[Pasted image 20230925111013.png]]
+![[Pasted image 20230925111013.png# 3/4 shadow left]]
 ## Histogrammausgleich
 Wir Transformieren die Grauwertskala anhand der Kurve der Summenwahrscheinlichkeiten
-![[Pasted image 20230925114631.png|600]]
+![[Pasted image 20230925114631.png#  4/5 shadow left]]
 Ziel ist an sich das gleiche wie die Spreizung, aber wir können bspw gut mit Ausreißern umgehen.
 ## Dynamik Kompression
 Wir Skalieren die Lichtintensitöten bei der Abbildung nichtlinear (bspw mit log)
