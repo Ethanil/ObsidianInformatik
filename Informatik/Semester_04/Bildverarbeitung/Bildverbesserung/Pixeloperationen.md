@@ -16,3 +16,15 @@ Bei der Kontrastspreizung werden die Werte versucht gleichmäßig zu verteilen.
 Wir Transformieren die Grauwertskala anhand der Kurve der Summenwahrscheinlichkeiten
 ![[Pasted image 20230925114631.png|600]]
 Ziel ist an sich das gleiche wie die Spreizung, aber wir können bspw gut mit Ausreißern umgehen.
+## Dynamik Kompression
+Wir Skalieren die Lichtintensitöten bei der Abbildung nichtlinear (bspw mit log)
+$$g[m,n] = c \times \log(1+|i[m,n]|)$$
+## Gamme Korrektur
+Wiedergabe der Intensitäten von Pixeln auf einem bildarstellenden Medium ist idr. nichtlinear.
+$$g[m,n] = f_{max}\left(\frac{f[m,n]}{f_{max}}\right)^{\gamma}$$
+## Differenz
+Detektion dynamischer Bildbereiche
+$$g[m,n]=f_{1}[m,n] - f_{2}[m,n]$$
+## Mittelung
+Unterdrückung von unkorreliertem Rauschen ( aka arithmetisches Mittel)
+$$g[m,n] = \frac{1}{k}\sum_{k}f_{i}[m,n]$$
