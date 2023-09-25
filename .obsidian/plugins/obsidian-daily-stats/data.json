@@ -18,7 +18,7 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 517
+    "2023/8/25": 636
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
@@ -52,6 +52,22 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md": {
       "initial": 1,
       "current": 40
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md": {
+      "initial": 1,
+      "current": 111
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV.md": {
+      "initial": 14,
+      "current": 18
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsysten.md": {
+      "initial": 94,
+      "current": 60
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md": {
+      "initial": 60,
+      "current": 65
     }
   }
 }

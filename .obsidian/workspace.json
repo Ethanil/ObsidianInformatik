@@ -11,8 +11,13 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -148,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md"
+              }
             }
           },
           {
@@ -237,6 +245,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
@@ -267,7 +277,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenz.md",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
-    "Informatik/Semester_04/fmise/Sequenzkalkülregeln.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",

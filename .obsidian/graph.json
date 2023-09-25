@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Excalidraw  -path:Informatik/Excalidraw path:Informatik/Semester_04  ",
   "showTags": false,
   "showAttachments": false,
@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "path:Informatik/Semester_04 ",
+      "query": "path:Informatik/Semester_04/Bildverarbeitung  ",
       "color": {
         "a": 1,
-        "rgb": 11381023
+        "rgb": 12113693
+      }
+    },
+    {
+      "query": "path:Informatik/Semester_04  ",
+      "color": {
+        "a": 1,
+        "rgb": 7693589
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 17.9166666666667,
   "linkStrength": 0.526041666666667,
   "linkDistance": 30,
-  "scale": 0.2338871283703776,
+  "scale": 0.23388712837037776,
   "close": false
 }
