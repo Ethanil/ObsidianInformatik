@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1aa3a014a65e9da2",
@@ -94,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+                "file": "Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +169,10 @@
   },
   "active": "a41fd500192821fa",
   "lastOpenFiles": [
-    "Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
     "Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+    "Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
+    "Pasted image 20230925103328.png",
+    "Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
     "Semester_04/Bildverarbeitung/Definitionen/Zusammenhangskomponente.md",
     "Semester_04/Bildverarbeitung/Definitionen",
     "Semester_04/Bildverarbeitung/Bildverbesserung",
