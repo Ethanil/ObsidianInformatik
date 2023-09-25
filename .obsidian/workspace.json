@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md"
               }
             }
           },
@@ -186,17 +186,18 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
     "Informatik/Screenshots/Pasted image 20230925160714.png",
     "Informatik/Screenshots/Pasted image 20230925160640.png",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
     "Informatik/Screenshots/Pasted image 20230925153851.png",
     "Informatik/Screenshots/Pasted image 20230925153458.png",
     "Informatik/Screenshots/Pasted image 20230925151057.png",

@@ -1,3 +1,5 @@
 ![[Pasted image 20230925151057.png# 5/6 shadow left]]
 Hierbei wird das [[CIE-Normalfarbsystem]] verwendet. $Y$ kommt dabei "aus dem Bild heraus" und $x$ und $y$ sind konkret eingezeichnet. Der Weißpunkt (Unbuntpunkt) liegt bei $(\frac{1}{3},\frac{1}{3},\frac{1}{3})$, wobei der 3. Teil des Tupels, das $z$ nicht eingezeichnet wird.
 Jede Farbe ist so definiert, dass wir eine Gerade vom Weißpunkt durch den Punkt, der die Farbe darstellt ziehen. Den Schnittpunkt mit der Außenseite ist dabei unser Farbton. Wie weit die Farbe weg ist vom Weißpunkt ist dabei die Farbsättigung$\left(S= \frac{\overline{AB}}{\overline{AC}}\right)$ 
+
+Die Linie zwischen rot und blau nennt man "Purpurlinie", die Farbe darauf beschreibt man mittels % (niedrig bei blau, hoch bei rot) und die Farben auf dieser sind ein Ergebnis der Farbwahrnemung und resultieren aus dem gleichzeitigen Einfall kurz- und langwelligen Lichts.
