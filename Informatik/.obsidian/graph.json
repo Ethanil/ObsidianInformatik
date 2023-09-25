@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:Semester_01/PDFs  -path:Templates -path:Semester_01/Excalidraw -path:Semester_01/Digitaltechnik/Bilder -path:Semester_01/Digitaltechnik/Vorlesungsfolien -path:Semester_01/Digitaltechnik/Vorlesungsübersicht -path:Semester_01/Digitaltechnik/Vorlesung -path:Semester_01/Mathe_1/Klausuren -path:Semester_01/Mathe_1/Uebungen -path:Semester_01/AFE/Uebungen",
   "showTags": false,
   "showAttachments": false,
@@ -66,7 +66,7 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.63714947573762,
   "lineSizeMultiplier": 0.872457937088515,
   "collapse-forces": true,
@@ -74,6 +74,6 @@
   "repelStrength": 12.3603999024628,
   "linkStrength": 0.384052670080468,
   "linkDistance": 185,
-  "scale": 0.03447182528974263,
+  "scale": 0.40252081649375404,
   "close": false
 }

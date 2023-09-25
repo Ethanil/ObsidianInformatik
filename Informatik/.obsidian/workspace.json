@@ -11,8 +11,13 @@
             "id": "a41fd500192821fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semester_04/Bildverarbeitung/Organisatorisches.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Semester_04/Bildverarbeitung/Organisatorisches.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester_04/Bildverarbeitung/Organisatorisches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +168,9 @@
   },
   "active": "a41fd500192821fa",
   "lastOpenFiles": [
+    "Semester_04/fmise/Sequenzkalkülregeln.md",
+    "Semester_04/Bildverarbeitung/Organisatorisches.md",
+    "Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Flexion.md",
     "Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
     "Semester_02/APL/Baum.md",
     "Semester_02/RO/Speicherhierarchie.md",
