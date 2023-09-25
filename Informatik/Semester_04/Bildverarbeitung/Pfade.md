@@ -1,0 +1,1 @@
+Pfade verbinden [[Zusammenhang|zusammenhängende]] Pixel.

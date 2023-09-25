@@ -1,0 +1,1 @@
+Unter Quantisierung versteht man die Bewertung der Helligkeit eines Pixels mittels festgelegter Grauwertmenge.
