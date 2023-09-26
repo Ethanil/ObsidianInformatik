@@ -32,6 +32,8 @@ Bei einem Hochpass-Filter unterdrücken wir niedrige Frequenzen (also grobe Stru
 Die Koeffizienten können sowohl negativ als auch positiv sein, deren Summe 0 ergibt. Wir produzieren also auch negative Werte!
 Bei einem Hochpass-Filter schauen wir uns die Ableitung der Werte des Bildes an.
 ### Erste Ableitung/Differenzfilter/partieller Gradienter
+Die erste Ableitung ist ein Richtungsabhängiger Filter, der nur durch Kombination der Partialergebnisse auf ein korrektes Gesamtergebnis kommt. Anwendung ist v.a. in der Automatisierung, Inspektion, Computervision und der optischen Messtechnik, da er Übergänge hervorhebt und robust gegenüber Rauschen ist.
+Wir leiten also in mindestens 2 unterschiedliche Richtungen ab und verwendet eine Differenzmaske um ein Gesamtergebnis zu erhalten.
 #### xy-Differenz
 ![[Pasted image 20230926114641.png# 1/4 left shadow]]
 Der xy-Differenz-Filter beschreibt die Differenz in x und in y Richtung:
@@ -55,7 +57,26 @@ Wie Prewitt, nur dass ein "Gauss"-Ansatz zur Tiefpass-Filterung verwendet wird
 #### Kirsch-Kompass
 Hier werden 8 Richtungen betrachtet und nicht nur 2
 ![[Pasted image 20230926120050.png# 1/2 left shadow]]
+![[Pasted image 20230926120118.png# 1/2 left shadow]]
 ### Zweiter Ableitung
+Linien und Punktet-Detektor, da die zweite Ableitung verwendet wird und wie so keinen Ausschlag mehr bei Rampen und homogenen Flächen haben, sondern nur einen großen Ausschlag bei scharfen Unstetigkeiten, einzelnen Punkten oder dünnen linien und einen mittleren Ausschlag bei Übergängen(Stufen).
+Die zweite Ableitung erzeugt immer Doppelkanten, wobei die eigentliche Kante des Bildes zwischen diesen beiden Kanten liegt.
+Diese linearen Filter sind dabei richtungsunabhängig(Punkte haben auch keine Richtung) und kommen somit mit einer einzelnen Filtermaske aus. Sie heben kleine Details hervor und verstärken Rauschen. Dies entspricht der menschlichen Wahrnehmung, ist also sehr relevant für die Bildverbesserung.
+#### Differenzfilter
+Die einfachste Art ist eine Art Boxfilter, der nach unterschieden in der Umgebung sucht.
+![[Pasted image 20230926121336.png# 1/4 left shadow]]
+
+#### Laplacian Filter
+$$L(x,y) = \Delta^{2}f(x,y) = \frac{\partial^{2}f(x,y)}{\partial x^{2}} + \frac{\partial^{2}f(x,y)}{\partial y^{2}}$$
+![[Pasted image 20230926121544.png# 1/4 left shadow]]$$\begin{align*}
+&1 \geq \alpha \geq-1 \\\\
+x = &\begin{cases}
+4 &&1\geq \alpha \geq 0 \\
+4(1-\alpha)&&0>\alpha \geq -1
+\end{cases}
+\end{align*}$$
+#### Laplacian-of-Gaussian (LOG)-Filter
+Wir reduzieren das Rauschen mittels eines Gauss-Filters und danach dann einen Laplacian Filter.
 
 ## Bandpass
 Unterdrückung von hohen und niedrigen Frequenzen (also nur mittlere bleiben Übrig)
