@@ -77,8 +77,12 @@ Wir wollen ein Binärbild mit möglichst geschlossenen Konturen erschaffen.
 Dabei identifizieren wir von einem Startpunkt aus den nächsten Konturpunkt entlang eines Suchstrahls. Die Richtung der Kante ergibt sich aus dem bereits erhaltenen Punkten oder dem Gradienten. Diese "Fortlaufende Kantensuche" führt allerdings zu falschen Konturen, wenn einmal ein Fehler gemacht wurde.
 Wir gehen wie folgt vor:
 1. Tiefpass mit Gauß-Filter
-2. Berechne kombinierten Gradientenbetrag und Richtung der 1. partiellen Ableitung (z.B. nach Sobel)
-3. 
+2. Berechne kombinierten Gradientenbetrag und Richtung der 1. partiellen Ableitung (z.B. nach Sobel). Die Richtung zeigt dabei dei Kantennormale n
+3. Die Kantennormale wird in 0°, 45°, 90° und 145° gerundet
+4. non-maximal supression auf dem Gradientenbild:
+	1. "Verdünne" Gradienten
+	2. Unterdrücke lokale minima(Suche in der 8-[[Nachbarschaft]] entlang von n das Pixel mit dem maximalen Gradienten) => Dadurch erhalten wir "Dünne" Kanten
+5. Verfolge die Kanten in alle Richtungen mittels [[Schwellwert-Hysterese]] um Kanten zu verbinden => Wir legen 2 Grenzen fest, einmal $T_{1}$ und einmal $T_{2}$, wenn ein Wert größer als $T_{1}$ ist, dann wird er unabhängig von seinen Nachbarn hinzugefügt, wenn er nur größer als $T_{2}$ ist, dann wird er nur dann hinzugefügt, wenn ein Nachbar bereits hinzugefügt wurde. (Wir wählen $T_{2}:T_{1} \approx 1:3$)
 ## Bandpass
 Unterdrückung von hohen und niedrigen Frequenzen (also nur mittlere bleiben Übrig)
 ![[Pasted image 20230926101706.png# 1/2 left shadow]]

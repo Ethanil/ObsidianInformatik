@@ -1,0 +1,1 @@
+Bei einem Schwellwertschalter ist oft eine sogenannte Hysterese eingebaut um das unerwünschte schnelle ein- und ausschalten zu verhindern.
