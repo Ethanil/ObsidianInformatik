@@ -78,6 +78,8 @@ x = &\begin{cases}
 #### Laplacian-of-Gaussian (LOG)-Filter
 Wir reduzieren das Rauschen mittels eines Gauss-Filters und danach dann einen Laplacian Filter.
 
+### Kantenextraktion
+Wir wollen versuchen Kanten in unserem Bild zu finden. Dafür können wir bspw. die bekannten Filter mit einem Schwellenwert binarisieren. Dies führt allerdings fast nie zu einem guten Ergebnis. Eine andere Möglichkeit ist es mit LoG Kanten zu finden und dort die Zero-Corssings zu berechnen(Marr-Hildreth Operator) 
 ## Bandpass
 Unterdrückung von hohen und niedrigen Frequenzen (also nur mittlere bleiben Übrig)
 ![[Pasted image 20230926101706.png# 1/2 left shadow]]
