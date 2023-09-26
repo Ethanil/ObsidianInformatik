@@ -65,3 +65,11 @@ Jeder Eintrag in dem Spektrum definiert eine Cosinus-Welle. Für diesen Eintrag 
 | Phase                   | Verschiebung der Welle zum Ursprung |
 | Ausbreitung             | Verbindungsgerade zum Mittelpunkt   |
 | Abstand zum Mittelpunkt | Frequenz der Welle                  |
+
+## Vorteile der Fourier Transformation
+Transformierte repräsentiert Bildfrequenz
+## Nachteile der Fourier Transformation
+Transformierte ist komplex(Spektrum & Phase).
+Wir haben Fließkomma Koeffizienten.
+Transformierte ist redundant (Symmetrie, konjugiert komplexe Koeffizienten)
+Nicht lokalisiert.
