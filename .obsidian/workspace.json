@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
               }
             }
           },
@@ -186,8 +186,14 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
+    "Informatik/Screenshots/Pasted image 20230926101723.png",
+    "Informatik/Screenshots/Pasted image 20230926101706.png",
+    "Informatik/Screenshots/Pasted image 20230926101647.png",
+    "Informatik/Screenshots/Pasted image 20230926101627.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Screenshots/Pasted image 20230926100305.png",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
@@ -219,18 +225,12 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Boolesche Funktionen.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
-    "Informatik/Screenshots/Pasted image 20230303183134.png",
-    "Informatik/Screenshots/Pasted image 20230301145015.png",
-    "Informatik/Screenshots/Pasted image 20230301144855.png",
-    "Informatik/Screenshots/Pasted image 20230301144757.png"
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing"
   ]
 }

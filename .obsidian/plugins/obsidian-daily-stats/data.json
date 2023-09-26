@@ -19,7 +19,7 @@
     "2023/8/17": 3,
     "2023/8/18": 3,
     "2023/8/25": 808,
-    "2023/8/26": 112
+    "2023/8/26": 372
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
@@ -36,7 +36,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md": {
       "initial": 1,
-      "current": 26
+      "current": 186
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
+      "initial": 0,
+      "current": 100
     }
   }
 }
