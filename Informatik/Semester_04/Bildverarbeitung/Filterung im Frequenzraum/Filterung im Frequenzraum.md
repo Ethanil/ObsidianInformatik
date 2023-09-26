@@ -1,0 +1,1 @@
+Bei der Filterung im Frequenzraum wird anders als bei der [[Filterung im Ortsraum]] eine Bildtransformation über eine Manipulation der Koeffizienten im [[Frequenzraum]] ausgeführt. Danach wird eine Rücktransformation in den Bildbereich gemacht.

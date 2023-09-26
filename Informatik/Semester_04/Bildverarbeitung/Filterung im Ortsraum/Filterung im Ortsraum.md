@@ -1,0 +1,1 @@
+Bei der Filterung im [[Ortsraum]] wird, anders als bei der [[Filterung im Frequenzraum]] die Pixelwerte im Bild direkt manipuliert.

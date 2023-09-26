@@ -1,0 +1,2 @@
+Der Ortsraum ist die Menge an Pixeln mit einem bestimmten Grauwert([[Quantisierung]]).
+Das Bild wird dabei in Zeilen und Spalten([[Rasterung]]) eingeteilt und wir können zwischen den Pixeln [[Ähnlichkeit]], [[Nachbarschaft]], [[Zusammenhang]](Es werden also auch [[Zusammenhangskomponente]] gebildet) und [[Pfade]] finden.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md"
               }
             }
           },
@@ -186,6 +186,16 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
@@ -197,7 +207,6 @@
     "Informatik/Screenshots/Pasted image 20230925160640.png",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
     "Informatik/Screenshots/Pasted image 20230925153851.png",
     "Informatik/Screenshots/Pasted image 20230925153458.png",
     "Informatik/Screenshots/Pasted image 20230925151057.png",
@@ -212,13 +221,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkül.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Belegungen.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Terme.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Syntax.md",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
@@ -226,8 +228,6 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Text Corpora",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Natural Language Text",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung",
-    "Informatik/Semester_04/Infman/Database",
     "Informatik/Screenshots/Pasted image 20230303183134.png",
     "Informatik/Screenshots/Pasted image 20230301145015.png",
     "Informatik/Screenshots/Pasted image 20230301144855.png",

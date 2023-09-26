@@ -18,64 +18,25 @@
     "2023/8/14": 238,
     "2023/8/17": 3,
     "2023/8/18": 3,
-    "2023/8/25": 808
+    "2023/8/25": 808,
+    "2023/8/26": 112
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
-      "initial": 2,
-      "current": 81
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md": {
-      "initial": 199,
-      "current": 217
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
       "initial": 1,
-      "current": 88
+      "current": 19
     },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbmessung.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md": {
       "initial": 1,
-      "current": 63
+      "current": 31
     },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md": {
-      "initial": 63,
-      "current": 153
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md": {
-      "initial": 4,
-      "current": 142
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md": {
-      "initial": 0,
-      "current": 46
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md": {
       "initial": 1,
       "current": 40
     },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md": {
       "initial": 1,
-      "current": 111
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV.md": {
-      "initial": 14,
-      "current": 18
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsysten.md": {
-      "initial": 94,
-      "current": 60
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md": {
-      "initial": 60,
-      "current": 65
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md": {
-      "initial": 4,
-      "current": 64
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md": {
-      "initial": 1,
-      "current": 71
+      "current": 26
     }
   }
 }
