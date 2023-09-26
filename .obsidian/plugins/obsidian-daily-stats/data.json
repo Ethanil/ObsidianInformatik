@@ -19,7 +19,7 @@
     "2023/8/17": 3,
     "2023/8/18": 3,
     "2023/8/25": 808,
-    "2023/8/26": 1206
+    "2023/8/26": 1294
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
@@ -40,11 +40,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
       "initial": 0,
-      "current": 865
+      "current": 953
     },
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md": {
       "initial": 0,
       "current": 69
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md": {
+      "initial": 64,
+      "current": 64
     }
   }
 }
