@@ -1,5 +1,6 @@
 Es gibt grob 2 Arten der Biltransformation, die unitäre und die parametrische Bildtransformationen. Wir verwenden diese Transformationen um dann in diesem anderen Raum die Bilder mathematisch zu manipulieren und danach wieder in den normalen Bildraum zu überführen.
 ## Unitäre Bildtransformationen
+Bei einer unitären Bildtransformation wird eine sperable & symmetrische Transformation 
 [[Fourier Transformation]]
 Cosinus Transformation
 Walsh-Hadamard Transformation

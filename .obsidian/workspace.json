@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
