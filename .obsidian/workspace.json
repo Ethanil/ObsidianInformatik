@@ -164,12 +164,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,20 +186,21 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md",
+    "Informatik/Screenshots/Pasted image 20230926111701.png",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Screenshots/Pasted image 20230926110621.png",
+    "Informatik/Screenshots/Pasted image 20230926110306.png",
+    "Informatik/Screenshots/Pasted image 20230926110243.png",
+    "Informatik/Screenshots/Pasted image 20230926110215.png",
     "Informatik/Screenshots/Pasted image 20230926104740.png",
     "Informatik/Screenshots/Pasted image 20230926104454.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Pasted image 20230926104415.png.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Screenshots/Pasted image 20230926104415.png",
     "Informatik/Screenshots/Pasted image 20230926104020.png",
     "Informatik/Screenshots/Pasted image 20230926103812.png",
-    "Informatik/Screenshots/Pasted image 20230926101723.png",
-    "Informatik/Screenshots/Pasted image 20230926101706.png",
-    "Informatik/Screenshots/Pasted image 20230926101647.png",
-    "Informatik/Screenshots/Pasted image 20230926101627.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Screenshots/Pasted image 20230926100305.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
@@ -215,7 +216,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
-    "Informatik/Screenshots/Pasted image 20230925160714.png",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
@@ -224,7 +224,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Boolesche Funktionen.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",

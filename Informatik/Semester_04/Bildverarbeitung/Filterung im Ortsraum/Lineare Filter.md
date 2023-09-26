@@ -19,8 +19,12 @@ G(x,y) = \frac{1}{2 \cdot \pi \sigma^{2}}e^{\frac{-x^{2}+y^{2}}{2\sigma^{2}}}
 Der Gauss-Filter entfernt Details und schwingt dabei (fast) nicht bei Kanten.
 ![[Pasted image 20230926104740.png# 1/2 left shadow]]
 
+Vergleiche [[Nichtlinearer Filter#Median Filter|median Filter]].
 ### Anwendungsgebiete
-- 
+ ![[Pasted image 20230926110306.png# 1/2 left shadow|Entfernung von Gauß'schem Rauschen]] 
+![[Pasted image 20230926110243.png# 1/2 left shadow| Entfernung von periodischem Rauschen]]
+![[Pasted image 20230926110215.png# 1/2 left shadow | Aufbereitung von Halbtonbildern]]
+![[Pasted image 20230926110621.png# 1/2 left shadow | ROI(Region of Interest) Maske]]                                                     
 ## Hochpass
 Bei einem Hochpass-Filter unterdrücken wir niedrige Frequenzen (also grobe Strukturen werden entfernt)
 ![[Pasted image 20230926101647.png# 1/2 left shadow]]
