@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
-                "mode": "source",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
               }
             }
           },
@@ -187,27 +187,30 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
-    "Informatik/Screenshots/Pasted image 20230926200043.png",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
+    "Informatik/Screenshots/Pasted image 20230926200948.png",
+    "Informatik/Screenshots/Pasted image 20230926200852.png",
+    "Informatik/Screenshots/Pasted image 20230926200043.png",
     "Informatik/Screenshots/Pasted image 20230926195713.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Screenshots/Pasted image 20230926132035.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
@@ -219,11 +222,8 @@
     "Informatik/Screenshots/Pasted image 20230926120118.png",
     "Informatik/Screenshots/Pasted image 20230926120050.png",
     "Informatik/Screenshots/Pasted image 20230926115652.png",
-    "Informatik/Screenshots/Pasted image 20230926115624.png",
-    "Informatik/Screenshots/Pasted image 20230926115230.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Pasted image 20230926104415.png.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",

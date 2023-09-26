@@ -19,7 +19,7 @@
     "2023/8/17": 3,
     "2023/8/18": 3,
     "2023/8/25": 808,
-    "2023/8/26": 2419
+    "2023/8/26": 2451
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
@@ -68,15 +68,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md": {
       "initial": 1,
-      "current": 83
+      "current": 82
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md": {
       "initial": 1,
-      "current": 33
+      "current": 32
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md": {
       "initial": 1,
-      "current": 65
+      "current": 99
     }
   }
 }
