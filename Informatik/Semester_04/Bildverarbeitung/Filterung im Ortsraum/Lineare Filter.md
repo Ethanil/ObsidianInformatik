@@ -28,6 +28,12 @@ Vergleiche [[Nichtlinearer Filter#Median Filter|median Filter]].
 ## Hochpass
 Bei einem Hochpass-Filter unterdrücken wir niedrige Frequenzen (also grobe Strukturen werden entfernt)
 ![[Pasted image 20230926101647.png# 1/2 left shadow]]
+
+Die Koeffizienten können sowohl negativ als auch positiv sein, deren Summe 0 ergibt. Wir produzieren also auch negative Werte!
+### Erste Ableitung/Differenzfilter/partieller Gradienter
+
+### Zweiter Ableitung
+
 ## Bandpass
 Unterdrückung von hohen und niedrigen Frequenzen (also nur mittlere bleiben Übrig)
 ![[Pasted image 20230926101706.png# 1/2 left shadow]]
