@@ -22,3 +22,12 @@ F(\omega) = \int^{\infty}_{-\infty}f(t) \cdot e^{-i 2 \pi \omega t} dt\\
 f(t) =  \int^{\infty}_{-\infty}F(\omega) \cdot e^{i 2 \pi \omega t} dt\\
 e^{-i2 \pi \omega t}= \cos(2 \pi \omega t)- i \cdot \sin(2 \pi \omega t)\\
 \end{align*}$$
+
+Daraus folgt dass $F(\omega)$ einen $Re$ und einen $Im$ teil hat. Dies kann man nun auf unterschiedliche Arten darstellen, entweder wir schreiben
+$$F(\omega) = Re\{F(\omega)\} + i \cdot Im\{F(\omega\}$$
+oder wir verwenden die Länge und den Winkel um den Punkt in der komplexen Ebene darzustellen:
+$$\begin{align*}
+F(\omega) &= |F(\omega)| \cdot e^{i \Phi(\omega)}|\\
+|F(\omega)| &= \sqrt{Re\{F(\omega)\}^{2}+Im\{F(\omega)\}^{2}}&&\text{"Amplituden Spektrum"}\\
+\varPhi(\omega) &= \arctan \left( \frac{Im\{F(\omega)\}}{Re\{F(\omega)\}}\right) &&\text{"Phasen Spektrum"}
+\end{align*}$$
