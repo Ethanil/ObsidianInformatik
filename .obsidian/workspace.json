@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md"
               }
             }
           },
@@ -187,9 +187,14 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
+    "Informatik/Screenshots/Pasted image 20230926200043.png",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+    "Informatik/Screenshots/Pasted image 20230926195713.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Screenshots/Pasted image 20230926132035.png",
@@ -216,17 +221,12 @@
     "Informatik/Screenshots/Pasted image 20230926115652.png",
     "Informatik/Screenshots/Pasted image 20230926115624.png",
     "Informatik/Screenshots/Pasted image 20230926115230.png",
-    "Informatik/Screenshots/Pasted image 20230926115216.png",
-    "Informatik/Screenshots/Pasted image 20230926115151.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Pasted image 20230926104415.png.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
-    "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
