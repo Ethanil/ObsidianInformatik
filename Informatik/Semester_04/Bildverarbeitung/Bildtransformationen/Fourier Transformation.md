@@ -1,3 +1,4 @@
+## Fourier Reihe
 Die Fourier-Reihe ist die Zerlegung einer diskreten, periodischen Funktion in sinus und cosinus. 
 
 $$\begin{align*}
@@ -14,3 +15,10 @@ b_{n}&= \frac{2}{T}\int^{T}_{0}f(t)\sin(n \omega t) dt&&\text{für }n \geq 1
 
 Im Fourier Bereich werden alle Werte der Funktion $f(t)$ bei der Berechnung von den jeweiligen $a_{n}$ und $b_{n}$ einbezogen.
 Im Ortsbereich ergibt sich an jeder Stelle der Funktionswert durch die Überlagerung aller sin und cos Wellen
+## Fourier Transformation
+Bei der Fourier Transformation wird die funktion $f(t)$ zu einer anderen Funktion $F(\omega)$ transformiert:
+$$\begin{align*}
+F(\omega) = \int^{\infty}_{-\infty}f(t) \cdot e^{-i 2 \pi \omega t} dt\\
+f(t) =  \int^{\infty}_{-\infty}F(\omega) \cdot e^{i 2 \pi \omega t} dt\\
+e^{-i2 \pi \omega t}= \cos(2 \pi \omega t)- i \cdot \sin(2 \pi \omega t)\\
+\end{align*}$$
