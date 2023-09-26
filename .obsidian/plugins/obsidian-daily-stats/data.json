@@ -19,7 +19,7 @@
     "2023/8/17": 3,
     "2023/8/18": 3,
     "2023/8/25": 808,
-    "2023/8/26": 1493
+    "2023/8/26": 1583
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
@@ -57,6 +57,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md": {
       "initial": 1,
       "current": 62
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
+      "initial": 1,
+      "current": 91
     }
   }
 }
