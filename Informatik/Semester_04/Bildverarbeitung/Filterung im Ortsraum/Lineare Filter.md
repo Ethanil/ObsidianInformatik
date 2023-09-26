@@ -4,13 +4,23 @@ Bei einem Tiefpass-Filter unterdrücken wir hohe Frequenzen (also feine Details 
 
 Alle Koeffizenten sind ausnahmslos positiv und normalisiert (die Summe ergibt 1), daraus folgt auch dass sie nur positive Werte produzieren.
 Sie versuchen allgemein einen mittelwert für einen pixel zu berechnen.
+Die Matrix ist typischerweise so aufgebaut, dass mittig ein hoher Wert steht und am Rand kleine.
 ### Mittelwert Filter
 Wir summieren alle Nachbarn auf und teilen durch die Anzahl der Felder.
 ![[Pasted image 20230926103812.png# 1/4 left shadow]]
-Der Mittelwert filter entfernt Details und weicht Kanten auf.
+Der Mittelwert filter entfernt Details und weicht Kanten auf. Dabei schwingt er bei Kanten.
 ![[Pasted image 20230926104020.png# 1/2 left shadow]]
 ### Gauss-Filter
+Wir verwenden folgende Formel um die Gewichte der Matrix zu erhalten:
+$$\begin{align*}
+G(x,y) = \frac{1}{2 \cdot \pi \sigma^{2}}e^{\frac{-x^{2}+y^{2}}{2\sigma^{2}}}
+\end{align*}$$
+![[Pasted image 20230926104454.png# 1/4 left shadow]]
+Der Gauss-Filter entfernt Details und schwingt dabei (fast) nicht bei Kanten.
+![[Pasted image 20230926104740.png# 1/2 left shadow]]
 
+### Anwendungsgebiete
+- 
 ## Hochpass
 Bei einem Hochpass-Filter unterdrücken wir niedrige Frequenzen (also grobe Strukturen werden entfernt)
 ![[Pasted image 20230926101647.png# 1/2 left shadow]]
