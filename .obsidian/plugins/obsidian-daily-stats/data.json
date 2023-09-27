@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 65
+    "2023/8/27": 85
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -37,7 +37,7 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md": {
       "initial": 1,
-      "current": 24
+      "current": 44
     }
   }
 }
