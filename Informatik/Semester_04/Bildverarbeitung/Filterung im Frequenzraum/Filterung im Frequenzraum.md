@@ -20,3 +20,11 @@ Beim Butterwort Tiefpass-Filter kann das [[Ringing]] stark reduziert werden.
 
 ![[Pasted image 20230927113401.png# 5/6 left shadow|Der Gauss'sche Tiefpass reduziert das Ringing am besten und führt damit zu den besten Ergebnissen]]
 
+## Hochpass/Bandpass/Bandstop-Filter
+Die Drei Filter gibt es auch als Hochpass, Bandpass oder Bandstop Filter.
+
+## Homomorphische Filterung
+Signale können in nicht-linearer Art kombiniert sein, dann hilft uns eine lineare Signalanalyse nicht weiter.
+Wir können dafür das Bild zuerst logarithmieren, dann Transformieren, dann Filtern und dann alles wieder Rückgängig machen und können so bspw die multiplikativen Komponenten des Bildraums einzeln herausfiltern.
+![[Pasted image 20230927121125.png# 5/6 left shadow|Zuerst wird das Bild logarithmiert, bevor es transformiert und gefiltert wird]]
+
