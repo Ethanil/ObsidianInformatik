@@ -19,64 +19,25 @@
     "2023/8/17": 3,
     "2023/8/18": 3,
     "2023/8/25": 808,
-    "2023/8/26": 2451
+    "2023/8/26": 2451,
+    "2023/8/27": 65
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md": {
-      "initial": 1,
-      "current": 19
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md": {
-      "initial": 1,
-      "current": 31
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md": {
-      "initial": 1,
-      "current": 40
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md": {
-      "initial": 1,
-      "current": 186
-    },
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
-      "initial": 0,
-      "current": 1074
+      "initial": 1075,
+      "current": 1075
     },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md": {
-      "initial": 0,
-      "current": 69
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md": {
-      "initial": 64,
-      "current": 64
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md": {
-      "initial": 1,
-      "current": 18
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md": {
-      "initial": 1,
-      "current": 62
+    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
+      "initial": 82,
+      "current": 83
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
-      "initial": 1,
-      "current": 114
+      "initial": 114,
+      "current": 155
     },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md": {
       "initial": 1,
-      "current": 636
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md": {
-      "initial": 1,
-      "current": 82
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md": {
-      "initial": 1,
-      "current": 32
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md": {
-      "initial": 1,
-      "current": 99
+      "current": 24
     }
   }
 }

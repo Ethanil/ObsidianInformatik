@@ -1,5 +1,7 @@
 ---
 aliases: 
+cssclasses:
+  - dashboard
 ---
 ## Radiometrisch
 Radianz ist die Energie, welche eine Lichtquelle ausstrahlt (in Watt)

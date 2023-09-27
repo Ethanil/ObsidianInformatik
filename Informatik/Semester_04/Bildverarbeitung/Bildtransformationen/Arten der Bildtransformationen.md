@@ -7,8 +7,9 @@ Jeder unitäre Bildtransformation lässt sich als Matrix von Matrizen beschreibe
 [[Walsh-Hadamard Transformation]]
 [[Haar Transformation]]
 ## Parametrische Bildtransformationen
+Bei einer parametrischen Bildtransformation stellen wir die Bildinformation anhand von veränderten Ortsraumparametern dar z.B. $f[m,n]\mapsto f[r,\varTheta]$. Diese Transformation ist nicht zwingend orthogonale und damit idR nicht invertierbar. Diese Transformation hilft uns bestimmte Informationen einfacher abzulesen.
 Hough Transformation
-Radon Transformation
+[[Radon Transformation]]
 
 ## Anwendungsgebiete
 Wir verwenden die Bildtransformation unter anderem um eine Dimensionsreduktion (bspw. bei Kompression) oder eine Dekorrelation (um herauszufinden welche Teile des Bildes zusammengehören und welche nicht) durchzuführen.

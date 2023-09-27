@@ -1,0 +1,1 @@
+Die Radon Transformation ist eine Integral Transformation bei der das Bild aus verschiedenen winkeln "durchleuchtet" wird. Dabei entsteht ein sogenanntes "Sinugramm", also eine Sinusförmige

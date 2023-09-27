@@ -1,3 +1,6 @@
+---
+cssclasses: []
+---
 ## Tiefpass
 ![[Pasted image 20230926101627.png# 1/2 left shadow|Bei einem Tiefpass-Filter unterdrücken wir hohe Frequenzen (also feine Details werden entfernt)]]
 
