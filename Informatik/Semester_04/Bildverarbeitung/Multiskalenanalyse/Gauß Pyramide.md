@@ -1,0 +1,2 @@
+Mittels eines reduce Operators wird die obere Hälfte der Anteile des Frequenzspektrums eines Bildes herausgefiltert und das Bild in Zeilen- und Spaltenrichtung gleichzeitig um die Hälfte verkleinert.
+Wir haben also eine Tiefpassfilterung und eine Verklei

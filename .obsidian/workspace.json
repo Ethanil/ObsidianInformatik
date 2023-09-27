@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
@@ -224,7 +225,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",

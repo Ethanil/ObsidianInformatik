@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 473
+    "2023/8/27": 520
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -61,7 +61,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md": {
       "initial": 1,
-      "current": 17
+      "current": 30
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md": {
+      "initial": 1,
+      "current": 35
     }
   }
 }
