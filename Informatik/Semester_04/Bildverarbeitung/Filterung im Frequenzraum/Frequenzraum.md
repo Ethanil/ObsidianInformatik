@@ -1,0 +1,1 @@
+Der Frequenzraum ist der Raum der durch eine [[Arten der Bildtransformationen|Biltransformation]] auf ein Bild im [[Ortsraum]] entsteht.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md"
               }
             }
           },
@@ -187,10 +187,13 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20230927104729.png",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md",
@@ -216,14 +219,11 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Screenshots/Pasted image 20230926121544.png",
     "Informatik/Screenshots/Pasted image 20230926121336.png",
     "Informatik/Screenshots/Pasted image 20230926120118.png",
     "Informatik/Screenshots/Pasted image 20230926120050.png",
     "Informatik/Screenshots/Pasted image 20230926115652.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Pasted image 20230926104415.png.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",

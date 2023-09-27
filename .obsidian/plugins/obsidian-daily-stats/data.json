@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 85
+    "2023/8/27": 122
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -38,6 +38,14 @@
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md": {
       "initial": 1,
       "current": 44
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md": {
+      "initial": 1,
+      "current": 18
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md": {
+      "initial": 31,
+      "current": 51
     }
   }
 }
