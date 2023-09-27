@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 360
+    "2023/8/27": 473
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -50,6 +50,18 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Ringing.md": {
       "initial": 1,
       "current": 47
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md": {
+      "initial": 1,
+      "current": 26
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md": {
+      "initial": 1,
+      "current": 73
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md": {
+      "initial": 1,
+      "current": 17
     }
   }
 }

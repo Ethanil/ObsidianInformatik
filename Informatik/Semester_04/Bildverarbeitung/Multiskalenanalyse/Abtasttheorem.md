@@ -1,0 +1,1 @@
+Die Abtastfrequenz muss mindestens doppelt so groß sein, wie die größte im Bild vorkommende Frequenz. Die 
