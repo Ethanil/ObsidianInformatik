@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 586
+    "2023/8/27": 650
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -69,7 +69,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md": {
       "initial": 1,
-      "current": 26
+      "current": 90
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Reduce-Operation.md": {
+      "initial": 4,
+      "current": 4
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md": {
+      "initial": 4,
+      "current": 4
     }
   }
 }

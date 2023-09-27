@@ -1,1 +1,4 @@
-Die Laplace Pyramide speichert die Bildinformationen die durch eine reduce-Operation entfert wurden. Sie ist also definiert als die Differenz zwischen zwei Ebenen der [[Gauß Pyramide]].
+Die Laplace Pyramide speichert die Bildinformationen die durch eine [[Reduce-Operation]] entfert wurden. Sie ist also definiert als die Differenz zwischen zwei Ebenen der [[Gauß Pyramide]].
+Aus der Laplace Pyramide kann das Orginalbild iterativ rekonstruiert werden, da die oberste Ebene der Laplace Pyramide gleich wie die der Gauß Pyramide ist.
+
+Um das Orginalbild zu erhalten wenden wir also die [[Expand-Operation]] auf die oberste Ebene an und kombinieren diese mit der eins untendrunterliegenden, wodurch wir die 2. Gauß-Ebene erhalten. Dies können wir solange fortführen bis wir das Orginalbild haben.

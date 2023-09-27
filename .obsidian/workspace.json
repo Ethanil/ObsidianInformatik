@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
+    "Informatik/Screenshots/Pasted image 20230927152212.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Reduce-Operation.md",
+    "Informatik/Screenshots/Pasted image 20230927152045.png",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
@@ -217,14 +221,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
     "Informatik/Screenshots/Pasted image 20230926200948.png",
     "Informatik/Screenshots/Pasted image 20230926200852.png",
     "Informatik/Screenshots/Pasted image 20230926200043.png",
-    "Informatik/Screenshots/Pasted image 20230926195713.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
