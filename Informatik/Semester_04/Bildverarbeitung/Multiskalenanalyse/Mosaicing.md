@@ -1,0 +1,1 @@
+Mithilfe von [[Laplace Pyramide]] (und [[Gauß Pyramide]]) und einer Maske kann man Bilder nahtlos miteinander verblenden.

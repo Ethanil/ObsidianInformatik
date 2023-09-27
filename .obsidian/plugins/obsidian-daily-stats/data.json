@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 650
+    "2023/8/27": 772
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -73,11 +73,19 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Reduce-Operation.md": {
       "initial": 4,
-      "current": 4
+      "current": 17
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md": {
       "initial": 4,
-      "current": 4
+      "current": 18
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Mosaicing.md": {
+      "initial": 1,
+      "current": 16
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md": {
+      "initial": 1,
+      "current": 81
     }
   }
 }
