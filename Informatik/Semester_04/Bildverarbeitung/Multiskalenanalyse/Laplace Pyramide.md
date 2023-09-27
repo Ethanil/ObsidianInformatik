@@ -1,0 +1,1 @@
+Die Laplace Pyramide speichert die Bildinformationen die durch eine reduce-Operation entfert wurden. Sie ist also definiert als die Differenz zwischen zwei Ebenen der [[Gauß Pyramide]].
