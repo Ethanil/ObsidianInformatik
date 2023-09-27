@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7af90555873965ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +196,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "357a2cd03c7615f0",
+  "active": "7af90555873965ed",
   "lastOpenFiles": [
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
