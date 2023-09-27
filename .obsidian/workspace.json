@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md"
               }
             }
           },
@@ -187,12 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Screenshots/Pasted image 20230927121125.png",
     "Informatik/Screenshots/Pasted image 20230927113401.png",
     "Informatik/Screenshots/Pasted image 20230927112906.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Ringing.md",
     "Informatik/Screenshots/Pasted image 20230927112802.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Screenshots/Pasted image 20230927112423.png",
     "Informatik/Screenshots/Pasted image 20230927104729.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md",
@@ -217,7 +217,6 @@
     "Informatik/Screenshots/Pasted image 20230926200043.png",
     "Informatik/Screenshots/Pasted image 20230926195713.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
-    "Informatik/Screenshots/Pasted image 20230926132035.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md",
