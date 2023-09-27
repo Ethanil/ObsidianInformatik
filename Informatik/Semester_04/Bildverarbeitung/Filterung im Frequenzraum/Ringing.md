@@ -1,0 +1,2 @@
+Unter Ringing versteht man das entstehen von "Geister" Ringen in einem Bild, nach einer [[Filterung im Frequenzraum]]. Es entsteht da die hochfrequenten Wellen zwar nicht viel Bildinformation haben, allerdings essentiell dafür sind das Überschwingen der niederfrequenten Wellen zu negieren.
+![[Pasted image 20230927112802.png# 5/6 left shadow]]
