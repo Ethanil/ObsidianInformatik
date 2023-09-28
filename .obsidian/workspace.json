@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
-                "mode": "preview",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md"
               }
             }
           },
@@ -187,11 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Screenshots/Pasted image 20230928135309.png",
     "Informatik/Screenshots/Pasted image 20230928135055.png",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
     "Informatik/Screenshots/Pasted image 20230928134700.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
@@ -224,7 +225,6 @@
     "Informatik/Screenshots/Pasted image 20230927152212.png",
     "Informatik/Screenshots/Pasted image 20230927152045.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
-    "Informatik/Screenshots/Pasted image 20230927121125.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",

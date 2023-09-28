@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 1149
+    "2023/8/28": 1225
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -87,6 +87,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md": {
       "initial": 6,
       "current": 42
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md": {
+      "initial": 1,
+      "current": 77
     }
   }
 }
