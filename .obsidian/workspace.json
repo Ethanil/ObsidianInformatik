@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Screenshots/Pasted image 20230928135309.png",
     "Informatik/Screenshots/Pasted image 20230928135055.png",
@@ -221,7 +222,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Screenshots/Pasted image 20230927160206.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/charakteristisches Muster.md",
     "Informatik/Screenshots/Pasted image 20230927152212.png",
     "Informatik/Screenshots/Pasted image 20230927152045.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
@@ -231,7 +231,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
     "Informatik/Semester_04/cpp",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Lexical Resources and Knowledge Bases"
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval"
   ]
 }
