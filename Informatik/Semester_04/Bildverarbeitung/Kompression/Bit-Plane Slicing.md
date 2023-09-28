@@ -1,0 +1,1 @@
+Jedes nicht-binäre Bild kann als eine "Schichtung" von Binärbildern betrachtet werden. Dabei tragen niedrige Bitebenen kaum zur [[Informatik/Semester_04/Bildverarbeitung/Kompression/Information|Information]] bei und können eliminiert werden. Gleichzeitig zeigen die höheren Bildebenen sehr viel weniger Varianz und können damit einfach enkodiert werden.

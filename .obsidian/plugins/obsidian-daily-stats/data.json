@@ -21,12 +21,12 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 821
+    "2023/8/28": 891
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
       "initial": 1,
-      "current": 77
+      "current": 79
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md": {
       "initial": 1,
@@ -71,6 +71,14 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md": {
       "initial": 1,
       "current": 67
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Bit-Plane Slicing.md": {
+      "initial": 1,
+      "current": 44
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md": {
+      "initial": 1,
+      "current": 26
     }
   }
 }

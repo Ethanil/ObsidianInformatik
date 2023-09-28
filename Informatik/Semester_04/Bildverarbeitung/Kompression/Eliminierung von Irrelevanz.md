@@ -1,0 +1,1 @@
+Um Irrelevanz zu eliminieren unterteilen wir das Bild in Blöcke, Transfomieren jeden Block unabhängig und führen die [[Quantisierung]] und Kodierung der Koeffizienten auf diesen Blöcken durch.
