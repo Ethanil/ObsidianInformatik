@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 193
+    "2023/8/28": 357
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -38,7 +38,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md": {
       "initial": 1,
-      "current": 38
+      "current": 94
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md": {
+      "initial": 1,
+      "current": 65
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md": {
+      "initial": 1,
+      "current": 45
     }
   }
 }

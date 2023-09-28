@@ -1,0 +1,3 @@
+Wir messen die Qualität einer Kompression anhand der Größe des Fehlers, der dadurch entstanden ist. Eine Typische Metrik ist der [[Mean Squared Error]], spezifischer kann man die davon abgeleitete Qualitätsmetrik die Peak Signal to Noise Ratio(PSNR) verwenden:
+$$PSNR=10 \cdot log_{10}\frac{(\max_{i}|x_{i})^{2}}{MSE}[dB]$$
+Als Faustregel gilt hier, dass 1bpp mehr an Datenrate 6dB mehr an Qualität gibt.
