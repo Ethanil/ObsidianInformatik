@@ -1,0 +1,2 @@
+Eine Diskontinuität ist als eine scharfe, lokale Änderung der Bildintensität definiert. Diese Änderung wird beschrieben durch Kantenpunkte, die wir dann verbinden können um Kanten zu erhalten.
+Diese Punkte bzw Kanten können wir durch [[Lineare Filter#Zweiter Ableitung|Punkt-]] bzw [[Lineare Filter#Erste Ableitung/Differenzfilter/partieller Gradienter|Kanten]]-Filter ([[Lineare Filter#Konturverfolgung nach Canny|alternativer Kantenfilter]]) finden.

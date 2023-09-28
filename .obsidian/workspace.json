@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md"
               }
             }
           },
@@ -187,12 +187,20 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Erosion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
+    "Informatik/Screenshots/Pasted image 20230928163900.png",
     "Informatik/Screenshots/Pasted image 20230928163611.png",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Translation.md",
     "Informatik/Screenshots/Pasted image 20230928162149.png",
@@ -209,20 +217,14 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Screenshots/Pasted image 20230928135309.png",
     "Informatik/Screenshots/Pasted image 20230928135055.png",
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Screenshots/Pasted image 20230928134700.png",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Bit-Plane Slicing.md",
     "Informatik/Screenshots/Pasted image 20230928113342.png",
     "Informatik/Screenshots/Pasted image 20230928113251.png",
-    "Informatik/Screenshots/Pasted image 20230928111349.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
@@ -230,7 +232,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
     "Informatik/Semester_04/Bildverarbeitung/Farbe",
     "Informatik/Semester_04/cpp",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval"
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction"
   ]
 }

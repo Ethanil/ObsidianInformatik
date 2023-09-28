@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 1624
+    "2023/8/28": 1792
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -94,7 +94,7 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md": {
       "initial": 1,
-      "current": 51
+      "current": 52
     },
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Reflexion.md": {
       "initial": 1,
@@ -123,6 +123,26 @@
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md": {
       "initial": 1,
       "current": 51
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md": {
+      "initial": 1,
+      "current": 13
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md": {
+      "initial": 1,
+      "current": 62
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md": {
+      "initial": 1,
+      "current": 40
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md": {
+      "initial": 9,
+      "current": 9
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md": {
+      "initial": 1,
+      "current": 56
     }
   }
 }

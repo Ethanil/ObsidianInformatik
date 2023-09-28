@@ -1,0 +1,1 @@
+Die [[Segmentierung|segmentierten]] Bereiche wollen wir in Objektklassen einteilen
