@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md"
               }
             }
           },
@@ -187,9 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
+    "Informatik/Screenshots/Pasted image 20230928113342.png",
     "Informatik/Screenshots/Pasted image 20230928113251.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
     "Informatik/Screenshots/Pasted image 20230928111349.png",
     "Informatik/Screenshots/Pasted image 20230928111249.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
@@ -223,8 +224,6 @@
     "Informatik/Screenshots/Pasted image 20230927121125.png",
     "Informatik/Screenshots/Pasted image 20230927113401.png",
     "Informatik/Screenshots/Pasted image 20230927112906.png",
-    "Informatik/Screenshots/Pasted image 20230927112802.png",
-    "Informatik/Screenshots/Pasted image 20230927112423.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",

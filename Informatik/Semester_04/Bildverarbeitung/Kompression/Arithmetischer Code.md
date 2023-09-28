@@ -1,3 +1,5 @@
 Beim arithmetischen Code haben wir, anders als beim [[Huffman Code]] keine 1:1 Korrespondenz zwischen Symbol und Codewort. Wir kodieren die gesamte Nachricht als ein Codewort.
 Wir nehmen auch hier die Wahrscheinlichkeit für die die Symbole auftreten und legen dadurch einen Bereich auf einem "zahlenstrahl" zwischen 0.0 und 1.0 fest. Nun können wir unsere Nachricht kodieren, indem wir iterativ über die Daten gehen und unseren Zahlenbereich immer weiter einschränken bis wir alles kodiert haben und eine beliebige Zahl aus dem letzten Bereich wählen:
-![[Pasted image 20230928113251.png# left 5/6 shadow| ]]
+
+![[Pasted image 20230928113342.png# 5/6 left shadow|Wir legen das Intervall so fest, dass es mit der Wahrscheinlichkeit übereinstimmt]]
+![[Pasted image 20230928113251.png# left 5/6 shadow|Wir kodieren unsere Zahl, indem wir den Bereich von 0.0 bis 1.0 immer weiter einschränken]]

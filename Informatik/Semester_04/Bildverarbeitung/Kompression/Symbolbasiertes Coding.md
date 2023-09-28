@@ -1,0 +1,1 @@
+Bei der symbolbasiertem coding wird das Bild als eine Sammlung von "Symbolen", "Patterns", "Buchsta"
