@@ -1,0 +1,4 @@
+Die Kompression bei jpeg hat sich im Laufe der Zeit verändert. Generell wird aber immer eine Kompression über Dekorrelation durchgeführt. Wir wählen also eine [[Arten der Bildtransformationen|Bildtransformation]] mit sehr guter Dekorrelation, also bspw [[Cosinus Transformation]] oder [[Wavelet(Haar) Transformation]]. 
+Wenn wir nun eine nicht-lokalisierte Transformation, wie die Cosinus-Transformation, verwenden und auf dem transformierten Bild nun die [[Eliminierung von Irrelevanz]] anwenden erhalten wir moderates bis sehr starkes Blocking, da die Fehler die wir an einer Stelle machen sich auf das gesamte Bild(bzw nur auf den Block) auswirken. 
+Präferiert ist deshalb eine lokalisierte Transformation wie die Haar Transformation, bei der die lokal gemachten Fehler auch nur lokal bleiben.
+![[Pasted image 20230928134700.png# 5/6 left shadow|Vergleich Diskrete Wavelete Transformation(rechts) mit Diskreter Cosinus Transformation(links) bei gleicher Datenkompression]]

@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 891
+    "2023/8/28": 1149
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -78,7 +78,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md": {
       "initial": 1,
-      "current": 26
+      "current": 118
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md": {
+      "initial": 1,
+      "current": 131
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md": {
+      "initial": 6,
+      "current": 42
     }
   }
 }

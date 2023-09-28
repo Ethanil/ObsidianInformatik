@@ -5,7 +5,7 @@ Jeder unitäre Bildtransformation lässt sich als Matrix von Matrizen beschreibe
 [[Fourier Transformation]]
 [[Cosinus Transformation]]
 [[Walsh-Hadamard Transformation]]
-[[Haar Transformation]]
+[[Wavelet(Haar) Transformation]]
 ## Parametrische Bildtransformationen
 Bei einer parametrischen Bildtransformation stellen wir die Bildinformation anhand von veränderten Ortsraumparametern dar z.B. $f[m,n]\mapsto f[r,\varTheta]$. Diese Transformation ist nicht zwingend orthogonale und damit idR nicht invertierbar. Diese Transformation hilft uns bestimmte Informationen einfacher abzulesen.
 Hough Transformation
