@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Text 
-Siehe [[Daten]], [[Information]] und [[Wissen]]
+Siehe [[Daten]], [[Informatik/Semester_04/Infman/Database/Information]] und [[Wissen]]
 
 | Begriff             | Beschreibung                                                                      |
 | ------------------- | --------------------------------------------------------------------------------- |

@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Konzeptionelles Datenmodell 
-Alle [[Information|Informationen]] aus der realen Welt in einer Datenbank zu speichern ist nicht sinnvoll und auch nicht notwendig. Wir müssen also nur einen Ausschnitt an relevanten Objekten und ihren Eigenschaften speichern.
+Alle [[Informatik/Semester_04/Infman/Database/Information|Informationen]] aus der realen Welt in einer Datenbank zu speichern ist nicht sinnvoll und auch nicht notwendig. Wir müssen also nur einen Ausschnitt an relevanten Objekten und ihren Eigenschaften speichern.
 
 ## Kernfragen
 - Welche Objekte 

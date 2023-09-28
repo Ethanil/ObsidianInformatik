@@ -21,12 +21,24 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 69
+    "2023/8/28": 193
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
       "initial": 1,
-      "current": 70
+      "current": 77
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md": {
+      "initial": 1,
+      "current": 45
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md": {
+      "initial": 1,
+      "current": 37
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md": {
+      "initial": 1,
+      "current": 38
     }
   }
 }

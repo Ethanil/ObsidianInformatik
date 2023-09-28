@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
+    "Informatik/Semester_04/Infman/Database/Information.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Screenshots/Pasted image 20230927160206.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md",
@@ -220,10 +224,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Nichtlinearer Filter.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
     "Informatik/Screenshots/Pasted image 20230926200948.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
