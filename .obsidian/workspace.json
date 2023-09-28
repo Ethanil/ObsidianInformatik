@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md"
               }
             }
           },
@@ -187,6 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
     "Informatik/Screenshots/Pasted image 20230928113342.png",
@@ -194,12 +198,8 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
     "Informatik/Screenshots/Pasted image 20230928111349.png",
     "Informatik/Screenshots/Pasted image 20230928111249.png",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Bit-Plane Slicing.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md",

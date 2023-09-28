@@ -1,0 +1,2 @@
+Das Lempel-Ziv-Welch-Coding(LZW Coding) Ist eine Kombination von [[Run-Length Coding]] und Variable Length Coding.
+Wir verwenden ein "Wörterbuch"(Eine LUT in der für bspw Grauwerte eine Zahl festgelegt ist), welches wir im Laufe des Kodierens erweitern. Wir speichern also das Bild nicht nur mithilfe der z.B. 256 Einträge die im initialen "Wörterbuch" standen, sondern erweitern dieses und verweisen, falls das gleiche Muster noch einmal auftaucht dann auf den 257. Eintrag.

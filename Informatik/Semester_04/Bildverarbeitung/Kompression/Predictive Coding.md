@@ -1,0 +1,1 @@
+Bei der Entropiekodierung, konkret dem predictive coding, wird die redundanz benachbarter pixel eleminiert, indem nur neu dazugekommene informationen extrahiert und kodiert werden.
