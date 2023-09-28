@@ -1,0 +1,3 @@
+Wir wollen die lokale Energie für unterschiedliche Umgebungsgrößer erhalten um bspw die "charakteristische" Ebene einer [[Laplace Pyramide]] für eine [[Textur Klassifikation|Textur]] zu finden.
+Dafür verwenden wir eine HDC-Operation auf jeder quadrierten Ebene(umso höher wir gehen umso seltener können wir die Operation anwenden)
+![[Pasted image 20230927160206.png# 5/6 left shadow|Eine HDC Operation bei der jeweils 5 Pixel die Informationen an einen Pixel weitergeben, danach wird die Operation gespreizt und erneut angewendet]]

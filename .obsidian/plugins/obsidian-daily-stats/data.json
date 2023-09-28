@@ -20,7 +20,7 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 772
+    "2023/8/27": 900
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
@@ -53,7 +53,7 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md": {
       "initial": 1,
-      "current": 26
+      "current": 31
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md": {
       "initial": 1,
@@ -85,7 +85,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md": {
       "initial": 1,
-      "current": 81
+      "current": 130
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md": {
+      "initial": 1,
+      "current": 75
     }
   }
 }

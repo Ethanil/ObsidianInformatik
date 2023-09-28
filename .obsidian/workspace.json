@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md"
               }
             }
           },
@@ -187,7 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20230927160206.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/charakteristisches Muster.md",
+    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Reduce-Operation.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
@@ -219,9 +222,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Screenshots/Pasted image 20230926200948.png",
     "Informatik/Screenshots/Pasted image 20230926200852.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",

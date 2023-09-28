@@ -1,1 +1,1 @@
-Man verwendet Multiskalenanalyse um eine Aufwandsminimierung bei der [[Filterung im Frequenzraum|Filterung]](bzw [[Filterung im Ortsraum]]) zu haben. Außerdem zur Objekterkennung, Segemtierung, [[Textur Klassifikation]] und [[Mosaicing]]
+Man verwendet Multiskalenanalyse um eine Aufwandsminimierung bei der [[Filterung im Frequenzraum|Filterung]](bzw [[Filterung im Ortsraum]]) zu haben. Außerdem zur [[Textur Klassifikation#Objekterkennung auf Textur|Objekterkennung]], Segmentierung, [[Textur Klassifikation]] und [[Mosaicing]]
