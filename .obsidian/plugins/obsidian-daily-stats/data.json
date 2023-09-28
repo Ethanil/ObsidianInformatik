@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 357
+    "2023/8/28": 442
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -30,11 +30,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md": {
       "initial": 1,
-      "current": 45
+      "current": 51
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md": {
       "initial": 1,
-      "current": 37
+      "current": 54
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md": {
       "initial": 1,
@@ -47,6 +47,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md": {
       "initial": 1,
       "current": 45
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md": {
+      "initial": 1,
+      "current": 63
     }
   }
 }

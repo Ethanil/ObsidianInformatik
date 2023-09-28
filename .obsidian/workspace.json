@@ -11,8 +11,13 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md"
+              }
             }
           },
           {
@@ -179,13 +187,21 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20230928111249.png",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Bit-Plane Slicing.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Infman/Database/Information.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Screenshots/Pasted image 20230927160206.png",
@@ -201,21 +217,13 @@
     "Informatik/Screenshots/Pasted image 20230927152212.png",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md",
     "Informatik/Screenshots/Pasted image 20230927152045.png",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Screenshots/Pasted image 20230927121125.png",
     "Informatik/Screenshots/Pasted image 20230927113401.png",
     "Informatik/Screenshots/Pasted image 20230927112906.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Ringing.md",
     "Informatik/Screenshots/Pasted image 20230927112802.png",
     "Informatik/Screenshots/Pasted image 20230927112423.png",
     "Informatik/Screenshots/Pasted image 20230927104729.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Haar Transformation.md",
     "Informatik/Screenshots/Pasted image 20230926200948.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
