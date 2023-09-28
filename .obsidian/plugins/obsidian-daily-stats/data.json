@@ -20,76 +20,13 @@
     "2023/8/18": 3,
     "2023/8/25": 808,
     "2023/8/26": 2451,
-    "2023/8/27": 900
+    "2023/8/27": 900,
+    "2023/8/28": 69
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
-      "initial": 1075,
-      "current": 1075
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md": {
-      "initial": 82,
-      "current": 83
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
-      "initial": 114,
-      "current": 155
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md": {
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
       "initial": 1,
-      "current": 44
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md": {
-      "initial": 1,
-      "current": 18
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md": {
-      "initial": 31,
-      "current": 243
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Ringing.md": {
-      "initial": 1,
-      "current": 47
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md": {
-      "initial": 1,
-      "current": 31
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Grundlagen der Signaltheorie.md": {
-      "initial": 1,
-      "current": 73
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md": {
-      "initial": 1,
-      "current": 30
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md": {
-      "initial": 1,
-      "current": 76
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Laplace Pyramide.md": {
-      "initial": 1,
-      "current": 90
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Reduce-Operation.md": {
-      "initial": 4,
-      "current": 17
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Expand-Operation.md": {
-      "initial": 4,
-      "current": 18
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Mosaicing.md": {
-      "initial": 1,
-      "current": 16
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Textur Klassifikation.md": {
-      "initial": 1,
-      "current": 130
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md": {
-      "initial": 1,
-      "current": 75
+      "current": 70
     }
   }
 }
