@@ -1,0 +1,1 @@
+Unter die Morphologischen Transformationen fallen außen der [[Schnittmenge]], [[Vereinigung]], [[Mengendifferenz]]

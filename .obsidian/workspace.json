@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md"
               }
             }
           },
@@ -187,6 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_01/Mathe_1/Schnittmenge.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
@@ -219,8 +222,6 @@
     "Informatik/Screenshots/Pasted image 20230928111349.png",
     "Informatik/Screenshots/Pasted image 20230928111249.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
-    "Informatik/Semester_04/Infman/Database/Information.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Screenshots/Pasted image 20230927160206.png",
     "Informatik/Screenshots/Pasted image 20230927152212.png",
