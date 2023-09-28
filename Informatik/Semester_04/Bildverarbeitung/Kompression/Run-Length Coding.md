@@ -1,0 +1,1 @@
+Das Run-length Coding nutzt die Kohärenz der Pixel innerhalb einer Zeile(oder Spalte). Dieser "Kohärenz-Block" nennt man dann einen Run und umso länger diese Runs sind, umso effektiver ist das Kodieren.

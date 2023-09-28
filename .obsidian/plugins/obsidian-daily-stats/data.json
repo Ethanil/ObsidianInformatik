@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 610
+    "2023/8/28": 681
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -58,7 +58,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md": {
       "initial": 1,
-      "current": 14
+      "current": 53
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md": {
+      "initial": 1,
+      "current": 33
     }
   }
 }

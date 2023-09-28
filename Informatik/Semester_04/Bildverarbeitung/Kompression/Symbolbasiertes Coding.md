@@ -1,1 +1,2 @@
-Bei der symbolbasiertem coding wird das Bild als eine Sammlung von "Symbolen", "Patterns", "Buchsta"
+Bei der symbolbasiertem coding wird das Bild als eine Sammlung von "Symbolen", "Patterns", "Buchstaben" etc. angesehen. Wir haben also ein Alphabet mit $n$ Symbolen. Jedes Symbol wir gespeichert als ein Triplet $(x,y,s_{n})$. Die Kodierung ist sehr langsam, aber die Dekodierung ist sehr schnell.
+Damit können bspw. Texte gut kodiert werden.
