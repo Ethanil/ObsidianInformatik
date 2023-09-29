@@ -1,2 +1,2 @@
 Die Hough Transformation ist wie die [[Radon Transformation]] eine paremtrisierte Bildtransformation.
-Ihr Ziel ist eine "Globale" Linienerkennung
+Ihr Ziel ist eine "Globale" Linienerkennung durch das Transformieren des Segementierungsproblems im Bildraum in ein Finden von lokalen Maxima im Parameterraum.

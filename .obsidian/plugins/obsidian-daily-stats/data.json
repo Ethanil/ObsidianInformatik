@@ -21,136 +21,17 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 1808
+    "2023/8/28": 1808,
+    "2023/8/29": 95
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
-      "initial": 1,
-      "current": 89
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md": {
-      "initial": 1,
-      "current": 51
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md": {
-      "initial": 1,
-      "current": 54
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md": {
-      "initial": 1,
-      "current": 94
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md": {
-      "initial": 1,
-      "current": 65
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Mean Squared Error.md": {
-      "initial": 1,
-      "current": 45
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md": {
-      "initial": 1,
-      "current": 89
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md": {
-      "initial": 1,
-      "current": 130
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Symbolbasiertes Coding.md": {
-      "initial": 1,
-      "current": 53
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md": {
-      "initial": 1,
-      "current": 33
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md": {
-      "initial": 1,
-      "current": 75
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md": {
-      "initial": 1,
-      "current": 67
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Bit-Plane Slicing.md": {
-      "initial": 1,
-      "current": 44
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md": {
-      "initial": 1,
-      "current": 118
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md": {
-      "initial": 1,
-      "current": 131
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md": {
-      "initial": 6,
-      "current": 42
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Fraktale Kompression.md": {
-      "initial": 1,
-      "current": 77
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md": {
-      "initial": 1,
-      "current": 52
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Reflexion.md": {
-      "initial": 1,
-      "current": 41
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Translation.md": {
-      "initial": 1,
-      "current": 42
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md": {
-      "initial": 1,
-      "current": 64
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Erosion.md": {
-      "initial": 1,
-      "current": 65
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md": {
-      "initial": 1,
-      "current": 43
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md": {
-      "initial": 1,
-      "current": 40
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md": {
-      "initial": 1,
-      "current": 51
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md": {
-      "initial": 1,
-      "current": 13
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md": {
-      "initial": 1,
-      "current": 62
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md": {
-      "initial": 1,
-      "current": 40
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md": {
-      "initial": 9,
-      "current": 9
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md": {
-      "initial": 1,
-      "current": 56
+    "ReadMe.md": {
+      "initial": 0,
+      "current": 81
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md": {
-      "initial": 1,
-      "current": 17
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
-      "initial": 156,
-      "current": 156
+      "initial": 18,
+      "current": 32
     }
   }
 }
