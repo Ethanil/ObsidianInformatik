@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md"
               }
             }
           },
@@ -187,14 +187,16 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
+    "Informatik/Screenshots/Pasted image 20230929122336.png",
+    "ReadMe.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
@@ -218,13 +220,11 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Screenshots/Pasted image 20230928144519.png",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Screenshots/Pasted image 20230928135309.png",
     "Informatik/Screenshots/Pasted image 20230928135055.png",
     "Informatik/Screenshots/Pasted image 20230928134700.png",
     "Informatik/Screenshots/Pasted image 20230928113342.png",
-    "Informatik/Screenshots/Pasted image 20230928113251.png",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",

@@ -22,7 +22,7 @@
     "2023/8/26": 2451,
     "2023/8/27": 900,
     "2023/8/28": 1808,
-    "2023/8/29": 95
+    "2023/8/29": 263
   },
   "todaysWordCount": {
     "ReadMe.md": {
@@ -31,7 +31,11 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md": {
       "initial": 18,
-      "current": 32
+      "current": 176
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md": {
+      "initial": 56,
+      "current": 80
     }
   }
 }
