@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
     "Informatik/Screenshots/Pasted image 20230929125153.png",
     "Informatik/Screenshots/Pasted image 20230929123513.png",
     "Informatik/Screenshots/Pasted image 20230929123316.png",
