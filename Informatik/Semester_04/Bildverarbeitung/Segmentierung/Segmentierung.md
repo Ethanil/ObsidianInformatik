@@ -2,3 +2,7 @@ Bei der Segmentierung wollen wir Punkte zu größeren Einheiten zusammenfassen, 
 
 ## Strategien
 Wir versuchen ein Bild durch [[Diskontinuität]] oder [[Ähnlichkeit]] zu segmentieren.
+
+Konkrete Strategien um nach Ähnlichkeit zu segmentieren sind
+- [[Schwellwertverfahren]]
+- [[Regionbasierte Verfahren]]
