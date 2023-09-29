@@ -21,7 +21,7 @@
     "2023/8/25": 808,
     "2023/8/26": 2451,
     "2023/8/27": 900,
-    "2023/8/28": 1792
+    "2023/8/28": 1808
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md": {
@@ -143,6 +143,14 @@
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md": {
       "initial": 1,
       "current": 56
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md": {
+      "initial": 1,
+      "current": 17
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
+      "initial": 156,
+      "current": 156
     }
   }
 }
