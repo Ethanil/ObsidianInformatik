@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
     "ReadMe.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
@@ -196,7 +197,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
