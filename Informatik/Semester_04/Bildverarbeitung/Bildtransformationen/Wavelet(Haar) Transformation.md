@@ -3,8 +3,8 @@ Bei Ihr wird das Bild immer rekursiv in 4 Teile "aufgespalten". Die Haar Transfo
 
 | Ort          | Information                       |
 | ------------ | --------------------------------- |
-| Oben Rechts  | Tiefpass                          |
-| Oben Links   | Hochpass(z.B. vert. Kanten)       |
+| Oben Links   | Tiefpass                          |
+| Oben Rechts  | Hochpass(z.B. vert. Kanten)       |
 | Unten Rechts | Hochpass(z.B. diagonale Kanten)   |
 | Unten Links  | Hochpass(z.B. horizontale Kanten) |
 

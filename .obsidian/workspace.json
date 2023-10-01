@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md"
               }
             }
           },
@@ -187,9 +187,17 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Huffman Code.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
@@ -202,11 +210,7 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
     "Informatik/Screenshots/Pasted image 20230929122336.png",
-    "ReadMe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Radon Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
@@ -218,12 +222,8 @@
     "Informatik/Screenshots/Pasted image 20230928163611.png",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Translation.md",
     "Informatik/Screenshots/Pasted image 20230928162149.png",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Reflexion.md",
     "Informatik/Screenshots/Pasted image 20230928161949.png",
-    "Informatik/Semester_01/Mathe_1/Schnittmenge.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
