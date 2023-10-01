@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
     "ReadMe.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Walsh-Hadamard Transformation.md",
@@ -209,7 +210,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
     "Informatik/Screenshots/Pasted image 20230929122336.png",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
