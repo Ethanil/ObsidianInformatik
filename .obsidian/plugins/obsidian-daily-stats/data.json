@@ -22,40 +22,13 @@
     "2023/8/26": 2451,
     "2023/8/27": 900,
     "2023/8/28": 1808,
-    "2023/8/29": 681
+    "2023/8/29": 681,
+    "2023/9/1": 52
   },
   "todaysWordCount": {
-    "ReadMe.md": {
-      "initial": 0,
-      "current": 81
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md": {
-      "initial": 18,
-      "current": 176
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md": {
-      "initial": 56,
-      "current": 80
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md": {
-      "initial": 19,
-      "current": 22
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md": {
-      "initial": 1,
-      "current": 151
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md": {
-      "initial": 40,
-      "current": 51
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md": {
-      "initial": 1,
-      "current": 242
-    },
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Klassifizieren.md": {
-      "initial": 9,
-      "current": 22
+      "initial": 22,
+      "current": 74
     }
   }
 }
