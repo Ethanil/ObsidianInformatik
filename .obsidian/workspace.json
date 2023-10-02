@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
               }
             }
           },
@@ -187,6 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Ringing.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
@@ -209,7 +212,6 @@
     "Informatik/Screenshots/Pasted image 20230929123513.png",
     "Informatik/Screenshots/Pasted image 20230929123316.png",
     "Informatik/Screenshots/Pasted image 20230929123216.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Ähnlichkeit.md",
     "Informatik/Screenshots/Pasted image 20230929122336.png",
@@ -218,8 +220,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Erosion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
     "Informatik/Screenshots/Pasted image 20230928163900.png",
     "Informatik/Screenshots/Pasted image 20230928163611.png",
     "Informatik/Screenshots/Pasted image 20230928162149.png",
