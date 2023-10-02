@@ -80,7 +80,7 @@ Wir wollen ein Binärbild mit möglichst geschlossenen Konturen erschaffen.
 Dabei identifizieren wir von einem Startpunkt aus den nächsten Konturpunkt entlang eines Suchstrahls. Die Richtung der Kante ergibt sich aus dem bereits erhaltenen Punkten oder dem Gradienten. Diese "Fortlaufende Kantensuche" führt allerdings zu falschen Konturen, wenn einmal ein Fehler gemacht wurde.
 Wir gehen wie folgt vor:
 1. Tiefpass mit Gauß-Filter
-2. Berechne kombinierten Gradientenbetrag und Richtung der 1. partiellen Ableitung (z.B. nach Sobel). Die Richtung zeigt dabei dei Kantennormale n
+2. Berechne kombinierten Gradientenbetrag und Richtung der 1. partiellen Ableitung (z.B. nach Sobel). Die Richtung zeigt dabei die Kantennormale n
 3. Die Kantennormale wird in 0°, 45°, 90° und 145° gerundet
 4. non-maximal supression auf dem Gradientenbild:
 	1. "Verdünne" Gradienten
