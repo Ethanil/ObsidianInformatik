@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md"
               }
             }
           },
@@ -187,10 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
