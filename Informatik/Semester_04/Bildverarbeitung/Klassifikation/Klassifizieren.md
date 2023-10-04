@@ -11,8 +11,8 @@ Ziel ist es hier, ein Objekt in die Kategorie mit der höchsten Wahrscheinlichke
 verbindet verschiedene sytnatkische und/oder statistische Verfahren zu einem einzigen neuen Verfahren. Die grundlegende Merkmalserkennung wird dabei allgemeinen statistischen Verfahren überlassen, während übergeordnete Inferenzverfahren Spezielwissen über das Sachgebiet einbringen.
 
 ## Ablauf der Klassifizierung
-1. Wir erstellen ein "Mehrkanaliges" Bild (Merkmalsvektor) $S = (g_{1}, \dotso, g_{n})$, Stichprobe
-2. Wir wählen Merkmale aus
+1. Wir erstellen ein "Mehrkanaliges" Bild (Merkmalsvektor) $S = (g_{1}, \dotso, g_{n})$, [[Stichprobe]] (Wir können also mindestens 2 Merkmale extrahieren)
+2. Wir wählen [[Merkmale]] aus
 	1. Kleinste Anzahl, die voneinander unabhängig sind
 	2. Durch die Merkmale muss eine Klassenzuordnung ermöglicht werden
 	3. Ggf müssen die Merkmale normiert bzw normierbar sein
