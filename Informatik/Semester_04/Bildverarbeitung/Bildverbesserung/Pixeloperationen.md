@@ -19,9 +19,9 @@ Wir Transformieren die Grauwertskala anhand der Kurve der Summenwahrscheinlichke
 ![[Pasted image 20230925114631.png#  4/5 shadow left]]
 Ziel ist an sich das gleiche wie die Spreizung, aber wir können bspw gut mit Ausreißern umgehen.
 ## Dynamik Kompression
-Wir Skalieren die Lichtintensitöten bei der Abbildung nichtlinear (bspw mit log)
+Wir Skalieren die Lichtintensitäten bei der Abbildung nichtlinear (bspw mit log)
 $$g[m,n] = c \times \log(1+|i[m,n]|)$$
-## Gamme Korrektur
+## Gamma Korrektur
 Wiedergabe der Intensitäten von Pixeln auf einem bildarstellenden Medium ist idr. nichtlinear.
 $$g[m,n] = f_{max}\left(\frac{f[m,n]}{f_{max}}\right)^{\gamma}$$
 ## Differenz

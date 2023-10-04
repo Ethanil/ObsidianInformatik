@@ -24,12 +24,13 @@
     "2023/8/28": 1808,
     "2023/8/29": 681,
     "2023/9/1": 137,
-    "2023/9/2": 0
+    "2023/9/2": 0,
+    "2023/9/4": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
-      "initial": 1075,
-      "current": 1075
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md": {
+      "initial": 217,
+      "current": 217
     }
   }
 }
