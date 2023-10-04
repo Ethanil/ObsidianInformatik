@@ -81,7 +81,7 @@ Dabei identifizieren wir von einem Startpunkt aus den nächsten Konturpunkt entl
 Wir gehen wie folgt vor:
 1. Tiefpass mit Gauß-Filter
 2. Berechne kombinierten Gradientenbetrag und Richtung der 1. partiellen Ableitung (z.B. nach Sobel). Die Richtung zeigt dabei die Kantennormale n
-3. Die Kantennormale wird in 0°, 45°, 90° und 145° gerundet
+3. Die Kantennormale wird in 0°, 45°, 90° und 135° gerundet
 4. non-maximal supression auf dem Gradientenbild:
 	1. "Verdünne" Gradienten
 	2. Unterdrücke lokale minima(Suche in der 8-[[Nachbarschaft]] entlang von n das Pixel mit dem maximalen Gradienten) => Dadurch erhalten wir "Dünne" Kanten
