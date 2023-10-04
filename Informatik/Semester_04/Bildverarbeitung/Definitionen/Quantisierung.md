@@ -1,2 +1,2 @@
-Unter Quantisierung versteht man die Abbildung einer wertkontinierlichen Quelle in eine wertdiskrete Quelle, z.B. $\mathbb{R} \Rightarrow \mathbb{Z}$. Die Dequantisierung ist dann die rekonstruktion der kontinuierlichen Quelle aus der wertdiskreten Quelle.
+Unter Quantisierung versteht man die Abbildung einer wertkontinuierlichen Quelle in eine wertdiskrete Quelle, z.B. $\mathbb{R} \Rightarrow \mathbb{Z}$. Die Dequantisierung ist dann die rekonstruktion der kontinuierlichen Quelle aus der wertdiskreten Quelle.
 Wir können dies für eine [[Eliminierung von Irrelevanz]] verwenden.
