@@ -25,56 +25,13 @@
     "2023/8/29": 681,
     "2023/9/1": 137,
     "2023/9/2": 0,
-    "2023/9/4": 423
+    "2023/9/4": 423,
+    "2023/9/5": 118
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md": {
-      "initial": 217,
-      "current": 217
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md": {
-      "initial": 42,
-      "current": 42
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Frequenzraum.md": {
-      "initial": 18,
-      "current": 18
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md": {
-      "initial": 1076,
-      "current": 1075
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md": {
-      "initial": 40,
-      "current": 40
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Grassmansche Gesetze.md": {
-      "initial": 88,
-      "current": 88
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
-      "initial": 156,
-      "current": 156
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md": {
-      "initial": 176,
-      "current": 176
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md": {
-      "initial": 1,
-      "current": 73
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md": {
-      "initial": 159,
-      "current": 289
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md": {
-      "initial": 1,
-      "current": 63
-    },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md": {
-      "initial": 1,
-      "current": 160
+      "initial": 160,
+      "current": 278
     }
   }
 }
