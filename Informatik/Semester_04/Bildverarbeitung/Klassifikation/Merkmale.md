@@ -9,4 +9,7 @@ Das heuristische Vorgehen ist dabei oft mangelhaft, insignifikant oder wenig aus
 Nach einem Preprocessing extrahieren wir Merkmale anhand derer wir eine [[Klassifizieren|Klassifikation]] vornehmen können.
 ### Analytisch
 Wir wählen $M$ Merkmale aus, welche ein Kriterium am besten optimieren. Dabei unterscheiden wir grundsätzlich zwei Arten von Kriterien
-1. Trennbarkeit von Klassen, Gruppierung von Merkmalen
+#### Trennbarkeit von Klassen, Gruppierung von Merkmalen
+Wir versuchen die Merkmalsmenge so klein wie möglich zu halten, allerdings ist der Abstand der Clustermittelpunkte allein noch kein ausreichendes Kriterium.
+
+#### Klassifikationsfehlwahrscheinlichkeit, also die Streuung des Merkmalswertes
