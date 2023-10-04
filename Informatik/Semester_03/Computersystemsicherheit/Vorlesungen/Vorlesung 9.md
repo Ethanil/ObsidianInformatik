@@ -23,3 +23,4 @@ aliases:
 - Mit TGT können wir zum Ticket-Granting-Server(TGS) gehen und uns dort ein Ticket für einen Service holen
 - Mit diesem Ticket können wir den Service nutzen
 ## Links
+[[Vorlesung 10]]

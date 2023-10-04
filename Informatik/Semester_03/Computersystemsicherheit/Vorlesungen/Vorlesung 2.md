@@ -70,3 +70,4 @@ a*x + b*y &= c = ggT(a,b) \Leftrightarrow ggT(a,b)|c \\
 \end{align}$$
 ```
 ## Links
+[[Vorlesung 3]]

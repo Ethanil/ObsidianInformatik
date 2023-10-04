@@ -29,3 +29,4 @@ DH hat MITM-Problem, Lösung ist verschlüsselung durch asymetrische verschlüss
 - $B \rightarrow A$: $g^{b},\{sig(sk_{B},(g^{a},g^{b}\}_{K}$
 - $A \rightarrow B$: $\{sig(sk_{A},(g^{a},g^{b}))\}_{K}$
 ## Links
+[[Vorlesung 7]]

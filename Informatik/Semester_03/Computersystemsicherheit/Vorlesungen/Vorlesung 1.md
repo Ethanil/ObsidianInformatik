@@ -42,3 +42,4 @@ Bei einer Parallelschaltung müssen alle Komponenten ausfallen, damit das ganze 
 		- dynamische Redundanz(Alle werfen ihre Lösung in einen Topf und Mehrheitsprinzip)
 	- Zeitliche Redundanz(Auf dem selben System mehrmals rechnen)
 ## Links
+[[Vorlesung 2]]

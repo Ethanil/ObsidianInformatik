@@ -24,3 +24,4 @@ Daten können durch Stackmanipulation überschrieben oder Code kann ausgeführt 
 - Stack Canaries
 - Non-executable Stack
 ## Links
+[[Vorlesung 11]]

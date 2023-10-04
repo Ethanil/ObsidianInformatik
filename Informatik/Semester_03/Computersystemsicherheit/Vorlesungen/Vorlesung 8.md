@@ -14,3 +14,4 @@ Jedes Subjekt und Objekt hat eine Sicherheitsklasse(Label + Sicherheitskategorie
 - no write down: Schreibzugriff nur auf selber Ebene oder obendrüber erlaubt
 - strong tranquility: Während Systemlaufzeit darf an Sicherheitsklassen nichts geändert werden
 ## Links
+[[Vorlesung 9]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md"
               }
             }
           },
@@ -187,6 +187,26 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
+    "Informatik/Screenshots/Pasted image 20231005011512.png",
+    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
+    "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
@@ -194,26 +214,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Hough Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Wavelet(Haar) Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Unscharfe Maske.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Schwellwert-Hysterese.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/RGB und CMY System.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Begriffe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Chromazitätskoordinatendiagramm.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normalfarbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIE-Normallichtquellen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELAB Farbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/CIELUV-Farbsystem.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbsystem nach Munsell.md",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe/Farbwahrnehmung nach MacAdam.md",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
     "Informatik/Screenshots/Pasted image 20230929125153.png",
     "Informatik/Screenshots/Pasted image 20230929123513.png",
@@ -224,7 +224,6 @@
     "Informatik/Screenshots/Pasted image 20230928163900.png",
     "Informatik/Screenshots/Pasted image 20230928163611.png",
     "Informatik/Screenshots/Pasted image 20230928162149.png",
-    "Informatik/Screenshots/Pasted image 20230928161949.png",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",

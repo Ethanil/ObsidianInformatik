@@ -56,3 +56,4 @@ Zustandslos vs Zustandsbasiert
 	- Anomalieanalyse
 	- Korrelation
 ## Links
+[[Vorlesung 13]]

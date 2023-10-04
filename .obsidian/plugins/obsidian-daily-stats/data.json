@@ -26,7 +26,7 @@
     "2023/9/1": 137,
     "2023/9/2": 0,
     "2023/9/4": 423,
-    "2023/9/5": 318
+    "2023/9/5": 677
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md": {
@@ -39,11 +39,79 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
       "initial": 1,
-      "current": 160
+      "current": 286
     },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md": {
       "initial": 63,
-      "current": 85
+      "current": 120
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md": {
+      "initial": 0,
+      "current": 166
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md": {
+      "initial": 272,
+      "current": 274
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md": {
+      "initial": 382,
+      "current": 384
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md": {
+      "initial": 143,
+      "current": 145
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md": {
+      "initial": 169,
+      "current": 171
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md": {
+      "initial": 235,
+      "current": 237
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md": {
+      "initial": 210,
+      "current": 212
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md": {
+      "initial": 4,
+      "current": 6
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md": {
+      "initial": 123,
+      "current": 125
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md": {
+      "initial": 103,
+      "current": 105
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md": {
+      "initial": 91,
+      "current": 93
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md": {
+      "initial": 54,
+      "current": 56
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md": {
+      "initial": 277,
+      "current": 279
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md": {
+      "initial": 118,
+      "current": 120
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md": {
+      "initial": 78,
+      "current": 80
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md": {
+      "initial": 47,
+      "current": 49
+    },
+    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md": {
+      "initial": 4,
+      "current": 6
     }
   }
 }

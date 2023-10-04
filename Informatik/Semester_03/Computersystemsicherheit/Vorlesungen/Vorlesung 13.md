@@ -30,3 +30,4 @@ aliases:
 - DANE
 	- TLS-Zertifikate werden durch Referenz im DNS zertifiziert
 ## Links
+[[Vorlesung 14]]

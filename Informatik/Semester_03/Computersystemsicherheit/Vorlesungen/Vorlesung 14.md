@@ -13,3 +13,4 @@ aliases:
 		- Resource Public Key Infrastructure(RPKI)
 			- Resourcen die BGP-table Entscheidung ergänzen
 ## Links
+[[Vorlesung 15]]

@@ -29,3 +29,4 @@ title:Definition - HMAC
 $$HMAC(x,k) = H(\text{conc}(K \oplus opad, H(\text{conc}(K \oplus ipad,x))))$$
 ```
 ## Links
+[[Vorlesung 5]]

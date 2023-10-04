@@ -9,3 +9,10 @@ Wir benötigen eine Stichprobe bekannter Objekte, bei denen Musterklassen eindeu
 #### Probleme
 Die Stichprobe ist immer nur eine Approximation einer Klasse. Das heißt bei einer nicht repräsentativen Stichprobe haben wir auch die Klassen nicht gut modeliert. Siehe [[Stichprobe#Probleme bei der Stichprobe]]
 Unsere Dimensionierung ist statisch, wir haben also eine Feste Anzahl an Klassen mit festen Grenzen.
+
+### Fest-Dimensioniert unüberwachte Stategie
+Hier haben wir zwar eine feste Menge an Trainigsvektoren, aber die Anzahl der Klassen und die Klassengrenzen sind nicht bekannt, das heißt beides wird währen der Klassifikation generiert durch [[Clustering]].
+Dadurch ist eine Stichprobe einfache und weniger anfällig, die Grenzen sind flexibler und es ist Re-clustering möglich(also eine dynamische Dimensionierung)
+
+### Lernende Strategien
+Es ist nicht unüblich, dass sich Stichproben mit der Zeit verändern, darauf können wir mit Fest-Dimensionerten Stichproben nicht reagieren. Eine Lösung dafür ist es lernende Stichproben zu verwenden, die bspw eine Trenderkennung durch Rückkopplung erhalten. Dabei wir jeder Sample neu klassifiziert und der Trainingsmenge zugeführt, was zu einer Erweiterung führt. Wir erhalten dann eine neudefinition von Klassengrenzen (bei überwachten Stichproben) oder auch der Klassenazahl (bei unüberwachten Stichproben)

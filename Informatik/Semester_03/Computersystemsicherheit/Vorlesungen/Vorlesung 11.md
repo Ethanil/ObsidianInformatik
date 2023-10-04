@@ -19,3 +19,4 @@ aliases:
 - Reflected(z.B. Ein Link)
 - `<script>alert("message");</script>`
 ## Links
+[[Vorlesung 12]]

@@ -34,3 +34,4 @@ aliases:
 - Berechne $v = (g^{u_{1}}*y^{u_{2}}\text{ mod }p)\text{ mod }q$
 - Falls $v=r \Rightarrow$ akzeptiert
 ## Links
+[[Vorlesung 6]]
