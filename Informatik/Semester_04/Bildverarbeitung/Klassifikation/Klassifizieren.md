@@ -16,7 +16,7 @@ verbindet verschiedene sytnatkische und/oder statistische Verfahren zu einem ein
 	1. Kleinste Anzahl, die voneinander unabhängig sind
 	2. Durch die Merkmale muss eine Klassenzuordnung ermöglicht werden
 	3. Ggf müssen die Merkmale normiert bzw normierbar sein
-3. Danach definieren wir Klassen
+3. Danach [[Definition von Klassen|definieren wir Klassen]]
 	1. Anhand von objektiven Kriterien, wählen wir Klassen sinnvoll aus
 	2. Die Klassen müssen gut voneinander trennbar sein(also keine fließenden Grenzen haben)
 	3. Die Klassen sollten jeden Bereich des Merkmalsraumes abdecken

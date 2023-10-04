@@ -21,4 +21,4 @@ Das Problem hierbei sind bedingte Dichten $p(x|C_{i})$ ist idR unbekannt, darum 
 3. Zuerst zwei schlechteste zu trennende Klassen ermitteln, dafür Merkmale auswählen die zur Trennung optimal beitragen
 4. Erst Klassifizieren wird mit allen Merkmalen und lassen dann immer mehr Merkmale weg, bis eine optimale Kombination erreicht wird
 
-Die Auswert
+Die Auswertung heuristischer Merkmale ist aufwendig, daher ist es besser eine Bewertung durch Lagebeurteilung der Vektoren im Merkmalsraum auszuführen.
