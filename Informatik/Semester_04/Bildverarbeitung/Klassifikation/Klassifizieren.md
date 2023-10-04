@@ -2,6 +2,14 @@ Die [[Segmentierung|segmentierten]] Bereiche wollen wir in Objektklassen einteil
 
 Das Ziel der Klassifikation ist die Interpretation des Bildinhaltes, also ein "intelligenter" Prozess.
 
+## Ansätze der Klassifikation
+### Syntaktisch
+Dinge werden so durch Folgen von Symbolen beschrieben, dass Objekte der gleichen Kategorie die selben Beschreibungen aufweisen. Das Problem der Mustererkennung stellt sich in diesem Fall als Suche nach einer formalen Grammatik dar, also nach einer Menge von Symbolen und Regeln zum Zusammenfügen derselben
+### Statistisch
+Ziel ist es hier, ein Objekt in die Kategorie mit der höchsten Wahrscheinlichkeit einzusortieren. Statt Merkmale nach vorgefertigten Regeln auszuwerten, werden sie hier einfach als Zahlenwerte gemessen und in einem Merkmalsvektor zusammengefasst. Eine mathematische Funktion ordnet dann jedem denkbaren Merkmalsvektor eindeutig eine Kategorie zu.
+### Strukturell
+verbindet verschiedene sytnatkische und/oder statistische Verfahren zu einem einzigen neuen Verfahren. Die grundlegende Merkmalserkennung wird dabei allgemeinen statistischen Verfahren überlassen, während übergeordnete Inferenzverfahren Spezielwissen über das Sachgebiet einbringen.
+
 ## Ablauf der Klassifizierung
 1. Wir erstellen ein "Mehrkanaliges" Bild (Merkmalsvektor) $S = (g_{1}, \dotso, g_{n})$, Stichprobe
 2. Wir wählen Merkmale aus
