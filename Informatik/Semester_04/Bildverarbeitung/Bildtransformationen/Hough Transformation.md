@@ -1,4 +1,4 @@
-Die Hough Transformation ist wie die [[Radon Transformation]] eine paremtrisierte Bildtransformation.
+Die Hough Transformation ist wie die [[Radon Transformation]] eine parametrisierte Bildtransformation.
 Ihr Ziel ist eine "Globale" Linienerkennung durch das Transformieren des Segementierungsproblems im Bildraum in ein Finden von lokalen Maxima im Parameterraum.
 
 Bei der Hough Transformation schauen wir uns für jeden Punkt im Bild an, zu welchem möglichen Geraden ($\rho = x \cdot\cos(\theta) + y \cdot \sin(\theta)$) dieser gehören könnte und plotten diese möglichen $\rho$ und $\theta$-Werte (alternativ von $y = ax+b$ die möglichen $a$ und $b$ Werte). Wenn in diesem Transformationsraum nun peaks entstehen, ist dies eine mögliche Gerade mit diesem Winkel $\theta$ und der Entfernung vom Ursprung $\rho$.
