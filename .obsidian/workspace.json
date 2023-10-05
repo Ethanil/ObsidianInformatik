@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md"
               }
             }
           },
@@ -187,6 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
@@ -200,19 +206,13 @@
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Translation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Reflexion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Mosaicing.md",
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Multiskalenanalyse.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
