@@ -3,9 +3,9 @@
   "search": "-path:Excalidraw  -path:Informatik/Excalidraw  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Informatik/Semester_01",
@@ -39,7 +39,7 @@
       "query": "path:Informatik/Semester_04/Bildverarbeitung  ",
       "color": {
         "a": 1,
-        "rgb": 12113693
+        "rgb": 1160845
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 1,
   "linkDistance": 40,
-  "scale": 0.23388712837038256,
+  "scale": 0.11899285644243446,
   "close": false
 }

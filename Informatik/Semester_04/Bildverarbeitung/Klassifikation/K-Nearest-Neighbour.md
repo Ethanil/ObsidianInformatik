@@ -5,4 +5,4 @@ Bei einem kleinen $k$ berücksichtigen wir nur nahe Klassen, bei einem großen $
 Wir können dieses Verfahren eventuell erweitern, indem wir nähere Nachbarn mehr gewichten (bspw mit [[Zuordnungsstrategien#Quadratrisch Euklidisch]])
 Dieses Verfahren ist wesentlich robuster gegenüber outliern, als [[Nearest-Neighbour]], was $k=1$ entspricht.
 
-K-Nearest Neighbour kann verwendet werden, um eine lernende [[Zuordnungsstrategien]] zu implementieren.
+K-Nearest Neighbour kann verwendet werden, um eine [[Definition von Klassen#Lernende Strategien|lernende]] [[Zuordnungsstrategien]] zu implementieren.

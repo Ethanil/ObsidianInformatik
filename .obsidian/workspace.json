@@ -11,13 +11,8 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,15 +179,17 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
+    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 08 08.12.2021.md",
+    "Vektoren.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhangskomponente.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
@@ -214,8 +208,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
     "Informatik/Screenshots/Pasted image 20230929125153.png",

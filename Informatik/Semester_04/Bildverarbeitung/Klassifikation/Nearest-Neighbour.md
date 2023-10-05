@@ -8,4 +8,4 @@ Für jedes Sample vergleichen wir in jedem Cluster das Sample mit jedem Vertrete
 
 Dies führt gegebenfalls zu einem "Phantom-Cluster" falls es outliers gibt, um dies zu verhindern können wir [[K-Nearest-Neighbour]] verwenden
 
-Nearest Neighbour kann verwendet werden, um eine [[Definition von Klassen#]]lernende [[Zuordnungsstrategien]] zu implementieren.
+Nearest Neighbour kann verwendet werden, um eine [[Definition von Klassen#Lernende Strategien|lernende]] [[Zuordnungsstrategien]] zu implementieren.
