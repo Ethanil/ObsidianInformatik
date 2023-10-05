@@ -3,7 +3,7 @@
   "search": "-path:Excalidraw  -path:Informatik/Excalidraw  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -53,6 +53,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 1,
   "linkDistance": 40,
-  "scale": 0.2338871283703839,
+  "scale": 0.08487468472774355,
   "close": false
 }

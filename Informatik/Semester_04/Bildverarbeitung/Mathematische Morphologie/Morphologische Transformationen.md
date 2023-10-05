@@ -5,6 +5,7 @@ Unter die Morphologischen Transformationen fallen außen der [[Schnittmenge]], [
 - [[Erosion]]
 - [[Opening]]
 - [[Closing]]
+- [[Glättung]]
 - [[Smoothing]]
 - [[Gradient]]
 - [[Top Hat]]
