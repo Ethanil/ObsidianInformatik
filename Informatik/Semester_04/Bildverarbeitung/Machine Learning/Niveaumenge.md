@@ -1,0 +1,1 @@
+Eine Niveaumenge oder Levelmenge ist die Menge aller Punkte des Definitionsbereichs einer Funktion, denen ein gleicher Funktionswert zugeordnet ist.
