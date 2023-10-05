@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
@@ -215,7 +216,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
     "Informatik/Screenshots/Pasted image 20230929125153.png",
