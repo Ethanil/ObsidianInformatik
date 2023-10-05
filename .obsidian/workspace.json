@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md"
               }
             }
           },
@@ -187,8 +187,13 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
@@ -208,11 +213,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Abtasttheorem.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
-    "Informatik/Semester_01/FOP/Java.md",
-    "Informatik/Semester_01/Digitaltechnik/Vorlesungsübersicht/DT Vorlesung 08 08.12.2021.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",

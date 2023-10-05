@@ -7,7 +7,7 @@ Die Skelettierung ist eine Verdünnung von Segmenten auf eine Skelettlinie mit f
 - Linien werden nicht verkürzt
 
 Andere Art dies zu sehen:
-- Wir definieren $D_{\max}$ als die größt mögliche eingeschlossene Scheibe auf dem Sekelett
+- Wir definieren $D_{\max}$ als die größt mögliche eingeschlossene Scheibe auf dem Skelett
 - $D_{\max}$ muss die Form an mindestens zwei Positionen berühren
 - Es existiert keine größere eingeschlossene Scheibe, welche $D_{\max}$ einschließt
 
