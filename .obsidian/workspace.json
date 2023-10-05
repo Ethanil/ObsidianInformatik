@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md"
               }
             }
           },
@@ -189,13 +189,13 @@
   "lastOpenFiles": [
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/örtliche Redundanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/LZW Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Run-Length Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arithmetischer Code.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
