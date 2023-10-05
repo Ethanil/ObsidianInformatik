@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning",
+    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
@@ -212,7 +214,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Closing.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Opening.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Dilatation.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
@@ -231,7 +232,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe",
-    "Informatik/Semester_04/cpp"
+    "Informatik/Semester_04/Bildverarbeitung/Farbe"
   ]
 }
