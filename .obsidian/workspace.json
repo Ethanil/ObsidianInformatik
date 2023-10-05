@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md"
               }
             }
           },
@@ -188,9 +188,20 @@
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
-    "Informatik/Screenshots/Pasted image 20231005014908.png",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
+    "Informatik/Screenshots/Pasted image 20231005021728.png",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhangskomponente.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Zusammenhang.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Rasterung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Nachbarschaft.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Pfade.md",
+    "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll CSS SoSe 22.md",
@@ -205,17 +216,7 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
     "Informatik/Screenshots/Pasted image 20230929125153.png",
     "Informatik/Screenshots/Pasted image 20230929123513.png",
@@ -224,7 +225,6 @@
     "Informatik/Screenshots/Pasted image 20230929122336.png",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Screenshots/Pasted image 20230928163900.png",
-    "Informatik/Screenshots/Pasted image 20230928163611.png",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
