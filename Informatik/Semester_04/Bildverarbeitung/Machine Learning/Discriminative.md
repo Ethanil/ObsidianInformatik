@@ -1,0 +1,1 @@
+Discriminative Learning ist eine supervisierte Art machine learning zu machen. Wir verwenden dabei konkrete Eigenschaften eines Objektes, um zu entscheiden in welche Klasse es fällt.

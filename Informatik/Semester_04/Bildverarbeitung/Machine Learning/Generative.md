@@ -1,0 +1,1 @@
+Bei Generative Machine Learning verwenden wir eine "Beschreibung" eines Objektes um zu entscheiden, in welche Klasse es fällt. Wir lernen also unsere eigenen Daten zu generieren.
