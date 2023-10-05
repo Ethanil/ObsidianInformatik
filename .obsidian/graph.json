@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Informatik/Semester_01",
@@ -41,13 +41,6 @@
         "a": 1,
         "rgb": 1160845
       }
-    },
-    {
-      "query": "path:Informatik/Semester_04  ",
-      "color": {
-        "a": 1,
-        "rgb": 7693589
-      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +53,6 @@
   "repelStrength": 9.58333333333333,
   "linkStrength": 1,
   "linkDistance": 40,
-  "scale": 0.11899285644243446,
+  "scale": 0.2338871283703839,
   "close": false
 }
