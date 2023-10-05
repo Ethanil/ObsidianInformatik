@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md"
               }
             }
           },
@@ -187,6 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+    "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
     "Informatik/Semester_03/Computersystemsicherheit/Gedächtnisprotokolle/Gedächtnisprotokoll - CSS (WS2021_22).md",
@@ -207,7 +210,6 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md",
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
@@ -223,7 +225,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Screenshots/Pasted image 20230928163900.png",
     "Informatik/Screenshots/Pasted image 20230928163611.png",
-    "Informatik/Screenshots/Pasted image 20230928162149.png",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",

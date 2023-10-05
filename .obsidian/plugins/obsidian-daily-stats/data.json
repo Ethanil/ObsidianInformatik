@@ -26,7 +26,7 @@
     "2023/9/1": 137,
     "2023/9/2": 0,
     "2023/9/4": 423,
-    "2023/9/5": 677
+    "2023/9/5": 808
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md": {
@@ -39,7 +39,7 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
       "initial": 1,
-      "current": 286
+      "current": 383
     },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md": {
       "initial": 63,
@@ -112,6 +112,10 @@
     "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md": {
       "initial": 4,
       "current": 6
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md": {
+      "initial": 0,
+      "current": 34
     }
   }
 }

@@ -16,3 +16,9 @@ Dadurch ist eine Stichprobe einfache und weniger anfällig, die Grenzen sind fle
 
 ### Lernende Strategien
 Es ist nicht unüblich, dass sich Stichproben mit der Zeit verändern, darauf können wir mit Fest-Dimensionerten Stichproben nicht reagieren. Eine Lösung dafür ist es lernende Stichproben zu verwenden, die bspw eine Trenderkennung durch Rückkopplung erhalten. Dabei wir jeder Sample neu klassifiziert und der Trainingsmenge zugeführt, was zu einer Erweiterung führt. Wir erhalten dann eine neudefinition von Klassengrenzen (bei überwachten Stichproben) oder auch der Klassenazahl (bei unüberwachten Stichproben)
+#### Überwacht
+Die erstdimensionierung wird durch eine bekannte Stichprobe und einer festgelegten Menge an Klassen gemacht. Jede Probe wird klassifiziert und zur Stichprobe zugeführt, wordurch die Stichprobe erweitert wird, da nach jeder Klassifikation auch eine re-Dimensionierung der Klassengrenzen stattfindet.
+
+![[Pasted image 20231005014908.png# 2/3 left shadow|Die Stichprobe wird verbessert, indem ihr die Merkmalsvektoren zugeführt werden]]
+#### Unüberwacht(Train-on-the-job)
+Wir haben eine sich erweiternde Stichprobe, anhand derer die Anzahl **und** die Grenzen der Klassen dynamisch durch [[Clustering]] festgelegt werden. Wir legen nur die Kriterien(z.B. Schwellen) für die Vereinigung/Trennung von Clustern fest.
