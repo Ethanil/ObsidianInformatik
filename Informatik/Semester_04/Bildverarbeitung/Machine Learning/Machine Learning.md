@@ -18,4 +18,11 @@ Dies nennt man bei einem diskreten World state [[Klassifizieren|Klassifikation]]
 - Inference Algorithmus
 
 ### Modell
-Beim Modell bringen wir mathematisch visuelle Daten mit einem wordstate in Verbindung. Diese Verb
+Beim Modell bringen wir mathematisch visuelle Daten $x$ mit einem worldstate $y$ in Verbindung. Diese Verbindung können wir über Parameter $w$ steuern.
+### Lern-Algorithmus
+Beim Lernen passen wir unsere Modell-Parameter mithilfge von Traingsdaten an.
+### Inferenz Algorithmus
+Hier nehmen wir eine neue Observation(die nicht Teil der Trainingsdaten war) und verwenden unser Modell um den Worldstate vorherzusagen.
+
+
+Wir wollen [[Risk Minimization|Risiko minimieren]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Discriminative.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
@@ -212,8 +214,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Diskontinuität.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Gradient.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
