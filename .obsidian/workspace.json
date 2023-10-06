@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Discriminative.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
@@ -205,7 +206,6 @@
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Semester_01/Mathe_1/Lineare Abbildungen.md",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning",
