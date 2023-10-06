@@ -11,13 +11,8 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,12 +179,14 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
+    "Informatik/Semester_04/Bildverarbeitung/Deep Learning",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Cutting Plane method.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Discriminative.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
@@ -214,8 +208,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Arten von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kodierungsredundanz.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
@@ -231,7 +223,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum",
-    "Informatik/Semester_04/Bildverarbeitung/Farbe"
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum"
   ]
 }

@@ -7,3 +7,5 @@ Insgesamt nennt man diese Art der Anschauung Risiko, darum versuchen wir dies au
 Wir wollen unser Parameter $w$ generalisiert an ungesehene Daten anpassen, also nicht für unsere Trainingsdaten overfitten. Dies machen wir indem wir Komplexe Modelle penalisieren.
 
 Dieses Problem verwandeln wir nun in ein [[Konvexe Funktion|konvexes Problem]], da wir auf solche Probleme gute Optimierungsstrategien anwenden können.
+
+Eine [[Solving lineare support vector machine|Linear support vector machine]] ist im Prinzip so ein Risiko-minimierungsproblem.

@@ -27,7 +27,7 @@
     "2023/9/2": 0,
     "2023/9/4": 423,
     "2023/9/5": 2165,
-    "2023/9/6": 167
+    "2023/9/6": 264
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
@@ -44,7 +44,15 @@
     },
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md": {
       "initial": 1,
-      "current": 168
+      "current": 224
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Cutting Plane method.md": {
+      "initial": 1,
+      "current": 25
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md": {
+      "initial": 108,
+      "current": 125
     }
   }
 }

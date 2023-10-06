@@ -4,4 +4,9 @@ Die Größe der beiden Grenzen $x_{1}$ und $x_{2}$ sollen also in abhängingkeit
 
 Wir wollen also $\frac{2}{||w||}$ maximieren, während $y_{i}(<w,x_{i}>+b)\geq 1,\forall i$ wahr bleibt. Dies können wir zu einem minimierungs-Problem umformulieren, sodass wir $\frac{1}{2}||w||^{2}$ erhalten.
 
-Unsere Daten sind idR nicht linear seperierbar, also müssen wir unsere Bedingung mithilfe von $\xi$ kontrolliert aufweichen, wir haben also als Bedingung nun $y_{i}(<w,x_{i}>+b)\geq 1-\xi_{i},\xi_{i}\geq 0,\forall i$, während wir so wenig Fehler wie möglich zulassen wollen, wir minimieren also zusätzlich noch den Durchschnitt von $\xi_{i}$
+Unsere Daten sind idR nicht linear seperierbar, also müssen wir unsere Bedingung mithilfe von $\xi$ kontrolliert aufweichen, wir haben also als Bedingung nun $y_{i}(<w,x_{i}>+b)\geq 1-\xi_{i},\xi_{i}\geq 0,\forall i$, während wir so wenig Fehler wie möglich zulassen wollen, wir minimieren also zusätzlich noch den Durchschnitt von $\xi_{i}$, wir minimieren also $\frac{\lambda}{2}||w||^{2} + \frac{1}{m}\sum^{m}_{i=1}\xi_{i}$ 
+
+Insgesamt erhalten wir also
+$$\min \left[\frac{\lambda}{2}||w||^{2} + \frac{1}{m}\sum^{m}_{i=1}max(0,1-y_{i}(<w,x_{i}>+b)) \right]$$
+
+Dies können wir mithilfe der [[Cutting Plane method]] lösen.
