@@ -11,8 +11,13 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md"
+              }
             }
           },
           {
