@@ -11,7 +11,7 @@ Die Stichprobe ist immer nur eine Approximation einer Klasse. Das heißt bei ein
 Unsere Dimensionierung ist statisch, wir haben also eine Feste Anzahl an Klassen mit festen Grenzen.
 
 ### Fest-Dimensioniert unüberwachte Stategie
-Hier haben wir zwar eine feste Menge an Trainigsvektoren, aber die Anzahl der Klassen und die Klassengrenzen sind nicht bekannt, das heißt beides wird währen der Klassifikation generiert durch [[Clustering]].
+Hier haben wir zwar eine feste Menge an Trainigsvektoren, aber die Anzahl der Klassen und die Klassengrenzen sind nicht bekannt, das heißt beides wird während der Klassifikation generiert durch [[Clustering]].
 Dadurch ist eine Stichprobe einfache und weniger anfällig, die Grenzen sind flexibler und es ist Re-clustering möglich(also eine dynamische Dimensionierung)
 
 ### Lernende Strategien

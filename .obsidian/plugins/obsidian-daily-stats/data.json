@@ -26,172 +26,17 @@
     "2023/9/1": 137,
     "2023/9/2": 0,
     "2023/9/4": 423,
-    "2023/9/5": 2165
+    "2023/9/5": 2165,
+    "2023/9/6": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md": {
-      "initial": 160,
-      "current": 294
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md": {
-      "initial": 289,
-      "current": 292
-    },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
-      "initial": 1,
+      "initial": 383,
       "current": 383
     },
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md": {
-      "initial": 63,
+      "initial": 120,
       "current": 120
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md": {
-      "initial": 0,
-      "current": 166
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 1.md": {
-      "initial": 272,
-      "current": 274
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 2.md": {
-      "initial": 382,
-      "current": 384
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 3.md": {
-      "initial": 143,
-      "current": 145
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 4.md": {
-      "initial": 169,
-      "current": 171
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 5.md": {
-      "initial": 235,
-      "current": 237
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 6.md": {
-      "initial": 210,
-      "current": 212
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 7.md": {
-      "initial": 4,
-      "current": 6
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 8.md": {
-      "initial": 123,
-      "current": 125
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 9.md": {
-      "initial": 103,
-      "current": 105
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 10.md": {
-      "initial": 91,
-      "current": 93
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 11.md": {
-      "initial": 54,
-      "current": 56
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 12.md": {
-      "initial": 277,
-      "current": 279
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 13.md": {
-      "initial": 118,
-      "current": 120
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 14.md": {
-      "initial": 78,
-      "current": 80
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 15.md": {
-      "initial": 47,
-      "current": 49
-    },
-    "Informatik/Semester_03/Computersystemsicherheit/Vorlesungen/Vorlesung 16.md": {
-      "initial": 4,
-      "current": 6
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md": {
-      "initial": 0,
-      "current": 428
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest Neighbour.md": {
-      "initial": 1,
-      "current": 102
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md": {
-      "initial": 1,
-      "current": 94
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md": {
-      "initial": 102,
-      "current": 118
-    },
-    "Informatik/Semester_01/FOP/Java.md": {
-      "initial": 140,
-      "current": 140
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md": {
-      "initial": 1,
-      "current": 152
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Morphologische Transformationen.md": {
-      "initial": 52,
-      "current": 52
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Glättung.md": {
-      "initial": 1,
-      "current": 11
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md": {
-      "initial": 156,
-      "current": 156
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Gauß Pyramide.md": {
-      "initial": 76,
-      "current": 80
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Multiskalenanalyse/Hierarchisch Diskrete Korrelation.md": {
-      "initial": 76,
-      "current": 76
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Smoothing.md": {
-      "initial": 21,
-      "current": 21
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md": {
-      "initial": 242,
-      "current": 242
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Information.md": {
-      "initial": 94,
-      "current": 94
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md": {
-      "initial": 1,
-      "current": 211
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Discriminative.md": {
-      "initial": 1,
-      "current": 25
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Generative.md": {
-      "initial": 1,
-      "current": 26
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md": {
-      "initial": 30,
-      "current": 108
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md": {
-      "initial": 1,
-      "current": 234
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md": {
-      "initial": 1,
-      "current": 19
     }
   }
 }
