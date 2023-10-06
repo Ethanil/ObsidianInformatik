@@ -18,4 +18,10 @@ Wenn eine Funktion konvex ist, dann sind alle seine [[Niveaumenge]]n auch konvex
 
 ## Eigenschaften
 Jede Tangente einer Konvexen Funktion hat keine Schnittstelle mit der Funktion.
-### Bre
+### Bregman Divergenz
+Über die Tangente eines Punktes $x'$ der Konvexen Funktion können wir die Entfernung von $x$(ein weiterer Punkt der Funktion) zu $x'$ angeben:
+$$D_{F}(x,x')=F(x)-F(x')-<\Delta F(x'),x-x'>$$
+![[Pasted image 20231005223229.png# 5/6 left shadow|Bregman Divergenz]]
+
+### Ableitbarkeit
+Eine konvexe Funktion ist immer mindestens überall stückweise ableitbar

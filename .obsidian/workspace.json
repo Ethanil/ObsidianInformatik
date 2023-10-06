@@ -11,13 +11,8 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +179,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_01/Mathe_1/Lineare Abbildungen.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
+    "Informatik/Screenshots/Pasted image 20231005223229.png",
+    "Informatik/Semester_01/Mathe_1/Lineare Abbildungen.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md",
@@ -214,7 +207,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Qualität von Kompression.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Regionbasierte Verfahren.md",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Schwellwertverfahren.md",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung/Segmentierung.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
@@ -224,7 +216,6 @@
     "Informatik/Screenshots/Pasted image 20230929123513.png",
     "Informatik/Screenshots/Pasted image 20230929123316.png",
     "Informatik/Screenshots/Pasted image 20230929123216.png",
-    "Informatik/Screenshots/Pasted image 20230929122336.png",
     "Informatik/Semester_04/Bildverarbeitung/Segmentierung",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie",
     "Informatik/Semester_04/Bildverarbeitung/Kompression",
