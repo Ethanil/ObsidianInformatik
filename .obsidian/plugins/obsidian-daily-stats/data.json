@@ -27,7 +27,7 @@
     "2023/9/2": 0,
     "2023/9/4": 423,
     "2023/9/5": 2165,
-    "2023/9/6": 264
+    "2023/9/6": 342
   },
   "todaysWordCount": {
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
@@ -53,6 +53,14 @@
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md": {
       "initial": 108,
       "current": 125
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md": {
+      "initial": 1,
+      "current": 57
+    },
+    "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Learning Algorithmus.md": {
+      "initial": 1,
+      "current": 23
     }
   }
 }
