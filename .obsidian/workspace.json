@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
