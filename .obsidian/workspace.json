@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
@@ -215,7 +216,6 @@
     "Informatik/Semester_01/Mathe_1/Lineare Abbildungen.md",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
-    "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
