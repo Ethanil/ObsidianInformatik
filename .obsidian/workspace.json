@@ -11,13 +11,8 @@
             "id": "357a2cd03c7615f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,15 +179,15 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
