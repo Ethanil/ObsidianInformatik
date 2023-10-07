@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md"
               }
             }
           },
@@ -187,6 +187,16 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
+    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
@@ -202,20 +212,10 @@
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md",
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Learning Algorithmus.md",
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Skelettierung.md",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Semester_01/Mathe_1/Lineare Abbildungen.md",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
-    "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
