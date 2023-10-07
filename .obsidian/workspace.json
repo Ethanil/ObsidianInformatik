@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kette",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md"
               }
             }
           },
@@ -188,8 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
+    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md",
@@ -216,8 +217,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Definitionen/Quantisierung.md",
     "Informatik/Semester_04/Bildverarbeitung/Mathematische Morphologie/Top Hat.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Kompression bei JPEG.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Eliminierung von Irrelevanz.md",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
