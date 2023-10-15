@@ -28,7 +28,7 @@
     "2023/9/4": 423,
     "2023/9/5": 2165,
     "2023/9/6": 342,
-    "2023/9/15": 388
+    "2023/9/15": 389
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele.md": {
@@ -50,6 +50,10 @@
     "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md": {
       "initial": 5,
       "current": 23
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Ergometer-basierte Exergames.md": {
+      "initial": 4,
+      "current": 5
     }
   }
 }
