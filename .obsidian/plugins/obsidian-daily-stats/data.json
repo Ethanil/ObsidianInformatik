@@ -27,40 +27,21 @@
     "2023/9/2": 0,
     "2023/9/4": 423,
     "2023/9/5": 2165,
-    "2023/9/6": 342
+    "2023/9/6": 342,
+    "2023/9/15": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Definition von Klassen.md": {
-      "initial": 383,
-      "current": 383
+    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele.md": {
+      "initial": 4,
+      "current": 4
     },
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md": {
-      "initial": 120,
-      "current": 120
+    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildungen und Berufsfelder.md": {
+      "initial": 4,
+      "current": 4
     },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Machine Learning.md": {
-      "initial": 211,
-      "current": 211
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md": {
-      "initial": 1,
-      "current": 224
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Cutting Plane method.md": {
-      "initial": 1,
-      "current": 25
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Risk Minimization.md": {
-      "initial": 108,
-      "current": 125
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md": {
-      "initial": 1,
-      "current": 57
-    },
-    "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Learning Algorithmus.md": {
-      "initial": 1,
-      "current": 23
+    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen.md": {
+      "initial": 4,
+      "current": 4
     }
   }
 }
