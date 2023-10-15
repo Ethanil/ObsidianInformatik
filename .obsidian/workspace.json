@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md"
               }
             }
           },
@@ -187,9 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele.md",
-    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildungen und Berufsfelder.md",
-    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen.md",
+    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen",
+    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
+    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder",
+    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele",
+    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md",
+    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md",
     "Informatik/Screenshots/Pasted image 20231015122433.png",
     "Informatik/Screenshots/Pasted image 20231015122216.png",
     "Informatik/Screenshots/Pasted image 20231015122024.png",
@@ -228,9 +231,7 @@
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
     "Informatik/Screenshots/Pasted image 20231005011512.png",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation",
     "Informatik/Screenshots/Pasted image 20231001161303.png",
-    "Informatik/Screenshots/Pasted image 20230929125153.png",
-    "Informatik/Semester_04/Bildverarbeitung/Segmentierung"
+    "Informatik/Screenshots/Pasted image 20230929125153.png"
   ]
 }
