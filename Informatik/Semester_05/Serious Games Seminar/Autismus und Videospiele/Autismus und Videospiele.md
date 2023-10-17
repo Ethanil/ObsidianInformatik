@@ -2,6 +2,15 @@
 
 
 
+@article{mazurek2012quality,
+    author = {Mazurek, M.O., Shattuck, P.T., Wagner, M. et al.},
+    title = {{Prevalence and Correlates of Screen-Based Media Use Among Youths with Autism Spectrum Disorders}},
+    journal = {Journal of Autism and Developmental Disorders},
+    volume = {42}, 
+    pages = {1757–1767},
+    year = {2012},
+    doi = {10.1007/s10803-011-1413-8}
+}
 
 
 
