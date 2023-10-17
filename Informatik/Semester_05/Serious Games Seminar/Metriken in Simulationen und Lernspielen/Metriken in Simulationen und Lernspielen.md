@@ -31,3 +31,11 @@ Wir können beschreibende Bewertung und Evaluation in Tandem verwenden um zu ent
 ### Wie
 Das Wie muss in Lernspielen nicht über Fragebögen gemacht werden, da dies direkt in das Spiel integriert sein kann, indem wir das Verhalten und Erfolge der einzelnen User loggen und auswerten.
 Natürlich gibt es auch Variablen die nicht auf diese Art getestet werden kann, da sie bspw in der echten Welt getestet werden müssen.
+
+
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/31206737/
+> To study whether psychophysiological indicators are suitable measures of user experience in a digital exercise game (exergame), a laboratory study employing both psychophysiological and self-report measures was conducted. Sixty-six participants cycled for 10 min on an ergometer while pupil diameter, skin conductance, and heart rate were measured; afterward, they completed a user experience questionnaire. The participants performed under three experimental conditions varying between subjects: active gaming (participants controlled the altitude of a digital bird by varying their pedal rate in order to catch letters flying across the screen), observing a game (they observed a replay of another participant's game), and no-game (blank screen). Only the gaming condition showed evidence for statistically significant pupil dilations-indicating emotional arousal-in response to game events (catching a letter) or corresponding points in time. The observational condition did not differ statistically from the no-game control condition. Self-reports also indicated that the gaming condition was rated most fun and least demanding. Other psychophysiological indicators (heart rate, skin conductance) showed no systematic effects in response to game events, rather they steadily increased during training. Thus, pupil responses were shown to be suitable indicators of positive emotional reactions to game events and user experience in a (training) game.
+
