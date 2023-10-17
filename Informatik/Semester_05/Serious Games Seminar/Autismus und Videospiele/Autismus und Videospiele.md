@@ -2,19 +2,6 @@
 
 
 
-@article{mazurek2012quality,
-    author = {Mazurek, M.O., Shattuck, P.T., Wagner, M. et al.},
-    title = {{Prevalence and Correlates of Screen-Based Media Use Among Youths with Autism Spectrum Disorders}},
-    journal = {Journal of Autism and Developmental Disorders},
-    volume = {42}, 
-    pages = {1757–1767},
-    year = {2012},
-    doi = {10.1007/s10803-011-1413-8}
-}
-
-
-
-
 
 https://www.researchgate.net/publication/257692109_Video_game_use_and_problem_behaviors_in_boys_with_autism_spectrum_disorders
 > Children with autism spectrum disorders (ASD) have strong preferences for screen-based media, particularly video games. Although problematic video game use has been associated with behavior problems among typically developing children, the relationship between these variables has not been previously examined among children with ASD. The current study examined the relationships between aspects of video game use and problem behaviors among a sample of 169 boys (ages 8–18) with ASD. Parents reported on their children's behavioral functioning and video game habits and preferences, including the average number of hours spent playing video games per day, preferred game types (genres), and problematic (i.e., addictive) video game play patterns. The results revealed that problematic video game use was significantly correlated with inattention and oppositional behavior. Boys who played Role-Playing games had higher levels of both problematic game use and oppositional behavior. Finally, problematic game use and Role-Playing game genre were significant predictors of oppositional behavior, even when controlling for age and amount of time spent playing video games. The results highlight the clinical importance of examining video game use patterns among children with ASD, and indicate a need for future experimental and longitudinal research in this area.
