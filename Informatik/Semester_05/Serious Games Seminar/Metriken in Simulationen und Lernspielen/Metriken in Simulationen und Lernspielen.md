@@ -1,5 +1,12 @@
 ![[Pasted image 20231015122433.png# left]]
 
+
+
+
+
+
+
+
 https://www.researchgate.net/profile/Jan-Plass/publication/261562556_Metrics_in_Simulations_and_Games_for_Learning/links/02e7e534b42af67698000000/Metrics-in-Simulations-and-Games-for-Learning.pdf?origin=publication_detail
 
 

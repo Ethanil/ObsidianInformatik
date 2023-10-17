@@ -1,5 +1,12 @@
 ![[Pasted image 20231015122216.png# left]]
 
+
+
+
+
+
+
+
 ## Kernbereiche
 ### Marketing und Vertrieb
 ### Produktionswirtschaft
