@@ -24,9 +24,12 @@
             "id": "5766d128de59d751",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md"
               }
             }
           },
