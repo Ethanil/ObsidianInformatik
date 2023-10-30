@@ -24,13 +24,8 @@
             "id": "5766d128de59d751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,10 +193,11 @@
   },
   "active": "5766d128de59d751",
   "lastOpenFiles": [
+    "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
+    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Ergometer-basierte Exergames.md",
     "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md",
     "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md",
-    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Untitled",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames",
