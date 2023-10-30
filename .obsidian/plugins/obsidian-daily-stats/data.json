@@ -30,12 +30,24 @@
     "2023/9/6": 342,
     "2023/9/15": 2010,
     "2023/9/17": 539,
-    "2023/9/30": 87
+    "2023/9/30": 132
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md": {
       "initial": 1,
-      "current": 88
+      "current": 90
+    },
+    "Informatik/Semester_05/Betribessysteme/Isolation.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "Informatik/Semester_05/Betribessysteme/Protection Boundary.md": {
+      "initial": 2,
+      "current": 26
+    },
+    "Informatik/Semester_05/Betribessysteme/Prozess.md": {
+      "initial": 1,
+      "current": 19
     }
   }
 }

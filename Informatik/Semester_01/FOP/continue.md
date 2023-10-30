@@ -24,4 +24,4 @@ F --> B
 B -->|false| G[AnweisungD]
 E --> B
 ```
-- Das heißt durch ein `continue` wird die Fortsetzungsbedingung der Schleife erneut abgefragt und abhängig von dieser wird der [[Prozess]] weiter ausgeführt
+- Das heißt durch ein `continue` wird die Fortsetzungsbedingung der Schleife erneut abgefragt und abhängig von dieser wird der [[Informatik/Semester_01/FOP/Prozess]] weiter ausgeführt

@@ -1,2 +1,2 @@
 # Programm
->Je nach Kontext ist damit der Quelltext selbst oder der übersetzte, ausführbare Quelltext gemeint. Etwas missverständlich nennt man häufig auch die Ausführung des Programms als [[Prozess]] wieder Programm („das Programm läuft“). (01a:61-73)
+>Je nach Kontext ist damit der Quelltext selbst oder der übersetzte, ausführbare Quelltext gemeint. Etwas missverständlich nennt man häufig auch die Ausführung des Programms als [[Informatik/Semester_01/FOP/Prozess]] wieder Programm („das Programm läuft“). (01a:61-73)
