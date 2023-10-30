@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md",
+                "file": "Informatik/Semester_05/Betribessysteme/System call.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md",
+                "file": "Informatik/Semester_05/Betribessysteme/System call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md"
+                "file": "Informatik/Semester_05/Betribessysteme/System call.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
     "Informatik/Semester_05/Betribessysteme/Protection Boundary.md",
-    "Informatik/Semester_01/FOP/Prozess.md",
+    "Informatik/Semester_05/Betribessysteme/System call.md",
     "Informatik/Semester_05/Betribessysteme/Prozess.md",
+    "Informatik/Semester_01/FOP/Prozess.md",
     "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
     "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
@@ -226,7 +227,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
     "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Konvexe Funktion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Solving lineare support vector machine.md",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
