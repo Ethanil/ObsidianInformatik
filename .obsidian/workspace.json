@@ -24,8 +24,13 @@
             "id": "5766d128de59d751",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md"
+              }
             }
           },
           {

@@ -29,24 +29,13 @@
     "2023/9/5": 2165,
     "2023/9/6": 342,
     "2023/9/15": 2010,
-    "2023/9/17": 539
+    "2023/9/17": 539,
+    "2023/9/30": 33
   },
   "todaysWordCount": {
-    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md": {
-      "initial": 5,
-      "current": 544
-    },
-    "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Ergometer-basierte Exergames.md": {
-      "initial": 1412,
-      "current": 1412
-    },
-    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md": {
-      "initial": 23,
-      "current": 23
-    },
-    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md": {
-      "initial": 586,
-      "current": 586
+    "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md": {
+      "initial": 1,
+      "current": 34
     }
   }
 }
