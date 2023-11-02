@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/System call.md",
+                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/System call.md",
+                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Betribessysteme/System call.md"
+                "file": "Informatik/Semester_05/Betribessysteme/Prozess.md"
               }
             }
           },
@@ -187,11 +187,11 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_01/FOP/Prozess.md",
+    "Informatik/Semester_05/Betribessysteme/Prozess.md",
+    "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
     "Informatik/Semester_05/Betribessysteme/System call.md",
     "Informatik/Semester_05/Betribessysteme/Protection Boundary.md",
-    "Informatik/Semester_05/Betribessysteme/Prozess.md",
-    "Informatik/Semester_01/FOP/Prozess.md",
-    "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
     "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
     "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Ergometer-basierte Exergames.md",
