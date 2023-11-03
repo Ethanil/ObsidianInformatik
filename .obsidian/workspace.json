@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md"
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
     "Informatik/Semester_05/Betribessysteme/System call.md",
@@ -226,7 +227,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Clustering.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Klassifizieren.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
-    "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
