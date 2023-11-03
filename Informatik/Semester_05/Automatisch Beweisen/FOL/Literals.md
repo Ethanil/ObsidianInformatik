@@ -1,0 +1,2 @@
+[[Formula|Formulas]] in der Form $\lnot p, p$ bei denen $p \in A_\Sigma$(Siehe [[Terms and Atoms|atom]]) sind literals.
+[[Terms and Atoms|atoms]] sind positive literals, negated atoms sind negative literals

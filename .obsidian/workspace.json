@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Sentences.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Literals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Sentences.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Literals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Sentences.md"
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Literals.md"
               }
             }
           },
@@ -187,11 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Sentences.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Literals.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Sentences.md",
+    "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
     "Informatik/Semester_05/Betribessysteme/System call.md",
@@ -231,7 +232,6 @@
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
     "Informatik/Screenshots/Pasted image 20231005014908.png",
-    "Informatik/Screenshots/Pasted image 20231005011512.png",
-    "Informatik/Screenshots/Pasted image 20231001161303.png"
+    "Informatik/Screenshots/Pasted image 20231005011512.png"
   ]
 }

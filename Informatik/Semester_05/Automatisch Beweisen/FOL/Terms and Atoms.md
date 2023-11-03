@@ -5,7 +5,7 @@ aliases:
   - atom
   - atoms
 ---
-Terms($T$) und Atoms($A$) sind induktiv definiert
+Terms($T_{\Sigma}$) und Atoms($A_{\Sigma}$) sind induktiv definiert
 1. $Var \subseteq T_{\Sigma}$ 
 2. Wenn $t_{1},\dotso ,t_{n} \in T_{\Sigma}$ und $f \in F_{\Sigma}$ $n$-ary ist, dann ist $f(t_{1},\dotso,t_{n})\in T_{\Sigma}$
 3. Wenn $t_{1},\dotso ,t_{n} \in T_{\Sigma}$ und $p \in P_{\Sigma}$ $n$-ary ist, dann ist $p(t_{1},\dotso,t_{n})\in A_{\Sigma}$
