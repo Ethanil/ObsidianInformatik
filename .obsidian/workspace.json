@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL.md"
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
     "Informatik/Semester_05/Betribessysteme/System call.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Semester_05/Betribessysteme/Prozess.md",
     "Informatik/Semester_01/FOP/Prozess.md",
@@ -211,7 +215,6 @@
     "Informatik/Semester_05/Graphische Datenverarbeitung 1",
     "Informatik/Semester_05/Betribessysteme",
     "Informatik/Semester_05/Bachelor-Praktikum",
-    "Informatik/Semester_05/Visual Computing",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
@@ -224,9 +227,6 @@
     "Informatik/Semester_04/Bildverarbeitung/Bildtransformationen/Fourier Transformation.md",
     "Informatik/Semester_04/Bildverarbeitung/Kompression/Predictive Coding.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Punktoperationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Deep Learning/Perceptron.md",
-    "Informatik/Semester_02/Mathe_2/Differenzieren von Funktionen mehrerer Variablen/Ableitungsregeln.md",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
