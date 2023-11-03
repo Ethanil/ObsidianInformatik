@@ -32,12 +32,16 @@
     "2023/9/17": 539,
     "2023/9/30": 308,
     "2023/10/2": 0,
-    "2023/10/3": 54
+    "2023/10/3": 143
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Signature.md": {
       "initial": 1,
-      "current": 55
+      "current": 59
+    },
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md": {
+      "initial": 1,
+      "current": 86
     }
   }
 }
