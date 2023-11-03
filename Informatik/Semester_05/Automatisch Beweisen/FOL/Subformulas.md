@@ -1,0 +1,1 @@
+Wenn eine [[Formula]] vollständig geklammert (fully bracketed) ist, dann ist eine subformula ein substring, der auch eine formula ist
