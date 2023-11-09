@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md",
+                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md",
+                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md"
+                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md"
               }
             }
           },
@@ -187,8 +187,21 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Mikroarchitektur.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md",
+    "Informatik/Semester_02/RO/Statusflags.md",
+    "Informatik/Semester_02/RO/Speicherhierarchie.md",
+    "Informatik/Semester_02/RO/Programmiermodell.md",
+    "Informatik/Semester_02/RO/Phasen der Maschinenbefehlausführung.md",
+    "Informatik/Semester_02/RO/Paradigma.md",
+    "Informatik/Semester_02/RO/Maschinensprache bzw Assemblersprache.md",
+    "Informatik/Semester_02/RO/Condition Codes.md",
+    "Informatik/Semester_02/RO/Terminologie.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Von-Neumann- und Harvard-Architektur.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Literals.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
@@ -203,13 +216,6 @@
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Semester_05/Betribessysteme/Prozess.md",
     "Informatik/Semester_01/FOP/Prozess.md",
-    "Informatik/Semester_05/Betribessysteme/Warum gibt es ein Betriebssystem.md",
-    "Informatik/Semester_05/Betribessysteme/Protection Boundary.md",
-    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen/Metriken in Simulationen und Lernspielen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Machine Learning/Niveaumenge.md",
-    "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Ergometer-basierte Exergames.md",
-    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md",
-    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele/Autismus und Videospiele.md",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Untitled",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames",
@@ -222,12 +228,6 @@
     "Informatik/Semester_05/Graphische Datenverarbeitung 1",
     "Informatik/Semester_05/Betribessysteme",
     "Informatik/Semester_05/Bachelor-Praktikum",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Nearest-Neighbour.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmalsextraktion.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Zuordnungsstrategien.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Stichprobe.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/K-Nearest-Neighbour.md",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
