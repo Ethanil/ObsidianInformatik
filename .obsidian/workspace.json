@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md"
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md"
               }
             }
           },
@@ -187,8 +188,8 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_02/RO/Mikroarchitektur/Mikroarchitektur.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
+    "Informatik/Semester_02/RO/Mikroarchitektur/Mikroarchitektur.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md",
     "Informatik/Semester_02/RO/Statusflags.md",
