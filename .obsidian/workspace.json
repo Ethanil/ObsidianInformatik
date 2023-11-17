@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md"
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md"
               }
             }
           },
@@ -188,6 +187,7 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Mikroarchitektur.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
@@ -216,7 +216,6 @@
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Semester_05/Betribessysteme/Prozess.md",
-    "Informatik/Semester_01/FOP/Prozess.md",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Untitled",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames",
