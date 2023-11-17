@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md",
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md"
+                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
@@ -213,7 +214,6 @@
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
     "Informatik/Semester_05/Betribessysteme/System call.md",
-    "Informatik/Semester_05/Automatisch Beweisen/FOL.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Screenshots/Pasted image 20231015172633.png",

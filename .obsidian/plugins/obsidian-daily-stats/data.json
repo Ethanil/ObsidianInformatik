@@ -33,16 +33,20 @@
     "2023/9/30": 308,
     "2023/10/2": 0,
     "2023/10/3": 337,
-    "2023/10/17": 161
+    "2023/10/17": 260
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md": {
       "initial": 1,
-      "current": 154
+      "current": 202
     },
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md": {
       "initial": 36,
       "current": 44
+    },
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md": {
+      "initial": 1,
+      "current": 52
     }
   }
 }
