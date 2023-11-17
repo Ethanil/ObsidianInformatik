@@ -1,3 +1,10 @@
+---
+aliases:
+  - ground term
+  - ground terms
+  - ground formula
+  - ground formulas
+---
 Eine [[Formula]] ohne variable ist ground (das impliziert qunatifier-free)
 Die Size einer Formula ist die Länge als String
 
