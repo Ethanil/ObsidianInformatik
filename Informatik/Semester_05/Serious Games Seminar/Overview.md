@@ -10,6 +10,6 @@ inwieweit Spielen serious Games eine Rolle(oder nur Unterhaltung?)
 ### Hochschule, Medieninformatik, Cologne games lab
 ### Uni?
 ## (gamesausbildung direkt bei unternehmen (deck13 bspw))
-## Vergleich/? (1-2 Seiten)
+## Vergleich/Diskussion (1-2 Seiten)
 1 informative Tabelle/Übersicht
 ## Zusammenfassung inkl. Ausblick (1-2 Seiten)
