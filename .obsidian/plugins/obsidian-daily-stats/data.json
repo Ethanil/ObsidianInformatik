@@ -33,20 +33,13 @@
     "2023/9/30": 308,
     "2023/10/2": 0,
     "2023/10/3": 337,
-    "2023/10/17": 260
+    "2023/10/17": 260,
+    "2023/10/23": 87
   },
   "todaysWordCount": {
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md": {
-      "initial": 1,
-      "current": 202
-    },
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md": {
-      "initial": 36,
-      "current": 44
-    },
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md": {
-      "initial": 1,
-      "current": 52
+    "Informatik/Semester_05/Serious Games Seminar/Overview.md": {
+      "initial": 0,
+      "current": 87
     }
   }
 }

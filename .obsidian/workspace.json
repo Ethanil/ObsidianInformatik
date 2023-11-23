@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Overview.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes/Games-Ausbildung und Berufsfelder/Games-Ausbildungen und Berufsfelder.md",
+    "Informatik/Semester_05/Serious Games Seminar/Overview.md",
+    "Informatik/Semester_05/Serious Games Seminar/Intro",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Unification.md",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes",
+    "Informatik/Semester_05/Automatisch Beweisen/FOL/Substitution.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Ground Formulas and Complement.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Subformulas.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL/Terms and Atoms.md",
@@ -212,22 +216,18 @@
     "Informatik/Semester_02/RO/Mikroarchitektur/Von-Neumann- und Harvard-Architektur.md",
     "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
-    "Informatik/Semester_02/APL/Logik Erster Stufe/Strukturen.md",
-    "Informatik/Semester_05/Betribessysteme/System call.md",
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Untitled",
-    "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames",
-    "Informatik/Semester_05/Serious Games Seminar/Metriken in Simulationen und Lernspielen",
-    "Informatik/Semester_05/Serious Games Seminar/Games-Ausbildung und Berufsfelder",
-    "Informatik/Semester_05/Serious Games Seminar/Autismus und Videospiele",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes/Ergometer-basierte Exergames",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes/Metriken in Simulationen und Lernspielen",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes/Games-Ausbildung und Berufsfelder",
+    "Informatik/Semester_05/Serious Games Seminar/Exposes/Autismus und Videospiele",
     "Informatik/Screenshots/Pasted image 20231015122433.png",
     "Informatik/Screenshots/Pasted image 20231015122216.png",
     "Informatik/Screenshots/Pasted image 20231015122024.png",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1",
-    "Informatik/Semester_05/Betribessysteme",
-    "Informatik/Semester_05/Bachelor-Praktikum",
     "Informatik/Screenshots/Pasted image 20231005223229.png",
     "Informatik/Screenshots/Pasted image 20231005220733.png",
     "Informatik/Screenshots/Pasted image 20231005021728.png",
