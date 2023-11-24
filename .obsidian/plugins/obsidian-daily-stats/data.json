@@ -35,7 +35,7 @@
     "2023/10/3": 337,
     "2023/10/17": 260,
     "2023/10/23": 88,
-    "2023/10/24": 477
+    "2023/10/24": 479
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/media Akademie Hochschule Stuttgart.md": {
@@ -121,6 +121,10 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Hamburg.md": {
       "initial": 10,
       "current": 42
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Furtwangen.md": {
+      "initial": 0,
+      "current": 2
     }
   }
 }
