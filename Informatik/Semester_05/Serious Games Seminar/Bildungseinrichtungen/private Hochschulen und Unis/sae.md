@@ -6,7 +6,7 @@ https://www.sae.edu/deu/games-programming-ausbildung-studium/
 400€ + 4.620€/Semester (Diploma/Ausbildung) => 9.440€/Jahr
 ## Studiengänge/Ausbildungen
 Games Programming  Ausbildung und Studium
-- Fast Track Bachelor (??)(4 Semester)
-- Extended Studium (??)(6 Semester)
+- Fast Track Bachelor (BA of Arts/Science)(4 Semester)
+- Extended Studium (BA of Arts/Science)(6 Semester)
 - Diploma (sae Diploma)(3 Semester)
 - Advanced Diploma (sae Diploma)(4 Semester)
