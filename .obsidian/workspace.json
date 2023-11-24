@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/macromedia fachhochschule.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/macromedia fachhochschule.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/macromedia fachhochschule.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md"
               }
             }
           },
@@ -187,8 +187,14 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/media Akademie Hochschule Stuttgart.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule für Technik und Wirtschaft Dresden.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/FH Wedel.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/macromedia fachhochschule.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/media Akademie Hochschule Stuttgart.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/schoolOfGames.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Overview.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen",
@@ -213,18 +219,12 @@
     "Informatik/Semester_02/RO/Speicherhierarchie.md",
     "Informatik/Semester_02/RO/Programmiermodell.md",
     "Informatik/Semester_02/RO/Phasen der Maschinenbefehlausführung.md",
-    "Informatik/Semester_02/RO/Paradigma.md",
-    "Informatik/Semester_02/RO/Maschinensprache bzw Assemblersprache.md",
-    "Informatik/Semester_02/RO/Condition Codes.md",
-    "Informatik/Semester_02/RO/Terminologie.md",
     "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Semester_05/Serious Games Seminar/Ergometer-basierte Exergames/Untitled",
     "Informatik/Semester_05/Serious Games Seminar/Exposes/Ergometer-basierte Exergames",
-    "Informatik/Semester_05/Serious Games Seminar/Exposes/Metriken in Simulationen und Lernspielen",
-    "Informatik/Semester_05/Serious Games Seminar/Exposes/Games-Ausbildung und Berufsfelder",
     "Informatik/Screenshots/Pasted image 20231015122433.png",
     "Informatik/Screenshots/Pasted image 20231015122216.png",
     "Informatik/Screenshots/Pasted image 20231015122024.png",
