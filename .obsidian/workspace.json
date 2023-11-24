@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae.md"
               }
             }
           },
@@ -187,8 +187,11 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/srh hochschule heidelberg.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/sae.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule München.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/srh hochschule heidelberg.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule für Technik und Wirtschaft Dresden.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/FH Wedel.md",
@@ -216,9 +219,6 @@
     "Informatik/Semester_02/RO/Mikroarchitektur/Pipeline-Prozessor.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Mikroarchitektur.md",
     "Informatik/Semester_02/RO/Mikroarchitektur/Mehrtakt-Prozessor.md",
-    "Informatik/Semester_02/RO/Mikroarchitektur/Eintakt-Prozessor.md",
-    "Informatik/Semester_02/RO/Statusflags.md",
-    "Informatik/Semester_02/RO/Speicherhierarchie.md",
     "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
