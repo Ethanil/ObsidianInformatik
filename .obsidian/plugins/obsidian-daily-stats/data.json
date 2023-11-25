@@ -36,7 +36,7 @@
     "2023/10/17": 260,
     "2023/10/23": 88,
     "2023/10/24": 662,
-    "2023/10/25": 149
+    "2023/10/25": 261
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Fachhhochschule Dresden.md": {
@@ -137,7 +137,7 @@
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Bonn Rhein Sieg.md": {
       "initial": 0,
-      "current": 15
+      "current": 29
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule der Medien Stuttgart.md": {
       "initial": 0,
@@ -157,7 +157,23 @@
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Merseburg.md": {
       "initial": 9,
-      "current": 11
+      "current": 22
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Mittweida.md": {
+      "initial": 1,
+      "current": 48
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Offenburg.md": {
+      "initial": 12,
+      "current": 24
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Rheinmain.md": {
+      "initial": 0,
+      "current": 27
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Trier.md": {
+      "initial": 0,
+      "current": 1
     }
   }
 }
