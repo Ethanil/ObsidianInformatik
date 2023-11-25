@@ -3,4 +3,4 @@ https://www.goversity.de/bachelor-studium/digital-games-business/
 257€/Monat
 3.084€/Jahr
 ## Studiengänge
-Digital Games Business(BA of Arts)(7 Semester)
+Digital Games Business(BA)(7 Semester)

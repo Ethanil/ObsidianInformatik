@@ -2,6 +2,6 @@
 157,50€/Semester
 315€/Jahr
 ## Studiengänge
-Angewandte Informatik(BA of Science)(7 Semester)(Schwerpunkt Spiele)
-Informatik(MA of Science)(3 Semester)(Profil Spiele)
-Mediendesign(BA of Science)(7 Semester)
+Angewandte Informatik(BSc)(7 Semester)(Schwerpunkt Spiele)
+Informatik(MSc)(3 Semester)(Profil Spiele)
+Mediendesign(BSc)(7 Semester)

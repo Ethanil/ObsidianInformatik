@@ -3,4 +3,4 @@ https://www.fh-dresden.eu/de/bachelor/medieninformatik-design/
 590€/Monat
 7.080€/Jahr
 ## Studiengänge
-Medieninformatik & Mediendesign (BA of Arts)(7 Semester)
+Medieninformatik & Mediendesign (BA)(7 Semester)

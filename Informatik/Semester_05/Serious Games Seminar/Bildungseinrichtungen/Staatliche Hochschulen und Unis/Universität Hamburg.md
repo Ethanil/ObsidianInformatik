@@ -4,5 +4,5 @@ https://www.uni-hamburg.de/campuscenter/studienangebot/studiengang.html?12398787
 340€/Semester
 680€/Jahr
 ## Studiengänge
-Software-System-Entwicklung(BA of Science)(6 Semester)
-Mensch-Computer-Interaktion(BA of Science)(6 Semester)
+Software-System-Entwicklung(BSc)(6 Semester)
+Mensch-Computer-Interaktion(BSc)(6 Semester)

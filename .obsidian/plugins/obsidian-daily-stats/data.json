@@ -36,7 +36,7 @@
     "2023/10/17": 260,
     "2023/10/23": 88,
     "2023/10/24": 662,
-    "2023/10/25": 19
+    "2023/10/25": 75
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Fachhhochschule Dresden.md": {
@@ -45,11 +45,99 @@
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Fachhochschule Dresden.md": {
       "initial": 18,
-      "current": 23
+      "current": 21
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Friedrich-Albert-Lange Berufskolleg Duisburg.md": {
       "initial": 6,
       "current": 20
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Anhalt.md": {
+      "initial": 20,
+      "current": 35
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Augsburg.md": {
+      "initial": 9,
+      "current": 37
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/FH Wedel.md": {
+      "initial": 24,
+      "current": 24
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/GoVersity.md": {
+      "initial": 22,
+      "current": 22
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Hamburg Media School bzw Leuphana Universität Lüneburg.md": {
+      "initial": 28,
+      "current": 30
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/macromedia fachhochschule.md": {
+      "initial": 29,
+      "current": 29
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/media Akademie Hochschule Stuttgart.md": {
+      "initial": 27,
+      "current": 25
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule.md": {
+      "initial": 22,
+      "current": 22
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae.md": {
+      "initial": 81,
+      "current": 79
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/srh hochschule heidelberg.md": {
+      "initial": 28,
+      "current": 28
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Aalen.md": {
+      "initial": 19,
+      "current": 18
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Darmstadt.md": {
+      "initial": 41,
+      "current": 39
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Fulda.md": {
+      "initial": 34,
+      "current": 34
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule für Technik und Wirtschaft Dresden.md": {
+      "initial": 24,
+      "current": 24
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Furtwangen.md": {
+      "initial": 97,
+      "current": 87
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Ravensburg-Weingarten.md": {
+      "initial": 28,
+      "current": 24
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU Darmstadt.md": {
+      "initial": 26,
+      "current": 26
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md": {
+      "initial": 25,
+      "current": 25
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Bayreuth.md": {
+      "initial": 23,
+      "current": 19
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Hamburg.md": {
+      "initial": 40,
+      "current": 38
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Würzburg.md": {
+      "initial": 21,
+      "current": 21
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Bonn Rhein Sieg.md": {
+      "initial": 0,
+      "current": 13
     }
   }
 }

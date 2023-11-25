@@ -3,4 +3,4 @@ https://www.uni-wuerzburg.de/studium/angebot/faecher/games-engineering/
 156€/Semester
 312€/Jahr
 ## Studiengänge
-Games Engineering(BA of Science)(6 Semester)
+Games Engineering(BSc)(6 Semester)

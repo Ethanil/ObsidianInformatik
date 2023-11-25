@@ -4,4 +4,4 @@ https://www.srh-hochschule-heidelberg.de/bachelor/virtual-reality-game-developme
 8.280€/Jahr
 ## Studiengänge
 Virtual Reality & Game Development
-- Game Programming (BA of Science)(7 Semester)
+- Game Programming (BSc)(7 Semester)

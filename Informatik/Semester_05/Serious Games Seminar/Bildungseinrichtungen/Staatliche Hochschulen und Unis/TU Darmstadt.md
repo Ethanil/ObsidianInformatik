@@ -3,4 +3,4 @@ https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studie
 295,46€/Semester
 590,92€/Jahr
 ## Studiengänge
-Informatik(BA of Science)(6 Semester) (+Serious Games Gruppe)
+Informatik(BSc)(6 Semester) (+Serious Games Gruppe)

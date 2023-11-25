@@ -4,4 +4,4 @@ https://www.leuphana.de/college/bachelor/digital-media.html
 317,55€/Semester
 635,10€/Jahr
 ## Studiengänge
-Digital Media (BA of Arts)()
+Digital Media (BA)(6 Semester)

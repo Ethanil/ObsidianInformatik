@@ -3,4 +3,4 @@ https://www.tum.de/studium/studienangebot/detail/informatik-games-engineering-ba
 85€/Semester
 170€/Jahr
 ## Studiengänge
-Games Engineering(BA of Science)(6 Semester)
+Games Engineering(BSc)(6 Semester)
