@@ -36,7 +36,7 @@
     "2023/10/17": 260,
     "2023/10/23": 88,
     "2023/10/24": 662,
-    "2023/10/25": 389
+    "2023/10/25": 421
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Fachhhochschule Dresden.md": {
@@ -186,6 +186,14 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Humbold Universität zu Berlin.md": {
       "initial": 0,
       "current": 27
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Oberstufenzentrum Informations- und Medientechnik.md": {
+      "initial": 10,
+      "current": 26
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md": {
+      "initial": 6,
+      "current": 22
     }
   }
 }

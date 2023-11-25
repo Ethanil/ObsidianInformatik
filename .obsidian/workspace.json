@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md"
               }
             }
           },
@@ -187,6 +187,10 @@
   },
   "active": "357a2cd03c7615f0",
   "lastOpenFiles": [
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/schoolOfGames.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Oberstufenzentrum Informations- und Medientechnik.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/Mediadesign Hochschule.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Humbold Universität zu Berlin.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule für Technik und Wirtschaft Berlin.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Worms.md",
@@ -209,10 +213,6 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule der Medien Stuttgart.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Friedrich-Albert-Lange Berufskolleg Duisburg.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Würzburg.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Fachhhochschule Dresden.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Hamburg.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Bayreuth.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/TU München.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
