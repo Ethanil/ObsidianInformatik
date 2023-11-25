@@ -36,7 +36,7 @@
     "2023/10/17": 260,
     "2023/10/23": 88,
     "2023/10/24": 662,
-    "2023/10/25": 75
+    "2023/10/25": 94
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Fachhhochschule Dresden.md": {
@@ -137,7 +137,11 @@
     },
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule Bonn Rhein Sieg.md": {
       "initial": 0,
-      "current": 13
+      "current": 15
+    },
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Hochschule der Medien Stuttgart.md": {
+      "initial": 0,
+      "current": 17
     }
   }
 }
