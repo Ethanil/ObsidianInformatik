@@ -39,12 +39,13 @@
     "2023/10/25": 517,
     "2023/11/5": 0,
     "2023/11/7": 0,
-    "2023/11/10": 0
+    "2023/11/10": 0,
+    "2023/11/29": 215
   },
   "todaysWordCount": {
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Bayreuth.md": {
-      "initial": 26,
-      "current": 26
+    "eigene Projekte/gifts/Use Cases.md": {
+      "initial": 0,
+      "current": 215
     }
   }
 }
