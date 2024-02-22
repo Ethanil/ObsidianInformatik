@@ -44,6 +44,26 @@ In diesem Schritt wird eine Vorberechnung ausgeführt um graphische Primitive in
 - Sortierung nach x-Koordinate
 Daraus ergibt sich eine sortierte Zahlenliste zu jeder Bildschirmzeile eines jeden Primitivs
 ## Triangle Conversion
-In diesem Schritt werden
-
+In diesem Schritt werden für alle Pixel Fragmente generiert. Dabei können mehrere Fragmente einer Pixelposition zugeordnet sein. Hierbei werden den Fragmenten durch Interpolation Eigenschhaften zugerodnet:
+- Tiefe des Fragments
+- Shading Information
+- Normale
+- Texturkoordinate
+- Weitere
+## Pixel Shading
+In diesem Schritt werden eine oder mehrere Farben den Fragementen zugeordnet. Durch verschiedene Operationen(die zum teil nacheinander auf das selbe Fragment angewand werden können) können verschiedene Resultate entstehen. Beispielhafte Operationen
+- Phong Shading
+- Texturierung
+- Bump Mapping
+## Merging
+Das Ergebnis aller Berechnungen soll im Color Buffer gespeichert werden. Dafür erhält jeder Pixel exakt einen Wert in diesem 2D-Array.
+In diesem Schritt wird die Sichtbarkeit der Fragmente berechnet, typischerweise durch einen z(Depth)-Buffer.
+Die Reihenfolge in der die Fragemente abgearbeitet werden ist dabei irrelevant. Es können teilweise transparente Fragmente verarbeitet werden, dabei wird dann ein weiterer (alpha-)Kanal zusätzlich zu den RGB-Werten benötigt.
+Während des Mergings kann auch ein Stencil angewand werden, um beispielsweise eine Bestimmte Region von Fragmenten zu verwerfen.
+In diesem Schritt können auch Bilder Accumuliert werden und überlagert werden, um beispielsweise ein Motion-Blur zu erzeugen.
+### Flimmern
+Wenn das Bild aufgebaut wird(also der Bildschirm entscheidet ein neues Bild zu zeigen), während es gerade geändert wird(also aus der Grafikpipeline ein neues Bild entsteht), dann kann es zu Flimmern kommen. Um dies zu verhindern verwenden wir einen Buffer, in dem die Grafikpipeline ein neues Bild aufbaut dieses dann instantan mit dem angezeigten ausgetauscht werden kann
+### Tearing
+![[Pasted image 20240223003756.png# shadow float right 1/2]]
+Ein Problem beim Abbilden der Daten mit bspw. einem Monitor ist das Tearing. Tearing entsteht, wenn das swappen des neuen Bildes nicht mit der Wiederholungsrate des Bildschirms getimed ist. Um dies zu verbessern wird V-Sync verwendet, welches das swappen mit der Wiederholungsrate synchronisiert. Dabei kann es allerdings vor
 ## Links
