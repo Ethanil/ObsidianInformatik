@@ -32,7 +32,18 @@ In diesem Schritt wird die Anzahl der Primitiven reduziert:
 - Primitive die teilweise sichtbar sind werden durch welche ersetzt, die ganz im Sichtbaren liegen
 ## Screen Mapping
 In diesem Schritt werden die verbleibenden Primitive auf die Bildschirmkoordinaten projiziert. Dies wird durch eine Translation gefolgt von einer Skalierung gemacht.
+
+Der Output der Geometrie Stufe sind die verbleibenden Primitive als 2D Vertices mit z-Koordinaten, Shading Parametern und weitere Informationen
 # Rasterisierung
 ![[Pasted image 20240222233333.png# shadow float right 3/4]]
+Bei der Rasterisierung werden die Operationen pro Pixel durchgeführt
+## Triangle Setup
+In diesem Schritt wird eine Vorberechnung ausgeführt um graphische Primitive in Pixel umzurechnen. Es wird berechnet:
+- Steigung der Primitivkanten
+- Schnittpunktberechnung zwischen Primitivkante und Bildschirmzeile
+- Sortierung nach x-Koordinate
+Daraus ergibt sich eine sortierte Zahlenliste zu jeder Bildschirmzeile eines jeden Primitivs
+## Triangle Conversion
+In diesem Schritt werden
 
 ## Links
