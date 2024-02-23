@@ -19,5 +19,9 @@ Lineare Abbildungen lassen den Ursprung des 3D-Objektes invariant und lassen sic
 - Skalierung
 - Scherung
 - Rotation
-Normalen der Objekte können dabei nicht auch einfach mit der selben Matrix multipliziert werden, sondern müssen mit der transponierten inversen 
+Normalen der Objekte können dabei nicht auch einfach mit der selben Matrix multipliziert werden, sondern müssen mit der transponierten inversen Matrix multipliziert werden.
+### Affine Abbildungen
+Eine Affine Abbildung ist eine Lineare Abbildung bei der eine Vektor auf das Ergebnis gerechnet wird.
+### Homogene Koordinaten
+Mithilfe von homogenen Koordinaten können sowohl Lineare, als auch affine Abbildungen durch reine Matrixmultiplikation dargestellt werden. Dazu werden die 3D-Koordinaten zu homogenen 4D-Koordinaten verändert.
 ## Links
