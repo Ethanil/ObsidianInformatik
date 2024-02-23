@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phantom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md"
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md"
               }
             }
           },
@@ -165,11 +165,15 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Pasted image 20240223234443.png",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
+    "Informatik/Semester_01/Mathe_1/Untervektorraum.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Vektor.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
     "Informatik/Screenshots/Pasted image 20240223211309.png",
     "Informatik/Screenshots/Pasted image 20240223205149.png",
     "Informatik/Templates/default Template.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
     "Informatik/Screenshots/Pasted image 20240223003756.png",
     "Informatik/Screenshots/Pasted image 20240222233333.png",
@@ -196,9 +200,6 @@
     "Informatik/Semester_04/Infman/Database/Anomalien.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/schoolOfGames.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Oberstufenzentrum Informations- und Medientechnik.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Games Academy.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/sae.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Friedrich-Albert-Lange Berufskolleg Duisburg.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
@@ -209,7 +210,6 @@
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
     "Informatik/Screenshots/Pasted image 20231015172633.png",
-    "Informatik/Screenshots/Pasted image 20231015122433.png",
-    "Informatik/Screenshots/Pasted image 20231015122216.png"
+    "Informatik/Screenshots/Pasted image 20231015122433.png"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Excalidraw  -path:Informatik/Excalidraw  ",
+  "search": " -path:\"Informatik/Semester_05/Serious Games Seminar\" -path:Excalidraw  -path:Informatik/Excalidraw  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "path:Informatik/Semester_04/Infman  ",
+      "query": "path:Informatik/Semester_04",
       "color": {
         "a": 1,
         "rgb": 16364314
       }
     },
     {
-      "query": "path:Informatik/Semester_04/Bildverarbeitung  ",
+      "query": "path:Informatik/Semester_05 ",
       "color": {
         "a": 1,
         "rgb": 1160845
@@ -53,6 +53,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 0.911458333333333,
   "linkDistance": 218,
-  "scale": 0.0705816756704657,
+  "scale": 0.3823010968770038,
   "close": false
 }

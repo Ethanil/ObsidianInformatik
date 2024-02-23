@@ -42,7 +42,7 @@
     "2023/11/10": 0,
     "2023/11/29": 215,
     "2024/1/22": 281,
-    "2024/1/23": 682
+    "2024/1/23": 829
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md": {
@@ -56,6 +56,14 @@
     "Informatik/Templates/default Template.md": {
       "initial": 6,
       "current": 6
+    },
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md": {
+      "initial": 2,
+      "current": 149
+    },
+    "Informatik/Semester_01/Mathe_1/Untervektorraum.md": {
+      "initial": 47,
+      "current": 47
     }
   }
 }
