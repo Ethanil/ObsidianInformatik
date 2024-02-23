@@ -12,5 +12,17 @@ Mit interaktiven Eingabegeräten kann der Nutzer interaktiv Daten eingeben.
 ## Abtastung realer Objekte
 Reale Objekte können abgetastet werden, um verschiedene digitalisierte Darstellungen dieses zu erhalten. Zum Beispiel Einzelne Tiefenkanten, Punktwolken oder Dreiecksnetze.
 ### Optische Verfahren
-Bei optischen Verfahren unterscheidet man zwischen aktiven und passiven Methoden. Bei passiven Methoden werden aus Bildern und Videos mittels
+Bei optischen Verfahren unterscheidet man zwischen aktiven und passiven Methoden. Bei passiven Methoden werden aus Bildern und Videos mittels verschiedener Methoden die Daten generiert. Bei aktiven Methoden wird Stereo mit Zusatzinformation verwendet, bspw Markerpunkte oder eine projizierte Textur.
+#### Vorteile
+- Kontaktfrei
+- Sicher
+- Kostengünstig
+- Schnell
+#### Nachteile
+- Abhängig von optischen Eigenschaften
+- Verdeckungsproblematik
+- Textur
+### Optische Triangulation
+![[Pasted image 20240223205149.png# shadow float right 4/5]]
+
 ## Links
