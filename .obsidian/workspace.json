@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md"
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
+    "Informatik/Templates/default Template.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
     "Informatik/Screenshots/Pasted image 20240223003756.png",
     "Informatik/Screenshots/Pasted image 20240222233333.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
@@ -195,7 +197,6 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/sae.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Friedrich-Albert-Lange Berufskolleg Duisburg.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Bayreuth.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Universität Würzburg.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
