@@ -24,5 +24,10 @@ Bei optischen Verfahren unterscheidet man zwischen aktiven und passiven Methoden
 - Textur
 ### Optische Triangulation
 ![[Pasted image 20240223205149.png# shadow float right 4/5]]
+Bei der passiven optischen Triangulation wird mit 2 Kameras aus unterschiedlichen(bekannten) Positionen Bilder gemacht und daraus die Form des Objekts berechnet, allerdings muss immer eine Korrespondenz von den einzelnen Objekten bei den beiden Bildern gefunden werden.
 
+
+
+![[Pasted image 20240223211309.png# shadow float right 4/5]]
+Bei der aktiven Triangulation wird ein Laser verwendet, um das Objekt abzutasten. Dieser wird über die Szene bewegt und der reflektierte Punkt(wenn er nicht verdeckt wird) kann eindeutig identifiziert und zur Triangulation verwendet werden. Ein besseres System verwendet einen Laserstriches anstatt eines punktes. Ein Problem ist hierbei, zusätzlich zur Verdeckung, die relfektorischen eigenschaften des Modells.
 ## Links
