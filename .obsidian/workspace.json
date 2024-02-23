@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edacb0539cea0190",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bf089fce06cbd8e",
+  "active": "edacb0539cea0190",
   "lastOpenFiles": [
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
