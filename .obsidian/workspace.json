@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd85da50ef7b6388",
+        "id": "9e142d1d4395eca4",
         "type": "tabs",
         "children": [
           {
-            "id": "357a2cd03c7615f0",
+            "id": "2bf089fce06cbd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,29 +106,6 @@
             }
           },
           {
-            "id": "d237c1e256ba7014",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Informatik/Semester_01/Digitaltechnik/Projekt/DT-Projekt2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae8f0bfa09d76690",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "18dd8fccd46277c4",
             "type": "leaf",
             "state": {
@@ -166,13 +143,11 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "357a2cd03c7615f0",
+  "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
     "Informatik/Screenshots/Pasted image 20240223003756.png",
     "Informatik/Screenshots/Pasted image 20240222233333.png",
     "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
     "Informatik/Screenshots/Pasted image 20240222225829.png",
     "Informatik/Screenshots/Pasted image 20240222225815.png",
     "Informatik/Screenshots/Pasted image 20240222225112.png",
@@ -233,7 +208,6 @@
     "Informatik/Screenshots/Pasted image 20231015172633.png",
     "Informatik/Screenshots/Pasted image 20231015122433.png",
     "Informatik/Screenshots/Pasted image 20231015122216.png",
-    "Informatik/Screenshots/Pasted image 20231015122024.png",
-    "Informatik/Screenshots/Pasted image 20231005223229.png"
+    "Informatik/Screenshots/Pasted image 20231015122024.png"
   ]
 }
