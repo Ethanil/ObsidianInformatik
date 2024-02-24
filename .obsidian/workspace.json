@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md"
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
-    "Informatik/Screenshots/Pasted image 20240223234443.png",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
+    "Informatik/Screenshots/Pasted image 20240223234443.png",
     "Informatik/Semester_01/Mathe_1/Untervektorraum.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Vektor.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
@@ -209,7 +209,6 @@
     "Informatik/Screenshots/Pasted image 20231103183622.png",
     "Informatik/Semester_05/Automatisch Beweisen/FOL",
     "Informatik/Semester_05/Automatisch Beweisen",
-    "Informatik/Screenshots/Pasted image 20231015172633.png",
-    "Informatik/Screenshots/Pasted image 20231015122433.png"
+    "Informatik/Screenshots/Pasted image 20231015172633.png"
   ]
 }
