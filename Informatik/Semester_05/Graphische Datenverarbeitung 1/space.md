@@ -21,4 +21,10 @@ Hierbei wird eine objektabhängige, hierarchiche Unterteilung des Raumes mit ach
 Ein kd-tree ist ein flexiblerer oct-tree bei dem nicht alle achsen der selben tiefe auf der selben höhe/breite liegen müssen.
 ### bsp-tree
 Bei einem Binary Space Partition-tree wird der Raum nicht achsenparallel aufgeteilt.
+## Szenengraph
+Ein Szenengraph beschreibt eine Szene. Dabei enthät jeder Knoten eine eigene Transformation. Jeder Teilbaum ist somit eine Szene im lokalen Koordinatensystem und die traversierung des Baumes positioniert diese "lokalen" Koordinatensysteme an die richtige Stelle.
+## Billboards
+Hierbei werden Fototexturen statt 3D-Objekte verwendet um Dinge darzustellen. Sie sind idR zur Kamera hin ausgerichtet (Blickwinkelunabhängig) und werden für partikelsysteme und entfernte, komplexe geometrie verwendet(z.B. Bäume oder Wolken)
+## Level of Detail
+Bei LOD-Beschleunigung wird für verschiedene Entfernungsstufen unterschiedliche 3D-Modelle verwendet, da es in der Ferne nicht auffällt. Ein Problem ist hierbei der Übergang zwischen den Detailstufen. Umgesetzt kann dies durch Ansätze wie switch(Das Modell ist genau eines der Detailstufen), 
 ## Links
