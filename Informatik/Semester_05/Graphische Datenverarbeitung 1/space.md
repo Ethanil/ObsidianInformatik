@@ -1,6 +1,7 @@
 ---
 aliases: 
 ---
-# Beschleunigungsal
+# Beschleunigungsalgorithmen
+
 
 ## Links
