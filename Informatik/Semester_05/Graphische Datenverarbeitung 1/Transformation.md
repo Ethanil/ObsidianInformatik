@@ -24,4 +24,7 @@ Normalen der Objekte können dabei nicht auch einfach mit der selben Matrix mult
 Eine Affine Abbildung ist eine Lineare Abbildung bei der eine Vektor auf das Ergebnis gerechnet wird.
 ### Homogene Koordinaten
 Mithilfe von homogenen Koordinaten können sowohl Lineare, als auch affine Abbildungen durch reine Matrixmultiplikation dargestellt werden. Dazu werden die 3D-Koordinaten zu homogenen 4D-Koordinaten verändert.
+
+## Rotation um eine beliebige Ursprungsachse
+Die Rotation um eine beliebige Ursprungsachse wird durchgeführt, indem das Objekt an den Ursprung verschoben wird, dort rotiert wird und dann wieder zurückverschoben wird.
 ## Links
