@@ -26,5 +26,5 @@ Ein Szenengraph beschreibt eine Szene. Dabei enthät jeder Knoten eine eigene Tr
 ## Billboards
 Hierbei werden Fototexturen statt 3D-Objekte verwendet um Dinge darzustellen. Sie sind idR zur Kamera hin ausgerichtet (Blickwinkelunabhängig) und werden für partikelsysteme und entfernte, komplexe geometrie verwendet(z.B. Bäume oder Wolken)
 ## Level of Detail
-Bei LOD-Beschleunigung wird für verschiedene Entfernungsstufen unterschiedliche 3D-Modelle verwendet, da es in der Ferne nicht auffällt. Ein Problem ist hierbei der Übergang zwischen den Detailstufen. Umgesetzt kann dies durch Ansätze wie switch(Das Modell ist genau eines der Detailstufen), 
+Bei LOD-Beschleunigung wird für verschiedene Entfernungsstufen unterschiedliche 3D-Modelle verwendet, da es in der Ferne nicht auffällt. Ein Problem ist hierbei der Übergang zwischen den Detailstufen. Umgesetzt kann dies durch Ansätze wie switch(Das Modell ist genau eines der Detailstufen), fade(In den übergängen werden die beiden angrenzenden Detailstufen gleichzeitig verwendet) oder morph(bei den Übergängen wird ein interpoliertes modell verwendet)
 ## Links
