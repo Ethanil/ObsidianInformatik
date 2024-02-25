@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md",
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md"
+                "file": "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md",
+    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
     "Informatik/Screenshots/Pasted image 20240223234443.png",
     "Informatik/Semester_01/Mathe_1/Untervektorraum.md",
@@ -200,7 +201,6 @@
     "Informatik/Semester_04/Infman/Database/Anfrageverarbeitung.md",
     "Informatik/Semester_04/Infman/Database/Anomalien.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/schoolOfGames.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/Oberstufenzentrum Informations- und Medientechnik.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
