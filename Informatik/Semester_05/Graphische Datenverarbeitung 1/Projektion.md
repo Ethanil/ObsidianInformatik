@@ -12,4 +12,23 @@ Umgekehrt ist jedem Projektiven Punkt $(x,y,z,w)^{T}$ aus $P(\mathbb{R}^{4})$ mi
 ## Projektive Fernpunkte
 Mit der Abbildung wie in [[Projektion#Einbettung]] sind die Punkte der Form $[x,y,z,0]^{T}$ projektive Fernpunkte, die als unendlich ferne Punkte in $\mathbb{R}^{3}$ interpretiert werden.
  
+# Projektion
+Bei einer Projektion(Projektiven Abbildung):
+- Geraden bleiben Geraden
+- Schnitte von Geraden bleiben erhalten
+- Flächen bleiben Flächen
+- Reihenfolge von Punkten auf Geraden bleiben gleich
+
+- Winkel werden verändert
+- Parallelität geht verloren(Schneiden sich in Fluchtpunkten)
+- Rechtecke werden auf Vierecke transformiert
+- Fernpunkte werden zu endlichen Fluchtpunkten
+## Parallele Projektion
+![[Pasted image 20240225125241.png# shadow float right 1/2]]
+Die Parellele Projektion ist eine Projektion des sichtbaren Volumens in den "Einheitswürfel", also eine Translation gefolgt von einer Skalierung
+## Perspektivische Projektion
+![[Pasted image 20240225125459.png# shadow float right 1/2]]
+Perspektivische Projektionen werden druch projektive Abbildungen verwirklicht, da hier anders als bei der Parallen Projektion, affine Abbildungen nicht ausreichen. Vom Blickpunkt weit entfernte Objekte werden kleiner dargestellt, als nahe Objekte. Das Ergebnis ist ein realistischer räumlicher Eindruck, aber keine Längeninvarianz.
+### Sichtbarkeitsbereich
+Der Sichtbarkeitsbereich im dreidimensionalen ist ein Pyramidenstumpf bestehend aus 6 Clipping-Ebenen.
 ## Links
