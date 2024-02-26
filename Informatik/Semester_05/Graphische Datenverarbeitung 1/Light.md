@@ -17,6 +17,14 @@ Ambiente Beleuchtung ist immer vorhanden und Unabhängig von Einfallswinkel und 
 ![[Pasted image 20240226161310.png# shadow float right 1/2]]
 Es wird das Lambert'sche Beleuchtungsmodell verwendet, welches Abhängig von dem Winkel, mit dem das Licht auf die Oberfläche trifft, aber unabhängig von der Richtung zum Betrachter, das Licht reflexiert
 ## Ideal spiegelnde Relfexion
-Wir berechnen mit dem Lichtvektor L und der Normalen N den refle
+![[Pasted image 20240226161417.png# shadow float right 1/2]]
+Wir berechnen mit dem Lichtvektor L und der Normalen N den reflexierten Vektor R(L)
+## Spekulare Relfexion
+Eine spekulare Relfexion stellt eine glänzende, aber nicht spigelnde Oberfläcche da. Typischerweise wird in die Vorzugsrichtung r reflektiert und damit ist der Winkel zwischen dieser idealen Reflexionsrichtung und der Betrachterposition wichtig. Materialien erhalten einen Spiegelungsexponent S, der festlegt wieviel prozent von der eingehenden Strahlung reflexiert wird.
+### Phong shading
+![[Pasted image 20240226163147.png# shadow float right 1/2]]
+Beim Phong shading wird das Skalarprodukt zwischen der reflektierten Lichtrichtung(R(L)) und der Richtung zum Betrachter (V) hoch einem exponenten genommen. Umso kleiner dieser exponent, umso größer und intensiver ist der spekulare Fleck.
+### Blinn-Phong
+Hierbei wird ein 
 
 ## Links
