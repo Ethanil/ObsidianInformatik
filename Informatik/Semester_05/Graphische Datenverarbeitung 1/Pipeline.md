@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-![[Pasted image 20240222225112.png# shadow ]]
+a![[Pasted image 20240222225112.png# shadow ]]
 # Anwendung
 ![[Pasted image 20240222225829.png# shadow float right 1/2]]
 Der Abschnitt wird auf der CPU ausgeführt. Die zu zeichnende Geometrie wird an den nächsten Abschnitt übergeben.
