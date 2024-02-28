@@ -25,6 +25,8 @@ Eine spekulare Relfexion stellt eine glänzende, aber nicht spigelnde Oberfläcc
 ![[Pasted image 20240226163147.png# shadow float right 1/2]]
 Beim Phong shading wird das Skalarprodukt zwischen der reflektierten Lichtrichtung(R(L)) und der Richtung zum Betrachter (V) hoch einem exponenten genommen. Umso kleiner dieser exponent, umso größer und intensiver ist der spekulare Fleck.
 ### Blinn-Phong
-Hierbei wird ein 
-
+![[Pasted image 20240226163436.png# shadow float right 1/2]]
+Hierbei wird ein Halbierungs-Vektor H zwischen einfallender Lichtrichtung und Blickrichtung erstellt und das Skalarprodukt zwischen diesem und der normalen genommen und das Produkt dann hoch einem Exponenten, der den gleichen Effekt wie der beim Phong-shading hat.
+## Kombination von Beleuchtungsmodellen
+Für eine annähernde 
 ## Links
