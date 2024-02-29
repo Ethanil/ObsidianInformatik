@@ -28,7 +28,7 @@ Bei einer Projektion(Projektiven Abbildung):
 Die Parellele Projektion ist eine Projektion des sichtbaren Volumens in den "Einheitswürfel", also eine Translation gefolgt von einer Skalierung
 ## Perspektivische Projektion
 ![[Pasted image 20240225125459.png# shadow float right 1/2]]
-Perspektivische Projektionen werden druch projektive Abbildungen verwirklicht, da hier anders als bei der Parallen Projektion, affine Abbildungen nicht ausreichen. Vom Blickpunkt weit entfernte Objekte werden kleiner dargestellt, als nahe Objekte. Das Ergebnis ist ein realistischer räumlicher Eindruck, aber keine Längeninvarianz.
+Perspektivische Projektionen werden durch projektive Abbildungen verwirklicht, da hier anders als bei der Parallen Projektion, affine Abbildungen nicht ausreichen. Vom Blickpunkt weit entfernte Objekte werden kleiner dargestellt, als nahe Objekte. Das Ergebnis ist ein realistischer räumlicher Eindruck, aber keine Längeninvarianz.
 Nach der perspektivischen Projektion wird noh eine Trarnsformation auf den Einheitswürfel durchgeführt.
 ### Sichtbarkeitsbereich
 Der Sichtbarkeitsbereich im dreidimensionalen ist ein Pyramidenstumpf bestehend aus 6 Clipping-Ebenen.
