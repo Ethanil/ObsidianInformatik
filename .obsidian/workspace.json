@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md"
+                "file": "Informatik/Semester_02/Mathe_2/Spickzettel.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
     "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Cologne Game Lab.md",
     "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
@@ -203,7 +204,6 @@
     "Informatik/Semester_04/Infman/Database/Datenzugang.md",
     "Informatik/Semester_04/Infman/Database/Datenbankentwurf.md",
     "Informatik/Semester_04/Infman/Database/Data Definition Language.md",
-    "Informatik/Semester_04/Infman/Database/Attributhülle.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
