@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
+                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md"
               }
             }
           },
@@ -166,44 +165,44 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Frequenzraum/Filterung im Frequenzraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_02/Mathe_2/Spickzettel.md",
-    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Linguistic Preprocessing/Syntax.md",
-    "Informatik/Semester_04/Bildverarbeitung/Klassifikation/Merkmale.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis/Cologne Game Lab.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Pipeline.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Light.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Königs Lemma.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Kompaktheitssatz.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende semantische Begriffe.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Boolesche Funktionen.md",
+    "Informatik/Semester_02/APL/Aussagenlogik/Baum.md",
+    "Informatik/Semester_01/AFE/Konkatenation.md",
+    "Informatik/Semester_01/AFE/Präfixrelation.md",
+    "Informatik/Semester_01/AFE/Pumping Lemma.md",
+    "Informatik/Semester_01/AFE/Reguläre Sprache.md",
+    "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
+    "Informatik/Semester_01/AFE/Satz von Kleene.md",
+    "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
+    "Informatik/Semester_01/AFE/Stern-Operator.md",
+    "Informatik/Semester_01/AFE/Graph.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
     "Informatik/Screenshots/Pasted image 20240226161310.png",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/space.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Clipping and Culling.md",
     "Informatik/Screenshots/Pasted image 20240225125459.png",
     "Informatik/Screenshots/Pasted image 20240225125241.png",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Transformation.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Input.md",
     "Informatik/Screenshots/Pasted image 20240223234443.png",
-    "Informatik/Semester_01/Mathe_1/Untervektorraum.md",
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Vektor.md",
     "Informatik/Screenshots/Pasted image 20240223211309.png",
     "Informatik/Screenshots/Pasted image 20240223205149.png",
-    "Informatik/Templates/default Template.md",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Kontext.md",
     "Informatik/Screenshots/Pasted image 20240223003756.png",
-    "Informatik/Semester_04/Bildverarbeitung/Bildverbesserung/Pixeloperationen.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
-    "Informatik/Semester_05/Automatisch Beweisen/FOL/Formula.md",
-    "eigene Projekte/gifts/Use Cases.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/School For Games.md",
     "eigene Projekte/gifts",
     "eigene Projekte",
-    "Informatik/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
-    "Informatik/Semester_04/Infman/Database/Wissen.md",
-    "Informatik/Semester_04/Infman/Database/Funktionale Abhängigkeit.md",
-    "Informatik/Semester_04/Infman/Database/dreiwertige Logik.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",

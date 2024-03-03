@@ -46,12 +46,13 @@
     "2024/1/24": 367,
     "2024/1/25": 598,
     "2024/1/26": 273,
-    "2024/1/29": 0
+    "2024/1/29": 0,
+    "2024/2/3": 80
   },
   "todaysWordCount": {
-    "Informatik/Semester_05/Graphische Datenverarbeitung 1/Projektion.md": {
-      "initial": 352,
-      "current": 352
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md": {
+      "initial": 67,
+      "current": 147
     }
   }
 }
