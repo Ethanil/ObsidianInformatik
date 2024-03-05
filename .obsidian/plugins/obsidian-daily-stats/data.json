@@ -47,12 +47,13 @@
     "2024/1/25": 598,
     "2024/1/26": 273,
     "2024/1/29": 0,
-    "2024/2/3": 80
+    "2024/2/3": 80,
+    "2024/2/5": 0
   },
   "todaysWordCount": {
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md": {
       "initial": 67,
-      "current": 147
+      "current": 67
     }
   }
 }

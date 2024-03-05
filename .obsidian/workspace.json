@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md"
+                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
@@ -189,8 +191,6 @@
     "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
     "Informatik/Semester_01/AFE/Satz von Kleene.md",
     "Informatik/Semester_01/AFE/Satz von Myhill-Nerode.md",
-    "Informatik/Semester_01/AFE/Stern-Operator.md",
-    "Informatik/Semester_01/AFE/Graph.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
