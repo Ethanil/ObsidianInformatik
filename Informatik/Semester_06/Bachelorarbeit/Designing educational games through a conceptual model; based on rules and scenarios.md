@@ -79,6 +79,9 @@ aliases:
 	- relation between pedagogical dimensions of learning and game design elements
 	- story line linked with learning objectives
 		- split into acts and scenes
-- 
 
+```ad-question
+title:Ich verstehe die Tabelle nicht
+![[Pasted image 20240415210925.png]]
+```
 ## Links
