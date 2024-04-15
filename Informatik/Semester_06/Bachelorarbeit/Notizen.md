@@ -1,0 +1,56 @@
+---
+aliases: 
+---
+## Enjoyment and motivation of computer games
+- Federoff: 
+	- interface
+	- mechanics
+	- gameplay
+- Desurvire: 
+	- game play
+	- story
+	- mechanics
+	- usability
+- Prenskys list: 
+	- fun
+	- play
+	- rules
+	- goals
+	- interactivity
+	- adaptation
+	- outcomes and feedback
+	- win states
+	- challenge
+	- problem solving
+	- interaction with computer and other players
+	- representation
+	- story
+- Csikszentmihlayi
+	- theory of flow
+- Sweetser
+	- concentration
+	- challenge
+	- skills
+	- control
+	- clrea goals
+	- feedback
+	- immersion
+	- social interaction
+- Kiili
+	- immediate feedback
+	- clear goals
+	- challenges adequate to the player skill
+## promote player's motivation for learning
+- Malone
+	- individual level
+		- challenge
+		- curiosity
+		- control
+		- fantasy
+	- interpesonal level
+		- cooperation
+		- competition
+		- recognition
+	- 
+
+## Links

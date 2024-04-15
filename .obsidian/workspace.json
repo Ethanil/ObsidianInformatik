@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_06/Bachelorarbeit/Notizen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Semester_06/Bachelorarbeit/Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md"
+                "file": "Informatik/Semester_06/Bachelorarbeit/Notizen.md"
               }
             }
           },
@@ -165,9 +165,12 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+    "Informatik/Semester_06/Bachelorarbeit/Notizen.md",
+    "Informatik/Semester_06/Bachelorarbeit",
+    "Informatik/Semester_06",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
@@ -190,7 +193,6 @@
     "Informatik/Semester_01/AFE/Präfixrelation.md",
     "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Semester_01/AFE/Reguläre Sprache.md",
-    "Informatik/Semester_01/AFE/Regulärer Ausdruck.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
@@ -208,8 +210,6 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen",
     "Informatik/Semester_05/Serious Games Seminar/Intro",
-    "Informatik/Semester_05/Serious Games Seminar/Exposes",
-    "Informatik/Semester_05/Automatisch Beweisen/FOL",
-    "Informatik/Semester_05/Automatisch Beweisen"
+    "Informatik/Semester_05/Serious Games Seminar/Exposes"
   ]
 }
