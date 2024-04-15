@@ -84,4 +84,15 @@ aliases:
 title:Ich verstehe die Tabelle nicht
 ![[Pasted image 20240415210925.png]]
 ```
+
+# GREM - Game Rules scEnario Model
+2 Sichten auf das Spiel: Regel Perspektive und Szenarien Perspektive
+=> stresses the importance of the scenario
+## Rules perspecive
+Describes how the game should be played
+## scenario perspective
+Describes 
+- the virtual environment in which the game will be played
+- the interface provided to interact with it
+- the set of additional services
 ## Links
