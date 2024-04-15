@@ -49,12 +49,16 @@
     "2024/1/29": 0,
     "2024/2/3": 80,
     "2024/2/5": 0,
-    "2024/3/15": 84
+    "2024/3/15": 155
   },
   "todaysWordCount": {
     "Informatik/Semester_06/Bachelorarbeit/Notizen.md": {
       "initial": 2,
       "current": 86
+    },
+    "Informatik/Semester_06/Bachelorarbeit/Designing educational games through a conceptual model; based on rules and scenarios.md": {
+      "initial": 86,
+      "current": 157
     }
   }
 }

@@ -51,6 +51,34 @@ aliases:
 		- cooperation
 		- competition
 		- recognition
-	- 
+- Garris
+	- fantasy
+	- rules/goals
+	- sensory stimuli
+	- challenge
+	- mystery
+	- control
+- Garris
+	- iteraitive game cycle of judgment-behaviour-feedback
+	- debriefing
+- Fabricatore
+	- learning tasks contextual to the game as a true element of the game-play
+- Hunicke(MDA)
+	- the mechanics
+	- the dynamics
+	- the asethetics
+		- sensation
+		- fantasy
+		- narrative
+		- challenge
+		- fellowship
+		- discovery
+		- expression
+		- submission
+- Amory
+	- relation between pedagogical dimensions of learning and game design elements
+	- story line linked with learning objectives
+		- split into acts and scenes
+- 
 
 ## Links
