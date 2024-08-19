@@ -2,20 +2,19 @@
 
 - ID41: ist das so okay, oder soll da noch was hin, um zu zeigen, wo man die sachen hinbewegt?
     ![[ID41.mp4]]
+- ID32 dann gleiches Bild wie ID29? Wie genau sollen hier die Begriffe angeordnet sein?
+- Antworten immer shufflen, oder nur wenn es in der Aufgabe auch angegeben war?
 - bei nicht markierungs-drag and drop ist es möglich den dropzonen einen text zuzuordnen, dieser hat keine (für mich sichtbare) funktion, kann also für dinge im spiel verwendet werden, die das moodle-quiz nicht abbilden kann ⇒ äquivalente drop-zonen, also wie drag-and drop auf markierungen nur mit genaueren orten
-- Es vereinfacht mir das Erstellen der Quize ungemein, wenn eine korrekte Antwort Antwort gegeben ist, da ich mir dann sicher sein kann was richtig ist und das nicht irgendwie selbst herausfinden muss (wenn es offensichtlich auf den angegebenen Folien ist, ist es auch okay, aber auch da schadet es nicht, es nochmal hinzuschreiben)
+- Es vereinfacht mir das Erstellen der Quize ungemein, wenn eine korrekte Antwort Antwort gegeben ist, da ich mir dann sicher sein kann was richtig ist und das nicht irgendwie selbst herausfinden muss (wenn es offensichtlich auf den angegebenen Folien ist, ist es auch okay, aber auch da schadet es nicht, es nochmal hinzuschreiben, da ich mir jegliches Wissen für die Quizes erst selbstständig aneignen muss)
 - Wahr falsch fragen mit dem wort immer, sind in 99% der fälle falsch (ID65, ID68)
 - Begründungen für wahr UND falsch sind etwas doppelt?
 
 ### Kapitel 5
 
-- ID32 dann gleiches Bild wie ID29? Wie genau sollen hier die Begriffe angeordnet sein?
-- Antworten immer shufflen, oder nur wenn es in der Aufgabe auch angegeben war?
 - ID44: Entwickeln Sie ein Beispiel für einen diagnostischen Prozess von der Fragestellung bis zu einer Stellungnahme aus Pädagogik/Psychologie/Sportwissenschaft.
     - ist eine offene frage
 - ID45-47, ID56, ID57
     - Die Fragen kann ich nicht beantworten, also kann ich keine Quizfrage dazu erstellen
-    - Es ist generell sehr zeitintensiv für mich, wenn es keine Antwortmöglichkeiten bei der Frage gibt (zumindest eine korrekte Antwort wäre hier sehr nett, da ich nicht das Wissen besitze hier immer korrekt zu antworten)
 - ID49:
     - Hier gab es wieder keine richtigen Antworten in der Tabelle und auf den Folien bin ich mir nicht sicher, ob es nur die beiden aus dem schaubild rechts sind oder alle 4, die links stehen
 ![[Frage.png]]
