@@ -49,16 +49,13 @@
     "2024/1/29": 0,
     "2024/2/3": 80,
     "2024/2/5": 0,
-    "2024/3/15": 222
+    "2024/3/15": 222,
+    "2024/7/19": 0
   },
   "todaysWordCount": {
-    "Informatik/Semester_06/Bachelorarbeit/Notizen.md": {
-      "initial": 2,
-      "current": 86
-    },
-    "Informatik/Semester_06/Bachelorarbeit/Designing educational games through a conceptual model; based on rules and scenarios.md": {
-      "initial": 86,
-      "current": 224
+    "Informatik/SG SHK/Quiz-Treffen.md": {
+      "initial": 651,
+      "current": 646
     }
   }
 }

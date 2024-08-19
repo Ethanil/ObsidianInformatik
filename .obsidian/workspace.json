@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45efefbc6c3db9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/SG SHK/Quiz-Treffen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
+                "file": "Informatik/SG SHK/Quiz-Treffen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md"
+                "file": "Informatik/SG SHK/Quiz-Treffen.md"
               }
             }
           },
@@ -163,9 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bf089fce06cbd8e",
+  "active": "45efefbc6c3db9d1",
   "lastOpenFiles": [
+    "Informatik/Screenshots/Frage.png",
+    "Informatik/Screenshots/ID41.mp4",
+    "Informatik/SG SHK/Quiz-Treffen.md",
     "Informatik/Semester_06/Bachelorarbeit/Designing educational games through a conceptual model; based on rules and scenarios.md",
+    "Informatik/SG SHK",
     "Informatik/Screenshots/Pasted image 20240415210925.png",
     "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_06/Bachelorarbeit",
@@ -192,7 +210,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Baum.md",
     "Informatik/Semester_01/AFE/Konkatenation.md",
     "Informatik/Semester_01/AFE/Präfixrelation.md",
-    "Informatik/Semester_01/AFE/Pumping Lemma.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
@@ -207,8 +224,6 @@
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen",
-    "Informatik/Semester_05/Serious Games Seminar/Intro",
-    "Informatik/Semester_05/Serious Games Seminar/Exposes"
+    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen"
   ]
 }
