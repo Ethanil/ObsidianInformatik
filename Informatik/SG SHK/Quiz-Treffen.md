@@ -4,6 +4,7 @@
     ![[ID41.mp4]]
 - ID32 dann gleiches Bild wie ID29? Wie genau sollen hier die Begriffe angeordnet sein?
 - Antworten immer shufflen, oder nur wenn es in der Aufgabe auch angegeben war?
+	- Drag and Drop auf bild hat in moodle bspw keine Option hierfür
 - bei nicht markierungs-drag and drop ist es möglich den dropzonen einen text zuzuordnen, dieser hat keine (für mich sichtbare) funktion, kann also für dinge im spiel verwendet werden, die das moodle-quiz nicht abbilden kann ⇒ äquivalente drop-zonen, also wie drag-and drop auf markierungen nur mit genaueren orten
 - Es vereinfacht mir das Erstellen der Quize ungemein, wenn eine korrekte Antwort Antwort gegeben ist, da ich mir dann sicher sein kann was richtig ist und das nicht irgendwie selbst herausfinden muss (wenn es offensichtlich auf den angegebenen Folien ist, ist es auch okay, aber auch da schadet es nicht, es nochmal hinzuschreiben, da ich mir jegliches Wissen für die Quizes erst selbstständig aneignen muss)
 - Wahr falsch fragen mit dem wort immer, sind in 99% der fälle falsch (ID65, ID68)
