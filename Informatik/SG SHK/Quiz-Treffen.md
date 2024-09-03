@@ -23,13 +23,18 @@
 
 - ID44: Entwickeln Sie ein Beispiel für einen diagnostischen Prozess von der Fragestellung bis zu einer Stellungnahme aus Pädagogik/Psychologie/Sportwissenschaft.
     - ist eine offene frage
-- ID45-47(Welche Methoden ordnet man informeller, semiformeller oder fomeller Diagnostik zu?, Was bedeutet Theorie-Bindung als wichtiger Grundsatz in der Diagnosik? (Sowohl der diagnostische Prozess und die gewählte Methode, als auch der Gegenstand der Diagnostik sollten theoretisch fundiert sein), Warum fasst die Aussage "pädagogische Diagnostik bedeutet die Verwendung alternativer Bewertungsformen, wie Portfolios" den gegenstand der pädagogischen Diagnostik nicht in seiner Gesamtheit?), ID56(Wozu gibt es kontextspezifische diagnostische Modelle und nicht nur ein allgemeines Prozessmodell?), ID57(Was haben kontextspezifische diagnostische Modelle gemeinsam?)
-	- 45:
-	  Diese Frage ist der mit dem Schaubild (Bild) sehr ähnlich. Ich denke du kannst diese hier weglassen, sonst doppeln sich die Inhalte glaube ich zu sehr.
-	- 46:
-	  Sowohl der diagnostische Prozess und die gewählte Methode, als auch der Gegenstand der Diagnostik sollten theoretisch fundiert sein.
-	- 47:
-    - Die Fragen kann ich nicht beantworten, also kann ich keine Quizfrage dazu erstellen
+- ID45-47~~(Welche Methoden ordnet man informeller, semiformeller oder fomeller Diagnostik zu?, Was bedeutet Theorie-Bindung als wichtiger Grundsatz in der Diagnosik? (Sowohl der diagnostische Prozess und die gewählte Methode, als auch der Gegenstand der Diagnostik sollten theoretisch fundiert sein), Warum fasst die Aussage "pädagogische Diagnostik bedeutet die Verwendung alternativer Bewertungsformen, wie Portfolios" den gegenstand der pädagogischen Diagnostik nicht in seiner Gesamtheit?),~~ ID56(Wozu gibt es kontextspezifische diagnostische Modelle und nicht nur ein allgemeines Prozessmodell?), ID57(Was haben kontextspezifische diagnostische Modelle gemeinsam?)
+	- Hier habe ich leider die falschen Fragen zitiert (in der Tabelle auf den index links, statt auf meine ID geschaut), zu diesen Fragen hatte ich bereits Fragen erstellt, ich meinte 
+		- Welche Fehler können basierend auf dem allemeneinen Modell des diagnostischen Prozesses bei dessen Durchführung gemacht werden?
+		- Welches der folgenden Beispiele stellt einen korrekt vollzogenen diagnostischen Prozess dar?
+		- Warum sollten immer mindestens zwei Methoden verwendet werden, um eine Teilfrage zu prüfen?
+	- Es tut mir leid, sinnlos Arbeit gemacht zu haben
+	- Die Fragen verweisen alle auf Folie 9, hier finde ich aber keine konkreten Antworten auf die Fragen, ich kann mir hier eventuell Schlussfolgern, was korrekt ist, aber sich bin ich mir damit leider nicht
+	- 56: 
+	  Wozu gibt es kontextspezifische diagnostische Modelle und nicht nur ein allgemeines Prozessmodell?
+		  Ein allgemeines Modell kann nur einen Idealfall bzw. einen generischen Ablauf abbilden. Kontextspezifische Modelle erlauben die Einbindung kontextspezifischer Interventionen.
+	- 57:
+	  
 - ID49: Wann sollte ein diagnostischer Prozess gestoppt werden?
     - Hier gab es wieder keine richtigen Antworten in der Tabelle und auf den Folien bin ich mir nicht sicher, ob es nur die beiden aus dem schaubild rechts sind oder alle 4, die links stehen
 ![[Frage.png]]
