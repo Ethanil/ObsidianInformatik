@@ -15,7 +15,9 @@
 - Wahr falsch fragen mit dem wort immer, sind in 99% der fälle falsch (ID65, ID68)
 - Begründungen für wahr UND falsch sind etwas doppelt?
 > Ich denke es geht eher darum zu sagen, warum eine Antwort richtig und eine andere falsch ist. Das sollte sich im besten Fall nicht doppeln.
-	- Wahr/Falsch fragen sind Fragen bei denen es die antwortmöglichkeit "wahr" und "falsch" gibt, natürlich kann es hier ausnahmefälle geben, in denen es sinnvoll ist beides zu begründen, allerdings 
+	- Wahr/Falsch fragen sind Fragen bei denen es die antwortmöglichkeit "wahr" und "falsch" gibt, natürlich kann es hier ausnahmefälle geben, in denen es sinnvoll ist beides zu begründen. Beispiel:
+	- Das deutsche Bundesdatenschutzgesetz sorgt für einen einheitlichen Rechtsrahmen zum Schutz von deutschen Staatsbürger\*innen in der digitalen Welt vor Unternehmen mit Sitz in Deutschland.
+		- Die Aussage ist wahr. Da die Datenschutz-Grundverordnung (DSGVO) europaweit ein einheitlicher Rechtsrahmen zum Schutz der Menschen in der digitalen Welt darstellt, gilt diese für alle EU-Mitgliedsstaaten.
 
 ### Kapitel 5
 
