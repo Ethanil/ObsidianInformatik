@@ -44,8 +44,7 @@ Erkenntnisse / geeignete Methoden vor?
 → Bsp.: Medizinisches Gutachten zur Prüfung einer organischen Ursache für psych.
 Auffälligkeiten
 
-Umwandeln in MC:
--  ID 66: Entwickeln sie Beispiele für eine Diagnostik bei der mehrere Ziele zugleich angesprochen werden.
+Umwandeln in MC
 - ID 71: Entwickeln sie ein Beispiel für eine ethisch nicht verantwortbare diagnostische Fragestellung.
 - ID 74: Was muss bei der Verwendung von Hilfestellungen bei der Ausdifferenzierung von Hypothesen beachtet werden?
 - ID 75: Formulieren Sie für eines oder mehrere der folgenden Auftragsszenarien eine präzise globale Fragestellung und leiten Sie mögliche Hypothesen ab. Orientieren Sie sich dabei an den Kategorien der Verhaltensgleichung nach Westhoff und Kluck (2008) bzw. am KSAs + P-Ansatz.
