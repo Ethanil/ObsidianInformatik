@@ -45,7 +45,6 @@ Erkenntnisse / geeignete Methoden vor?
 Auffälligkeiten
 
 Umwandeln in MC:
-- ID 64: Entwickeln sie Beispiele für Erklärung/Klassifikation/etc. als Ziel der Diagnostik.
 -  ID 66: Entwickeln sie Beispiele für eine Diagnostik bei der mehrere Ziele zugleich angesprochen werden.
 - ID 71: Entwickeln sie ein Beispiel für eine ethisch nicht verantwortbare diagnostische Fragestellung.
 - ID 74: Was muss bei der Verwendung von Hilfestellungen bei der Ausdifferenzierung von Hypothesen beachtet werden?
