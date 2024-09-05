@@ -1,21 +1,5 @@
-## Zu besprechen für 4.9.
-- ID41: ist das so okay, oder soll da noch was hin, um zu zeigen, wo man die sachen hinbewegt?
-    ![[ID41.mp4]]
-- Antworten immer shufflen, oder nur wenn es in der Aufgabe auch angegeben war?
-
-
-- bei nicht markierungs-drag and drop ist es möglich den dropzonen einen text zuzuordnen, dieser hat keine (für mich sichtbare) funktion, kann also für dinge im spiel verwendet werden, die das moodle-quiz nicht abbilden kann ⇒ äquivalente drop-zonen, also wie drag-and drop auf markierungen nur mit genaueren orten
-	- Also beispielsweise Fragen, bei denen man Antwort 1 und 2 in Zielfeld A oder B legen kann (also A:1; B:2 & A:2, B:1 ist korrekt) und die richtige Antwort für Zielfeld C ist immernoch nur Antwort 3
-
-
-
 ## Offene Fragen
 
-
-
-- Es vereinfacht mir das Erstellen der Quize ungemein, wenn eine korrekte Antwort Antwort gegeben ist, da ich mir dann sicher sein kann was richtig ist und das nicht irgendwie selbst herausfinden muss (wenn es offensichtlich auf den angegebenen Folien ist, ist es auch okay, aber auch da schadet es nicht, es nochmal hinzuschreiben, da ich mir jegliches Wissen für die Quizes erst selbstständig aneignen muss)
-- Begründungen für wahr UND falsch sind etwas doppelt?
-> Ich denke es geht eher darum zu sagen, warum eine Antwort richtig und eine andere falsch ist. Das sollte sich im besten Fall nicht doppeln.
 
 - Wahr/Falsch fragen sind Fragen bei denen es die antwortmöglichkeit "wahr" und "falsch" gibt, natürlich kann es hier ausnahmefälle geben, in denen es sinnvoll ist beides zu begründen. Beispiel:
 	- Das deutsche Bundesdatenschutzgesetz sorgt für einen einheitlichen Rechtsrahmen zum Schutz von deutschen Staatsbürger\*innen in der digitalen Welt vor Unternehmen mit Sitz in Deutschland.
