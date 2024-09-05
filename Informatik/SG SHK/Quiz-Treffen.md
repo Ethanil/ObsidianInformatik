@@ -24,22 +24,12 @@
 		hier ist die Antwort im Dokument leider verloren gegangen:
 		> Leider konnte ich die Frage nicht in Moodle finden. Prinzipiell geht es um
 
-- ID77: Welche Aspekte sind zu überprüfen, bevor Sie als Diagnostiker\*in einen an Sie herangetragenen Auftrag annehmen sollten?
-    - Auftragsklärung - zu prüfen vor Auftragsannahme:
-1. Was ist das Ziel des Auftraggebers?
-2. Auftrag ethisch verantwortbar?
-→ Gegen-Bsp.: US-Psycholog*innen an der Entwicklung von „Techniken für verschärfte
-Verhörmethoden“ in Guantanamo beteiligt (z.B. Schlafentzug, Waterboarding)
-3. Besteht Befangenheit der*s Diagnostizierenden?
-→ Bsp.: Talentscout ist mit Jungtalent persönlich gut bekannt
-4. Ist der Auftrag ergebnisoffen?
-→ Gegen-Bsp.: Eltern wollen wissen, ob Schulprobleme ihres Kindes auf
-Hochbegabung zurückgehen
-5. Ist Frage prinzipiell beantwortbar? → liegen ausreichende wissenschaftliche
-Erkenntnisse / geeignete Methoden vor?
-→ Gegen-Bsp.: Wird Schülerin X auf der weiterführenden Schule erfolgreich sein?
-6. Steht diagnostischer Aufwand in angemessenem Verhältnis zu Erkenntnisgewinn?
-7. Verfügt Diagnostizierende*r über notwendige Sachkunde?
-8. Notwendigkeit weiterer, fachfremder Gutachten zur Beantwortung der Fragestellung?
-→ Bsp.: Medizinisches Gutachten zur Prüfung einer organischen Ursache für psych.
-Auffälligkeiten
+
+
+
+
+
+- ID 104: Entwickeln sie Bespiele zur Messung von konvergenter und diskriminanter Validität.
+	  Hier fällt mir nichts ein, wie man dies gut als nicht offene Frage umsetzen kann
+
+
