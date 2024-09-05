@@ -43,21 +43,3 @@ Erkenntnisse / geeignete Methoden vor?
 8. Notwendigkeit weiterer, fachfremder Gutachten zur Beantwortung der Fragestellung?
 → Bsp.: Medizinisches Gutachten zur Prüfung einer organischen Ursache für psych.
 Auffälligkeiten
-
-Umwandeln in MC
-- ID 71: Entwickeln sie ein Beispiel für eine ethisch nicht verantwortbare diagnostische Fragestellung.
-- ID 74: Was muss bei der Verwendung von Hilfestellungen bei der Ausdifferenzierung von Hypothesen beachtet werden?
-- ID 75: Formulieren Sie für eines oder mehrere der folgenden Auftragsszenarien eine präzise globale Fragestellung und leiten Sie mögliche Hypothesen ab. Orientieren Sie sich dabei an den Kategorien der Verhaltensgleichung nach Westhoff und Kluck (2008) bzw. am KSAs + P-Ansatz.
-    1. Ein_e Lehrstuhlinhaber_in am Fachbereich Diagnostik möchte eine Promotionsstelle zum Thema besetzen. Er\*Sie fragt, ob eine Bewerberin X die Voraussetzungen erfüllt, um am Institut im Bereich Diagnostik zu arbeiten.
-    2. Die Eltern von Kind X sind nicht sicher, ob ihr Kind schon bereit ist für die anstehende Einschulung.
-    3. Die Leiter_innen eines Talentförderprogramms für junge Leistungssportler_innen fragen, ob Turnerin X die Voraussetzungen für eine Aufnahme ins Programm erfüllt.
-- ID78: Formulieren Sie für das folgende Auftragsszenario eine präzise globale Fragestellung.
-
-
-
-- ID 61: Steckt hinter dem hier aufgeführten diagnostischen Auftrag ein informeller oder formeller Auftrag?
-	> Hier muss ein fiktiver diagnostischer Auftrag formulieret werden
-
-Umformulieren (immer entfernen):
-- ID 65
-- ID 68
