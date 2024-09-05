@@ -51,9 +51,6 @@ Erkenntnisse / geeignete Methoden vor?
 Auffälligkeiten
 
 Umwandeln in MC:
-- ID51: Stellen sie sich vor, eine Mutter bittet sie darum zu diagnostizieren, ob ein Kind eine Lese-Rechtschreib-Schwäche hat. Welche Teilfragen würden Sie entwickeln, um diese Frage diagnostisch zu beantworten?
-- ID53: Entwickeln sie beispielhafte Fragestellung der Diagnostik in Pädagogik/Psychologie/Sportwissenschaft
-- ID54: Sie sind Lehrkraft und sollen eine_n Schüler_in hinsichtlich einer Lernschwäche diagnostizieren, merken allerdings, dass Sie befangen sind. Was sind Ihre Optionen für den weiteren diagnostischen Prozess?
 - ID60: Wer könnte ein Auftraggeber für eine Diagnostische Fragestellung sein und was sind mögliche Fragestellungen
 - ID 64: Entwickeln sie Beispiele für Erklärung/Klassifikation/etc. als Ziel der Diagnostik.
 -  ID 66: Entwickeln sie Beispiele für eine Diagnostik bei der mehrere Ziele zugleich angesprochen werden.
