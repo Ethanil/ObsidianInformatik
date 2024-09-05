@@ -1,15 +1,7 @@
 ## Zu besprechen für 4.9.
 - ID41: ist das so okay, oder soll da noch was hin, um zu zeigen, wo man die sachen hinbewegt?
     ![[ID41.mp4]]
-- ID32 dann gleiches Bild wie ID29? Wie genau sollen hier die Begriffe angeordnet sein?
-	> Ich finde die Bilder, wie sich aktuell sind gut. Wie genau die Begriffen angeordnet werden sollen, können wir noch mal in der größeren Runde besprechen.
-	 - Hier wurde letztes mal besprochen: "Änderung: 3 Bereiche – informell, semiformell, formell Teilstrukturiertes Interview statt „strukturiertes Interview“"
-	 -> dadurch entsteht quasi die selbe Frage
-
 - Antworten immer shufflen, oder nur wenn es in der Aufgabe auch angegeben war?
-> Immer wenn es passt. 
-
--  das kann ich automatisch nicht herausfinden, also muss hier (bspw. bei den studierenden aufgaben) darauf geachtet werden, oder es wird einfach immer gemischt (wann macht das keinen Sinn?)
 
 
 - bei nicht markierungs-drag and drop ist es möglich den dropzonen einen text zuzuordnen, dieser hat keine (für mich sichtbare) funktion, kann also für dinge im spiel verwendet werden, die das moodle-quiz nicht abbilden kann ⇒ äquivalente drop-zonen, also wie drag-and drop auf markierungen nur mit genaueren orten
