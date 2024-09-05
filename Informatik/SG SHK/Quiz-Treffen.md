@@ -16,12 +16,6 @@
 		- Warum sollten immer mindestens zwei Methoden verwendet werden, um eine Teilfrage zu prüfen?
 	- Es tut mir leid, sinnlos Arbeit gemacht zu haben
 	- Die Fragen verweisen alle auf Folie 9, hier finde ich aber keine konkreten Antworten auf die Fragen, ich kann mir hier eventuell Schlussfolgern, was korrekt ist, aber sich bin ich mir damit leider nicht
-	- 56:  Wozu gibt es kontextspezifische diagnostische Modelle und nicht nur ein allgemeines Prozessmodell?
-		  Ein allgemeines Modell kann nur einen Idealfall bzw. einen generischen Ablauf abbilden. Kontextspezifische Modelle erlauben die Einbindung kontextspezifischer Interventionen.
-	- 57 :Was haben kontextspezifische diagnostische Modelle gemeinsam?
-	  In kontextspezifischen Modellen sind neben dem diagnostischen Prozess auch Interventionsprozesse eingeschlossen.
-	- 67: Wie unterscheiden sich die Erstellung einer diagnostischen Erklärung und die Erforschung grundsätzlicher Kausalbeziehungen?
-	  Eine Erklärung im diagnostischen Kontext versucht Gründe für beobachtete Phänomene (meist Verhaltensweisen) durch Ermittlung von plausiblen Ursachen (Eigenschaften und/oder situative Faktoren) zu liefern. Dies ist jedoch nicht gleichzusetzen mit der statistischen Erforschung von Ursache und Wirkungszusammenhängen (Kausalbeziehungen).
 - ID49: Wann sollte ein diagnostischer Prozess gestoppt werden?
     - Hier gab es wieder keine richtigen Antworten in der Tabelle und auf den Folien bin ich mir nicht sicher, ob es nur die beiden aus dem schaubild rechts sind oder alle 4, die links stehen
 ![[Frage.png]]
