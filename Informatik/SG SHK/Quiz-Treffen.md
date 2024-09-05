@@ -51,7 +51,6 @@ Erkenntnisse / geeignete Methoden vor?
 Auffälligkeiten
 
 Umwandeln in MC:
-- ID60: Wer könnte ein Auftraggeber für eine Diagnostische Fragestellung sein und was sind mögliche Fragestellungen
 - ID 64: Entwickeln sie Beispiele für Erklärung/Klassifikation/etc. als Ziel der Diagnostik.
 -  ID 66: Entwickeln sie Beispiele für eine Diagnostik bei der mehrere Ziele zugleich angesprochen werden.
 - ID 71: Entwickeln sie ein Beispiel für eine ethisch nicht verantwortbare diagnostische Fragestellung.
