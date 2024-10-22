@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/SG SHK/Quiz-Treffen.md",
+                "file": "Informatik/Semester_04/Infman/Database/Datenzugang.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "laplac",
+                "query": "suche",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/SG SHK/Quiz-Treffen.md",
+                "file": "Informatik/Semester_04/Infman/Database/Datenzugang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/SG SHK/Quiz-Treffen.md"
+                "file": "Informatik/Semester_04/Infman/Database/Datenzugang.md"
               }
             }
           },
@@ -179,9 +180,25 @@
   },
   "active": "45efefbc6c3db9d1",
   "lastOpenFiles": [
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
+    "Informatik/Semester_04/Infman/Database/Normalisierung.md",
+    "Informatik/Semester_04/Infman/Database/Primattribut.md",
+    "Informatik/Semester_04/Infman/Database/Relationales Datenmodell.md",
+    "Informatik/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
+    "Informatik/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+    "Informatik/Semester_04/Infman/Database/Wissen.md",
+    "Informatik/Semester_04/Infman/Database/Informationssystem.md",
+    "Informatik/Semester_04/Infman/Database/Informationserhalt.md",
+    "Informatik/Semester_04/Infman/Database/Information.md",
+    "Informatik/Semester_04/Infman/Database/Daten.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
+    "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
+    "Informatik/SG SHK/Quiz-Treffen.md",
     "Informatik/Screenshots/Frage.png",
     "Informatik/Screenshots/ID41.mp4",
-    "Informatik/SG SHK/Quiz-Treffen.md",
     "Informatik/Semester_06/Bachelorarbeit/Designing educational games through a conceptual model; based on rules and scenarios.md",
     "Informatik/SG SHK",
     "Informatik/Screenshots/Pasted image 20240415210925.png",
@@ -195,21 +212,6 @@
     "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
     "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Konjunktive und disjunktive Normalformen.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Königs Lemma.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Kompaktheitssatz.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Klausel.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Interpretation (Belegung).md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Hornklauseln.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Horn-Erfüllbarkeitstest.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Hilbertkalküle.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende semantische Begriffe.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Grundlegende Semantik von Logikkalküle.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Erfüllbarkeit.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Boolesche Funktionen.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Baum.md",
-    "Informatik/Semester_01/AFE/Konkatenation.md",
-    "Informatik/Semester_01/AFE/Präfixrelation.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
@@ -218,7 +220,6 @@
     "Informatik/Screenshots/Pasted image 20240225125241.png",
     "Informatik/Screenshots/Pasted image 20240223234443.png",
     "Informatik/Screenshots/Pasted image 20240223211309.png",
-    "Informatik/Screenshots/Pasted image 20240223205149.png",
     "eigene Projekte/gifts",
     "eigene Projekte",
     "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Staatliche Hochschulen und Unis",
