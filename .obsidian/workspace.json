@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Datenzugang"
             }
-          },
-          {
-            "id": "f4452ea315a14fd1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4452ea315a14fd1",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
     "Informatik/Semester_04/Infman/Database/Normalisierung.md",
