@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_04/Infman/Database/Datenzugang.md",
+                "file": "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datenzugang"
+              "title": "Grenzwertbegriff für Funktionen"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suche",
+                "query": "\\lim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,8 +200,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "45efefbc6c3db9d1",
   "lastOpenFiles": [
+    "Informatik/Semester_02/Mathe_2/Eigenschaften differenzierbarer Funktionen/Eigenschaften differenzierbarer Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Konvergenz in normierten Räumen/Satz von Bolzano-Weierstraß.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Exponentialfunktion und Logarithmus.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Polardarstellung komplexer Zahlen.md",
+    "Informatik/Semester_02/Mathe_2/Wichtige Funktionen/Trigonometrische Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Eigenschaften stetiger Funktionen.md",
+    "Informatik/Semester_02/Mathe_2/Differenzierbarkeit von Funktionen in einer Variablen/Ableitungsregeln.md",
+    "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
+    "Informatik/Semester_04/Infman/Database/Datenzugang.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Information Retrieval.md",
     "Informatik/Semester_04/Infman/Database/Normalisierung.md",
     "Informatik/Semester_04/Infman/Database/Primattribut.md",
@@ -217,22 +228,12 @@
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
     "Informatik/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Boolean Retrieval.md",
-    "Informatik/SG SHK/Quiz-Treffen.md",
     "Informatik/Screenshots/Frage.png",
     "Informatik/Screenshots/ID41.mp4",
-    "Informatik/Semester_06/Bachelorarbeit/Designing educational games through a conceptual model; based on rules and scenarios.md",
     "Informatik/SG SHK",
     "Informatik/Screenshots/Pasted image 20240415210925.png",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Semester_06/Bachelorarbeit",
     "Informatik/Semester_06",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
-    "Informatik/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
-    "Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/Ausbildungsorte/bib.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Sequenzkalkülregeln.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Resolutionskalkül.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Modus Ponens.md",
-    "Informatik/Semester_02/APL/Aussagenlogik/Logische Äquivalenz.md",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
     "Informatik/Screenshots/Pasted image 20240226161417.png",
