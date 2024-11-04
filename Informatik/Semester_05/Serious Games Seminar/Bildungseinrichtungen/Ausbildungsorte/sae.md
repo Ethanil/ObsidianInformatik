@@ -1,1 +1,0 @@
-![[Informatik/Semester_05/Serious Games Seminar/Bildungseinrichtungen/private Hochschulen und Unis/sae|sae]]
