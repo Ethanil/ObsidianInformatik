@@ -52,12 +52,13 @@
     "2024/3/15": 222,
     "2024/7/19": 90,
     "2024/8/3": 528,
-    "2024/8/5": 0
+    "2024/8/5": 0,
+    "2024/10/4": 37
   },
   "todaysWordCount": {
-    "Informatik/SG SHK/Quiz-Treffen.md": {
-      "initial": 1208,
-      "current": 437
+    "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md": {
+      "initial": 1,
+      "current": 38
     }
   }
 }
