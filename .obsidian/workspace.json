@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Allgemeines"
             }
+          },
+          {
+            "id": "7dc2141883088037",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\lim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45efefbc6c3db9d1",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
     "Informatik/Bachelor/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
     "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
