@@ -41,12 +41,15 @@
             "id": "7dc2141883088037",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Relationale Abfragesprachen"
             }
           }
         ],
@@ -211,8 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "7dc2141883088037",
   "lastOpenFiles": [
+    "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Anfragesprache SQL.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Anomalien.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Attributhülle.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Data Definition Language.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Data Manipulation Language.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Data Query Language.md",
     "Informatik/Bachelor/Semester_02/Mathe_2/Stetigkeit reeller Funktionen/Grenzwertbegriff für Funktionen.md",
     "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
@@ -240,13 +250,6 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Informationssystem.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Informationserhalt.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Information.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Daten.md",
-    "Informatik/Bachelor/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Extraction/Informationsextraktion.md",
-    "Informatik/Bachelor/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Vektorraummodell.md",
-    "Informatik/Bachelor/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/Ranked Retrieval.md",
-    "Informatik/Bachelor/Semester_04/Infman/Sprach und Wissensverarbeitung/Information Retrieval/IR Evaluation.md",
     "Informatik/Screenshots/Frage.png",
     "Informatik/Screenshots/ID41.mp4",
     "Informatik/SG SHK",
