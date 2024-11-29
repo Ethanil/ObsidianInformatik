@@ -3,7 +3,7 @@ aliases:
   - Relationale Algebra
   - Relationale Abfragesprache
 ---
-# Relationale Abfragesprachen 
+v# Relationale Abfragesprachen 
 Eine Relationale Abfragesprache ist dafür da aus einem [[Relationales Datenmodell]] Daten zu extrahieren.
 Dabei können drei in der Aussagekraft gleichwertige Ansätze verwendet: Relationalalgebra, Relationentupelkalkül oder Relationenwertebereichkalkül.
 (Nur die erste wird behandelt)

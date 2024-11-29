@@ -54,12 +54,13 @@
     "2024/8/3": 528,
     "2024/8/5": 0,
     "2024/10/4": 37,
-    "2024/10/9": 0
+    "2024/10/9": 0,
+    "2024/10/29": 0
   },
   "todaysWordCount": {
-    "Informatik/Master/Semester_01/SG Projektpraktikum/Untitled.md": {
-      "initial": 871,
-      "current": 0
+    "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md": {
+      "initial": 761,
+      "current": 761
     }
   }
 }
