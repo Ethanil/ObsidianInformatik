@@ -36,7 +36,7 @@ $$sel(R \bowtie S) = \frac{|R \bowtie S|}{|R \times S|}$$
 Join über Fremdschlüssel:
 $$sel(R \bowtie_{R.A = S.B} S) = \frac{|S|}{|R \times S|}$$
 Join über normale Attribute:
-$$sel(R \bowtie_{A=B}) = \frac{1}{\max(|A|,|B|)}$$
+$$sel(R \bowtie_{A=B}S) = \frac{1}{\max(|A|,|B|)}$$
 ### Alternativen zur Selektivitätsberechnung
 #### Stichprobenverfahren
 Berechne Selektivität für eine Stichprobe und Verallgemeienre auf gesamte Eingabe
