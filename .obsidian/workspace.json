@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prewitt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f9e3a16d4b2f00c",
+  "active": "732fc5a8a5139dc3",
   "lastOpenFiles": [
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/UML-Klassendiagramm.md",
