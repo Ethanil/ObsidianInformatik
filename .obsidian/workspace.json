@@ -58,17 +58,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
+                "file": "Informatik/Bachelor/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lineare Filter"
+              "title": "Polynominterpolation"
+            }
+          },
+          {
+            "id": "14d171460a07598b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lagrange",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,8 +242,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732fc5a8a5139dc3",
+  "active": "14d171460a07598b",
   "lastOpenFiles": [
+    "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/UML-Klassendiagramm.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
@@ -257,7 +270,6 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/Daten.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Data Query Language.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Data Manipulation Language.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Data Definition Language.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
     "Informatik/Master/Semester_01/Scalable Data Management Systems",
     "Informatik/Master/Semester_01/SG Projektpraktikum",
