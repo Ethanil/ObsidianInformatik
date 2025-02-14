@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
+                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Relationale Abfragesprachen"
+              "title": "Anfrageverarbeitung"
             }
           },
           {
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algebra",
+                "query": "sel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,6 +231,7 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
     "Informatik/Bachelor/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
@@ -242,7 +243,6 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/Strukturierte Daten.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationales Datenmodell.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Primattribut.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Normalisierung.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Normalformen.md",
