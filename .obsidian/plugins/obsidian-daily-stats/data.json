@@ -55,16 +55,13 @@
     "2024/8/5": 0,
     "2024/10/4": 37,
     "2024/10/9": 0,
-    "2024/10/29": 0
+    "2024/10/29": 0,
+    "2025/1/13": 0
   },
   "todaysWordCount": {
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md": {
       "initial": 761,
       "current": 761
-    },
-    "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md": {
-      "initial": 648,
-      "current": 648
     }
   }
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Semester_02/APL/Logik Erster Stufe/Symbole der Signatur.md",
+                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Symbole der Signatur"
+              "title": "Relationale Abfragesprachen"
             }
           },
           {
@@ -30,8 +30,8 @@
               "state": {
                 "file": "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Allgemeines"
@@ -45,8 +45,8 @@
               "state": {
                 "file": "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Anfrageverarbeitung"
@@ -66,21 +66,8 @@
               "icon": "lucide-file",
               "title": "Polynominterpolation"
             }
-          },
-          {
-            "id": "14d171460a07598b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lagrange",
+                "query": "algebra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +229,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14d171460a07598b",
+  "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
+    "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
+    "Informatik/Bachelor/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/UML-Klassendiagramm.md",
@@ -267,9 +257,6 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/dreiwertige Logik.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Datenzugang.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Datenbankentwurf.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Daten.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Data Query Language.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Data Manipulation Language.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
     "Informatik/Master/Semester_01/Scalable Data Management Systems",
     "Informatik/Master/Semester_01/SG Projektpraktikum",
