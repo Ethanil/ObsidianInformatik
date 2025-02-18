@@ -86,7 +86,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -129,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bf089fce06cbd8e",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
     "Informatik/Bachelor/Semester_04/Infman/Database/Anfragesprache SQL.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
