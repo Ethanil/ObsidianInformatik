@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
+                "file": "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Anfrageverarbeitung"
+              "title": "Relationale Abfragesprachen"
             }
           },
           {
@@ -231,9 +231,10 @@
   },
   "active": "2bf089fce06cbd8e",
   "lastOpenFiles": [
+    "Informatik/Bachelor/Semester_04/Infman/Database/Anfragesprache SQL.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md",
-    "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Anfrageverarbeitung.md",
+    "Informatik/Master/Semester_01/Computer Vision/Allgemeines.md",
     "Informatik/Bachelor/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
@@ -256,7 +257,6 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/ER-Diagramm.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/dreiwertige Logik.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Datenzugang.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Datenbankentwurf.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
     "Informatik/Master/Semester_01/Scalable Data Management Systems",
     "Informatik/Master/Semester_01/SG Projektpraktikum",
