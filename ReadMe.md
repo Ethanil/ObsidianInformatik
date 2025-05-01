@@ -3,6 +3,7 @@ Ich gebe keinerlei Garantie auf Vollständigkeit oder Richtigkeit.
 - https://github.com/zsviczian/obsidian-excalidraw-plugin
 - https://github.com/ozntel/oz-image-in-editor-obsidian
 - https://github.com/javalent/admonitions
+- https://github.com/obsidian-tasks-group/obsidian-tasks
 
 ## Hilfreiche optionale Plugins
 - https://github.com/tgrosinger/advanced-tables-obsidian

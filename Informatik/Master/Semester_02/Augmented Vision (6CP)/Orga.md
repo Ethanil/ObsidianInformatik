@@ -1,5 +1,5 @@
 ## Vorlesung
-- [ ] Augmented Vision Vorlesung anschauen 🔁 every week on Monday ⏳ 2025-04-28 #AV
+- [ ] Vorlesung anschauen 🔁 every week on Monday ⏳ 2025-04-28 #AV
 ## Klausur
 ### Termin
 - [ ] Klausur #Exam 🔺 🛫 2025-08-19 #AV
@@ -10,8 +10,8 @@
 ## Project
 ### Termine
 - [ ] Project Idea 📅 2025-05-05 ⏫ #AV
-- [ ] Interim report 📅 2025-06-23 ⏫ #AV
-- [ ] Final Report + Video 📅 2025-07-21 ⏫ #AV 
+- [ ] Interim report 🛫 2025-05-05 📅 2025-06-23 ⏫ #AV
+- [ ] Final Report + Video 🛫 2025-06-23 📅 2025-07-21 ⏫ #AV 
 ### Was
 - Focus  
 	- Visualization  

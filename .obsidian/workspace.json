@@ -115,13 +115,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Master/Semester_02/Tasks.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "ReadMe"
             }
           }
         ],
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 379.5
   },
   "right": {
     "id": "70e27f3d32e3e764",
@@ -284,22 +284,21 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1f7c5d77b7ece813",
   "lastOpenFiles": [
-    "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Orga.md",
+    "Informatik/Master/Semester_02/Tasks.md",
+    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md",
     "Informatik/Master/Semester_02/TTU-KI (3CP)/Orga.md",
     "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Orga.md",
-    "Informatik/Master/Semester_02/Tasks.md",
-    "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Orga.md",
-    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md",
-    "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Orga.md",
-    "Informatik/Master/Semester_02/DAIMPL (3CP)/Orga.md",
     "Informatik/Master/Semester_02/Augmented Vision (6CP)/Orga.md",
+    "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Orga.md",
+    "Informatik/Master/Semester_02/DAIMPL (3CP)/Orga.md",
+    "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Orga.md",
+    "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Orga.md",
     "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/ToDo.md",
     "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/ToDo.md",
     "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/ToDo.md",
