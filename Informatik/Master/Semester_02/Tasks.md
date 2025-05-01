@@ -5,7 +5,9 @@ aliases:
 ```tasks
 not done
 sort by priority
+sort by due
 (starts before today) OR ((starts on or before in four weeks) AND (tags include #Exam))
+group by priority
 ```
 ## Future
 ```tasks

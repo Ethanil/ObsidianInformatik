@@ -57,7 +57,7 @@
     "2024/10/9": 0,
     "2024/10/29": 0,
     "2025/1/13": 0,
-    "2025/4/1": 1427
+    "2025/4/1": 1541
   },
   "todaysWordCount": {
     "Informatik/Master/Semester_02/Serious Games Praktikum/Untitled.md": {
@@ -94,7 +94,7 @@
     },
     "Informatik/Master/Semester_02/Tasks.md": {
       "initial": 14,
-      "current": 59
+      "current": 65
     },
     "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Weekly ToDo.md": {
       "initial": 2,
@@ -110,7 +110,7 @@
     },
     "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Orga.md": {
       "initial": 8,
-      "current": 19
+      "current": 107
     },
     "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
       "initial": 8,
@@ -118,7 +118,7 @@
     },
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Orga.md": {
       "initial": 8,
-      "current": 76
+      "current": 75
     },
     "Informatik/Master/Semester_02/DAIMPL (3CP)/Orga.md": {
       "initial": 8,
@@ -178,7 +178,11 @@
     },
     "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Orga.md": {
       "initial": 0,
-      "current": 43
+      "current": 61
+    },
+    "Informatik/Master/Semester_02/TTU-KI (3CP)/Orga.md": {
+      "initial": 18,
+      "current": 21
     }
   }
 }
