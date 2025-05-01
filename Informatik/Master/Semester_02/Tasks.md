@@ -18,7 +18,7 @@ not done
 sort by priority
 not done
 sort by priority
-(starts after today) AND ((starts after four weeks) AND (tags include #Exam))
+((starts after today) AND (tags does not include #Exam)) OR ((tags include #Exam) AND (starts after in four weeks))
 ```
 
 ## Links
