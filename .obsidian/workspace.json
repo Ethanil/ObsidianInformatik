@@ -81,9 +81,21 @@
               "icon": "lucide-file",
               "title": "Lineare Filter"
             }
+          },
+          {
+            "id": "85f2a7e8795f449d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "881268bf1ee0f1c6",
+  "active": "85f2a7e8795f449d",
   "lastOpenFiles": [
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
