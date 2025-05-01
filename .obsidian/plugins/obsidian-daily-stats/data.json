@@ -56,12 +56,41 @@
     "2024/10/4": 37,
     "2024/10/9": 0,
     "2024/10/29": 0,
-    "2025/1/13": 0
+    "2025/1/13": 0,
+    "2025/4/1": 36
   },
   "todaysWordCount": {
-    "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Abfragesprachen.md": {
-      "initial": 761,
-      "current": 761
+    "Informatik/Master/Semester_02/Serious Games Praktikum/Untitled.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Human-Computer Interaction/Weekly ToDo.md": {
+      "initial": 10,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Advanced Data Management Systems/Weekly ToDo.md": {
+      "initial": 2,
+      "current": 31
+    },
+    "Informatik/Master/Semester_02/Augmented Vision/Weekly ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Design and Implementation of Modern Programming Languages/Weekly ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Serious Games Vorlesung/Weekly ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Technologietransfer und Unternehmertum mit Schwerpunkt auf Künstliche Intelligenz/Weekly ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Planner/Tasks.md": {
+      "initial": 6,
+      "current": 13
     }
   }
 }

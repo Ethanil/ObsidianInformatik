@@ -100,17 +100,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Master/Semester_02/Planner/Tasks.md",
+                "file": "Informatik/Master/Semester_02/Augmented Vision/Weekly ToDo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Weekly ToDo"
+            }
+          },
+          {
+            "id": "ccd54b83e481e59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Templates/DSubsetEqR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "DSubsetEqR"
+            }
+          },
+          {
+            "id": "1f7c5d77b7ece813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Master/Semester_02/Advanced Data Management Systems/Weekly ToDo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly ToDo"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -274,15 +304,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5eea3979e64f9247",
+  "active": "1f7c5d77b7ece813",
   "lastOpenFiles": [
+    "Informatik/Master/Semester_02/Tasks.md",
+    "Informatik/Master/Semester_02/Advanced Data Management Systems/Weekly ToDo.md",
+    "Informatik/Templates/default Template.md",
+    "Informatik/Master/Semester_02/Technologietransfer und Unternehmertum mit Schwerpunkt auf Künstliche Intelligenz/Weekly ToDo.md",
+    "Informatik/Master/Semester_02/Serious Games Vorlesung/Weekly ToDo.md",
+    "Informatik/Master/Semester_02/Serious Games Praktikum/Weekly ToDo.md",
+    "Informatik/Master/Semester_02/Design and Implementation of Modern Programming Languages/Weekly ToDo.md",
+    "Informatik/Master/Semester_02/Augmented Vision/Weekly ToDo.md",
+    "Informatik/Master/Semester_02/Human-Computer Interaction/Weekly ToDo.md",
+    "Informatik/Templates/Sum 0infinity.md",
+    "Informatik/Templates/Untitled.md",
+    "Informatik/Templates/DSubsetEqR.md",
+    "Informatik/Templates/DisjunkteVereinigung.md",
+    "Informatik/Templates/Definition.md",
+    "Informatik/CustomCommands.md",
+    "Informatik/Master/Semester_02/Augmented Vision/Untitled.md",
+    "Informatik/Master/Semester_02/Human-Computer Interaction",
     "Informatik/Master/Semester_02/Technologietransfer und Unternehmertum mit Schwerpunkt auf Künstliche Intelligenz",
     "Informatik/Master/Semester_02/Augmented Vision",
     "Informatik/Master/Semester_02/Advanced Data Management Systems",
     "Informatik/Master/Semester_02/Design and Implementation of Modern Programming Languages",
     "Informatik/Master/Semester_02/Serious Games Praktikum",
     "Informatik/Master/Semester_02/Serious Games Vorlesung",
-    "Informatik/Master/Semester_02/Planner/Tasks.md",
     "Informatik/Master/Semester_02/Planner",
     "Informatik/Master/Semester_02",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
@@ -295,23 +341,7 @@
     "Informatik/Bachelor/Semester_04/mathe3/Interpolation/Polynominterpolation.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Lineare Filter.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Wissen.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/UML-Klassendiagramm.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Transaktionsverarbeitung.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Schlüsselmenge.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Strukturierte Daten.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Relationales Datenmodell.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Relationale Entwurfstheorie.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Primattribut.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Normalisierung.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Normalformen.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Nichtprimattribut.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Konzeptionelles Datenmodell.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Informationssystem.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Konsistenzerhaltung.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Informationserhalt.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
-    "Informatik/Master/Semester_01/Scalable Data Management Systems",
-    "Informatik/Master/Semester_01/SG Projektpraktikum",
     "Informatik/Screenshots/Frage.png",
     "Informatik/Screenshots/Pasted image 20240415210925.png",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
