@@ -1,3 +1,5 @@
+## Vorlesung
+- [ ] ADMS Vorlesung anschauen 🔁 every week on Monday ⏳ 2025-04-28
 ## Klausur
 ### Termin
 - [ ] ADMS Quiz 1 #Exam 🔺 🛫 2025-06-05

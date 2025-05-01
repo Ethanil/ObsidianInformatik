@@ -1,3 +1,5 @@
+## Vorlesung
+- [ ] Augmented Vision Vorlesung anschauen 🔁 every week on Monday ⏳ 2025-04-28
 ## Klausur
 ### Termin
 - [ ] Augmented Vision #Exam 🔺 🛫 2025-08-19
