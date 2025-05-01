@@ -5,7 +5,7 @@ aliases:
 ```tasks
 not done
 sort by priority
-(starts before today)
+(starts before today) OR ((starts on or before in four weeks) AND (tags include #Exam))
 ```
 ## Done
 ```tasks
@@ -16,7 +16,9 @@ done
 ```tasks
 not done
 sort by priority
-(starts after today)
+not done
+sort by priority
+(starts after today) AND ((starts after four weeks) AND (tags include #Exam))
 ```
 
 ## Links

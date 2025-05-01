@@ -57,7 +57,7 @@
     "2024/10/9": 0,
     "2024/10/29": 0,
     "2025/1/13": 0,
-    "2025/4/1": 101
+    "2025/4/1": 234
   },
   "todaysWordCount": {
     "Informatik/Master/Semester_02/Serious Games Praktikum/Untitled.md": {
@@ -94,7 +94,7 @@
     },
     "Informatik/Master/Semester_02/Tasks.md": {
       "initial": 14,
-      "current": 26
+      "current": 52
     },
     "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Weekly ToDo.md": {
       "initial": 2,
@@ -102,7 +102,7 @@
     },
     "Informatik/Master/Semester_02/Programmanalyse (6CP)/Weekly ToDo.md": {
       "initial": 8,
-      "current": 9
+      "current": 12
     },
     "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/Orga.md": {
       "initial": 0,
@@ -130,11 +130,31 @@
     },
     "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Orga.md": {
       "initial": 8,
-      "current": 12
+      "current": 118
     },
     "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Weekly ToDo.md": {
       "initial": 41,
-      "current": 48
+      "current": 44
+    },
+    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Weekly ToDo.md": {
+      "initial": 12,
+      "current": 13
+    },
+    "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Weekly ToDo.md": {
+      "initial": 12,
+      "current": 12
+    },
+    "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Weekly ToDo.md": {
+      "initial": 12,
+      "current": 12
+    },
+    "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/Weekly ToDo.md": {
+      "initial": 12,
+      "current": 13
+    },
+    "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/ToDo.md": {
+      "initial": 44,
+      "current": 12
     }
   }
 }
