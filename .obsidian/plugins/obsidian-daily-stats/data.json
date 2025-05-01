@@ -57,7 +57,7 @@
     "2024/10/9": 0,
     "2024/10/29": 0,
     "2025/1/13": 0,
-    "2025/4/1": 1350
+    "2025/4/1": 1427
   },
   "todaysWordCount": {
     "Informatik/Master/Semester_02/Serious Games Praktikum/Untitled.md": {
@@ -106,15 +106,15 @@
     },
     "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/Orga.md": {
       "initial": 0,
-      "current": 8
+      "current": 20
     },
     "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Orga.md": {
       "initial": 8,
-      "current": 8
+      "current": 19
     },
     "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
       "initial": 8,
-      "current": 8
+      "current": 19
     },
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Orga.md": {
       "initial": 8,
@@ -163,6 +163,22 @@
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/ToDo.md": {
       "initial": 2,
       "current": 2
+    },
+    "Informatik/Master/Semester_02/Programmanalyse (6CP)/ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/ToDo.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "Informatik/Master/Semester_02/Serious Games Praktikum (6CP)/Orga.md": {
+      "initial": 0,
+      "current": 43
     }
   }
 }
