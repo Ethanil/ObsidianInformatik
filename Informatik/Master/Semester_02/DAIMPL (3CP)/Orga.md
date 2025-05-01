@@ -1,9 +1,12 @@
 ## Seminar Orga
 ### Termine
-- [x] Seminar Application 🔼 🛫 2025-04-25 📅 2025-04-30 ✅ 2025-04-29
-- [ ] Draft Submission 🛫 2025-05-01 📅 2025-05-31 🔼 
-- [ ] Peer Review Submission 🛫 2025-06-01 📅 2025-06-15 🔼 
-- [ ] Final Submission 🛫 2025-06-16 📅 2025-07-31 ⏫ 
+- [x] Seminar Application 🔼 🛫 2025-04-25 📅 2025-04-30 ✅ 2025-04-29 #DAIMPL
+- [ ] Draft Submission 🛫 2025-05-01 📅 2025-05-31 🔼 #DAIMPL 
+- [ ] Peer Review Submission 🛫 2025-06-01 📅 2025-06-15 🔼 #DAIMPL 
+- [ ] Final Submission 🛫 2025-06-16 📅 2025-07-31 ⏫ #DAIMPL 
+
+
+- [ ] Finish copy pasting orga stuff für DAIMPL 🔽 #DAIMPL 
 ## Overview
 ### Grading
 - Draft Submission 5%
