@@ -93,9 +93,24 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.9"
             }
+          },
+          {
+            "id": "912c40b1c1a2a86b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Master/Semester_02/Planner/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,11 +269,22 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85f2a7e8795f449d",
+  "active": "5eea3979e64f9247",
   "lastOpenFiles": [
+    "Informatik/Master/Semester_02/Technologietransfer und Unternehmertum mit Schwerpunkt auf Künstliche Intelligenz",
+    "Informatik/Master/Semester_02/Augmented Vision",
+    "Informatik/Master/Semester_02/Advanced Data Management Systems",
+    "Informatik/Master/Semester_02/Design and Implementation of Modern Programming Languages",
+    "Informatik/Master/Semester_02/Serious Games Praktikum",
+    "Informatik/Master/Semester_02/Serious Games Vorlesung",
+    "Informatik/Master/Semester_02/Planner/Tasks.md",
+    "Informatik/Master/Semester_02/Planner",
+    "Informatik/Master/Semester_02",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filterung im Ortsraum.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Filterung im Ortsraum/Filtermasken.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
@@ -283,19 +309,10 @@
     "Informatik/Bachelor/Semester_04/Infman/Database/Informationssystem.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Konsistenzerhaltung.md",
     "Informatik/Bachelor/Semester_04/Infman/Database/Informationserhalt.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Information.md",
-    "Informatik/Bachelor/Semester_04/Infman/Database/Funktionale Abhängigkeit.md",
     "Informatik/Master/Semester_01/Concepts of Programming Languages",
     "Informatik/Master/Semester_01/Scalable Data Management Systems",
     "Informatik/Master/Semester_01/SG Projektpraktikum",
-    "Informatik/Master/Semester_01/Einführung in die Kryptographie",
-    "Informatik/Master/Semester_01/Computer Vision",
-    "Informatik/Master/Semester_01",
-    "Informatik/Master",
-    "Informatik/Bachelor",
     "Informatik/Screenshots/Frage.png",
-    "Informatik/Screenshots/ID41.mp4",
-    "Informatik/SG SHK",
     "Informatik/Screenshots/Pasted image 20240415210925.png",
     "Informatik/Screenshots/Pasted image 20240226163436.png",
     "Informatik/Screenshots/Pasted image 20240226163147.png",
