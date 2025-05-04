@@ -2,7 +2,7 @@
 - [ ] Vorlesung anschauen 🔁 every week on Monday ⏳ 2025-04-28 #AV
 ## Klausur
 ### Termin
-- [ ] Klausur #Exam 🔺 🛫 2025-08-19 #AV
+- [ ] Klausur #Exam 🔺 🛫 2025-08-27 #AV
 
 ### Besonderheiten
 - Klausur(50%) + Project(50%) geben Note
