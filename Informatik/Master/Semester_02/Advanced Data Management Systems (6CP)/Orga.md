@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen 🔁 every week on Tuesday ⏳ 2025-04-29 #ADMS
+- [ ] Vorlesung anschauen #ADMS 🔁 every week on Tuesday ⏳ 2025-05-06
+- [x] Vorlesung anschauen #ADMS 🔁 every week on Tuesday ⏳ 2025-04-29 ✅ 2025-05-05
 ## Klausur
 ### Termin
 - [ ] Quiz 1 #Exam 🔺 🛫 2025-06-05 #ADMS 
