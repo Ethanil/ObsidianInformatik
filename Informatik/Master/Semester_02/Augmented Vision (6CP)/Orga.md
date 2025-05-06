@@ -11,7 +11,7 @@
 
 ## Project
 ### Termine
-- [ ] Project Idea 📅 2025-05-05 ⏫ #AV
+- [x] Project Idea #AV ⏫ 📅 2025-05-05 ✅ 2025-05-06
 - [ ] Interim report 🛫 2025-05-05 📅 2025-06-23 ⏫ #AV
 - [ ] Final Report + Video 🛫 2025-06-23 📅 2025-07-21 ⏫ #AV 
 ### Was
