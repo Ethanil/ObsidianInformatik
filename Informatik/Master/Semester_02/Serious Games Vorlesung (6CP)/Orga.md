@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-05-06
+- [ ] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-05-13
+- [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-05-06 ✅ 2025-05-09
 - [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-04-29 ✅ 2025-05-01
 ## Klausur
 ### Termin
@@ -18,6 +19,7 @@ Spiel erstellen: 60 Punkte
 Bei Evaluationen dabei sein: 20 Punkte
 
 ### Termine
-- [ ] Spiel erstellen 🛫 2025-05-06  🔼 #SG-Vorlesung
-- [ ] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-06
+- [ ] Spiel erstellen #SG-Vorlesung 🔼 🛫 2025-05-20
+- [ ] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-13
+- [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-06 ✅ 2025-05-09
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-04-29 ✅ 2025-05-01
