@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-05-12
+- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-05-19
+- [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-05-12 ✅ 2025-05-12
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-05-05 ✅ 2025-05-05
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-04-28 ✅ 2025-05-05
 ## Klausur
@@ -40,4 +41,5 @@ Kein Bonus?
 Admission to the exam  
 - Passed both exercices (>50% correct)
 ### Wie oft
-Zwei Stück?
+- [ ] Übung1 #AV ⏫ 🛫 2025-05-12 📅 2025-05-26
+- [ ] Übung1 #AV ⏫ 🛫 2025-05-26 📅 2025-06-09
