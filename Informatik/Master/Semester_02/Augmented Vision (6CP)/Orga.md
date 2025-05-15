@@ -41,5 +41,5 @@ Kein Bonus?
 Admission to the exam  
 - Passed both exercices (>50% correct)
 ### Wie oft
-- [ ] Übung1 #AV ⏫ 🛫 2025-05-12 📅 2025-05-26
+- [x] Übung1 #AV ⏫ 🛫 2025-05-12 📅 2025-05-26 ✅ 2025-05-15
 - [ ] Übung1 #AV ⏫ 🛫 2025-05-26 📅 2025-06-09
