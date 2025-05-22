@@ -5,5 +5,10 @@
   "cssTheme": "Everforest Enchanted",
   "accentColor": "",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "MCL Gallery Cards"
+  ]
 }
