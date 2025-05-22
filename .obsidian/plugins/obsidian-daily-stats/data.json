@@ -61,7 +61,7 @@
     "2025/4/4": 0,
     "2025/4/5": 26,
     "2025/4/12": 16,
-    "2025/4/22": 186
+    "2025/4/22": 76
   },
   "todaysWordCount": {
     "Informatik/SG SHK/Tasks.md": {
@@ -70,7 +70,11 @@
     },
     "Informatik/Master/Semester_02/Tasks.md": {
       "initial": 99,
-      "current": 256
+      "current": 146
+    },
+    "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Orga.md": {
+      "initial": 200,
+      "current": 200
     }
   }
 }
