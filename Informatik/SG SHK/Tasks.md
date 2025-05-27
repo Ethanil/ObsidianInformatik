@@ -1,5 +1,5 @@
 - [ ] #SG-Arbeit Modal view erstellen
 - [ ] #SG-Arbeit Quiz overview in Kapitel unterteilen
 - [ ] #SG-Arbeit Sport2 Feedback für liste anpassen
-- [ ] #SG-Arbeit Psych1 Feedback liste hat bei Raumgestaltung nur "punkte"?
-- [ ] #SG-Arbeit Minesweeper fixen
+- [x] #SG-Arbeit Psych1 Feedback liste hat bei Raumgestaltung nur "punkte"? ❌ 2025-05-27
+- [x] #SG-Arbeit Minesweeper fixen ✅ 2025-05-27
