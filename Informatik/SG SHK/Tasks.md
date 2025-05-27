@@ -1,5 +1,5 @@
 - [ ] #SG-Arbeit Modal view erstellen
-- [ ] #SG-Arbeit Quiz overview in Kapitel unterteilen
+- [x] #SG-Arbeit Quiz overview in Kapitel unterteilen ✅ 2025-05-27
 - [ ] #SG-Arbeit Fix Diagnostik View stuck
 - [ ] #SG-Arbeit Fix QuizDialogue in Build
 - [x] #SG-Arbeit Sport2 Feedback für liste anpassen ✅ 2025-05-27
