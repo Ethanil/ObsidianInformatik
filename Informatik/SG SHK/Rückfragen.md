@@ -4,10 +4,10 @@ aktuell gibt es 10 Objekte, von denen 3 richtig:
 - Mikrofon
 - Clipboard (Einverständniserklärung)
 - Wasserflasche
+- Telefon (ausgeschaltete Variante)
 und 7 falsch sind:
 - Locher
 - Globus
-- Telefon
 - Tacker
 - Pflanze
 - Kamera
