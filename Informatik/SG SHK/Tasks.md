@@ -1,6 +1,6 @@
 - [ ] #SG-Arbeit Modal view erstellen
 - [x] #SG-Arbeit Quiz overview in Kapitel unterteilen ✅ 2025-05-27
-- [ ] #SG-Arbeit Fix Diagnostik View stuck
+- [x] #SG-Arbeit Fix Diagnostik View stuck ✅ 2025-05-27
 - [ ] #SG-Arbeit Fix QuizDialogue in Build
 - [x] #SG-Arbeit Sport2 Feedback für liste anpassen ✅ 2025-05-27
 - [x] #SG-Arbeit Psych1 Feedback liste hat bei Raumgestaltung nur "punkte"? ❌ 2025-05-27
