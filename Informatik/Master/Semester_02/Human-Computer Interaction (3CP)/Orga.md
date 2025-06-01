@@ -18,6 +18,6 @@
 
 ### Wie oft
 Drei Stück (jede ~25 Punkte):
-- [ ] Exercise 1 🛫 2025-05-25 #HCI ⏫ 
+- [ ] Exercise 1 #HCI ⏫ 🛫 2025-05-25 📅 2025-06-09
 - [ ] Exercise 2 🛫 2025-06-17 #HCI ⏫ 
 - [ ] Exercise 3 🛫 2025-07-01 #HCI ⏫ 
