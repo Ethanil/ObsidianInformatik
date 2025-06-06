@@ -5,7 +5,7 @@
 - [x] Vorlesung anschauen #ADMS 🔁 every week on Tuesday ⏳ 2025-04-29 ✅ 2025-05-05
 ## Klausur
 ### Termin
-- [ ] Quiz 1 #Exam 🔺 🛫 2025-06-05 #ADMS 
+- [x] Quiz 1 #Exam #ADMS 🔺 🛫 2025-06-05 ✅ 2025-06-06
 - [ ] Quiz 2 #Exam 🔺 🛫 2025-07-24 #ADMS 
 
 ### Besonderheiten
@@ -27,5 +27,5 @@ Programming labs, insgesamt 50 Points
 3 (1 introduction lab):
 - [x] Lab 0 #ADMS 🔼 🛫 2025-04-25 📅 2025-05-09 ✅ 2025-05-06
 - [x] Lab 1 #ADMS ⏫ 🛫 2025-05-09 📅 2025-06-06 ✅ 2025-05-25
-- [ ] Lab 2 🛫  2025-06-06 📅 2025-07-04 ⏫ #ADMS
+- [ ] Lab 2 #ADMS ⏫ 🛫 2025-06-06 📅 2025-07-11
 - [ ] Lab 3 🛫  2025-07-11 📅 2025-08-08 ⏫ #ADMS
