@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-05-27
+- [ ] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-06-03
+- [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-05-27 ✅ 2025-06-05
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-05-20 ✅ 2025-05-22
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-05-13 ✅ 2025-05-22
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-05-06 ✅ 2025-05-10

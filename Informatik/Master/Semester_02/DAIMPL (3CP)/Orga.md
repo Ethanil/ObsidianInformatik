@@ -2,7 +2,7 @@
 ### Termine
 - [x] Seminar Application 🔼 🛫 2025-04-25 📅 2025-04-30 ✅ 2025-04-29 #DAIMPL
 - [x] Draft Submission #DAIMPL 🔼 🛫 2025-05-01 📅 2025-05-31 ✅ 2025-06-01
-- [ ] Peer Review Submission 🛫 2025-06-01 📅 2025-06-15 🔼 #DAIMPL 
+- [ ] Peer Review Submission #DAIMPL 🔼 🛫 2025-06-01 📅 2025-06-08
 - [ ] Final Submission 🛫 2025-06-16 📅 2025-07-31 ⏫ #DAIMPL 
 
 
