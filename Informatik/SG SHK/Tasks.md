@@ -1,4 +1,4 @@
-- [ ] #SG-Arbeit Modal view erstellen
+- [x] #SG-Arbeit Modal view erstellen ✅ 2025-06-08
 - [x] #SG-Arbeit Spielideen aus den GameJams extrahieren ✅ 2025-06-04
 - [x] #SG-Arbeit Quiz overview in Kapitel unterteilen ✅ 2025-05-27
 - [x] #SG-Arbeit Fix Diagnostik View stuck ✅ 2025-05-27

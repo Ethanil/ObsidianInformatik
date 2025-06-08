@@ -24,7 +24,8 @@ Bei Evaluationen dabei sein: 20 Punkte
 
 ### Termine
 - [ ] Spiel erstellen #SG-Vorlesung 🔼 🛫 2025-05-20 📅 2025-06-23
-- [ ] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-03
+- [ ] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-10
+- [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-03 ✅ 2025-06-08
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-27 ✅ 2025-06-06
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-20 ✅ 2025-05-20
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-05-13 ✅ 2025-05-14
