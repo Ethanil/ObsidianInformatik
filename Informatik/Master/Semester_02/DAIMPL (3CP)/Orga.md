@@ -5,8 +5,6 @@
 - [x] Peer Review Submission #DAIMPL 🔼 🛫 2025-06-01 📅 2025-06-08 ✅ 2025-06-07
 - [ ] Final Submission 🛫 2025-06-16 📅 2025-07-31 ⏫ #DAIMPL 
 
-
-- [ ] Finish copy pasting orga stuff für DAIMPL 🔽 #DAIMPL 
 ## Overview
 ### Grading
 - Draft Submission 5%
