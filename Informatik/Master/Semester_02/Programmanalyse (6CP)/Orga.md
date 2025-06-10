@@ -8,7 +8,7 @@
 - [x] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-04-28 ✅ 2025-05-07
 ## Klausur
 ### Termin
-- [ ] #Exam #Programmanalyse Klausur ⏳ 2025-08-13
+- [ ] #Exam #Programmanalyse Klausur 🔺 🛫 2025-08-13
 
 ### Besonderheiten
 ## Übungen
