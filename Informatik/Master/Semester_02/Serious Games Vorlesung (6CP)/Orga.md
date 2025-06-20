@@ -19,6 +19,9 @@ Bis zu 1.0 Note
 Skaliert aus bis zu 110 Bonuspunkte
 50 Punkte = 0 Notenverbesserung
 100 Punkte = 1.0 Notenverbesserung
+- [ ] Zahl für Nachziehstapel hinzufüge #SG-Vorlesung 
+- [ ] Max Kreaturen anzahl hinzufügen + Visuell darstellen #SG-Vorlesung 
+- [ ] Sounds hinzufügen #SG-Vorlesung 
 ### Was
 Quizes: 30 Punkte
 Spiel erstellen: 60 Punkte
