@@ -23,6 +23,7 @@ Skaliert aus bis zu 110 Bonuspunkte
 - [ ] Max Kreaturen anzahl hinzufügen + Visuell darstellen #SG-Vorlesung 
 - [ ] Attribute-icons hinzufügen #SG-Vorlesung 
 - [ ] Sounds hinzufügen #SG-Vorlesung 
+- [ ] Use Signals/Callbacks for loading the same latex #SG-Vorlesung 
 ### Was
 Quizes: 30 Punkte
 Spiel erstellen: 60 Punkte
