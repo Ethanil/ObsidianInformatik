@@ -22,7 +22,7 @@ Skaliert aus bis zu 110 Bonuspunkte
 - [x] Zahl für Nachziehstapel hinzufüge #SG-Vorlesung ✅ 2025-06-22
 - [x] Max Kreaturen anzahl hinzufügen + Visuell darstellen #SG-Vorlesung ✅ 2025-06-22
 - [x] Attribute-icons hinzufügen #SG-Vorlesung ✅ 2025-06-22
-- [ ] Sounds hinzufügen #SG-Vorlesung 
+- [x] Sounds hinzufügen #SG-Vorlesung ✅ 2025-06-22
 - [x] Use Signals/Callbacks for loading the same latex #SG-Vorlesung ✅ 2025-06-22
 ### Was
 Quizes: 30 Punkte
