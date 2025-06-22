@@ -20,8 +20,8 @@ Skaliert aus bis zu 110 Bonuspunkte
 50 Punkte = 0 Notenverbesserung
 100 Punkte = 1.0 Notenverbesserung
 - [x] Zahl für Nachziehstapel hinzufüge #SG-Vorlesung ✅ 2025-06-22
-- [ ] Max Kreaturen anzahl hinzufügen + Visuell darstellen #SG-Vorlesung 
-- [ ] Attribute-icons hinzufügen #SG-Vorlesung 
+- [x] Max Kreaturen anzahl hinzufügen + Visuell darstellen #SG-Vorlesung ✅ 2025-06-22
+- [x] Attribute-icons hinzufügen #SG-Vorlesung ✅ 2025-06-22
 - [ ] Sounds hinzufügen #SG-Vorlesung 
 - [x] Use Signals/Callbacks for loading the same latex #SG-Vorlesung ✅ 2025-06-22
 ### Was
