@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-23
+- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-30
+- [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-23 ✅ 2025-06-24
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-16 ✅ 2025-06-19
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-02 ✅ 2025-06-04
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-05-26 ✅ 2025-05-26
@@ -17,7 +18,7 @@
 ## Project
 ### Termine
 - [x] Project Idea #AV ⏫ 📅 2025-05-05 ✅ 2025-05-06
-- [ ] Interim report #AV ⏫ 🛫 2025-05-05 📅 2025-06-23
+- [x] Interim report #AV ⏫ 🛫 2025-05-05 📅 2025-06-23 ✅ 2025-06-24
 - [ ] Final Report + Video 🛫 2025-06-23 📅 2025-07-21 ⏫ #AV 
 ### Was
 - Focus  

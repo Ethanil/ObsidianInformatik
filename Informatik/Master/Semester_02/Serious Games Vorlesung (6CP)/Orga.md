@@ -30,7 +30,7 @@ Spiel erstellen: 60 Punkte
 Bei Evaluationen dabei sein: 20 Punkte
 
 ### Termine
-- [ ] Spiel erstellen #SG-Vorlesung 🔼 🛫 2025-05-20 📅 2025-06-23
+- [x] Spiel erstellen #SG-Vorlesung 🔼 🛫 2025-05-20 📅 2025-06-23 ✅ 2025-06-24
 - [ ] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-24
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-17 ✅ 2025-06-18
 - [x] Quiz bearbeiten #SG-Vorlesung 🔼 🔁 every week on Tuesday ⏳ 2025-06-10 ✅ 2025-06-10
