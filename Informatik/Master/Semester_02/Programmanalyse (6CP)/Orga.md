@@ -1,5 +1,7 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-06-23
+- [ ] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-07-07
+- [ ] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-06-30
+- [x] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-06-23 ✅ 2025-06-30
 - [x] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-06-16 ✅ 2025-06-16
 - [x] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-06-02 ✅ 2025-06-09
 - [x] Vorlesung anschauen #Programmanalyse 🔁 every week on Monday ⏳ 2025-05-26 ✅ 2025-05-26
