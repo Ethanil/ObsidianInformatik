@@ -1,6 +1,7 @@
 ## Vorlesung
 - [ ] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-07-03
-- [ ] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-06-26
+- [ ] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-07-03
+- [x] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-06-26 ✅ 2025-07-01
 - [x] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-06-12 ✅ 2025-06-14
 - [x] Vorlesung anschauen #ADMS 🔁 every week on Thursday ⏳ 2025-06-05 ✅ 2025-06-06
 - [x] Vorlesung anschauen #ADMS 🔁 every week on Tuesday ⏳ 2025-05-13 ✅ 2025-05-15
