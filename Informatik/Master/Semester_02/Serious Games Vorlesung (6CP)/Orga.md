@@ -1,5 +1,4 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-07-01
 - [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-06-24 ✅ 2025-06-25
 - [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-06-17 ✅ 2025-06-18
 - [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-06-10 ✅ 2025-06-10

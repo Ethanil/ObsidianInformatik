@@ -1,5 +1,4 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-07-01
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-06-24 ✅ 2025-06-30
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-06-17 ✅ 2025-06-25
 - [x] Vorlesung anschauen #HCI 🔁 every week on Tuesday ⏳ 2025-06-10 ✅ 2025-06-10
@@ -25,4 +24,4 @@
 Drei Stück (jede ~25 Punkte):
 - [x] Exercise 1 #HCI ⏫ 🛫 2025-05-25 📅 2025-06-09 ✅ 2025-06-06
 - [x] Exercise 2 #HCI ⏫ 🛫 2025-06-17 ✅ 2025-06-24
-- [ ] Exercise 3 🛫 2025-07-01 #HCI ⏫ 
+- [ ] Exercise 3 #HCI ⏫ 🛫 2025-07-14
