@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-07-07
+- [ ] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-07-14
+- [x] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-07-07 ✅ 2025-07-15
 - [x] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-06-30 ✅ 2025-06-30
 - [x] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-06-23 ✅ 2025-06-25
 - [x] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-06-16 ✅ 2025-06-19
