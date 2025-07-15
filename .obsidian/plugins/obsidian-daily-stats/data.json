@@ -70,12 +70,13 @@
     "2025/5/22": 30,
     "2025/6/2": 0,
     "2025/6/3": 0,
-    "2025/6/4": 0
+    "2025/6/4": 0,
+    "2025/6/15": 0
   },
   "todaysWordCount": {
-    "Informatik/Master/Semester_02/Serious Games Vorlesung (6CP)/Orga.md": {
-      "initial": 385,
-      "current": 385
+    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
+      "initial": 287,
+      "current": 287
     }
   }
 }
