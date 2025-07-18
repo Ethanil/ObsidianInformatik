@@ -1,5 +1,6 @@
 ## Vorlesung
-- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-30
+- [ ] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-07-07
+- [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-30 ✅ 2025-07-15
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-23 ✅ 2025-06-24
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-16 ✅ 2025-06-19
 - [x] Vorlesung anschauen #AV 🔁 every week on Monday ⏳ 2025-06-02 ✅ 2025-06-04
