@@ -11,7 +11,7 @@
 ## Klausur
 ### Termin
 - [x] Quiz 1 #Exam #ADMS 🔺 🛫 2025-06-05 ✅ 2025-06-06
-- [ ] Quiz 2 #Exam 🔺 🛫 2025-07-24 #ADMS 
+- [x] Quiz 2 #Exam #ADMS 🔺 🛫 2025-07-24 ✅ 2025-07-24
 
 ### Besonderheiten
 Examination integrated into lecture (in total 100P + bonus points)

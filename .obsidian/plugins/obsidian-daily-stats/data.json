@@ -72,12 +72,13 @@
     "2025/6/3": 0,
     "2025/6/4": 0,
     "2025/6/15": 0,
-    "2025/6/18": 1
+    "2025/6/18": 1,
+    "2025/6/24": 6
   },
   "todaysWordCount": {
-    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
-      "initial": 300,
-      "current": 301
+    "Informatik/Master/Semester_02/DAIMPL (3CP)/Orga.md": {
+      "initial": 905,
+      "current": 911
     }
   }
 }
