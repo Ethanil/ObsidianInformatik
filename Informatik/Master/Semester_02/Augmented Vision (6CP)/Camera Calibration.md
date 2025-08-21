@@ -19,4 +19,9 @@ R & t \\ 0 & 1
 ### Pinhole camera model
 ![[Pasted image 20250821155119.png]]
 $\pi(P;\color{yellow} R,t$$,\color{green}C$$) = \color{green}K$$\cdot\color{yellow}\frac{1}{Z}\cdot \begin{bmatrix}R & t\end{bmatrix}$$\cdot P$
+#### Lens Distortions
+ ![[Pasted image 20250821161744.png#shadow left|Radial Distortion]]
+ ![[Pasted image 20250821161759.png#shadow left|Tangential Distortion]]
+### Calibration
+$N$ point correspondences $p\leftrightarrow P$ given
 ## Links
