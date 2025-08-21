@@ -24,4 +24,7 @@ $\pi(P;\color{yellow} R,t$$,\color{green}C$$) = \color{green}K$$\cdot\color{yell
  ![[Pasted image 20250821161759.png#shadow left|Tangential Distortion]]
 ### Calibration
 $N$ point correspondences $p\leftrightarrow P$ given
+Find optimal paramters $C:$
+$$\epsilon _{res}=\sum^{N}_{i}\sum^{M}_{j}||p_{ij} - \pi(P_{i}; R_{j},t_{j},C)||$$
+=> Least Squares solution using direct linear transform
 ## Links
