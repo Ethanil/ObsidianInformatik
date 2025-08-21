@@ -73,16 +73,25 @@
     "2025/6/4": 0,
     "2025/6/15": 0,
     "2025/6/18": 1,
-    "2025/6/24": 6
+    "2025/6/24": 6,
+    "2025/7/21": 34
   },
   "todaysWordCount": {
-    "Informatik/Master/Semester_02/DAIMPL (3CP)/Orga.md": {
-      "initial": 905,
-      "current": 911
+    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Orga.md": {
+      "initial": 299,
+      "current": 303
     },
-    "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Orga.md": {
-      "initial": 271,
-      "current": 271
+    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
+      "initial": 315,
+      "current": 319
+    },
+    "Informatik/Master/Semester_02/TTU-KI (3CP)/Orga.md": {
+      "initial": 166,
+      "current": 170
+    },
+    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md": {
+      "initial": 1,
+      "current": 23
     }
   }
 }

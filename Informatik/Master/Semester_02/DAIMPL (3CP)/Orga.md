@@ -4,7 +4,7 @@
 - [x] Draft Submission #DAIMPL 🔼 🛫 2025-05-01 📅 2025-05-31 ✅ 2025-06-01
 - [x] Peer Review Submission #DAIMPL 🔼 🛫 2025-06-01 📅 2025-06-08 ✅ 2025-06-07
 - [x] Final Submission #DAIMPL ⏫ 🛫 2025-06-16 📅 2025-07-13 ✅ 2025-07-15
-- [ ] Presentation #DAIMPL #Exam 🔺 🛫 2025-07-31
+- [x] Presentation #DAIMPL #Exam 🔺 🛫 2025-07-31 ✅ 2025-08-21
 
 ## Overview
 ### Grading
