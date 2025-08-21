@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md",
+                "file": "Informatik/Master/Semester_02/Augmented Vision (6CP)/3D Rendering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Camera Calibration"
+              "title": "3D Rendering"
             }
           }
         ]
@@ -188,9 +188,10 @@
   },
   "active": "1f7c5d77b7ece813",
   "lastOpenFiles": [
+    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md",
+    "Informatik/Master/Semester_02/Augmented Vision (6CP)/3D Rendering.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Bildtransformationen/Arten der Bildtransformationen.md",
-    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md",
     "Informatik/Screenshots/Pasted image 20250821161759.png",
     "Informatik/Screenshots/Pasted image 20250821161744.png",
     "Informatik/Screenshots/Pasted image 20250821155119.png",
@@ -217,7 +218,6 @@
     "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/ToDo.md",
     "Informatik/Master/Semester_02/Programmanalyse (6CP)",
     "Informatik/Templates/default Template.md",
-    "Informatik/Templates/Sum 0infinity.md",
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)",
     "Informatik/Master/Semester_02/TTU-KI (3CP)",
     "Informatik/Master/Semester_02/Augmented Vision (6CP)",
