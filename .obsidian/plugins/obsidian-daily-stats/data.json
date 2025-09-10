@@ -74,28 +74,13 @@
     "2025/6/15": 0,
     "2025/6/18": 1,
     "2025/6/24": 6,
-    "2025/7/21": 202
+    "2025/7/21": 202,
+    "2025/8/10": 5
   },
   "todaysWordCount": {
-    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Orga.md": {
-      "initial": 299,
-      "current": 303
-    },
-    "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md": {
-      "initial": 315,
-      "current": 319
-    },
-    "Informatik/Master/Semester_02/TTU-KI (3CP)/Orga.md": {
-      "initial": 166,
-      "current": 170
-    },
-    "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md": {
-      "initial": 1,
-      "current": 182
-    },
-    "Informatik/Master/Semester_02/Augmented Vision (6CP)/3D Rendering.md": {
-      "initial": 2,
-      "current": 11
+    "Informatik/SG SHK/Tasks.md": {
+      "initial": 84,
+      "current": 89
     }
   }
 }
