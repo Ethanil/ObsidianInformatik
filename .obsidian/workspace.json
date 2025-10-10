@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "35f5327a9fd310bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,9 +215,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ad202f56793efe63",
+  "active": "35f5327a9fd310bb",
   "lastOpenFiles": [
     "Informatik/Master/Semester_02/Tasks.md",
+    "Informatik/SG SHK/Tasks.md",
+    "Informatik/SG SHK/Rückfragen.md",
     "Informatik/Master/Semester_02/Augmented Vision (6CP)/Camera Calibration.md",
     "Informatik/Master/Semester_02/Augmented Vision (6CP)/3D Rendering.md",
     "Informatik/Bachelor/Semester_04/Bildverarbeitung/Bildtransformationen/Cosinus Transformation.md",
@@ -221,8 +235,6 @@
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)/Orga.md",
     "Informatik/Master/Semester_02/Programmanalyse (6CP)/Orga.md",
     "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/Orga.md",
-    "Informatik/SG SHK/Rückfragen.md",
-    "Informatik/SG SHK/Tasks.md",
     "Informatik/SG SHK/Quiz-Treffen.md",
     "ReadMe.md",
     "Informatik/Master/Semester_02/Unternehmertum mit Schwerpunkt auf KI (3CP)/ToDo.md",

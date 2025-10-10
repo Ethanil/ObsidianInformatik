@@ -12,4 +12,4 @@
 - [x] Vorlesung anschauen #TTU-KI 🔁 every week on Monday ⏳ 2025-04-28 ✅ 2025-05-10
 ## Projekt
 ???
-- [ ] Projekt fertigstellen 🛫 2025-04-28 #TTU-KI 🔼 
+- [x] Projekt fertigstellen #TTU-KI 🔼 🛫 2025-04-28 ✅ 2025-10-08

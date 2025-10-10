@@ -23,7 +23,10 @@
 
 ### Wie oft
 
-- [ ] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-07-07
+- [x] Übung machen #Programmanalyse 🔼 ⏳ 2025-07-28 ✅ 2025-10-08
+- [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-07-21 ✅ 2025-10-08
+- [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-07-14 ✅ 2025-10-08
+- [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-07-07 ✅ 2025-10-08
 - [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-06-30 ✅ 2025-08-21
 - [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-06-23 ✅ 2025-07-02
 - [x] Übung machen #Programmanalyse 🔼 🔁 every week on Monday ⏳ 2025-06-16 ✅ 2025-07-02

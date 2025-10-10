@@ -10,7 +10,7 @@
 - [x] Vorlesung anschauen #SG-Vorlesung 🔁 every week on Tuesday ⏳ 2025-04-29 ✅ 2025-05-01
 ## Klausur
 ### Termin
-- [ ] Klausur 🛫 2025-08-29 🔺 #Exam #SG-Vorlesung 
+- [x] Klausur #Exam #SG-Vorlesung 🔺 🛫 2025-08-29 ✅ 2025-10-08
 
 ### Besonderheiten
 ## Übungen

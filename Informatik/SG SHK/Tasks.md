@@ -7,3 +7,7 @@
 - [x] #SG-Arbeit Psych1 Feedback liste hat bei Raumgestaltung nur "punkte"? ❌ 2025-05-27
 - [x] #SG-Arbeit Minesweeper fixen ✅ 2025-05-27
 - [ ] #SG-Arbeit Zuordnungs aufgaben filtern
+- [ ] #SG-Arbeit Packages erstellen
+- [ ] #SG-Arbeit Shopitems erweitern
+- [ ] #SG-Arbeit Funnystuff integrieren (Geld verdienen)
+- [ ] #SG-Arbeit Questsystem rework
