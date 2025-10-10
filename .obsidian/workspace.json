@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
-          },
-          {
-            "id": "35f5327a9fd310bb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +203,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "35f5327a9fd310bb",
+  "active": "ad202f56793efe63",
   "lastOpenFiles": [
+    "Untitled.base",
     "Informatik/Master/Semester_02/Tasks.md",
     "Informatik/SG SHK/Tasks.md",
     "Informatik/SG SHK/Rückfragen.md",
@@ -246,7 +235,6 @@
     "Informatik/Master/Semester_02/Augmented Vision (6CP)/ToDo.md",
     "Informatik/Master/Semester_02/Advanced Data Management Systems (6CP)/ToDo.md",
     "Informatik/Master/Semester_02/Programmanalyse (6CP)",
-    "Informatik/Templates/default Template.md",
     "Informatik/Master/Semester_02/Human-Computer Interaction (3CP)",
     "Informatik/Master/Semester_02/TTU-KI (3CP)",
     "Informatik/Master/Semester_02/Augmented Vision (6CP)",
