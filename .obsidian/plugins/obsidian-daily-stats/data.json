@@ -76,12 +76,21 @@
     "2025/6/24": 6,
     "2025/7/21": 202,
     "2025/8/10": 5,
-    "2025/9/8": 18
+    "2025/9/8": 18,
+    "2025/9/14": 52
   },
   "todaysWordCount": {
     "Informatik/SG SHK/Tasks.md": {
-      "initial": 89,
-      "current": 107
+      "initial": 111,
+      "current": 111
+    },
+    "Informatik/SG SHK/Untitled.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Informatik/SG SHK/Questsystem Anforderungen.md": {
+      "initial": 0,
+      "current": 52
     }
   }
 }
