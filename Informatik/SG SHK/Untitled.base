@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    cardSize: 170
+    image: file.file
+    imageFit: ""
+    imageAspectRatio: 0.7
