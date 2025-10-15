@@ -23,6 +23,8 @@ Liest tutorial bool und startet entweder das Tutorial oder Teleportiert den Spie
 Hat QuestNotes denen bei BecameVisible unterschiedliche Materialien zugeordnet werden und eventuell ein Partikelsystem (fehler wenn alle quests fertig sind, sollte keins mehr vorgeschlagen werden)
 ## Quest Note
 Interactable und Speicherbar
-
+Hoverable gespeichert
+Bei Left down show Quest preview
+Gespeichert wird nur, ob es repeatable ist ?
 ## Quest Log
 leer?
