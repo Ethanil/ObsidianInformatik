@@ -6,7 +6,7 @@
 - [x] #SG-Arbeit Sport2 Feedback für liste anpassen ✅ 2025-05-27
 - [x] #SG-Arbeit Psych1 Feedback liste hat bei Raumgestaltung nur "punkte"? ❌ 2025-05-27
 - [x] #SG-Arbeit Minesweeper fixen ✅ 2025-05-27
-- [ ] #SG-Arbeit Zuordnungs aufgaben filtern
+- [ ] #SG-Arbeit Zuordnungs aufgaben filtern (Zuordnung hat selbes item mehrfach zur auswahl => nur einmal)
 - [x] #SG-Arbeit Packages erstellen ✅ 2025-10-14
 - [ ] #SG-Arbeit Shopitems erweitern
 - [ ] #SG-Arbeit Funnystuff integrieren (Geld verdienen)
