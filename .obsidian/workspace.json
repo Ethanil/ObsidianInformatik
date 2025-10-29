@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "327f946d087bcaa4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1f7c5d77b7ece813",
+  "active": "327f946d087bcaa4",
   "lastOpenFiles": [
     "Informatik/Master/Semester_02/Tasks.md",
     "Informatik/SG SHK/Tasks.md",
