@@ -29,3 +29,21 @@ die antwort wirkt für mich komisch, warum sollte man das darauf antworten, wenn
 Ich würde die spieler:in das sagen lassen:
 Super! Der Versuch war korrekt. Das waren 1,3 Meter. Wir brauchen noch einen weiteren gültigen Versuch.
 	 Okay, 1,3 Meter. Ich bin bereit für den nächsten Versuch.
+
+## Psych 1
+Bewertung für Raumvorbereitung
+Es gibt:
+- Soll zum Interview gebracht werden:
+	- Mikrofon
+	- Einverständniserklärung
+	- Flasche Wasser
+- Soll nicht zum Interview gebracht werden
+	- Locher
+	- Globus
+	- Haftnotizen
+	- Telefon (soll ausgeschaltet werden)
+	- Tacker
+	- Dekopflanze
+	- Kamera
+- Es gibt insgesamt 6 Jalousien, die runtergelassen werden sollen
+Wie soll dafür Punkte vergeben werden?
