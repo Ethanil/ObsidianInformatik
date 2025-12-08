@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Rückfragen"
             }
+          },
+          {
+            "id": "4d845a0c90b21139",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1f7c5d77b7ece813",
+  "active": "4d845a0c90b21139",
   "lastOpenFiles": [
     "Informatik/SG SHK/Tasks.md",
     "Informatik/Master/Semester_02/Tasks.md",
