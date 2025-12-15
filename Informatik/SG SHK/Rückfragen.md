@@ -47,3 +47,10 @@ Es gibt:
 	- Kamera
 - Es gibt insgesamt 6 Jalousien, die runtergelassen werden sollen
 Wie soll dafür Punkte vergeben werden?
+
+### Audios
+nicht nutzbar, da viele absätze in einem:
+- 1_01
+- 1_07
+- 1_10
+- 2_01
