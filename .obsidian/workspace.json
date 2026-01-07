@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Rückfragen"
             }
+          },
+          {
+            "id": "19bb4467c52dd43c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1f7c5d77b7ece813",
+  "active": "19bb4467c52dd43c",
   "lastOpenFiles": [
     "Informatik/SG SHK/Rückfragen.md",
     "Informatik/SG SHK/Tasks.md",
