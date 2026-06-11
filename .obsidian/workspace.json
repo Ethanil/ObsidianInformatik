@@ -33,9 +33,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.1"
             }
+          },
+          {
+            "id": "faf3e75768c0cfd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -200,7 +214,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "19bb4467c52dd43c",
+  "active": "faf3e75768c0cfd6",
   "lastOpenFiles": [
     "Informatik/SG SHK/Rückfragen.md",
     "Informatik/SG SHK/Tasks.md",
